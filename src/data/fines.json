@@ -1,0 +1,69 @@
+{
+ "lastUpdated": null,
+ "note": "SAMPLE entries - amounts are NOT verified. Load verified figures from India Code (MV Act 1988 as amended 2019) and state notifications, then set verified:true.",
+ "items": [
+  {
+   "id": "f1",
+   "offence": "Driving without a valid licence",
+   "section": "Sec 181",
+   "penalty": "See MV Act 1988 as amended (verify)",
+   "vehicle": "All",
+   "sourceUrl": "https://indiacode.nic.in",
+   "verified": false
+  },
+  {
+   "id": "f2",
+   "offence": "Driving without a helmet (two-wheeler)",
+   "section": "Sec 129 / 194D",
+   "penalty": "See MV Act 1988 as amended (verify)",
+   "vehicle": "Two-wheeler",
+   "sourceUrl": "https://indiacode.nic.in",
+   "verified": false
+  },
+  {
+   "id": "f3",
+   "offence": "Driving without a seat belt",
+   "section": "Sec 194B",
+   "penalty": "See MV Act 1988 as amended (verify)",
+   "vehicle": "Car",
+   "sourceUrl": "https://indiacode.nic.in",
+   "verified": false
+  },
+  {
+   "id": "f4",
+   "offence": "Over-speeding",
+   "section": "Sec 183",
+   "penalty": "See MV Act 1988 as amended (verify)",
+   "vehicle": "All",
+   "sourceUrl": "https://indiacode.nic.in",
+   "verified": false
+  },
+  {
+   "id": "f5",
+   "offence": "Drunken driving",
+   "section": "Sec 185",
+   "penalty": "See MV Act 1988 as amended (verify)",
+   "vehicle": "All",
+   "sourceUrl": "https://indiacode.nic.in",
+   "verified": false
+  },
+  {
+   "id": "f6",
+   "offence": "Driving without insurance",
+   "section": "Sec 196",
+   "penalty": "See MV Act 1988 as amended (verify)",
+   "vehicle": "All",
+   "sourceUrl": "https://indiacode.nic.in",
+   "verified": false
+  },
+  {
+   "id": "f7",
+   "offence": "Failing to give way to emergency vehicles",
+   "section": "Sec 194E",
+   "penalty": "See MV Act 1988 as amended (verify)",
+   "vehicle": "All",
+   "sourceUrl": "https://indiacode.nic.in",
+   "verified": false
+  }
+ ]
+}

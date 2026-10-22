@@ -1,0 +1,132 @@
+[
+ {
+  "code": "DL",
+  "name": "Delhi",
+  "llTest": {
+   "questionCount": 20,
+   "passMark": 12,
+   "secondsPerQuestion": 30,
+   "optionsPerQuestion": 4
+  },
+  "notes": "PLACEHOLDER values for development. Confirm the current question count, pass mark and timing on the official Parivahan/Sarathi portal before relying on them.",
+  "sourceUrl": "https://sarathi.parivahan.gov.in",
+  "verified": false
+ },
+ {
+  "code": "MH",
+  "name": "Maharashtra",
+  "llTest": {
+   "questionCount": 15,
+   "passMark": 9,
+   "secondsPerQuestion": 30,
+   "optionsPerQuestion": 4
+  },
+  "notes": "PLACEHOLDER values for development. Confirm the current question count, pass mark and timing on the official Parivahan/Sarathi portal before relying on them.",
+  "sourceUrl": "https://sarathi.parivahan.gov.in",
+  "verified": false
+ },
+ {
+  "code": "KA",
+  "name": "Karnataka",
+  "llTest": {
+   "questionCount": 20,
+   "passMark": 12,
+   "secondsPerQuestion": 30,
+   "optionsPerQuestion": 4
+  },
+  "notes": "PLACEHOLDER values for development. Confirm the current question count, pass mark and timing on the official Parivahan/Sarathi portal before relying on them.",
+  "sourceUrl": "https://sarathi.parivahan.gov.in",
+  "verified": false
+ },
+ {
+  "code": "TN",
+  "name": "Tamil Nadu",
+  "llTest": {
+   "questionCount": 20,
+   "passMark": 12,
+   "secondsPerQuestion": 30,
+   "optionsPerQuestion": 4
+  },
+  "notes": "PLACEHOLDER values for development. Confirm the current question count, pass mark and timing on the official Parivahan/Sarathi portal before relying on them.",
+  "sourceUrl": "https://sarathi.parivahan.gov.in",
+  "verified": false
+ },
+ {
+  "code": "UP",
+  "name": "Uttar Pradesh",
+  "llTest": {
+   "questionCount": 20,
+   "passMark": 12,
+   "secondsPerQuestion": 30,
+   "optionsPerQuestion": 4
+  },
+  "notes": "PLACEHOLDER values for development. Confirm the current question count, pass mark and timing on the official Parivahan/Sarathi portal before relying on them.",
+  "sourceUrl": "https://sarathi.parivahan.gov.in",
+  "verified": false
+ },
+ {
+  "code": "GJ",
+  "name": "Gujarat",
+  "llTest": {
+   "questionCount": 15,
+   "passMark": 9,
+   "secondsPerQuestion": 30,
+   "optionsPerQuestion": 4
+  },
+  "notes": "PLACEHOLDER values for development. Confirm the current question count, pass mark and timing on the official Parivahan/Sarathi portal before relying on them.",
+  "sourceUrl": "https://sarathi.parivahan.gov.in",
+  "verified": false
+ },
+ {
+  "code": "WB",
+  "name": "West Bengal",
+  "llTest": {
+   "questionCount": 15,
+   "passMark": 9,
+   "secondsPerQuestion": 30,
+   "optionsPerQuestion": 4
+  },
+  "notes": "PLACEHOLDER values for development. Confirm the current question count, pass mark and timing on the official Parivahan/Sarathi portal before relying on them.",
+  "sourceUrl": "https://sarathi.parivahan.gov.in",
+  "verified": false
+ },
+ {
+  "code": "RJ",
+  "name": "Rajasthan",
+  "llTest": {
+   "questionCount": 20,
+   "passMark": 12,
+   "secondsPerQuestion": 30,
+   "optionsPerQuestion": 4
+  },
+  "notes": "PLACEHOLDER values for development. Confirm the current question count, pass mark and timing on the official Parivahan/Sarathi portal before relying on them.",
+  "sourceUrl": "https://sarathi.parivahan.gov.in",
+  "verified": false
+ },
+ {
+  "code": "TS",
+  "name": "Telangana",
+  "llTest": {
+   "questionCount": 20,
+   "passMark": 12,
+   "secondsPerQuestion": 30,
+   "optionsPerQuestion": 4
+  },
+  "notes": "PLACEHOLDER values for development. Confirm the current question count, pass mark and timing on the official Parivahan/Sarathi portal before relying on them.",
+  "sourceUrl": "https://sarathi.parivahan.gov.in",
+  "verified": false
+ },
+ {
+  "code": "default",
+  "name": "Other state / UT (generic)",
+  "llTest": {
+   "questionCount": 15,
+   "passMark": 9,
+   "secondsPerQuestion": 30,
+   "optionsPerQuestion": 4
+  },
+  "notes": "PLACEHOLDER values for development. Confirm the current question count, pass mark and timing on the official Parivahan/Sarathi portal before relying on them.",
+  "sourceUrl": "https://sarathi.parivahan.gov.in",
+  "verified": false
+ }
+]

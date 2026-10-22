@@ -1,0 +1,676 @@
+[
+ {
+  "id": "q-signals-001",
+  "topic": "Hand signals",
+  "unit": "signals",
+  "lessonId": "sig-1",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "To signal a right turn by hand, you extend your right arm:",
+  "options": [
+   "Horizontally, palm facing forward",
+   "Straight down",
+   "Pointing upward",
+   "Rotating anti-clockwise"
+  ],
+  "correctAnswer": 0,
+  "explanation": "A right turn is signalled by extending the right arm horizontally out of the window.",
+  "languages": {
+   "en": {
+    "question": "To signal a right turn by hand, you extend your right arm:",
+    "options": [
+     "Horizontally, palm facing forward",
+     "Straight down",
+     "Pointing upward",
+     "Rotating anti-clockwise"
+    ],
+    "explanation": "A right turn is signalled by extending the right arm horizontally out of the window."
+   },
+   "hi": {
+    "question": "हाथ से दाएँ मुड़ने का संकेत देने के लिए आप दायाँ हाथ कैसे फैलाते हैं?",
+    "options": [
+     "क्षैतिज, हथेली आगे की ओर",
+     "सीधा नीचे",
+     "ऊपर की ओर",
+     "वामावर्त घुमाते हुए"
+    ],
+    "explanation": "दाएँ मुड़ने का संकेत दायाँ हाथ खिड़की से बाहर क्षैतिज फैलाकर दिया जाता है।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "ruleRef": "Rules of the Road Regulations 2017 - signals",
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signals-002",
+  "topic": "Hand signals",
+  "unit": "signals",
+  "lessonId": "sig-1",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "Moving the right arm up and down signals that you intend to:",
+  "options": [
+   "Slow down or stop",
+   "Turn left",
+   "Turn right",
+   "Overtake"
+  ],
+  "correctAnswer": 0,
+  "explanation": "The up-and-down arm movement indicates slowing down or stopping.",
+  "languages": {
+   "en": {
+    "question": "Moving the right arm up and down signals that you intend to:",
+    "options": [
+     "Slow down or stop",
+     "Turn left",
+     "Turn right",
+     "Overtake"
+    ],
+    "explanation": "The up-and-down arm movement indicates slowing down or stopping."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signals-003",
+  "topic": "Indicators",
+  "unit": "signals",
+  "lessonId": "sig-1",
+  "type": "true-false",
+  "difficulty": 1,
+  "question": "You should signal your intention in good time before turning or changing lanes.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Early signalling lets others respond safely.",
+  "languages": {
+   "en": {
+    "question": "You should signal your intention in good time before turning or changing lanes.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "explanation": "Early signalling lets others respond safely."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signals-004",
+  "topic": "Indicators",
+  "unit": "signals",
+  "lessonId": "sig-1",
+  "type": "true-false",
+  "difficulty": 1,
+  "question": "Once you have turned, you can leave your indicator on for the rest of the journey.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Cancel the indicator after the manoeuvre so you do not mislead other road users.",
+  "languages": {
+   "en": {
+    "question": "Once you have turned, you can leave your indicator on for the rest of the journey.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "explanation": "Cancel the indicator after the manoeuvre so you do not mislead other road users."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signals-005",
+  "topic": "Hand signals",
+  "unit": "signals",
+  "lessonId": "sig-1",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "An anticlockwise circular motion of the right arm signals that you intend to:",
+  "options": [
+   "Turn left",
+   "Turn right",
+   "Stop",
+   "Reverse"
+  ],
+  "correctAnswer": 0,
+  "explanation": "This is the traditional hand signal for a left turn.",
+  "languages": {
+   "en": {
+    "question": "An anticlockwise circular motion of the right arm signals that you intend to:",
+    "options": [
+     "Turn left",
+     "Turn right",
+     "Stop",
+     "Reverse"
+    ],
+    "explanation": "This is the traditional hand signal for a left turn."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signals-006",
+  "topic": "Indicators",
+  "unit": "signals",
+  "lessonId": "sig-1",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "Hazard (four-way) lamps should be used:",
+  "options": [
+   "When your vehicle is a temporary hazard, e.g. breakdown",
+   "While overtaking",
+   "At all junctions",
+   "In heavy rain only"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Use hazard lights to warn others when your vehicle is stationary or obstructing traffic unavoidably.",
+  "languages": {
+   "en": {
+    "question": "Hazard (four-way) lamps should be used:",
+    "options": [
+     "When your vehicle is a temporary hazard, e.g. breakdown",
+     "While overtaking",
+     "At all junctions",
+     "In heavy rain only"
+    ],
+    "explanation": "Use hazard lights to warn others when your vehicle is stationary or obstructing traffic unavoidably."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signals-007",
+  "topic": "Markings",
+  "unit": "signals",
+  "lessonId": "sig-2",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "A solid white line along the centre of the road means:",
+  "options": [
+   "Do not cross it",
+   "You may cross freely",
+   "Parking allowed",
+   "Speed limit ends"
+  ],
+  "correctAnswer": 0,
+  "explanation": "A continuous centre line must not be crossed (or straddled).",
+  "languages": {
+   "en": {
+    "question": "A solid white line along the centre of the road means:",
+    "options": [
+     "Do not cross it",
+     "You may cross freely",
+     "Parking allowed",
+     "Speed limit ends"
+    ],
+    "explanation": "A continuous centre line must not be crossed (or straddled)."
+   },
+   "hi": {
+    "question": "सड़क के बीच में ठोस सफेद रेखा का अर्थ है:",
+    "options": [
+     "इसे पार न करें",
+     "इसे आराम से पार कर सकते हैं",
+     "पार्किंग की अनुमति",
+     "गति सीमा समाप्त"
+    ],
+    "explanation": "ठोस केंद्र रेखा को पार नहीं करना चाहिए।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signals-008",
+  "topic": "Markings",
+  "unit": "signals",
+  "lessonId": "sig-2",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "A broken (dashed) white centre line means:",
+  "options": [
+   "You may cross it when safe",
+   "Never cross",
+   "Road is closed",
+   "Stop"
+  ],
+  "correctAnswer": 0,
+  "explanation": "A broken line may be crossed to overtake when it is safe.",
+  "languages": {
+   "en": {
+    "question": "A broken (dashed) white centre line means:",
+    "options": [
+     "You may cross it when safe",
+     "Never cross",
+     "Road is closed",
+     "Stop"
+    ],
+    "explanation": "A broken line may be crossed to overtake when it is safe."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signals-009",
+  "topic": "Markings",
+  "unit": "signals",
+  "lessonId": "sig-2",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "Where should you stop at a signal or stop sign with a stop line marked?",
+  "options": [
+   "Behind the stop line",
+   "On the line",
+   "Past the line",
+   "Anywhere"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Stop behind the line so pedestrians and cross traffic are not obstructed.",
+  "languages": {
+   "en": {
+    "question": "Where should you stop at a signal or stop sign with a stop line marked?",
+    "options": [
+     "Behind the stop line",
+     "On the line",
+     "Past the line",
+     "Anywhere"
+    ],
+    "explanation": "Stop behind the line so pedestrians and cross traffic are not obstructed."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signals-010",
+  "topic": "Markings",
+  "unit": "signals",
+  "lessonId": "sig-2",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "Wide white stripes across the road parallel to traffic mark a:",
+  "options": [
+   "Pedestrian (zebra) crossing",
+   "Parking area",
+   "Speed breaker only",
+   "Overtaking zone"
+  ],
+  "correctAnswer": 0,
+  "explanation": "This is a zebra crossing; pedestrians have priority.",
+  "languages": {
+   "en": {
+    "question": "Wide white stripes across the road parallel to traffic mark a:",
+    "options": [
+     "Pedestrian (zebra) crossing",
+     "Parking area",
+     "Speed breaker only",
+     "Overtaking zone"
+    ],
+    "explanation": "This is a zebra crossing; pedestrians have priority."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signals-011",
+  "topic": "Markings",
+  "unit": "signals",
+  "lessonId": "sig-2",
+  "type": "true-false",
+  "difficulty": 1,
+  "question": "You may stop on a zebra crossing if the signal ahead is red and the queue is long.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Keep zebra crossings clear; stop behind the stop line.",
+  "languages": {
+   "en": {
+    "question": "You may stop on a zebra crossing if the signal ahead is red and the queue is long.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "explanation": "Keep zebra crossings clear; stop behind the stop line."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signals-012",
+  "topic": "Traffic lights",
+  "unit": "signals",
+  "lessonId": "sig-3",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "A steady red traffic light means:",
+  "options": [
+   "Stop behind the stop line",
+   "Slow down",
+   "Proceed with caution",
+   "Turn left freely"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Red means stop and wait behind the line.",
+  "languages": {
+   "en": {
+    "question": "A steady red traffic light means:",
+    "options": [
+     "Stop behind the stop line",
+     "Slow down",
+     "Proceed with caution",
+     "Turn left freely"
+    ],
+    "explanation": "Red means stop and wait behind the line."
+   },
+   "hi": {
+    "question": "ट्रैफिक लाइट में स्थिर लाल बत्ती का अर्थ है:",
+    "options": [
+     "स्टॉप लाइन के पीछे रुकें",
+     "धीमे हों",
+     "सावधानी से आगे बढ़ें",
+     "बाएँ आराम से मुड़ें"
+    ],
+    "explanation": "लाल का अर्थ है रुकें और लाइन के पीछे प्रतीक्षा करें।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signals-013",
+  "topic": "Traffic lights",
+  "unit": "signals",
+  "lessonId": "sig-3",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "A steady amber (yellow) light means:",
+  "options": [
+   "Prepare to stop",
+   "Speed up",
+   "Go",
+   "Reverse"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Amber warns that the signal is about to turn red; stop if you can do so safely.",
+  "languages": {
+   "en": {
+    "question": "A steady amber (yellow) light means:",
+    "options": [
+     "Prepare to stop",
+     "Speed up",
+     "Go",
+     "Reverse"
+    ],
+    "explanation": "Amber warns that the signal is about to turn red; stop if you can do so safely."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signals-014",
+  "topic": "Traffic lights",
+  "unit": "signals",
+  "lessonId": "sig-3",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "A flashing amber light means:",
+  "options": [
+   "Proceed with caution",
+   "Stop",
+   "Speed up",
+   "Road closed"
+  ],
+  "correctAnswer": 0,
+  "explanation": "A flashing amber requires caution; give way as needed.",
+  "languages": {
+   "en": {
+    "question": "A flashing amber light means:",
+    "options": [
+     "Proceed with caution",
+     "Stop",
+     "Speed up",
+     "Road closed"
+    ],
+    "explanation": "A flashing amber requires caution; give way as needed."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signals-015",
+  "topic": "Lights",
+  "unit": "signals",
+  "lessonId": "sig-3",
+  "type": "true-false",
+  "difficulty": 1,
+  "question": "You should dip your headlights when meeting oncoming traffic at night.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correctAnswer": 0,
+  "explanation": "High beam can dazzle oncoming drivers.",
+  "languages": {
+   "en": {
+    "question": "You should dip your headlights when meeting oncoming traffic at night.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "explanation": "High beam can dazzle oncoming drivers."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signals-016",
+  "topic": "Horn",
+  "unit": "signals",
+  "lessonId": "sig-3",
+  "type": "true-false",
+  "difficulty": 1,
+  "question": "Using the horn is permitted in silence zones near hospitals.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Silence zones prohibit unnecessary horn use.",
+  "languages": {
+   "en": {
+    "question": "Using the horn is permitted in silence zones near hospitals.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "explanation": "Silence zones prohibit unnecessary horn use."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signals-017",
+  "topic": "Lights",
+  "unit": "signals",
+  "lessonId": "sig-3",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "At night, you should switch on:",
+  "options": [
+   "Headlamps and tail lamps",
+   "Only the indicator",
+   "Only hazard lamps",
+   "No lamps if road is lit"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Use proper lighting between sunset and sunrise and in poor visibility.",
+  "languages": {
+   "en": {
+    "question": "At night, you should switch on:",
+    "options": [
+     "Headlamps and tail lamps",
+     "Only the indicator",
+     "Only hazard lamps",
+     "No lamps if road is lit"
+    ],
+    "explanation": "Use proper lighting between sunset and sunrise and in poor visibility."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ }
+]

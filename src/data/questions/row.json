@@ -1,0 +1,795 @@
+[
+ {
+  "id": "q-row-001",
+  "topic": "Junctions",
+  "unit": "row",
+  "lessonId": "row-1",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "In India vehicles are driven on which side of the road?",
+  "options": [
+   "Left",
+   "Right",
+   "Centre",
+   "Either"
+  ],
+  "correctAnswer": 0,
+  "explanation": "India follows left-hand traffic: keep to the left.",
+  "languages": {
+   "en": {
+    "question": "In India vehicles are driven on which side of the road?",
+    "options": [
+     "Left",
+     "Right",
+     "Centre",
+     "Either"
+    ],
+    "explanation": "India follows left-hand traffic: keep to the left."
+   },
+   "hi": {
+    "question": "भारत में वाहन सड़क के किस ओर चलाए जाते हैं?",
+    "options": [
+     "बाईं ओर",
+     "दाईं ओर",
+     "बीच में",
+     "किसी भी ओर"
+    ],
+    "explanation": "भारत में बाएँ हाथ का यातायात है: बाईं ओर चलें।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-row-002",
+  "topic": "Roundabouts",
+  "unit": "row",
+  "lessonId": "row-1",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "At a roundabout you should give way to:",
+  "options": [
+   "Traffic already on the roundabout",
+   "Traffic entering after you",
+   "Only buses",
+   "Nobody"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Traffic already circulating has priority; give way before entering.",
+  "languages": {
+   "en": {
+    "question": "At a roundabout you should give way to:",
+    "options": [
+     "Traffic already on the roundabout",
+     "Traffic entering after you",
+     "Only buses",
+     "Nobody"
+    ],
+    "explanation": "Traffic already circulating has priority; give way before entering."
+   },
+   "hi": {
+    "question": "गोलचक्कर पर आपको किसे रास्ता देना चाहिए?",
+    "options": [
+     "गोलचक्कर पर पहले से चल रहे यातायात को",
+     "आपके बाद प्रवेश करने वाले को",
+     "केवल बसों को",
+     "किसी को नहीं"
+    ],
+    "explanation": "पहले से चल रहे यातायात की प्राथमिकता होती है; प्रवेश से पहले रास्ता दें।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "ruleRef": "Rules of the Road Regulations 2017 - roundabouts",
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-row-003",
+  "topic": "Junctions",
+  "unit": "row",
+  "lessonId": "row-1",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "You are on a minor road joining a main road. You should:",
+  "options": [
+   "Give way to traffic on the main road",
+   "Expect the main road to give way",
+   "Speed up and merge",
+   "Stop only at night"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Traffic on the main road has priority over vehicles joining from a minor road.",
+  "languages": {
+   "en": {
+    "question": "You are on a minor road joining a main road. You should:",
+    "options": [
+     "Give way to traffic on the main road",
+     "Expect the main road to give way",
+     "Speed up and merge",
+     "Stop only at night"
+    ],
+    "explanation": "Traffic on the main road has priority over vehicles joining from a minor road."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-row-004",
+  "topic": "Junctions",
+  "unit": "row",
+  "lessonId": "row-1",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "When turning right at a junction, you must give way to:",
+  "options": [
+   "Oncoming traffic going straight",
+   "Nobody",
+   "Only pedestrians",
+   "Vehicles behind you"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Oncoming traffic going straight ahead has priority over a vehicle turning across its path.",
+  "languages": {
+   "en": {
+    "question": "When turning right at a junction, you must give way to:",
+    "options": [
+     "Oncoming traffic going straight",
+     "Nobody",
+     "Only pedestrians",
+     "Vehicles behind you"
+    ],
+    "explanation": "Oncoming traffic going straight ahead has priority over a vehicle turning across its path."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-row-005",
+  "topic": "Hills",
+  "unit": "row",
+  "lessonId": "row-1",
+  "type": "true-false",
+  "difficulty": 1,
+  "question": "On a narrow hill road, the vehicle going downhill should give way to the vehicle going uphill.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correctAnswer": 0,
+  "explanation": "The uphill vehicle has more difficulty restarting, so the descending vehicle should give way.",
+  "languages": {
+   "en": {
+    "question": "On a narrow hill road, the vehicle going downhill should give way to the vehicle going uphill.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "explanation": "The uphill vehicle has more difficulty restarting, so the descending vehicle should give way."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-row-006",
+  "topic": "Junctions",
+  "unit": "row",
+  "lessonId": "row-1",
+  "type": "true-false",
+  "difficulty": 1,
+  "question": "You may enter a junction even if your exit is blocked and you would obstruct cross traffic.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Do not enter a junction unless your exit is clear, to avoid blocking other traffic.",
+  "languages": {
+   "en": {
+    "question": "You may enter a junction even if your exit is blocked and you would obstruct cross traffic.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "explanation": "Do not enter a junction unless your exit is clear, to avoid blocking other traffic."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-row-007",
+  "topic": "Junctions",
+  "unit": "row",
+  "lessonId": "row-1",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "At an unmarked crossing where two roads of equal importance meet, the safest approach is to:",
+  "options": [
+   "Slow down, look both ways and give way as required",
+   "Honk and go",
+   "Accelerate",
+   "Stop and wait for the other to leave without looking"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Approach slowly, observe, and give way as required by the rules and traffic conditions.",
+  "languages": {
+   "en": {
+    "question": "At an unmarked crossing where two roads of equal importance meet, the safest approach is to:",
+    "options": [
+     "Slow down, look both ways and give way as required",
+     "Honk and go",
+     "Accelerate",
+     "Stop and wait for the other to leave without looking"
+    ],
+    "explanation": "Approach slowly, observe, and give way as required by the rules and traffic conditions."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-row-008",
+  "topic": "Pedestrians",
+  "unit": "row",
+  "lessonId": "row-2",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "A pedestrian is crossing at a zebra crossing. You should:",
+  "options": [
+   "Stop and let them cross",
+   "Honk to hurry them",
+   "Drive around quickly",
+   "Flash headlights and proceed"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Pedestrians on a zebra crossing have priority; stop and give way.",
+  "languages": {
+   "en": {
+    "question": "A pedestrian is crossing at a zebra crossing. You should:",
+    "options": [
+     "Stop and let them cross",
+     "Honk to hurry them",
+     "Drive around quickly",
+     "Flash headlights and proceed"
+    ],
+    "explanation": "Pedestrians on a zebra crossing have priority; stop and give way."
+   },
+   "hi": {
+    "question": "ज़ेब्रा क्रॉसिंग पर एक पैदल यात्री सड़क पार कर रहा है। आपको क्या करना चाहिए?",
+    "options": [
+     "रुककर उसे पार करने दें",
+     "उसे जल्दी करने के लिए हॉर्न बजाएँ",
+     "तेजी से बगल से निकल जाएँ",
+     "लाइट चमकाकर आगे बढ़ें"
+    ],
+    "explanation": "ज़ेब्रा क्रॉसिंग पर पैदल यात्री को प्राथमिकता होती है; रुकें और रास्ता दें।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-row-009",
+  "topic": "Pedestrians",
+  "unit": "row",
+  "lessonId": "row-2",
+  "type": "true-false",
+  "difficulty": 1,
+  "question": "You may overtake a vehicle that has stopped at a zebra crossing to let pedestrians cross.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Never overtake a vehicle stopped at a crossing; a pedestrian may be hidden from your view.",
+  "languages": {
+   "en": {
+    "question": "You may overtake a vehicle that has stopped at a zebra crossing to let pedestrians cross.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "explanation": "Never overtake a vehicle stopped at a crossing; a pedestrian may be hidden from your view."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-row-010",
+  "topic": "Pedestrians",
+  "unit": "row",
+  "lessonId": "row-2",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "You see a person with a white cane waiting to cross. You should:",
+  "options": [
+   "Stop and give way",
+   "Honk loudly",
+   "Pass closely",
+   "Ignore"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Give way to visually impaired pedestrians and give them plenty of time.",
+  "languages": {
+   "en": {
+    "question": "You see a person with a white cane waiting to cross. You should:",
+    "options": [
+     "Stop and give way",
+     "Honk loudly",
+     "Pass closely",
+     "Ignore"
+    ],
+    "explanation": "Give way to visually impaired pedestrians and give them plenty of time."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-row-011",
+  "topic": "Pedestrians",
+  "unit": "row",
+  "lessonId": "row-2",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "Near a school at closing time you should:",
+  "options": [
+   "Drive slowly and be ready to stop",
+   "Maintain speed",
+   "Use the horn continuously",
+   "Overtake"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Children are unpredictable; slow down and be prepared to stop.",
+  "languages": {
+   "en": {
+    "question": "Near a school at closing time you should:",
+    "options": [
+     "Drive slowly and be ready to stop",
+     "Maintain speed",
+     "Use the horn continuously",
+     "Overtake"
+    ],
+    "explanation": "Children are unpredictable; slow down and be prepared to stop."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-row-012",
+  "topic": "Pedestrians",
+  "unit": "row",
+  "lessonId": "row-2",
+  "type": "true-false",
+  "difficulty": 1,
+  "question": "It is permitted to park on a pedestrian crossing if you stay in the vehicle.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Parking or stopping on a pedestrian crossing is not allowed; it blocks pedestrians.",
+  "languages": {
+   "en": {
+    "question": "It is permitted to park on a pedestrian crossing if you stay in the vehicle.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "explanation": "Parking or stopping on a pedestrian crossing is not allowed; it blocks pedestrians."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-row-013",
+  "topic": "Pedestrians",
+  "unit": "row",
+  "lessonId": "row-2",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "When turning at a junction where pedestrians are crossing the road you are entering, you should:",
+  "options": [
+   "Give way to the pedestrians",
+   "Expect them to give way",
+   "Honk",
+   "Speed up"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Pedestrians already crossing should be allowed to complete the crossing.",
+  "languages": {
+   "en": {
+    "question": "When turning at a junction where pedestrians are crossing the road you are entering, you should:",
+    "options": [
+     "Give way to the pedestrians",
+     "Expect them to give way",
+     "Honk",
+     "Speed up"
+    ],
+    "explanation": "Pedestrians already crossing should be allowed to complete the crossing."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-row-014",
+  "topic": "Emergencies",
+  "unit": "row",
+  "lessonId": "row-3",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "An ambulance with a siren approaches from behind. You should:",
+  "options": [
+   "Pull to the left and let it pass",
+   "Speed up",
+   "Stay in the middle",
+   "Stop suddenly in the middle of the road"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Give way to emergency vehicles by moving safely to the left and slowing or stopping if needed.",
+  "languages": {
+   "en": {
+    "question": "An ambulance with a siren approaches from behind. You should:",
+    "options": [
+     "Pull to the left and let it pass",
+     "Speed up",
+     "Stay in the middle",
+     "Stop suddenly in the middle of the road"
+    ],
+    "explanation": "Give way to emergency vehicles by moving safely to the left and slowing or stopping if needed."
+   },
+   "hi": {
+    "question": "पीछे से सायरन बजाती एम्बुलेंस आ रही है। आपको क्या करना चाहिए?",
+    "options": [
+     "बाईं ओर होकर उसे निकलने दें",
+     "गति बढ़ाएँ",
+     "बीच सड़क पर रहें",
+     "अचानक बीच सड़क में रुकें"
+    ],
+    "explanation": "आपातकालीन वाहनों को रास्ता दें: सुरक्षित रूप से बाईं ओर होकर धीमे हों या ज़रूरत हो तो रुकें।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-row-015",
+  "topic": "Overtaking",
+  "unit": "row",
+  "lessonId": "row-3",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "Normally you should overtake a vehicle on its:",
+  "options": [
+   "Right side",
+   "Left side",
+   "Either side freely",
+   "Footpath side"
+  ],
+  "correctAnswer": 0,
+  "explanation": "In left-hand traffic you normally overtake on the right, unless the vehicle ahead is turning right or other exceptions apply.",
+  "languages": {
+   "en": {
+    "question": "Normally you should overtake a vehicle on its:",
+    "options": [
+     "Right side",
+     "Left side",
+     "Either side freely",
+     "Footpath side"
+    ],
+    "explanation": "In left-hand traffic you normally overtake on the right, unless the vehicle ahead is turning right or other exceptions apply."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-row-016",
+  "topic": "Overtaking",
+  "unit": "row",
+  "lessonId": "row-3",
+  "type": "true-false",
+  "difficulty": 1,
+  "question": "Overtaking on a curve or bend is safe if you honk.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Do not overtake on bends, near crests or where your view ahead is not clear.",
+  "languages": {
+   "en": {
+    "question": "Overtaking on a curve or bend is safe if you honk.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "explanation": "Do not overtake on bends, near crests or where your view ahead is not clear."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-row-017",
+  "topic": "Overtaking",
+  "unit": "row",
+  "lessonId": "row-3",
+  "type": "true-false",
+  "difficulty": 1,
+  "question": "A driver being overtaken should not increase speed.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Increasing speed makes overtaking dangerous; allow the overtaking vehicle to pass.",
+  "languages": {
+   "en": {
+    "question": "A driver being overtaken should not increase speed.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "explanation": "Increasing speed makes overtaking dangerous; allow the overtaking vehicle to pass."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-row-018",
+  "topic": "Following",
+  "unit": "row",
+  "lessonId": "row-3",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "The safest way to follow another vehicle is to:",
+  "options": [
+   "Keep a safe distance",
+   "Stay very close",
+   "Use high beam",
+   "Honk repeatedly"
+  ],
+  "correctAnswer": 0,
+  "explanation": "A safe gap gives you time to react and stop.",
+  "languages": {
+   "en": {
+    "question": "The safest way to follow another vehicle is to:",
+    "options": [
+     "Keep a safe distance",
+     "Stay very close",
+     "Use high beam",
+     "Honk repeatedly"
+    ],
+    "explanation": "A safe gap gives you time to react and stop."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-row-019",
+  "topic": "Overtaking",
+  "unit": "row",
+  "lessonId": "row-3",
+  "type": "true-false",
+  "difficulty": 1,
+  "question": "You may overtake near a pedestrian crossing.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Overtaking near crossings is dangerous and generally prohibited.",
+  "languages": {
+   "en": {
+    "question": "You may overtake near a pedestrian crossing.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "explanation": "Overtaking near crossings is dangerous and generally prohibited."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-row-020",
+  "topic": "Emergencies",
+  "unit": "row",
+  "lessonId": "row-3",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "A fire engine is approaching with its bell or siren. You must:",
+  "options": [
+   "Give way",
+   "Race it",
+   "Block the lane",
+   "Ignore it"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Emergency vehicles on duty must be given priority.",
+  "languages": {
+   "en": {
+    "question": "A fire engine is approaching with its bell or siren. You must:",
+    "options": [
+     "Give way",
+     "Race it",
+     "Block the lane",
+     "Ignore it"
+    ],
+    "explanation": "Emergency vehicles on duty must be given priority."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ }
+]

@@ -1,0 +1,179 @@
+[
+ {
+  "id": "signs",
+  "title": "Road Signs",
+  "title_hi": "सड़क चिह्न",
+  "icon": "🛑",
+  "color": "#0f9d94",
+  "available": true,
+  "lessons": [
+   {
+    "id": "signs-1",
+    "title": "Mandatory signs",
+    "title_hi": "अनिवार्य चिह्न",
+    "checkpoint": false,
+    "perSession": 8
+   },
+   {
+    "id": "signs-2",
+    "title": "Cautionary signs",
+    "title_hi": "सावधानी चिह्न",
+    "checkpoint": false,
+    "perSession": 8
+   },
+   {
+    "id": "signs-3",
+    "title": "Informatory signs",
+    "title_hi": "सूचना चिह्न",
+    "checkpoint": false,
+    "perSession": 8
+   },
+   {
+    "id": "signs-cp",
+    "title": "Unit checkpoint",
+    "title_hi": "यूनिट चेकपॉइंट",
+    "checkpoint": true,
+    "perSession": 10
+   }
+  ]
+ },
+ {
+  "id": "row",
+  "title": "Right of Way",
+  "title_hi": "रास्ते का अधिकार",
+  "icon": "🔀",
+  "color": "#f5a000",
+  "available": true,
+  "lessons": [
+   {
+    "id": "row-1",
+    "title": "Junctions & roundabouts",
+    "title_hi": "चौराहे और गोलचक्कर",
+    "checkpoint": false,
+    "perSession": 8
+   },
+   {
+    "id": "row-2",
+    "title": "Pedestrians & crossings",
+    "title_hi": "पैदल यात्री और क्रॉसिंग",
+    "checkpoint": false,
+    "perSession": 8
+   },
+   {
+    "id": "row-3",
+    "title": "Overtaking & emergencies",
+    "title_hi": "ओवरटेकिंग और आपातकाल",
+    "checkpoint": false,
+    "perSession": 8
+   },
+   {
+    "id": "row-cp",
+    "title": "Unit checkpoint",
+    "title_hi": "यूनिट चेकपॉइंट",
+    "checkpoint": true,
+    "perSession": 10
+   }
+  ]
+ },
+ {
+  "id": "signals",
+  "title": "Signals & Markings",
+  "title_hi": "संकेत और मार्किंग",
+  "icon": "🚦",
+  "color": "#e0566b",
+  "available": true,
+  "lessons": [
+   {
+    "id": "sig-1",
+    "title": "Hand signals & indicators",
+    "title_hi": "हाथ के संकेत",
+    "checkpoint": false,
+    "perSession": 8
+   },
+   {
+    "id": "sig-2",
+    "title": "Road markings",
+    "title_hi": "सड़क की मार्किंग",
+    "checkpoint": false,
+    "perSession": 8
+   },
+   {
+    "id": "sig-3",
+    "title": "Traffic lights, lamps & horn",
+    "title_hi": "ट्रैफिक लाइट, लाइट और हॉर्न",
+    "checkpoint": false,
+    "perSession": 8
+   },
+   {
+    "id": "sig-cp",
+    "title": "Unit checkpoint",
+    "title_hi": "यूनिट चेकपॉइंट",
+    "checkpoint": true,
+    "perSession": 10
+   }
+  ]
+ },
+ {
+  "id": "speed",
+  "title": "Speed & Overtaking",
+  "title_hi": "गति और ओवरटेकिंग",
+  "icon": "🏎",
+  "color": "#7a8b94",
+  "available": false,
+  "lessons": []
+ },
+ {
+  "id": "parking",
+  "title": "Parking",
+  "title_hi": "पार्किंग",
+  "icon": "🅿",
+  "color": "#7a8b94",
+  "available": false,
+  "lessons": []
+ },
+ {
+  "id": "docs",
+  "title": "Documents & Insurance",
+  "title_hi": "दस्तावेज़ और बीमा",
+  "icon": "📄",
+  "color": "#7a8b94",
+  "available": false,
+  "lessons": []
+ },
+ {
+  "id": "fines",
+  "title": "Fines & Penalties",
+  "title_hi": "जुर्माने और दंड",
+  "icon": "💸",
+  "color": "#7a8b94",
+  "available": false,
+  "lessons": []
+ },
+ {
+  "id": "safe",
+  "title": "Safe Driving",
+  "title_hi": "सुरक्षित ड्राइविंग",
+  "icon": "🛡",
+  "color": "#7a8b94",
+  "available": false,
+  "lessons": []
+ },
+ {
+  "id": "firstaid",
+  "title": "First Aid & Accidents",
+  "title_hi": "प्राथमिक उपचार और दुर्घटना",
+  "icon": "⛑",
+  "color": "#7a8b94",
+  "available": false,
+  "lessons": []
+ },
+ {
+  "id": "vehicle",
+  "title": "Vehicle Basics",
+  "title_hi": "वाहन की बुनियादी बातें",
+  "icon": "🔧",
+  "color": "#7a8b94",
+  "available": false,
+  "lessons": []
+ }
+]

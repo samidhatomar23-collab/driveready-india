@@ -1,0 +1,2433 @@
+[
+ {
+  "id": "q-signs-001",
+  "topic": "Mandatory signs",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "Which shape do most mandatory (regulatory) road signs have?",
+  "options": [
+   "Circular",
+   "Triangular",
+   "Rectangular",
+   "Diamond"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Most mandatory signs are circular with a red border. Stop (octagon) and Give Way (inverted triangle) are the main exceptions.",
+  "languages": {
+   "en": {
+    "question": "Which shape do most mandatory (regulatory) road signs have?",
+    "options": [
+     "Circular",
+     "Triangular",
+     "Rectangular",
+     "Diamond"
+    ],
+    "explanation": "Most mandatory signs are circular with a red border. Stop (octagon) and Give Way (inverted triangle) are the main exceptions."
+   },
+   "hi": {
+    "question": "अधिकांश अनिवार्य (नियामक) चिह्न किस आकार के होते हैं?",
+    "options": [
+     "गोलाकार",
+     "त्रिकोणीय",
+     "आयताकार",
+     "समचतुर्भुज"
+    ],
+    "explanation": "अधिकांश अनिवार्य चिह्न लाल किनारे वाले गोल होते हैं। स्टॉप (अष्टभुज) और रास्ता दें (उल्टा त्रिकोण) अपवाद हैं।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "ruleRef": "MV Act 1988, First Schedule",
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-002",
+  "topic": "Mandatory signs",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "true-false",
+  "difficulty": 1,
+  "question": "The STOP sign is octagonal (eight-sided).",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correctAnswer": 0,
+  "explanation": "STOP is the only octagonal road sign.",
+  "languages": {
+   "en": {
+    "question": "The STOP sign is octagonal (eight-sided).",
+    "options": [
+     "True",
+     "False"
+    ],
+    "explanation": "STOP is the only octagonal road sign."
+   },
+   "hi": {
+    "question": "स्टॉप चिह्न अष्टभुजाकार (आठ भुजाओं वाला) होता है।",
+    "options": [
+     "सही",
+     "गलत"
+    ],
+    "explanation": "स्टॉप ही एकमात्र अष्टभुजाकार चिह्न है।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-003",
+  "topic": "Mandatory signs",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "true-false",
+  "difficulty": 1,
+  "question": "The Give Way sign is an upward-pointing triangle.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correctAnswer": 1,
+  "explanation": "The Give Way sign is an inverted (downward-pointing) triangle. Upward-pointing triangles are cautionary signs.",
+  "languages": {
+   "en": {
+    "question": "The Give Way sign is an upward-pointing triangle.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "explanation": "The Give Way sign is an inverted (downward-pointing) triangle. Upward-pointing triangles are cautionary signs."
+   },
+   "hi": {
+    "question": "रास्ता दें चिह्न ऊपर की ओर नुकीला त्रिकोण होता है।",
+    "options": [
+     "सही",
+     "गलत"
+    ],
+    "explanation": "रास्ता दें चिह्न उल्टा (नीचे की ओर नुकीला) त्रिकोण होता है। ऊपर नुकीले त्रिकोण सावधानी चिह्न होते हैं।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-004",
+  "topic": "Mandatory signs",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "What must you do at a STOP sign?",
+  "options": [
+   "Slow down and continue if clear",
+   "Come to a complete halt, then go when safe",
+   "Honk and proceed",
+   "Stop only if other vehicles are present"
+  ],
+  "correctAnswer": 1,
+  "explanation": "A STOP sign requires a complete halt at the stop line every time, whether or not other traffic is visible.",
+  "languages": {
+   "en": {
+    "question": "What must you do at a STOP sign?",
+    "options": [
+     "Slow down and continue if clear",
+     "Come to a complete halt, then go when safe",
+     "Honk and proceed",
+     "Stop only if other vehicles are present"
+    ],
+    "explanation": "A STOP sign requires a complete halt at the stop line every time, whether or not other traffic is visible."
+   },
+   "hi": {
+    "question": "स्टॉप चिह्न पर आपको क्या करना चाहिए?",
+    "options": [
+     "धीमे होकर रास्ता साफ हो तो निकल जाएँ",
+     "पूरी तरह रुकें, फिर सुरक्षित होने पर चलें",
+     "हॉर्न बजाकर निकल जाएँ",
+     "केवल तभी रुकें जब दूसरे वाहन हों"
+    ],
+    "explanation": "स्टॉप चिह्न पर हर बार स्टॉप लाइन पर पूरी तरह रुकना आवश्यक है, चाहे दूसरा यातायात दिखे या नहीं।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-005",
+  "topic": "Mandatory signs",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "A \"Speed Limit 40\" sign tells you that:",
+  "options": [
+   "40 km/h is the minimum speed",
+   "40 km/h is the maximum speed",
+   "40 km/h is the recommended speed only",
+   "The road ends in 40 metres"
+  ],
+  "correctAnswer": 1,
+  "explanation": "A speed limit sign gives the maximum permitted speed.",
+  "languages": {
+   "en": {
+    "question": "A \"Speed Limit 40\" sign tells you that:",
+    "options": [
+     "40 km/h is the minimum speed",
+     "40 km/h is the maximum speed",
+     "40 km/h is the recommended speed only",
+     "The road ends in 40 metres"
+    ],
+    "explanation": "A speed limit sign gives the maximum permitted speed."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-006",
+  "topic": "Mandatory signs",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "true-false",
+  "difficulty": 1,
+  "question": "A No Entry sign means vehicles must not enter from that direction.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correctAnswer": 0,
+  "explanation": "No Entry prohibits vehicles from entering the road from the direction of the sign.",
+  "languages": {
+   "en": {
+    "question": "A No Entry sign means vehicles must not enter from that direction.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "explanation": "No Entry prohibits vehicles from entering the road from the direction of the sign."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-007",
+  "topic": "Mandatory signs",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "What does a circular sign with a red cross over an arrow pair indicate?",
+  "options": [
+   "Overtaking is allowed",
+   "Overtaking is prohibited",
+   "Two-way traffic ahead",
+   "Parking ahead"
+  ],
+  "correctAnswer": 1,
+  "explanation": "The No Overtaking sign prohibits overtaking other vehicles.",
+  "languages": {
+   "en": {
+    "question": "What does a circular sign with a red cross over an arrow pair indicate?",
+    "options": [
+     "Overtaking is allowed",
+     "Overtaking is prohibited",
+     "Two-way traffic ahead",
+     "Parking ahead"
+    ],
+    "explanation": "The No Overtaking sign prohibits overtaking other vehicles."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-008",
+  "topic": "Mandatory signs",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "A blue circular sign with a white arrow pointing up means:",
+  "options": [
+   "Go straight ahead only",
+   "Road ends ahead",
+   "Speed limit",
+   "One-way road ends"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Blue circular signs are compulsory instructions; the up arrow is \"Ahead Only\".",
+  "languages": {
+   "en": {
+    "question": "A blue circular sign with a white arrow pointing up means:",
+    "options": [
+     "Go straight ahead only",
+     "Road ends ahead",
+     "Speed limit",
+     "One-way road ends"
+    ],
+    "explanation": "Blue circular signs are compulsory instructions; the up arrow is \"Ahead Only\"."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-009",
+  "topic": "Cautionary signs",
+  "unit": "signs",
+  "lessonId": "signs-2",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "Cautionary (warning) signs are usually which shape?",
+  "options": [
+   "Circular",
+   "Triangular with point upward",
+   "Octagonal",
+   "Square"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Cautionary signs warn of hazards and are generally upward-pointing triangles with a red border.",
+  "languages": {
+   "en": {
+    "question": "Cautionary (warning) signs are usually which shape?",
+    "options": [
+     "Circular",
+     "Triangular with point upward",
+     "Octagonal",
+     "Square"
+    ],
+    "explanation": "Cautionary signs warn of hazards and are generally upward-pointing triangles with a red border."
+   },
+   "hi": {
+    "question": "सावधानी (चेतावनी) चिह्न आमतौर पर किस आकार के होते हैं?",
+    "options": [
+     "गोलाकार",
+     "ऊपर की ओर नुकीला त्रिकोण",
+     "अष्टभुज",
+     "वर्गाकार"
+    ],
+    "explanation": "सावधानी चिह्न खतरे की चेतावनी देते हैं और आमतौर पर लाल किनारे वाले, ऊपर नुकीले त्रिकोण होते हैं।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-010",
+  "topic": "Cautionary signs",
+  "unit": "signs",
+  "lessonId": "signs-2",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "You see a \"School Ahead\" sign. You should:",
+  "options": [
+   "Maintain speed",
+   "Slow down and be ready to stop",
+   "Sound the horn continuously",
+   "Overtake quickly"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Near schools children may enter the road suddenly; reduce speed and be ready to stop.",
+  "languages": {
+   "en": {
+    "question": "You see a \"School Ahead\" sign. You should:",
+    "options": [
+     "Maintain speed",
+     "Slow down and be ready to stop",
+     "Sound the horn continuously",
+     "Overtake quickly"
+    ],
+    "explanation": "Near schools children may enter the road suddenly; reduce speed and be ready to stop."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-011",
+  "topic": "Cautionary signs",
+  "unit": "signs",
+  "lessonId": "signs-2",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "A \"Slippery Road\" sign warns you to:",
+  "options": [
+   "Reduce speed and avoid sudden braking",
+   "Increase speed",
+   "Use high beam",
+   "Stop immediately"
+  ],
+  "correctAnswer": 0,
+  "explanation": "On slippery surfaces sudden braking or steering can cause skidding.",
+  "languages": {
+   "en": {
+    "question": "A \"Slippery Road\" sign warns you to:",
+    "options": [
+     "Reduce speed and avoid sudden braking",
+     "Increase speed",
+     "Use high beam",
+     "Stop immediately"
+    ],
+    "explanation": "On slippery surfaces sudden braking or steering can cause skidding."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-012",
+  "topic": "Cautionary signs",
+  "unit": "signs",
+  "lessonId": "signs-2",
+  "type": "true-false",
+  "difficulty": 1,
+  "question": "A \"Cattle\" sign means animals may be crossing, so you should slow down.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Cattle signs warn that animals may be on or crossing the road.",
+  "languages": {
+   "en": {
+    "question": "A \"Cattle\" sign means animals may be crossing, so you should slow down.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "explanation": "Cattle signs warn that animals may be on or crossing the road."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-013",
+  "topic": "Cautionary signs",
+  "unit": "signs",
+  "lessonId": "signs-2",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "A \"Narrow Bridge\" sign means:",
+  "options": [
+   "Bridge is closed",
+   "Bridge ahead is narrow; slow down and give way if required",
+   "Only two-wheelers allowed",
+   "Speed up to cross quickly"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Slow down and be ready to give way to oncoming vehicles on narrow bridges.",
+  "languages": {
+   "en": {
+    "question": "A \"Narrow Bridge\" sign means:",
+    "options": [
+     "Bridge is closed",
+     "Bridge ahead is narrow; slow down and give way if required",
+     "Only two-wheelers allowed",
+     "Speed up to cross quickly"
+    ],
+    "explanation": "Slow down and be ready to give way to oncoming vehicles on narrow bridges."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-014",
+  "topic": "Cautionary signs",
+  "unit": "signs",
+  "lessonId": "signs-2",
+  "type": "true-false",
+  "difficulty": 1,
+  "question": "A \"Men at Work\" sign means you may drive at normal speed.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Road works are hazardous: slow down and follow any instructions of workers.",
+  "languages": {
+   "en": {
+    "question": "A \"Men at Work\" sign means you may drive at normal speed.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "explanation": "Road works are hazardous: slow down and follow any instructions of workers."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-015",
+  "topic": "Informatory signs",
+  "unit": "signs",
+  "lessonId": "signs-3",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "Informatory signs are generally which shape?",
+  "options": [
+   "Rectangular",
+   "Triangular",
+   "Circular",
+   "Octagonal"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Informatory signs give information such as parking, hospitals and fuel and are generally rectangular.",
+  "languages": {
+   "en": {
+    "question": "Informatory signs are generally which shape?",
+    "options": [
+     "Rectangular",
+     "Triangular",
+     "Circular",
+     "Octagonal"
+    ],
+    "explanation": "Informatory signs give information such as parking, hospitals and fuel and are generally rectangular."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-016",
+  "topic": "Informatory signs",
+  "unit": "signs",
+  "lessonId": "signs-3",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "A rectangular sign with a white \"P\" on blue indicates:",
+  "options": [
+   "No parking",
+   "Parking place",
+   "Police post",
+   "Petrol pump"
+  ],
+  "correctAnswer": 1,
+  "explanation": "A white \"P\" on blue marks a place where parking is permitted.",
+  "languages": {
+   "en": {
+    "question": "A rectangular sign with a white \"P\" on blue indicates:",
+    "options": [
+     "No parking",
+     "Parking place",
+     "Police post",
+     "Petrol pump"
+    ],
+    "explanation": "A white \"P\" on blue marks a place where parking is permitted."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-017",
+  "topic": "Informatory signs",
+  "unit": "signs",
+  "lessonId": "signs-3",
+  "type": "true-false",
+  "difficulty": 1,
+  "question": "Near a hospital sign you should avoid unnecessary use of the horn.",
+  "options": [
+   "True",
+   "False"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Hospitals are silence zones; avoid honking.",
+  "languages": {
+   "en": {
+    "question": "Near a hospital sign you should avoid unnecessary use of the horn.",
+    "options": [
+     "True",
+     "False"
+    ],
+    "explanation": "Hospitals are silence zones; avoid honking."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-018",
+  "topic": "Informatory signs",
+  "unit": "signs",
+  "lessonId": "signs-3",
+  "type": "mcq",
+  "difficulty": 1,
+  "question": "Which sign tells you that medical help is available nearby?",
+  "options": [
+   "First Aid Post",
+   "Resting Place",
+   "Eating Place",
+   "Telephone"
+  ],
+  "correctAnswer": 0,
+  "explanation": "The First Aid Post sign shows where basic medical help is available.",
+  "languages": {
+   "en": {
+    "question": "Which sign tells you that medical help is available nearby?",
+    "options": [
+     "First Aid Post",
+     "Resting Place",
+     "Eating Place",
+     "Telephone"
+    ],
+    "explanation": "The First Aid Post sign shows where basic medical help is available."
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://indiacode.nic.in",
+  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-019",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "No U-Turn",
+   "No Horn",
+   "No Entry",
+   "Stop"
+  ],
+  "correctAnswer": 3,
+  "explanation": "Come to a complete halt at the stop line, then proceed only when safe.",
+  "imageRef": "stop",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "No U-Turn",
+     "No Horn",
+     "No Entry",
+     "Stop"
+    ],
+    "explanation": "Come to a complete halt at the stop line, then proceed only when safe."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "यू-टर्न निषेध",
+     "हॉर्न बजाना मना",
+     "प्रवेश निषेध",
+     "रुकें"
+    ],
+    "explanation": "स्टॉप लाइन पर पूरी तरह रुकें और सुरक्षित होने पर ही आगे बढ़ें।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-020",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "Compulsory Turn Left",
+   "No Horn",
+   "No Overtaking",
+   "Give Way"
+  ],
+  "correctAnswer": 3,
+  "explanation": "Slow down and give way to traffic on the road you are entering.",
+  "imageRef": "give-way",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "Compulsory Turn Left",
+     "No Horn",
+     "No Overtaking",
+     "Give Way"
+    ],
+    "explanation": "Slow down and give way to traffic on the road you are entering."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "बाएँ मुड़ें (अनिवार्य)",
+     "हॉर्न बजाना मना",
+     "ओवरटेक करना मना",
+     "रास्ता दें"
+    ],
+    "explanation": "धीमे हों और जिस सड़क पर जा रहे हैं उस पर यातायात को रास्ता दें।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-021",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "No Left Turn",
+   "No Entry",
+   "No U-Turn",
+   "No Parking"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Vehicles must not enter from this direction.",
+  "imageRef": "no-entry",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "No Left Turn",
+     "No Entry",
+     "No U-Turn",
+     "No Parking"
+    ],
+    "explanation": "Vehicles must not enter from this direction."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "बाएँ मुड़ना मना",
+     "प्रवेश निषेध",
+     "यू-टर्न निषेध",
+     "पार्किंग निषेध"
+    ],
+    "explanation": "इस दिशा से वाहनों का प्रवेश मना है।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-022",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "No Horn",
+   "No Parking",
+   "No U-Turn",
+   "Stop"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Parking is prohibited here.",
+  "imageRef": "no-parking",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "No Horn",
+     "No Parking",
+     "No U-Turn",
+     "Stop"
+    ],
+    "explanation": "Parking is prohibited here."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "हॉर्न बजाना मना",
+     "पार्किंग निषेध",
+     "यू-टर्न निषेध",
+     "रुकें"
+    ],
+    "explanation": "यहाँ पार्किंग मना है।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-023",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "No Entry",
+   "Compulsory Turn Left",
+   "No Overtaking",
+   "No Right Turn"
+  ],
+  "correctAnswer": 2,
+  "explanation": "Overtaking other vehicles is prohibited.",
+  "imageRef": "no-overtaking",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "No Entry",
+     "Compulsory Turn Left",
+     "No Overtaking",
+     "No Right Turn"
+    ],
+    "explanation": "Overtaking other vehicles is prohibited."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "प्रवेश निषेध",
+     "बाएँ मुड़ें (अनिवार्य)",
+     "ओवरटेक करना मना",
+     "दाएँ मुड़ना मना"
+    ],
+    "explanation": "दूसरे वाहनों को ओवरटेक करना मना है।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-024",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "Stop",
+   "No Left Turn",
+   "No Right Turn",
+   "Speed Limit 40"
+  ],
+  "correctAnswer": 3,
+  "explanation": "Do not exceed 40 km/h.",
+  "imageRef": "speed-40",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "Stop",
+     "No Left Turn",
+     "No Right Turn",
+     "Speed Limit 40"
+    ],
+    "explanation": "Do not exceed 40 km/h."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "रुकें",
+     "बाएँ मुड़ना मना",
+     "दाएँ मुड़ना मना",
+     "गति सीमा 40"
+    ],
+    "explanation": "40 किमी/घंटा से अधिक गति न रखें।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-025",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "Ahead Only",
+   "No Left Turn",
+   "Speed Limit 40",
+   "No Horn"
+  ],
+  "correctAnswer": 3,
+  "explanation": "Sounding the horn is prohibited.",
+  "imageRef": "no-horn",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "Ahead Only",
+     "No Left Turn",
+     "Speed Limit 40",
+     "No Horn"
+    ],
+    "explanation": "Sounding the horn is prohibited."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "केवल सीधे",
+     "बाएँ मुड़ना मना",
+     "गति सीमा 40",
+     "हॉर्न बजाना मना"
+    ],
+    "explanation": "हॉर्न बजाना मना है।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-026",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "No U-Turn",
+   "No Overtaking",
+   "No Left Turn",
+   "No Right Turn"
+  ],
+  "correctAnswer": 0,
+  "explanation": "U-turns are prohibited.",
+  "imageRef": "no-u-turn",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "No U-Turn",
+     "No Overtaking",
+     "No Left Turn",
+     "No Right Turn"
+    ],
+    "explanation": "U-turns are prohibited."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "यू-टर्न निषेध",
+     "ओवरटेक करना मना",
+     "बाएँ मुड़ना मना",
+     "दाएँ मुड़ना मना"
+    ],
+    "explanation": "यू-टर्न लेना मना है।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-027",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "No Right Turn",
+   "No Left Turn",
+   "No Entry",
+   "Speed Limit 40"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Right turns are prohibited.",
+  "imageRef": "no-right-turn",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "No Right Turn",
+     "No Left Turn",
+     "No Entry",
+     "Speed Limit 40"
+    ],
+    "explanation": "Right turns are prohibited."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "दाएँ मुड़ना मना",
+     "बाएँ मुड़ना मना",
+     "प्रवेश निषेध",
+     "गति सीमा 40"
+    ],
+    "explanation": "दाएँ मुड़ना मना है।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-028",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "No Left Turn",
+   "Ahead Only",
+   "Stop",
+   "No Parking"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Left turns are prohibited.",
+  "imageRef": "no-left-turn",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "No Left Turn",
+     "Ahead Only",
+     "Stop",
+     "No Parking"
+    ],
+    "explanation": "Left turns are prohibited."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "बाएँ मुड़ना मना",
+     "केवल सीधे",
+     "रुकें",
+     "पार्किंग निषेध"
+    ],
+    "explanation": "बाएँ मुड़ना मना है।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-029",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "Ahead Only",
+   "Stop",
+   "Compulsory Turn Left",
+   "No Left Turn"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Vehicles must go straight ahead only.",
+  "imageRef": "ahead-only",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "Ahead Only",
+     "Stop",
+     "Compulsory Turn Left",
+     "No Left Turn"
+    ],
+    "explanation": "Vehicles must go straight ahead only."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "केवल सीधे",
+     "रुकें",
+     "बाएँ मुड़ें (अनिवार्य)",
+     "बाएँ मुड़ना मना"
+    ],
+    "explanation": "वाहन केवल सीधे जाएँ।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-030",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "Compulsory Turn Left",
+   "No Right Turn",
+   "No U-Turn",
+   "Ahead Only"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Vehicles must turn left.",
+  "imageRef": "turn-left",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "Compulsory Turn Left",
+     "No Right Turn",
+     "No U-Turn",
+     "Ahead Only"
+    ],
+    "explanation": "Vehicles must turn left."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "बाएँ मुड़ें (अनिवार्य)",
+     "दाएँ मुड़ना मना",
+     "यू-टर्न निषेध",
+     "केवल सीधे"
+    ],
+    "explanation": "वाहन को बाएँ मुड़ना अनिवार्य है।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-031",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-2",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "Left Hairpin Bend",
+   "Cattle",
+   "T-Junction",
+   "Men at Work"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Sharp bend to the left ahead; slow down.",
+  "imageRef": "hairpin-left",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "Left Hairpin Bend",
+     "Cattle",
+     "T-Junction",
+     "Men at Work"
+    ],
+    "explanation": "Sharp bend to the left ahead; slow down."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "बाएँ तीखा मोड़",
+     "मवेशी",
+     "टी-चौराहा",
+     "काम चालू है"
+    ],
+    "explanation": "आगे बाएँ तीखा मोड़ है; गति धीमी करें।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-032",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-2",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "Narrow Bridge",
+   "Men at Work",
+   "Left Hairpin Bend",
+   "Cattle"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Bridge ahead is narrow; slow down and give way if needed.",
+  "imageRef": "narrow-bridge",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "Narrow Bridge",
+     "Men at Work",
+     "Left Hairpin Bend",
+     "Cattle"
+    ],
+    "explanation": "Bridge ahead is narrow; slow down and give way if needed."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "संकरा पुल",
+     "काम चालू है",
+     "बाएँ तीखा मोड़",
+     "मवेशी"
+    ],
+    "explanation": "आगे संकरा पुल है; धीमे चलें और ज़रूरत हो तो रास्ता दें।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-033",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-2",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "Left Hairpin Bend",
+   "School Ahead",
+   "Pedestrian Crossing",
+   "Men at Work"
+  ],
+  "correctAnswer": 1,
+  "explanation": "School nearby; expect children, slow down.",
+  "imageRef": "school-ahead",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "Left Hairpin Bend",
+     "School Ahead",
+     "Pedestrian Crossing",
+     "Men at Work"
+    ],
+    "explanation": "School nearby; expect children, slow down."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "बाएँ तीखा मोड़",
+     "आगे स्कूल है",
+     "पैदल पारपथ",
+     "काम चालू है"
+    ],
+    "explanation": "पास में स्कूल है; बच्चों की आशंका, धीमे चलें।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-034",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-2",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "Left Hairpin Bend",
+   "Pedestrian Crossing",
+   "School Ahead",
+   "Narrow Bridge"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Pedestrian crossing ahead; be ready to stop.",
+  "imageRef": "pedestrian-crossing",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "Left Hairpin Bend",
+     "Pedestrian Crossing",
+     "School Ahead",
+     "Narrow Bridge"
+    ],
+    "explanation": "Pedestrian crossing ahead; be ready to stop."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "बाएँ तीखा मोड़",
+     "पैदल पारपथ",
+     "आगे स्कूल है",
+     "संकरा पुल"
+    ],
+    "explanation": "आगे पैदल पारपथ है; रुकने के लिए तैयार रहें।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-035",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-2",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "Narrow Bridge",
+   "Roundabout",
+   "T-Junction",
+   "Men at Work"
+  ],
+  "correctAnswer": 3,
+  "explanation": "Road works ahead; slow down and be careful.",
+  "imageRef": "men-at-work",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "Narrow Bridge",
+     "Roundabout",
+     "T-Junction",
+     "Men at Work"
+    ],
+    "explanation": "Road works ahead; slow down and be careful."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "संकरा पुल",
+     "गोलचक्कर",
+     "टी-चौराहा",
+     "काम चालू है"
+    ],
+    "explanation": "आगे सड़क का काम चल रहा है; सावधानी से धीमे चलें।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-036",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-2",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "Narrow Bridge",
+   "Men at Work",
+   "Cattle",
+   "Roundabout"
+  ],
+  "correctAnswer": 2,
+  "explanation": "Animals may be on the road; slow down.",
+  "imageRef": "cattle",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "Narrow Bridge",
+     "Men at Work",
+     "Cattle",
+     "Roundabout"
+    ],
+    "explanation": "Animals may be on the road; slow down."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "संकरा पुल",
+     "काम चालू है",
+     "मवेशी",
+     "गोलचक्कर"
+    ],
+    "explanation": "सड़क पर पशु हो सकते हैं; धीमे चलें।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-037",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-2",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "Narrow Bridge",
+   "Cattle",
+   "Slippery Road",
+   "Pedestrian Crossing"
+  ],
+  "correctAnswer": 2,
+  "explanation": "Road may be slippery; reduce speed, avoid sudden braking.",
+  "imageRef": "slippery-road",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "Narrow Bridge",
+     "Cattle",
+     "Slippery Road",
+     "Pedestrian Crossing"
+    ],
+    "explanation": "Road may be slippery; reduce speed, avoid sudden braking."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "संकरा पुल",
+     "मवेशी",
+     "फिसलन भरी सड़क",
+     "पैदल पारपथ"
+    ],
+    "explanation": "सड़क फिसलन भरी हो सकती है; गति कम करें, अचानक ब्रेक न लगाएँ।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-038",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-2",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "Narrow Bridge",
+   "Men at Work",
+   "Roundabout",
+   "School Ahead"
+  ],
+  "correctAnswer": 2,
+  "explanation": "Roundabout ahead; slow down and give way to traffic already on it.",
+  "imageRef": "roundabout",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "Narrow Bridge",
+     "Men at Work",
+     "Roundabout",
+     "School Ahead"
+    ],
+    "explanation": "Roundabout ahead; slow down and give way to traffic already on it."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "संकरा पुल",
+     "काम चालू है",
+     "गोलचक्कर",
+     "आगे स्कूल है"
+    ],
+    "explanation": "आगे गोलचक्कर है; धीमे हों और उस पर पहले से चल रहे यातायात को रास्ता दें।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-039",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-2",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "Narrow Bridge",
+   "T-Junction",
+   "Left Hairpin Bend",
+   "School Ahead"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Road ends at a T-junction ahead.",
+  "imageRef": "t-junction",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "Narrow Bridge",
+     "T-Junction",
+     "Left Hairpin Bend",
+     "School Ahead"
+    ],
+    "explanation": "Road ends at a T-junction ahead."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "संकरा पुल",
+     "टी-चौराहा",
+     "बाएँ तीखा मोड़",
+     "आगे स्कूल है"
+    ],
+    "explanation": "आगे सड़क टी-चौराहे पर समाप्त होती है।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-040",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-3",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "Hospital",
+   "Parking",
+   "Resting Place",
+   "Petrol Pump"
+  ],
+  "correctAnswer": 1,
+  "explanation": "A designated parking place.",
+  "imageRef": "parking",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "Hospital",
+     "Parking",
+     "Resting Place",
+     "Petrol Pump"
+    ],
+    "explanation": "A designated parking place."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "अस्पताल",
+     "पार्किंग",
+     "विश्राम स्थल",
+     "पेट्रोल पंप"
+    ],
+    "explanation": "यह निर्धारित पार्किंग स्थान है।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-041",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-3",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "Resting Place",
+   "Telephone",
+   "Hospital",
+   "First Aid Post"
+  ],
+  "correctAnswer": 2,
+  "explanation": "A hospital is nearby; drive quietly, avoid horn.",
+  "imageRef": "hospital",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "Resting Place",
+     "Telephone",
+     "Hospital",
+     "First Aid Post"
+    ],
+    "explanation": "A hospital is nearby; drive quietly, avoid horn."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "विश्राम स्थल",
+     "टेलीफोन",
+     "अस्पताल",
+     "प्राथमिक उपचार केंद्र"
+    ],
+    "explanation": "पास में अस्पताल है; शांति से चलाएँ, हॉर्न न बजाएँ।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-042",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-3",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "Eating Place",
+   "Hospital",
+   "Petrol Pump",
+   "First Aid Post"
+  ],
+  "correctAnswer": 2,
+  "explanation": "Fuel station ahead.",
+  "imageRef": "petrol-pump",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "Eating Place",
+     "Hospital",
+     "Petrol Pump",
+     "First Aid Post"
+    ],
+    "explanation": "Fuel station ahead."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "भोजनालय",
+     "अस्पताल",
+     "पेट्रोल पंप",
+     "प्राथमिक उपचार केंद्र"
+    ],
+    "explanation": "आगे ईंधन स्टेशन है।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-043",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-3",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "Eating Place",
+   "Petrol Pump",
+   "Parking",
+   "First Aid Post"
+  ],
+  "correctAnswer": 3,
+  "explanation": "First aid is available here.",
+  "imageRef": "first-aid",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "Eating Place",
+     "Petrol Pump",
+     "Parking",
+     "First Aid Post"
+    ],
+    "explanation": "First aid is available here."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "भोजनालय",
+     "पेट्रोल पंप",
+     "पार्किंग",
+     "प्राथमिक उपचार केंद्र"
+    ],
+    "explanation": "यहाँ प्राथमिक उपचार उपलब्ध है।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-044",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-3",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "First Aid Post",
+   "Petrol Pump",
+   "Parking",
+   "Telephone"
+  ],
+  "correctAnswer": 3,
+  "explanation": "A public telephone is available.",
+  "imageRef": "telephone",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "First Aid Post",
+     "Petrol Pump",
+     "Parking",
+     "Telephone"
+    ],
+    "explanation": "A public telephone is available."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "प्राथमिक उपचार केंद्र",
+     "पेट्रोल पंप",
+     "पार्किंग",
+     "टेलीफोन"
+    ],
+    "explanation": "यहाँ सार्वजनिक टेलीफोन उपलब्ध है।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-045",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-3",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "Resting Place",
+   "Eating Place",
+   "Hospital",
+   "First Aid Post"
+  ],
+  "correctAnswer": 1,
+  "explanation": "Food is available nearby.",
+  "imageRef": "eating-place",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "Resting Place",
+     "Eating Place",
+     "Hospital",
+     "First Aid Post"
+    ],
+    "explanation": "Food is available nearby."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "विश्राम स्थल",
+     "भोजनालय",
+     "अस्पताल",
+     "प्राथमिक उपचार केंद्र"
+    ],
+    "explanation": "पास में भोजन उपलब्ध है।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-046",
+  "topic": "Sign identification",
+  "unit": "signs",
+  "lessonId": "signs-3",
+  "type": "sign-id",
+  "difficulty": 1,
+  "question": "What does this sign mean?",
+  "options": [
+   "Telephone",
+   "Resting Place",
+   "First Aid Post",
+   "Parking"
+  ],
+  "correctAnswer": 1,
+  "explanation": "A place to rest is nearby.",
+  "imageRef": "resting-place",
+  "languages": {
+   "en": {
+    "question": "What does this sign mean?",
+    "options": [
+     "Telephone",
+     "Resting Place",
+     "First Aid Post",
+     "Parking"
+    ],
+    "explanation": "A place to rest is nearby."
+   },
+   "hi": {
+    "question": "यह चिह्न क्या दर्शाता है?",
+    "options": [
+     "टेलीफोन",
+     "विश्राम स्थल",
+     "प्राथमिक उपचार केंद्र",
+     "पार्किंग"
+    ],
+    "explanation": "पास में विश्राम स्थल है।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-047",
+  "topic": "Match signs",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "match",
+  "difficulty": 1,
+  "question": "Match each sign to its meaning",
+  "options": [],
+  "correctAnswer": "pairs",
+  "pairs": [
+   [
+    "sign:no-overtaking",
+    "No Overtaking"
+   ],
+   [
+    "sign:ahead-only",
+    "Ahead Only"
+   ],
+   [
+    "sign:no-horn",
+    "No Horn"
+   ],
+   [
+    "sign:no-left-turn",
+    "No Left Turn"
+   ]
+  ],
+  "explanation": "No Overtaking: Overtaking other vehicles is prohibited. Ahead Only: Vehicles must go straight ahead only. No Horn: Sounding the horn is prohibited. No Left Turn: Left turns are prohibited.",
+  "languages": {
+   "en": {
+    "question": "Match each sign to its meaning",
+    "options": [],
+    "explanation": "No Overtaking: Overtaking other vehicles is prohibited. Ahead Only: Vehicles must go straight ahead only. No Horn: Sounding the horn is prohibited. No Left Turn: Left turns are prohibited."
+   },
+   "hi": {
+    "question": "प्रत्येक चिह्न को उसके अर्थ से मिलाएँ",
+    "explanation": "ओवरटेक करना मना: दूसरे वाहनों को ओवरटेक करना मना है। केवल सीधे: वाहन केवल सीधे जाएँ। हॉर्न बजाना मना: हॉर्न बजाना मना है। बाएँ मुड़ना मना: बाएँ मुड़ना मना है।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-048",
+  "topic": "Match signs",
+  "unit": "signs",
+  "lessonId": "signs-1",
+  "type": "match",
+  "difficulty": 1,
+  "question": "Match each sign to its meaning",
+  "options": [],
+  "correctAnswer": "pairs",
+  "pairs": [
+   [
+    "sign:no-u-turn",
+    "No U-Turn"
+   ],
+   [
+    "sign:no-left-turn",
+    "No Left Turn"
+   ],
+   [
+    "sign:give-way",
+    "Give Way"
+   ],
+   [
+    "sign:speed-40",
+    "Speed Limit 40"
+   ]
+  ],
+  "explanation": "No U-Turn: U-turns are prohibited. No Left Turn: Left turns are prohibited. Give Way: Slow down and give way to traffic on the road you are entering. Speed Limit 40: Do not exceed 40 km/h.",
+  "languages": {
+   "en": {
+    "question": "Match each sign to its meaning",
+    "options": [],
+    "explanation": "No U-Turn: U-turns are prohibited. No Left Turn: Left turns are prohibited. Give Way: Slow down and give way to traffic on the road you are entering. Speed Limit 40: Do not exceed 40 km/h."
+   },
+   "hi": {
+    "question": "प्रत्येक चिह्न को उसके अर्थ से मिलाएँ",
+    "explanation": "यू-टर्न निषेध: यू-टर्न लेना मना है। बाएँ मुड़ना मना: बाएँ मुड़ना मना है। रास्ता दें: धीमे हों और जिस सड़क पर जा रहे हैं उस पर यातायात को रास्ता दें। गति सीमा 40: 40 किमी/घंटा से अधिक गति न रखें।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-049",
+  "topic": "Match signs",
+  "unit": "signs",
+  "lessonId": "signs-2",
+  "type": "match",
+  "difficulty": 1,
+  "question": "Match each sign to its meaning",
+  "options": [],
+  "correctAnswer": "pairs",
+  "pairs": [
+   [
+    "sign:pedestrian-crossing",
+    "Pedestrian Crossing"
+   ],
+   [
+    "sign:t-junction",
+    "T-Junction"
+   ],
+   [
+    "sign:men-at-work",
+    "Men at Work"
+   ],
+   [
+    "sign:slippery-road",
+    "Slippery Road"
+   ]
+  ],
+  "explanation": "Pedestrian Crossing: Pedestrian crossing ahead; be ready to stop. T-Junction: Road ends at a T-junction ahead. Men at Work: Road works ahead; slow down and be careful. Slippery Road: Road may be slippery; reduce speed, avoid sudden braking.",
+  "languages": {
+   "en": {
+    "question": "Match each sign to its meaning",
+    "options": [],
+    "explanation": "Pedestrian Crossing: Pedestrian crossing ahead; be ready to stop. T-Junction: Road ends at a T-junction ahead. Men at Work: Road works ahead; slow down and be careful. Slippery Road: Road may be slippery; reduce speed, avoid sudden braking."
+   },
+   "hi": {
+    "question": "प्रत्येक चिह्न को उसके अर्थ से मिलाएँ",
+    "explanation": "पैदल पारपथ: आगे पैदल पारपथ है; रुकने के लिए तैयार रहें। टी-चौराहा: आगे सड़क टी-चौराहे पर समाप्त होती है। काम चालू है: आगे सड़क का काम चल रहा है; सावधानी से धीमे चलें। फिसलन भरी सड़क: सड़क फिसलन भरी हो सकती है; गति कम करें, अचानक ब्रेक न लगाएँ।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-050",
+  "topic": "Match signs",
+  "unit": "signs",
+  "lessonId": "signs-2",
+  "type": "match",
+  "difficulty": 1,
+  "question": "Match each sign to its meaning",
+  "options": [],
+  "correctAnswer": "pairs",
+  "pairs": [
+   [
+    "sign:cattle",
+    "Cattle"
+   ],
+   [
+    "sign:roundabout",
+    "Roundabout"
+   ],
+   [
+    "sign:narrow-bridge",
+    "Narrow Bridge"
+   ],
+   [
+    "sign:pedestrian-crossing",
+    "Pedestrian Crossing"
+   ]
+  ],
+  "explanation": "Cattle: Animals may be on the road; slow down. Roundabout: Roundabout ahead; slow down and give way to traffic already on it. Narrow Bridge: Bridge ahead is narrow; slow down and give way if needed. Pedestrian Crossing: Pedestrian crossing ahead; be ready to stop.",
+  "languages": {
+   "en": {
+    "question": "Match each sign to its meaning",
+    "options": [],
+    "explanation": "Cattle: Animals may be on the road; slow down. Roundabout: Roundabout ahead; slow down and give way to traffic already on it. Narrow Bridge: Bridge ahead is narrow; slow down and give way if needed. Pedestrian Crossing: Pedestrian crossing ahead; be ready to stop."
+   },
+   "hi": {
+    "question": "प्रत्येक चिह्न को उसके अर्थ से मिलाएँ",
+    "explanation": "मवेशी: सड़क पर पशु हो सकते हैं; धीमे चलें। गोलचक्कर: आगे गोलचक्कर है; धीमे हों और उस पर पहले से चल रहे यातायात को रास्ता दें। संकरा पुल: आगे संकरा पुल है; धीमे चलें और ज़रूरत हो तो रास्ता दें। पैदल पारपथ: आगे पैदल पारपथ है; रुकने के लिए तैयार रहें।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-051",
+  "topic": "Match signs",
+  "unit": "signs",
+  "lessonId": "signs-3",
+  "type": "match",
+  "difficulty": 1,
+  "question": "Match each sign to its meaning",
+  "options": [],
+  "correctAnswer": "pairs",
+  "pairs": [
+   [
+    "sign:petrol-pump",
+    "Petrol Pump"
+   ],
+   [
+    "sign:resting-place",
+    "Resting Place"
+   ],
+   [
+    "sign:first-aid",
+    "First Aid Post"
+   ],
+   [
+    "sign:eating-place",
+    "Eating Place"
+   ]
+  ],
+  "explanation": "Petrol Pump: Fuel station ahead. Resting Place: A place to rest is nearby. First Aid Post: First aid is available here. Eating Place: Food is available nearby.",
+  "languages": {
+   "en": {
+    "question": "Match each sign to its meaning",
+    "options": [],
+    "explanation": "Petrol Pump: Fuel station ahead. Resting Place: A place to rest is nearby. First Aid Post: First aid is available here. Eating Place: Food is available nearby."
+   },
+   "hi": {
+    "question": "प्रत्येक चिह्न को उसके अर्थ से मिलाएँ",
+    "explanation": "पेट्रोल पंप: आगे ईंधन स्टेशन है। विश्राम स्थल: पास में विश्राम स्थल है। प्राथमिक उपचार केंद्र: यहाँ प्राथमिक उपचार उपलब्ध है। भोजनालय: पास में भोजन उपलब्ध है।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ },
+ {
+  "id": "q-signs-052",
+  "topic": "Match signs",
+  "unit": "signs",
+  "lessonId": "signs-3",
+  "type": "match",
+  "difficulty": 1,
+  "question": "Match each sign to its meaning",
+  "options": [],
+  "correctAnswer": "pairs",
+  "pairs": [
+   [
+    "sign:telephone",
+    "Telephone"
+   ],
+   [
+    "sign:eating-place",
+    "Eating Place"
+   ],
+   [
+    "sign:parking",
+    "Parking"
+   ],
+   [
+    "sign:petrol-pump",
+    "Petrol Pump"
+   ]
+  ],
+  "explanation": "Telephone: A public telephone is available. Eating Place: Food is available nearby. Parking: A designated parking place. Petrol Pump: Fuel station ahead.",
+  "languages": {
+   "en": {
+    "question": "Match each sign to its meaning",
+    "options": [],
+    "explanation": "Telephone: A public telephone is available. Eating Place: Food is available nearby. Parking: A designated parking place. Petrol Pump: Fuel station ahead."
+   },
+   "hi": {
+    "question": "प्रत्येक चिह्न को उसके अर्थ से मिलाएँ",
+    "explanation": "टेलीफोन: यहाँ सार्वजनिक टेलीफोन उपलब्ध है। भोजनालय: पास में भोजन उपलब्ध है। पार्किंग: यह निर्धारित पार्किंग स्थान है। पेट्रोल पंप: आगे ईंधन स्टेशन है।"
+   }
+  },
+  "applicableVehicleClasses": [
+   "all"
+  ],
+  "statesApplicable": [
+   "all"
+  ],
+  "sourceUrl": "https://morth.nic.in",
+  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "retrievedOn": null,
+  "verified": false
+ }
+]
