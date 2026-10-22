@@ -80,7 +80,7 @@ export default function QuestionRunner({ questions, useHearts, onFinish, onQuit 
         <p className="mt-2 text-sm font-semibold">{L.explanation}</p>
         {q.ruleRef && <p className="muted mt-1 text-xs">{q.ruleRef}</p>}
         <p className="muted mt-2 text-xs">
-          {q.verified ? `✔ ${tr(lang, 'q.verified')}` : `⚠ ${tr(lang, 'q.unverified')}`} · {tr(lang, 'q.source')}: <a className="underline" href={q.sourceUrl} target="_blank" rel="noreferrer">{q.sourceDoc.split('(')[0].trim()}</a>
+          {q.verified ? `✔ ${tr(lang, 'q.verified')}` : `⚠ ${tr(lang, 'q.unverified')}`}{q.verified && <> · {tr(lang, 'q.source')}: <a className="underline" href={q.sourceUrl} target="_blank" rel="noreferrer">{q.sourceDoc}</a>{q.retrievedOn ? ` (${q.retrievedOn})` : ''}</>}
         </p>
         <div className="mt-3 flex items-center gap-3">
           <button className="muted text-xs underline" disabled={reported.has(q.id)} onClick={() => { reportError(q.id); setReported(new Set(reported).add(q.id)); }}>

@@ -3,12 +3,12 @@
   "code": "DL",
   "name": "Delhi",
   "llTest": {
-   "questionCount": 20,
-   "passMark": 12,
+   "questionCount": 15,
+   "passMark": 9,
    "secondsPerQuestion": 30,
    "optionsPerQuestion": 4
   },
-  "notes": "PLACEHOLDER values for development. Confirm the current question count, pass mark and timing on the official Parivahan/Sarathi portal before relying on them.",
+  "notes": "Practice format only (15 questions, 9 to pass, 30 seconds each). Your state's real test may differ - check Parivahan/Sarathi or your RTO.",
   "sourceUrl": "https://sarathi.parivahan.gov.in",
   "verified": false
  },
@@ -21,7 +21,7 @@
    "secondsPerQuestion": 30,
    "optionsPerQuestion": 4
   },
-  "notes": "PLACEHOLDER values for development. Confirm the current question count, pass mark and timing on the official Parivahan/Sarathi portal before relying on them.",
+  "notes": "Practice format only (15 questions, 9 to pass, 30 seconds each). Your state's real test may differ - check Parivahan/Sarathi or your RTO.",
   "sourceUrl": "https://sarathi.parivahan.gov.in",
   "verified": false
  },
@@ -29,12 +29,12 @@
   "code": "KA",
   "name": "Karnataka",
   "llTest": {
-   "questionCount": 20,
-   "passMark": 12,
+   "questionCount": 15,
+   "passMark": 9,
    "secondsPerQuestion": 30,
    "optionsPerQuestion": 4
   },
-  "notes": "PLACEHOLDER values for development. Confirm the current question count, pass mark and timing on the official Parivahan/Sarathi portal before relying on them.",
+  "notes": "Practice format only (15 questions, 9 to pass, 30 seconds each). Your state's real test may differ - check Parivahan/Sarathi or your RTO.",
   "sourceUrl": "https://sarathi.parivahan.gov.in",
   "verified": false
  },
@@ -42,12 +42,12 @@
   "code": "TN",
   "name": "Tamil Nadu",
   "llTest": {
-   "questionCount": 20,
-   "passMark": 12,
+   "questionCount": 15,
+   "passMark": 9,
    "secondsPerQuestion": 30,
    "optionsPerQuestion": 4
   },
-  "notes": "PLACEHOLDER values for development. Confirm the current question count, pass mark and timing on the official Parivahan/Sarathi portal before relying on them.",
+  "notes": "Practice format only (15 questions, 9 to pass, 30 seconds each). Your state's real test may differ - check Parivahan/Sarathi or your RTO.",
   "sourceUrl": "https://sarathi.parivahan.gov.in",
   "verified": false
  },
@@ -55,12 +55,12 @@
   "code": "UP",
   "name": "Uttar Pradesh",
   "llTest": {
-   "questionCount": 20,
-   "passMark": 12,
+   "questionCount": 15,
+   "passMark": 9,
    "secondsPerQuestion": 30,
    "optionsPerQuestion": 4
   },
-  "notes": "PLACEHOLDER values for development. Confirm the current question count, pass mark and timing on the official Parivahan/Sarathi portal before relying on them.",
+  "notes": "Practice format only (15 questions, 9 to pass, 30 seconds each). Your state's real test may differ - check Parivahan/Sarathi or your RTO.",
   "sourceUrl": "https://sarathi.parivahan.gov.in",
   "verified": false
  },
@@ -73,7 +73,7 @@
    "secondsPerQuestion": 30,
    "optionsPerQuestion": 4
   },
-  "notes": "PLACEHOLDER values for development. Confirm the current question count, pass mark and timing on the official Parivahan/Sarathi portal before relying on them.",
+  "notes": "Practice format only (15 questions, 9 to pass, 30 seconds each). Your state's real test may differ - check Parivahan/Sarathi or your RTO.",
   "sourceUrl": "https://sarathi.parivahan.gov.in",
   "verified": false
  },
@@ -86,7 +86,7 @@
    "secondsPerQuestion": 30,
    "optionsPerQuestion": 4
   },
-  "notes": "PLACEHOLDER values for development. Confirm the current question count, pass mark and timing on the official Parivahan/Sarathi portal before relying on them.",
+  "notes": "Practice format only (15 questions, 9 to pass, 30 seconds each). Your state's real test may differ - check Parivahan/Sarathi or your RTO.",
   "sourceUrl": "https://sarathi.parivahan.gov.in",
   "verified": false
  },
@@ -94,12 +94,12 @@
   "code": "RJ",
   "name": "Rajasthan",
   "llTest": {
-   "questionCount": 20,
-   "passMark": 12,
+   "questionCount": 15,
+   "passMark": 9,
    "secondsPerQuestion": 30,
    "optionsPerQuestion": 4
   },
-  "notes": "PLACEHOLDER values for development. Confirm the current question count, pass mark and timing on the official Parivahan/Sarathi portal before relying on them.",
+  "notes": "Practice format only (15 questions, 9 to pass, 30 seconds each). Your state's real test may differ - check Parivahan/Sarathi or your RTO.",
   "sourceUrl": "https://sarathi.parivahan.gov.in",
   "verified": false
  },
@@ -107,12 +107,12 @@
   "code": "TS",
   "name": "Telangana",
   "llTest": {
-   "questionCount": 20,
-   "passMark": 12,
+   "questionCount": 15,
+   "passMark": 9,
    "secondsPerQuestion": 30,
    "optionsPerQuestion": 4
   },
-  "notes": "PLACEHOLDER values for development. Confirm the current question count, pass mark and timing on the official Parivahan/Sarathi portal before relying on them.",
+  "notes": "Practice format only (15 questions, 9 to pass, 30 seconds each). Your state's real test may differ - check Parivahan/Sarathi or your RTO.",
   "sourceUrl": "https://sarathi.parivahan.gov.in",
   "verified": false
  },
@@ -125,7 +125,7 @@
    "secondsPerQuestion": 30,
    "optionsPerQuestion": 4
   },
-  "notes": "PLACEHOLDER values for development. Confirm the current question count, pass mark and timing on the official Parivahan/Sarathi portal before relying on them.",
+  "notes": "Practice format only (15 questions, 9 to pass, 30 seconds each). Your state's real test may differ - check Parivahan/Sarathi or your RTO.",
   "sourceUrl": "https://sarathi.parivahan.gov.in",
   "verified": false
  }

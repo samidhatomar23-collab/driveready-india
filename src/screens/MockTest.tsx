@@ -26,7 +26,7 @@ export function TestIntro() {
           <dt>{t('test.time')}</dt><dd className="font-bold">{secondsPerQuestion}s</dd>
         </dl>
         <p className="mt-3 rounded bg-amber-50 p-2 text-sm font-semibold text-amber-800 dark:bg-amber-900/30 dark:text-amber-200">{t('test.note')}</p>
-        {!cfg.verified && <p className="mt-2 text-xs text-rose-600">⚠ {t('test.unverified')}</p>}
+        <p className="mt-2 text-xs text-rose-600">⚠ {t('test.unverified')}</p>
       </section>
       <section className="mt-4 rounded-lg border p-4 text-sm" style={{ borderColor: 'var(--line)' }}>
         <h2 className="font-bold">{t('test.instructions')}</h2>
@@ -58,7 +58,7 @@ export function TestRun() {
 
   useEffect(() => {
     loadAllQuestions().then(all => {
-      const pool = eligible(all, settings).filter(q => q.type === 'mcq' || q.type === 'sign-id' || q.type === 'true-false');
+      const pool = eligible(all, settings).filter(q => q.verified && (q.type === 'mcq' || q.type === 'sign-id' || q.type === 'true-false'));
       const chosen = shuffle(pool).slice(0, cfg.llTest.questionCount);
       setItems(chosen.map(q => ({ q, perm: q.type === 'true-false' ? q.options.map((_, k) => k) : shuffle(q.options.map((_, k) => k)) })));
       startedAt.current = Date.now();
@@ -166,7 +166,7 @@ function TestResultView({ r, items, onAgain }: { r: TestResult; items: Item[]; o
               <p className="text-green-700 dark:text-green-400">{t('test.correct')}: {L.options[q.correctAnswer as number]}</p>
               <p className="mt-1">{L.explanation}</p>
               {q.ruleRef && <p className="muted mt-1 text-xs">{q.ruleRef}</p>}
-              <p className="muted mt-1 text-xs">{q.verified ? t('q.verified') : t('q.unverified')} · <a className="underline" href={q.sourceUrl} target="_blank" rel="noreferrer">{t('q.source')}</a></p>
+              <p className="muted mt-1 text-xs">✔ {t('q.verified')} · <a className="underline" href={q.sourceUrl} target="_blank" rel="noreferrer">{q.sourceDoc}</a></p>
             </li>
           );
         })}

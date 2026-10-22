@@ -57,6 +57,8 @@ export interface Sign {
   meaning_hi?: string;
   sourceDoc: string;
   sourceUrl: string;
+  retrievedOn?: string | null;
+  verified?: boolean;
   imagePlaceholder: boolean;
 }
 

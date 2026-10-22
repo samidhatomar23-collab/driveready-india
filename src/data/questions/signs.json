@@ -14,7 +14,7 @@
    "Diamond"
   ],
   "correctAnswer": 0,
-  "explanation": "Most mandatory signs are circular with a red border. Stop (octagon) and Give Way (inverted triangle) are the main exceptions.",
+  "explanation": "Mandatory (regulatory) signs are circular (cl. 3.1). STOP (octagon) and GIVE WAY (triangle) are specified separately.",
   "languages": {
    "en": {
     "question": "Which shape do most mandatory (regulatory) road signs have?",
@@ -24,7 +24,7 @@
      "Rectangular",
      "Diamond"
     ],
-    "explanation": "Most mandatory signs are circular with a red border. Stop (octagon) and Give Way (inverted triangle) are the main exceptions."
+    "explanation": "Mandatory (regulatory) signs are circular (cl. 3.1). STOP (octagon) and GIVE WAY (triangle) are specified separately."
    },
    "hi": {
     "question": "अधिकांश अनिवार्य (नियामक) चिह्न किस आकार के होते हैं?",
@@ -34,7 +34,7 @@
      "आयताकार",
      "समचतुर्भुज"
     ],
-    "explanation": "अधिकांश अनिवार्य चिह्न लाल किनारे वाले गोल होते हैं। स्टॉप (अष्टभुज) और रास्ता दें (उल्टा त्रिकोण) अपवाद हैं।"
+    "explanation": "अनिवार्य (नियामक) चिह्न गोल होते हैं। स्टॉप (अष्टभुज) और रास्ता दें (त्रिकोण) अलग से निर्धारित हैं।"
    }
   },
   "applicableVehicleClasses": [
@@ -43,11 +43,11 @@
   "statesApplicable": [
    "all"
   ],
-  "ruleRef": "MV Act 1988, First Schedule",
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "ruleRef": "cl. 3.1",
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 3.1",
+  "retrievedOn": "2026-10-22",
+  "verified": true
  },
  {
   "id": "q-signs-002",
@@ -62,7 +62,7 @@
    "False"
   ],
   "correctAnswer": 0,
-  "explanation": "STOP is the only octagonal road sign.",
+  "explanation": "The STOP sign is octagonal with a red background and white border (cl. 14.5.3).",
   "languages": {
    "en": {
     "question": "The STOP sign is octagonal (eight-sided).",
@@ -70,7 +70,7 @@
      "True",
      "False"
     ],
-    "explanation": "STOP is the only octagonal road sign."
+    "explanation": "The STOP sign is octagonal with a red background and white border (cl. 14.5.3)."
    },
    "hi": {
     "question": "स्टॉप चिह्न अष्टभुजाकार (आठ भुजाओं वाला) होता है।",
@@ -78,7 +78,7 @@
      "सही",
      "गलत"
     ],
-    "explanation": "स्टॉप ही एकमात्र अष्टभुजाकार चिह्न है।"
+    "explanation": "स्टॉप चिह्न अष्टभुजाकार होता है, लाल पृष्ठभूमि और सफेद किनारे के साथ।"
    }
   },
   "applicableVehicleClasses": [
@@ -87,10 +87,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 14.5.3",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 14.5.3"
  },
  {
   "id": "q-signs-003",
@@ -105,7 +106,7 @@
    "False"
   ],
   "correctAnswer": 1,
-  "explanation": "The Give Way sign is an inverted (downward-pointing) triangle. Upward-pointing triangles are cautionary signs.",
+  "explanation": "The GIVE WAY sign is an equilateral triangle with the apex downwards (cl. 14.6.2). Cautionary signs are triangular too, but are separate signs (cl. 3.2).",
   "languages": {
    "en": {
     "question": "The Give Way sign is an upward-pointing triangle.",
@@ -113,7 +114,7 @@
      "True",
      "False"
     ],
-    "explanation": "The Give Way sign is an inverted (downward-pointing) triangle. Upward-pointing triangles are cautionary signs."
+    "explanation": "The GIVE WAY sign is an equilateral triangle with the apex downwards (cl. 14.6.2). Cautionary signs are triangular too, but are separate signs (cl. 3.2)."
    },
    "hi": {
     "question": "रास्ता दें चिह्न ऊपर की ओर नुकीला त्रिकोण होता है।",
@@ -121,7 +122,7 @@
      "सही",
      "गलत"
     ],
-    "explanation": "रास्ता दें चिह्न उल्टा (नीचे की ओर नुकीला) त्रिकोण होता है। ऊपर नुकीले त्रिकोण सावधानी चिह्न होते हैं।"
+    "explanation": "रास्ता दें चिह्न नीचे की ओर नुकीला (उल्टा) त्रिकोण होता है।"
    }
   },
   "applicableVehicleClasses": [
@@ -130,10 +131,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 14.6.2",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 14.6.2"
  },
  {
   "id": "q-signs-004",
@@ -150,7 +152,7 @@
    "Stop only if other vehicles are present"
   ],
   "correctAnswer": 1,
-  "explanation": "A STOP sign requires a complete halt at the stop line every time, whether or not other traffic is visible.",
+  "explanation": "At a STOP sign you must stop before the transverse STOP line, give way to traffic on the major road, and enter only when the way ahead is clear (Reg. 7).",
   "languages": {
    "en": {
     "question": "What must you do at a STOP sign?",
@@ -160,7 +162,7 @@
      "Honk and proceed",
      "Stop only if other vehicles are present"
     ],
-    "explanation": "A STOP sign requires a complete halt at the stop line every time, whether or not other traffic is visible."
+    "explanation": "At a STOP sign you must stop before the transverse STOP line, give way to traffic on the major road, and enter only when the way ahead is clear (Reg. 7)."
    },
    "hi": {
     "question": "स्टॉप चिह्न पर आपको क्या करना चाहिए?",
@@ -170,7 +172,7 @@
      "हॉर्न बजाकर निकल जाएँ",
      "केवल तभी रुकें जब दूसरे वाहन हों"
     ],
-    "explanation": "स्टॉप चिह्न पर हर बार स्टॉप लाइन पर पूरी तरह रुकना आवश्यक है, चाहे दूसरा यातायात दिखे या नहीं।"
+    "explanation": "स्टॉप चिह्न पर आपको स्टॉप लाइन से पहले रुकना है, मुख्य सड़क के यातायात को रास्ता देना है और रास्ता साफ होने पर ही आगे बढ़ना है।"
    }
   },
   "applicableVehicleClasses": [
@@ -179,10 +181,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 7",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 7"
  },
  {
   "id": "q-signs-005",
@@ -199,7 +202,7 @@
    "The road ends in 40 metres"
   ],
   "correctAnswer": 1,
-  "explanation": "A speed limit sign gives the maximum permitted speed.",
+  "explanation": "The Maximum Speed Limit sign shows the highest speed allowed, in km per hour (cl. 14.9.8).",
   "languages": {
    "en": {
     "question": "A \"Speed Limit 40\" sign tells you that:",
@@ -209,7 +212,7 @@
      "40 km/h is the recommended speed only",
      "The road ends in 40 metres"
     ],
-    "explanation": "A speed limit sign gives the maximum permitted speed."
+    "explanation": "The Maximum Speed Limit sign shows the highest speed allowed, in km per hour (cl. 14.9.8)."
    }
   },
   "applicableVehicleClasses": [
@@ -218,10 +221,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 14.9.8",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 14.9.8"
  },
  {
   "id": "q-signs-006",
@@ -236,7 +240,7 @@
    "False"
   ],
   "correctAnswer": 0,
-  "explanation": "No Entry prohibits vehicles from entering the road from the direction of the sign.",
+  "explanation": "The No Entry sign (\"Straight Prohibited / No Entry\", cl. 14.7.17) bars vehicles from entering from that direction.",
   "languages": {
    "en": {
     "question": "A No Entry sign means vehicles must not enter from that direction.",
@@ -244,7 +248,7 @@
      "True",
      "False"
     ],
-    "explanation": "No Entry prohibits vehicles from entering the road from the direction of the sign."
+    "explanation": "The No Entry sign (\"Straight Prohibited / No Entry\", cl. 14.7.17) bars vehicles from entering from that direction."
    }
   },
   "applicableVehicleClasses": [
@@ -253,10 +257,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 14.7.17",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 14.7.17"
  },
  {
   "id": "q-signs-007",
@@ -265,7 +270,7 @@
   "lessonId": "signs-1",
   "type": "mcq",
   "difficulty": 1,
-  "question": "What does a circular sign with a red cross over an arrow pair indicate?",
+  "question": "What does the \"Overtaking Prohibited\" sign mean?",
   "options": [
    "Overtaking is allowed",
    "Overtaking is prohibited",
@@ -273,17 +278,27 @@
    "Parking ahead"
   ],
   "correctAnswer": 1,
-  "explanation": "The No Overtaking sign prohibits overtaking other vehicles.",
+  "explanation": "The Overtaking Prohibited sign (cl. 14.7.20) means you must not overtake. Overtaking is also barred at bends, junctions and pedestrian crossings (Reg. 14(5)).",
   "languages": {
    "en": {
-    "question": "What does a circular sign with a red cross over an arrow pair indicate?",
+    "question": "What does the \"Overtaking Prohibited\" sign mean?",
     "options": [
      "Overtaking is allowed",
      "Overtaking is prohibited",
      "Two-way traffic ahead",
      "Parking ahead"
     ],
-    "explanation": "The No Overtaking sign prohibits overtaking other vehicles."
+    "explanation": "The Overtaking Prohibited sign (cl. 14.7.20) means you must not overtake. Overtaking is also barred at bends, junctions and pedestrian crossings (Reg. 14(5))."
+   },
+   "hi": {
+    "question": "\"ओवरटेकिंग निषेध\" चिह्न का क्या अर्थ है?",
+    "options": [
+     "ओवरटेक करने की अनुमति है",
+     "ओवरटेक करना मना है",
+     "आगे दो-तरफ़ा यातायात",
+     "आगे पार्किंग"
+    ],
+    "explanation": "ओवरटेकिंग निषेध चिह्न का अर्थ है कि ओवरटेक न करें। मोड़, चौराहे और पैदल क्रॉसिंग पर भी ओवरटेक मना है।"
    }
   },
   "applicableVehicleClasses": [
@@ -292,10 +307,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 14.7.20",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 14.7.20"
  },
  {
   "id": "q-signs-008",
@@ -304,7 +320,7 @@
   "lessonId": "signs-1",
   "type": "mcq",
   "difficulty": 1,
-  "question": "A blue circular sign with a white arrow pointing up means:",
+  "question": "A circular \"Compulsory Ahead\" sign (white arrow pointing up) means:",
   "options": [
    "Go straight ahead only",
    "Road ends ahead",
@@ -312,17 +328,17 @@
    "One-way road ends"
   ],
   "correctAnswer": 0,
-  "explanation": "Blue circular signs are compulsory instructions; the up arrow is \"Ahead Only\".",
+  "explanation": "\"Compulsory Ahead\" (cl. 14.11.2): vehicles must go straight ahead only.",
   "languages": {
    "en": {
-    "question": "A blue circular sign with a white arrow pointing up means:",
+    "question": "A circular \"Compulsory Ahead\" sign (white arrow pointing up) means:",
     "options": [
      "Go straight ahead only",
      "Road ends ahead",
      "Speed limit",
      "One-way road ends"
     ],
-    "explanation": "Blue circular signs are compulsory instructions; the up arrow is \"Ahead Only\"."
+    "explanation": "\"Compulsory Ahead\" (cl. 14.11.2): vehicles must go straight ahead only."
    }
   },
   "applicableVehicleClasses": [
@@ -331,10 +347,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 14.11.2",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 14.11.2"
  },
  {
   "id": "q-signs-009",
@@ -343,35 +360,35 @@
   "lessonId": "signs-2",
   "type": "mcq",
   "difficulty": 1,
-  "question": "Cautionary (warning) signs are usually which shape?",
+  "question": "What shape are cautionary (warning) signs?",
   "options": [
    "Circular",
-   "Triangular with point upward",
+   "Triangular",
    "Octagonal",
    "Square"
   ],
   "correctAnswer": 1,
-  "explanation": "Cautionary signs warn of hazards and are generally upward-pointing triangles with a red border.",
+  "explanation": "Cautionary/warning signs are triangular with a red border and a black symbol on white (cl. 3.2).",
   "languages": {
    "en": {
-    "question": "Cautionary (warning) signs are usually which shape?",
+    "question": "What shape are cautionary (warning) signs?",
     "options": [
      "Circular",
-     "Triangular with point upward",
+     "Triangular",
      "Octagonal",
      "Square"
     ],
-    "explanation": "Cautionary signs warn of hazards and are generally upward-pointing triangles with a red border."
+    "explanation": "Cautionary/warning signs are triangular with a red border and a black symbol on white (cl. 3.2)."
    },
    "hi": {
-    "question": "सावधानी (चेतावनी) चिह्न आमतौर पर किस आकार के होते हैं?",
+    "question": "सावधानी (चेतावनी) चिह्न किस आकार के होते हैं?",
     "options": [
      "गोलाकार",
-     "ऊपर की ओर नुकीला त्रिकोण",
+     "त्रिकोणीय",
      "अष्टभुज",
      "वर्गाकार"
     ],
-    "explanation": "सावधानी चिह्न खतरे की चेतावनी देते हैं और आमतौर पर लाल किनारे वाले, ऊपर नुकीले त्रिकोण होते हैं।"
+    "explanation": "सावधानी चिह्न लाल किनारे वाले त्रिकोणीय होते हैं, जिनमें सफेद पर काला चित्र होता है।"
    }
   },
   "applicableVehicleClasses": [
@@ -380,10 +397,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 3.2",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 3.2"
  },
  {
   "id": "q-signs-010",
@@ -400,7 +418,7 @@
    "Overtake quickly"
   ],
   "correctAnswer": 1,
-  "explanation": "Near schools children may enter the road suddenly; reduce speed and be ready to stop.",
+  "explanation": "The School Ahead sign (cl. 15.28) marks where school buildings or grounds are next to the road. Drivers must take special care of children (Reg. 5(4)) and keep to the lower limit near schools where signed (Reg. 16(5)).",
   "languages": {
    "en": {
     "question": "You see a \"School Ahead\" sign. You should:",
@@ -410,7 +428,7 @@
      "Sound the horn continuously",
      "Overtake quickly"
     ],
-    "explanation": "Near schools children may enter the road suddenly; reduce speed and be ready to stop."
+    "explanation": "The School Ahead sign (cl. 15.28) marks where school buildings or grounds are next to the road. Drivers must take special care of children (Reg. 5(4)) and keep to the lower limit near schools where signed (Reg. 16(5))."
    }
   },
   "applicableVehicleClasses": [
@@ -419,10 +437,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 cl. 15.28; Motor Vehicles (Driving) Regulations, 2017 - Reg. 5(4), 16(5)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 5(4), 16(5)"
  },
  {
   "id": "q-signs-011",
@@ -458,8 +477,8 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "sourceUrl": "https://parivahan.gov.in",
+  "sourceDoc": "Not yet confirmed against an official source",
   "retrievedOn": null,
   "verified": false
  },
@@ -493,8 +512,8 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "sourceUrl": "https://parivahan.gov.in",
+  "sourceDoc": "Not yet confirmed against an official source",
   "retrievedOn": null,
   "verified": false
  },
@@ -508,22 +527,22 @@
   "question": "A \"Narrow Bridge\" sign means:",
   "options": [
    "Bridge is closed",
-   "Bridge ahead is narrow; slow down and give way if required",
+   "Bridge ahead is narrow; slow down and take care",
    "Only two-wheelers allowed",
    "Speed up to cross quickly"
   ],
   "correctAnswer": 1,
-  "explanation": "Slow down and be ready to give way to oncoming vehicles on narrow bridges.",
+  "explanation": "\"Narrow Bridge Ahead\" is a cautionary sign (cl. 15.20): the bridge is narrower than the road, so slow down and take care.",
   "languages": {
    "en": {
     "question": "A \"Narrow Bridge\" sign means:",
     "options": [
      "Bridge is closed",
-     "Bridge ahead is narrow; slow down and give way if required",
+     "Bridge ahead is narrow; slow down and take care",
      "Only two-wheelers allowed",
      "Speed up to cross quickly"
     ],
-    "explanation": "Slow down and be ready to give way to oncoming vehicles on narrow bridges."
+    "explanation": "\"Narrow Bridge Ahead\" is a cautionary sign (cl. 15.20): the bridge is narrower than the road, so slow down and take care."
    }
   },
   "applicableVehicleClasses": [
@@ -532,10 +551,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 15.20",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 15.20"
  },
  {
   "id": "q-signs-014",
@@ -550,7 +570,7 @@
    "False"
   ],
   "correctAnswer": 1,
-  "explanation": "Road works are hazardous: slow down and follow any instructions of workers.",
+  "explanation": "\"Men at Work\" (cl. 15.34) warns of road works ahead. Slow down and take care.",
   "languages": {
    "en": {
     "question": "A \"Men at Work\" sign means you may drive at normal speed.",
@@ -558,7 +578,7 @@
      "True",
      "False"
     ],
-    "explanation": "Road works are hazardous: slow down and follow any instructions of workers."
+    "explanation": "\"Men at Work\" (cl. 15.34) warns of road works ahead. Slow down and take care."
    }
   },
   "applicableVehicleClasses": [
@@ -567,10 +587,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 15.34",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 15.34"
  },
  {
   "id": "q-signs-015",
@@ -587,7 +608,7 @@
    "Octagonal"
   ],
   "correctAnswer": 0,
-  "explanation": "Informatory signs give information such as parking, hospitals and fuel and are generally rectangular.",
+  "explanation": "Informatory and guide signs, including facility signs, are rectangular (cl. 3.3).",
   "languages": {
    "en": {
     "question": "Informatory signs are generally which shape?",
@@ -597,7 +618,7 @@
      "Circular",
      "Octagonal"
     ],
-    "explanation": "Informatory signs give information such as parking, hospitals and fuel and are generally rectangular."
+    "explanation": "Informatory and guide signs, including facility signs, are rectangular (cl. 3.3)."
    }
   },
   "applicableVehicleClasses": [
@@ -606,10 +627,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 3.3",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 3.3"
  },
  {
   "id": "q-signs-016",
@@ -626,7 +648,7 @@
    "Petrol pump"
   ],
   "correctAnswer": 1,
-  "explanation": "A white \"P\" on blue marks a place where parking is permitted.",
+  "explanation": "Facility signs are rectangular with a symbol on a blue background (cl. 3.3); \"P\" marks a parking place.",
   "languages": {
    "en": {
     "question": "A rectangular sign with a white \"P\" on blue indicates:",
@@ -636,7 +658,7 @@
      "Police post",
      "Petrol pump"
     ],
-    "explanation": "A white \"P\" on blue marks a place where parking is permitted."
+    "explanation": "Facility signs are rectangular with a symbol on a blue background (cl. 3.3); \"P\" marks a parking place."
    }
   },
   "applicableVehicleClasses": [
@@ -645,10 +667,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 3.3",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 3.3"
  },
  {
   "id": "q-signs-017",
@@ -663,7 +686,7 @@
    "False"
   ],
   "correctAnswer": 0,
-  "explanation": "Hospitals are silence zones; avoid honking.",
+  "explanation": "Unnecessary use of the horn is prohibited (Reg. 23(1)). No-horn signs are used near hospitals and in silence zones (IRC:67-2012 cl. 14.7.16).",
   "languages": {
    "en": {
     "question": "Near a hospital sign you should avoid unnecessary use of the horn.",
@@ -671,7 +694,7 @@
      "True",
      "False"
     ],
-    "explanation": "Hospitals are silence zones; avoid honking."
+    "explanation": "Unnecessary use of the horn is prohibited (Reg. 23(1)). No-horn signs are used near hospitals and in silence zones (IRC:67-2012 cl. 14.7.16)."
    }
   },
   "applicableVehicleClasses": [
@@ -680,10 +703,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 23(1)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 23(1)"
  },
  {
   "id": "q-signs-018",
@@ -719,8 +743,8 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "sourceUrl": "https://parivahan.gov.in",
+  "sourceDoc": "Not yet confirmed against an official source",
   "retrievedOn": null,
   "verified": false
  },
@@ -739,7 +763,7 @@
    "Stop"
   ],
   "correctAnswer": 3,
-  "explanation": "Come to a complete halt at the stop line, then proceed only when safe.",
+  "explanation": "Stop before the STOP line, give way to traffic on the major road, and enter only when the way is clear.",
   "imageRef": "stop",
   "languages": {
    "en": {
@@ -750,7 +774,7 @@
      "No Entry",
      "Stop"
     ],
-    "explanation": "Come to a complete halt at the stop line, then proceed only when safe."
+    "explanation": "Stop before the STOP line, give way to traffic on the major road, and enter only when the way is clear."
    },
    "hi": {
     "question": "यह चिह्न क्या दर्शाता है?",
@@ -760,7 +784,7 @@
      "प्रवेश निषेध",
      "रुकें"
     ],
-    "explanation": "स्टॉप लाइन पर पूरी तरह रुकें और सुरक्षित होने पर ही आगे बढ़ें।"
+    "explanation": "स्टॉप लाइन से पहले रुकें, मुख्य सड़क के यातायात को रास्ता दें और रास्ता साफ होने पर ही आगे बढ़ें।"
    }
   },
   "applicableVehicleClasses": [
@@ -769,10 +793,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 14.5.3",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 14.5.3"
  },
  {
   "id": "q-signs-020",
@@ -789,7 +814,7 @@
    "Give Way"
   ],
   "correctAnswer": 3,
-  "explanation": "Slow down and give way to traffic on the road you are entering.",
+  "explanation": "Slow down, give way to traffic on the major road, and proceed cautiously.",
   "imageRef": "give-way",
   "languages": {
    "en": {
@@ -800,7 +825,7 @@
      "No Overtaking",
      "Give Way"
     ],
-    "explanation": "Slow down and give way to traffic on the road you are entering."
+    "explanation": "Slow down, give way to traffic on the major road, and proceed cautiously."
    },
    "hi": {
     "question": "यह चिह्न क्या दर्शाता है?",
@@ -810,7 +835,7 @@
      "ओवरटेक करना मना",
      "रास्ता दें"
     ],
-    "explanation": "धीमे हों और जिस सड़क पर जा रहे हैं उस पर यातायात को रास्ता दें।"
+    "explanation": "धीमे हों, मुख्य सड़क के यातायात को रास्ता दें और सावधानी से आगे बढ़ें।"
    }
   },
   "applicableVehicleClasses": [
@@ -819,10 +844,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 14.6.2",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 14.6.2"
  },
  {
   "id": "q-signs-021",
@@ -869,10 +895,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 14.7.17",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 14.7.17"
  },
  {
   "id": "q-signs-022",
@@ -919,10 +946,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 14.8.5",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 14.8.5"
  },
  {
   "id": "q-signs-023",
@@ -969,10 +997,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 14.7.20",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 14.7.20"
  },
  {
   "id": "q-signs-024",
@@ -1019,10 +1048,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 14.9.8",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 14.9.8"
  },
  {
   "id": "q-signs-025",
@@ -1069,10 +1099,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 14.7.16",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 14.7.16"
  },
  {
   "id": "q-signs-026",
@@ -1119,10 +1150,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 14.7.21",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 14.7.21"
  },
  {
   "id": "q-signs-027",
@@ -1169,10 +1201,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 14.7.19",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 14.7.19"
  },
  {
   "id": "q-signs-028",
@@ -1219,10 +1252,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 14.7.19",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 14.7.19"
  },
  {
   "id": "q-signs-029",
@@ -1269,10 +1303,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 14.11.2",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 14.11.2"
  },
  {
   "id": "q-signs-030",
@@ -1319,10 +1354,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 14.11.3",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 14.11.3"
  },
  {
   "id": "q-signs-031",
@@ -1369,10 +1405,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 15.5",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 15.5"
  },
  {
   "id": "q-signs-032",
@@ -1389,7 +1426,7 @@
    "Cattle"
   ],
   "correctAnswer": 0,
-  "explanation": "Bridge ahead is narrow; slow down and give way if needed.",
+  "explanation": "The bridge ahead is narrow; slow down and take care.",
   "imageRef": "narrow-bridge",
   "languages": {
    "en": {
@@ -1400,7 +1437,7 @@
      "Left Hairpin Bend",
      "Cattle"
     ],
-    "explanation": "Bridge ahead is narrow; slow down and give way if needed."
+    "explanation": "The bridge ahead is narrow; slow down and take care."
    },
    "hi": {
     "question": "यह चिह्न क्या दर्शाता है?",
@@ -1410,7 +1447,7 @@
      "बाएँ तीखा मोड़",
      "मवेशी"
     ],
-    "explanation": "आगे संकरा पुल है; धीमे चलें और ज़रूरत हो तो रास्ता दें।"
+    "explanation": "आगे पुल संकरा है; धीमे चलें और सावधानी रखें।"
    }
   },
   "applicableVehicleClasses": [
@@ -1419,10 +1456,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 15.20",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 15.20"
  },
  {
   "id": "q-signs-033",
@@ -1469,10 +1507,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 15.28",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 15.28"
  },
  {
   "id": "q-signs-034",
@@ -1519,10 +1558,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 15.27",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 15.27"
  },
  {
   "id": "q-signs-035",
@@ -1569,10 +1609,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 15.34",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 15.34"
  },
  {
   "id": "q-signs-036",
@@ -1619,8 +1660,8 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "sourceUrl": "https://morth.gov.in",
+  "sourceDoc": "Not yet confirmed against an official source",
   "retrievedOn": null,
   "verified": false
  },
@@ -1669,8 +1710,8 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "sourceUrl": "https://morth.gov.in",
+  "sourceDoc": "Not yet confirmed against an official source",
   "retrievedOn": null,
   "verified": false
  },
@@ -1719,10 +1760,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 15.12",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 15.12"
  },
  {
   "id": "q-signs-039",
@@ -1769,10 +1811,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 15.14",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 15.14"
  },
  {
   "id": "q-signs-040",
@@ -1819,10 +1862,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 3.3 (facility signs)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 3.3 (facility signs)"
  },
  {
   "id": "q-signs-041",
@@ -1869,8 +1913,8 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "sourceUrl": "https://morth.gov.in",
+  "sourceDoc": "Not yet confirmed against an official source",
   "retrievedOn": null,
   "verified": false
  },
@@ -1919,10 +1963,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 3.3 (facility signs)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 3.3 (facility signs)"
  },
  {
   "id": "q-signs-043",
@@ -1969,8 +2014,8 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "sourceUrl": "https://morth.gov.in",
+  "sourceDoc": "Not yet confirmed against an official source",
   "retrievedOn": null,
   "verified": false
  },
@@ -2019,8 +2064,8 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "sourceUrl": "https://morth.gov.in",
+  "sourceDoc": "Not yet confirmed against an official source",
   "retrievedOn": null,
   "verified": false
  },
@@ -2069,10 +2114,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs - cl. 3.3 (facility signs)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "cl. 3.3 (facility signs)"
  },
  {
   "id": "q-signs-046",
@@ -2119,8 +2165,8 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "sourceUrl": "https://morth.gov.in",
+  "sourceDoc": "Not yet confirmed against an official source",
   "retrievedOn": null,
   "verified": false
  },
@@ -2170,10 +2216,10 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs (see each sign)",
+  "retrievedOn": "2026-10-22",
+  "verified": true
  },
  {
   "id": "q-signs-048",
@@ -2203,16 +2249,16 @@
     "Speed Limit 40"
    ]
   ],
-  "explanation": "No U-Turn: U-turns are prohibited. No Left Turn: Left turns are prohibited. Give Way: Slow down and give way to traffic on the road you are entering. Speed Limit 40: Do not exceed 40 km/h.",
+  "explanation": "No U-Turn: U-turns are prohibited. No Left Turn: Left turns are prohibited. Give Way: Slow down, give way to traffic on the major road, and proceed cautiously. Speed Limit 40: Do not exceed 40 km/h.",
   "languages": {
    "en": {
     "question": "Match each sign to its meaning",
     "options": [],
-    "explanation": "No U-Turn: U-turns are prohibited. No Left Turn: Left turns are prohibited. Give Way: Slow down and give way to traffic on the road you are entering. Speed Limit 40: Do not exceed 40 km/h."
+    "explanation": "No U-Turn: U-turns are prohibited. No Left Turn: Left turns are prohibited. Give Way: Slow down, give way to traffic on the major road, and proceed cautiously. Speed Limit 40: Do not exceed 40 km/h."
    },
    "hi": {
     "question": "प्रत्येक चिह्न को उसके अर्थ से मिलाएँ",
-    "explanation": "यू-टर्न निषेध: यू-टर्न लेना मना है। बाएँ मुड़ना मना: बाएँ मुड़ना मना है। रास्ता दें: धीमे हों और जिस सड़क पर जा रहे हैं उस पर यातायात को रास्ता दें। गति सीमा 40: 40 किमी/घंटा से अधिक गति न रखें।"
+    "explanation": "यू-टर्न निषेध: यू-टर्न लेना मना है। बाएँ मुड़ना मना: बाएँ मुड़ना मना है। रास्ता दें: धीमे हों, मुख्य सड़क के यातायात को रास्ता दें और सावधानी से आगे बढ़ें। गति सीमा 40: 40 किमी/घंटा से अधिक गति न रखें।"
    }
   },
   "applicableVehicleClasses": [
@@ -2221,10 +2267,10 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://www.sir.advancedleadership.harvard.edu/s/ircgovin0672012.pdf",
+  "sourceDoc": "IRC:67-2012 Code of Practice for Road Signs (see each sign)",
+  "retrievedOn": "2026-10-22",
+  "verified": true
  },
  {
   "id": "q-signs-049",
@@ -2272,8 +2318,8 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "sourceUrl": "https://morth.gov.in",
+  "sourceDoc": "Not fully confirmed against an official source",
   "retrievedOn": null,
   "verified": false
  },
@@ -2305,16 +2351,16 @@
     "Pedestrian Crossing"
    ]
   ],
-  "explanation": "Cattle: Animals may be on the road; slow down. Roundabout: Roundabout ahead; slow down and give way to traffic already on it. Narrow Bridge: Bridge ahead is narrow; slow down and give way if needed. Pedestrian Crossing: Pedestrian crossing ahead; be ready to stop.",
+  "explanation": "Cattle: Animals may be on the road; slow down. Roundabout: Roundabout ahead; slow down and give way to traffic already on it. Narrow Bridge: The bridge ahead is narrow; slow down and take care. Pedestrian Crossing: Pedestrian crossing ahead; be ready to stop.",
   "languages": {
    "en": {
     "question": "Match each sign to its meaning",
     "options": [],
-    "explanation": "Cattle: Animals may be on the road; slow down. Roundabout: Roundabout ahead; slow down and give way to traffic already on it. Narrow Bridge: Bridge ahead is narrow; slow down and give way if needed. Pedestrian Crossing: Pedestrian crossing ahead; be ready to stop."
+    "explanation": "Cattle: Animals may be on the road; slow down. Roundabout: Roundabout ahead; slow down and give way to traffic already on it. Narrow Bridge: The bridge ahead is narrow; slow down and take care. Pedestrian Crossing: Pedestrian crossing ahead; be ready to stop."
    },
    "hi": {
     "question": "प्रत्येक चिह्न को उसके अर्थ से मिलाएँ",
-    "explanation": "मवेशी: सड़क पर पशु हो सकते हैं; धीमे चलें। गोलचक्कर: आगे गोलचक्कर है; धीमे हों और उस पर पहले से चल रहे यातायात को रास्ता दें। संकरा पुल: आगे संकरा पुल है; धीमे चलें और ज़रूरत हो तो रास्ता दें। पैदल पारपथ: आगे पैदल पारपथ है; रुकने के लिए तैयार रहें।"
+    "explanation": "मवेशी: सड़क पर पशु हो सकते हैं; धीमे चलें। गोलचक्कर: आगे गोलचक्कर है; धीमे हों और उस पर पहले से चल रहे यातायात को रास्ता दें। संकरा पुल: आगे पुल संकरा है; धीमे चलें और सावधानी रखें। पैदल पारपथ: आगे पैदल पारपथ है; रुकने के लिए तैयार रहें।"
    }
   },
   "applicableVehicleClasses": [
@@ -2323,8 +2369,8 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "sourceUrl": "https://morth.gov.in",
+  "sourceDoc": "Not fully confirmed against an official source",
   "retrievedOn": null,
   "verified": false
  },
@@ -2374,8 +2420,8 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "sourceUrl": "https://morth.gov.in",
+  "sourceDoc": "Not fully confirmed against an official source",
   "retrievedOn": null,
   "verified": false
  },
@@ -2425,8 +2471,8 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://morth.nic.in",
-  "sourceDoc": "Motor Vehicles Act 1988, First Schedule (Road signs) / MoRTH (original practice item - to be verified)",
+  "sourceUrl": "https://morth.gov.in",
+  "sourceDoc": "Not fully confirmed against an official source",
   "retrievedOn": null,
   "verified": false
  }

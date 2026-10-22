@@ -14,7 +14,7 @@
    "Either"
   ],
   "correctAnswer": 0,
-  "explanation": "India follows left-hand traffic: keep to the left.",
+  "explanation": "Unless signs or markings say otherwise, keep the vehicle as far as possible to the left of the carriageway (Reg. 4(3)).",
   "languages": {
    "en": {
     "question": "In India vehicles are driven on which side of the road?",
@@ -24,7 +24,7 @@
      "Centre",
      "Either"
     ],
-    "explanation": "India follows left-hand traffic: keep to the left."
+    "explanation": "Unless signs or markings say otherwise, keep the vehicle as far as possible to the left of the carriageway (Reg. 4(3))."
    },
    "hi": {
     "question": "भारत में वाहन सड़क के किस ओर चलाए जाते हैं?",
@@ -43,10 +43,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 4(3)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 4(3)"
  },
  {
   "id": "q-row-002",
@@ -63,7 +64,7 @@
    "Nobody"
   ],
   "correctAnswer": 0,
-  "explanation": "Traffic already circulating has priority; give way before entering.",
+  "explanation": "While entering a roundabout, traffic already in the roundabout has the right of way (Reg. 10(1)).",
   "languages": {
    "en": {
     "question": "At a roundabout you should give way to:",
@@ -73,7 +74,7 @@
      "Only buses",
      "Nobody"
     ],
-    "explanation": "Traffic already circulating has priority; give way before entering."
+    "explanation": "While entering a roundabout, traffic already in the roundabout has the right of way (Reg. 10(1))."
    },
    "hi": {
     "question": "गोलचक्कर पर आपको किसे रास्ता देना चाहिए?",
@@ -92,11 +93,11 @@
   "statesApplicable": [
    "all"
   ],
-  "ruleRef": "Rules of the Road Regulations 2017 - roundabouts",
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "ruleRef": "Reg. 10(1)",
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 10(1)",
+  "retrievedOn": "2026-10-22",
+  "verified": true
  },
  {
   "id": "q-row-003",
@@ -113,7 +114,7 @@
    "Stop only at night"
   ],
   "correctAnswer": 0,
-  "explanation": "Traffic on the main road has priority over vehicles joining from a minor road.",
+  "explanation": "A vehicle exiting a minor road onto a major road does not get the right-of-way priority; give way to traffic on the major road (Reg. 9(2)).",
   "languages": {
    "en": {
     "question": "You are on a minor road joining a main road. You should:",
@@ -123,7 +124,7 @@
      "Speed up and merge",
      "Stop only at night"
     ],
-    "explanation": "Traffic on the main road has priority over vehicles joining from a minor road."
+    "explanation": "A vehicle exiting a minor road onto a major road does not get the right-of-way priority; give way to traffic on the major road (Reg. 9(2))."
    }
   },
   "applicableVehicleClasses": [
@@ -132,10 +133,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 9(2)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 9(2)"
  },
  {
   "id": "q-row-004",
@@ -171,8 +173,8 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "sourceUrl": "https://parivahan.gov.in",
+  "sourceDoc": "Not yet confirmed against an official source",
   "retrievedOn": null,
   "verified": false
  },
@@ -189,7 +191,7 @@
    "False"
   ],
   "correctAnswer": 0,
-  "explanation": "The uphill vehicle has more difficulty restarting, so the descending vehicle should give way.",
+  "explanation": "On narrow mountain or steep roads the downhill driver must stop on the left side and let the uphill vehicle pass first (Reg. 21(1)).",
   "languages": {
    "en": {
     "question": "On a narrow hill road, the vehicle going downhill should give way to the vehicle going uphill.",
@@ -197,7 +199,7 @@
      "True",
      "False"
     ],
-    "explanation": "The uphill vehicle has more difficulty restarting, so the descending vehicle should give way."
+    "explanation": "On narrow mountain or steep roads the downhill driver must stop on the left side and let the uphill vehicle pass first (Reg. 21(1))."
    }
   },
   "applicableVehicleClasses": [
@@ -206,10 +208,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 21(1)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 21(1)"
  },
  {
   "id": "q-row-006",
@@ -224,7 +227,7 @@
    "False"
   ],
   "correctAnswer": 1,
-  "explanation": "Do not enter a junction unless your exit is clear, to avoid blocking other traffic.",
+  "explanation": "Slow down at every intersection and do not enter if you could endanger others, or if the intersection has come to a standstill, even with a signal to proceed (Reg. 9).",
   "languages": {
    "en": {
     "question": "You may enter a junction even if your exit is blocked and you would obstruct cross traffic.",
@@ -232,7 +235,7 @@
      "True",
      "False"
     ],
-    "explanation": "Do not enter a junction unless your exit is clear, to avoid blocking other traffic."
+    "explanation": "Slow down at every intersection and do not enter if you could endanger others, or if the intersection has come to a standstill, even with a signal to proceed (Reg. 9)."
    }
   },
   "applicableVehicleClasses": [
@@ -241,10 +244,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 9",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 9"
  },
  {
   "id": "q-row-007",
@@ -253,25 +257,25 @@
   "lessonId": "row-1",
   "type": "mcq",
   "difficulty": 1,
-  "question": "At an unmarked crossing where two roads of equal importance meet, the safest approach is to:",
+  "question": "At an intersection with no signs or signals, which vehicle generally has the right of way?",
   "options": [
-   "Slow down, look both ways and give way as required",
-   "Honk and go",
-   "Accelerate",
-   "Stop and wait for the other to leave without looking"
+   "The vehicle approaching from your right",
+   "The vehicle approaching from your left",
+   "The faster vehicle",
+   "The larger vehicle"
   ],
   "correctAnswer": 0,
-  "explanation": "Approach slowly, observe, and give way as required by the rules and traffic conditions.",
+  "explanation": "Vehicles approaching from the right generally have the right of way, except where signals, manual control or mandatory signs apply, or when exiting a minor road onto a major one (Reg. 9(2)).",
   "languages": {
    "en": {
-    "question": "At an unmarked crossing where two roads of equal importance meet, the safest approach is to:",
+    "question": "At an intersection with no signs or signals, which vehicle generally has the right of way?",
     "options": [
-     "Slow down, look both ways and give way as required",
-     "Honk and go",
-     "Accelerate",
-     "Stop and wait for the other to leave without looking"
+     "The vehicle approaching from your right",
+     "The vehicle approaching from your left",
+     "The faster vehicle",
+     "The larger vehicle"
     ],
-    "explanation": "Approach slowly, observe, and give way as required by the rules and traffic conditions."
+    "explanation": "Vehicles approaching from the right generally have the right of way, except where signals, manual control or mandatory signs apply, or when exiting a minor road onto a major one (Reg. 9(2))."
    }
   },
   "applicableVehicleClasses": [
@@ -280,10 +284,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 9(2)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 9(2)"
  },
  {
   "id": "q-row-008",
@@ -292,7 +297,7 @@
   "lessonId": "row-2",
   "type": "mcq",
   "difficulty": 1,
-  "question": "A pedestrian is crossing at a zebra crossing. You should:",
+  "question": "A pedestrian is crossing at an uncontrolled pedestrian (zebra) crossing. You should:",
   "options": [
    "Stop and let them cross",
    "Honk to hurry them",
@@ -300,27 +305,27 @@
    "Flash headlights and proceed"
   ],
   "correctAnswer": 0,
-  "explanation": "Pedestrians on a zebra crossing have priority; stop and give way.",
+  "explanation": "Approaching an uncontrolled pedestrian crossing, slow down, stop and give way to pedestrians (Reg. 39(1)).",
   "languages": {
    "en": {
-    "question": "A pedestrian is crossing at a zebra crossing. You should:",
+    "question": "A pedestrian is crossing at an uncontrolled pedestrian (zebra) crossing. You should:",
     "options": [
      "Stop and let them cross",
      "Honk to hurry them",
      "Drive around quickly",
      "Flash headlights and proceed"
     ],
-    "explanation": "Pedestrians on a zebra crossing have priority; stop and give way."
+    "explanation": "Approaching an uncontrolled pedestrian crossing, slow down, stop and give way to pedestrians (Reg. 39(1))."
    },
    "hi": {
-    "question": "ज़ेब्रा क्रॉसिंग पर एक पैदल यात्री सड़क पार कर रहा है। आपको क्या करना चाहिए?",
+    "question": "एक पैदल यात्री बिना सिग्नल वाली पैदल (ज़ेब्रा) क्रॉसिंग पर सड़क पार कर रहा है। आपको क्या करना चाहिए?",
     "options": [
      "रुककर उसे पार करने दें",
      "उसे जल्दी करने के लिए हॉर्न बजाएँ",
      "तेजी से बगल से निकल जाएँ",
      "लाइट चमकाकर आगे बढ़ें"
     ],
-    "explanation": "ज़ेब्रा क्रॉसिंग पर पैदल यात्री को प्राथमिकता होती है; रुकें और रास्ता दें।"
+    "explanation": "बिना सिग्नल वाली पैदल क्रॉसिंग के पास धीमे हों, रुकें और पैदल यात्रियों को रास्ता दें।"
    }
   },
   "applicableVehicleClasses": [
@@ -329,10 +334,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 39(1)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 39(1)"
  },
  {
   "id": "q-row-009",
@@ -347,7 +353,7 @@
    "False"
   ],
   "correctAnswer": 1,
-  "explanation": "Never overtake a vehicle stopped at a crossing; a pedestrian may be hidden from your view.",
+  "explanation": "Overtaking at junctions, intersections and pedestrian crossings is prohibited (Reg. 14(5)(e)).",
   "languages": {
    "en": {
     "question": "You may overtake a vehicle that has stopped at a zebra crossing to let pedestrians cross.",
@@ -355,7 +361,7 @@
      "True",
      "False"
     ],
-    "explanation": "Never overtake a vehicle stopped at a crossing; a pedestrian may be hidden from your view."
+    "explanation": "Overtaking at junctions, intersections and pedestrian crossings is prohibited (Reg. 14(5)(e))."
    }
   },
   "applicableVehicleClasses": [
@@ -364,10 +370,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 14(5)(e)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 14(5)(e)"
  },
  {
   "id": "q-row-010",
@@ -384,7 +391,7 @@
    "Ignore"
   ],
   "correctAnswer": 0,
-  "explanation": "Give way to visually impaired pedestrians and give them plenty of time.",
+  "explanation": "Drivers must take special care of vulnerable road users, including children and differently-abled people (Reg. 5(4)). Give them time and room.",
   "languages": {
    "en": {
     "question": "You see a person with a white cane waiting to cross. You should:",
@@ -394,7 +401,7 @@
      "Pass closely",
      "Ignore"
     ],
-    "explanation": "Give way to visually impaired pedestrians and give them plenty of time."
+    "explanation": "Drivers must take special care of vulnerable road users, including children and differently-abled people (Reg. 5(4)). Give them time and room."
    }
   },
   "applicableVehicleClasses": [
@@ -403,10 +410,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 5(4)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 5(4)"
  },
  {
   "id": "q-row-011",
@@ -423,7 +431,7 @@
    "Overtake"
   ],
   "correctAnswer": 0,
-  "explanation": "Children are unpredictable; slow down and be prepared to stop.",
+  "explanation": "Take special care of children (Reg. 5(4)); near schools where signs indicate it, speed is limited to 25 km/h (Reg. 16(5)).",
   "languages": {
    "en": {
     "question": "Near a school at closing time you should:",
@@ -433,7 +441,7 @@
      "Use the horn continuously",
      "Overtake"
     ],
-    "explanation": "Children are unpredictable; slow down and be prepared to stop."
+    "explanation": "Take special care of children (Reg. 5(4)); near schools where signs indicate it, speed is limited to 25 km/h (Reg. 16(5))."
    }
   },
   "applicableVehicleClasses": [
@@ -442,10 +450,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 5(4), 16(5)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 5(4), 16(5)"
  },
  {
   "id": "q-row-012",
@@ -460,7 +469,7 @@
    "False"
   ],
   "correctAnswer": 1,
-  "explanation": "Parking or stopping on a pedestrian crossing is not allowed; it blocks pedestrians.",
+  "explanation": "Parking is not allowed on footpaths, cycle tracks or pedestrian crossings (Reg. 22(2)(c)).",
   "languages": {
    "en": {
     "question": "It is permitted to park on a pedestrian crossing if you stay in the vehicle.",
@@ -468,7 +477,7 @@
      "True",
      "False"
     ],
-    "explanation": "Parking or stopping on a pedestrian crossing is not allowed; it blocks pedestrians."
+    "explanation": "Parking is not allowed on footpaths, cycle tracks or pedestrian crossings (Reg. 22(2)(c))."
    }
   },
   "applicableVehicleClasses": [
@@ -477,10 +486,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 22(2)(c)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 22(2)(c)"
  },
  {
   "id": "q-row-013",
@@ -497,7 +507,7 @@
    "Speed up"
   ],
   "correctAnswer": 0,
-  "explanation": "Pedestrians already crossing should be allowed to complete the crossing.",
+  "explanation": "When turning, yield to pedestrians at uncontrolled crossings (Reg. 8).",
   "languages": {
    "en": {
     "question": "When turning at a junction where pedestrians are crossing the road you are entering, you should:",
@@ -507,7 +517,7 @@
      "Honk",
      "Speed up"
     ],
-    "explanation": "Pedestrians already crossing should be allowed to complete the crossing."
+    "explanation": "When turning, yield to pedestrians at uncontrolled crossings (Reg. 8)."
    }
   },
   "applicableVehicleClasses": [
@@ -516,10 +526,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 8",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 8"
  },
  {
   "id": "q-row-014",
@@ -536,7 +547,7 @@
    "Stop suddenly in the middle of the road"
   ],
   "correctAnswer": 0,
-  "explanation": "Give way to emergency vehicles by moving safely to the left and slowing or stopping if needed.",
+  "explanation": "Give way to an emergency vehicle by driving to the left as close as practicable to the kerb (Reg. 27(5)(a)).",
   "languages": {
    "en": {
     "question": "An ambulance with a siren approaches from behind. You should:",
@@ -546,7 +557,7 @@
      "Stay in the middle",
      "Stop suddenly in the middle of the road"
     ],
-    "explanation": "Give way to emergency vehicles by moving safely to the left and slowing or stopping if needed."
+    "explanation": "Give way to an emergency vehicle by driving to the left as close as practicable to the kerb (Reg. 27(5)(a))."
    },
    "hi": {
     "question": "पीछे से सायरन बजाती एम्बुलेंस आ रही है। आपको क्या करना चाहिए?",
@@ -565,10 +576,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 27(5)(a)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 27(5)(a)"
  },
  {
   "id": "q-row-015",
@@ -585,7 +597,7 @@
    "Footpath side"
   ],
   "correctAnswer": 0,
-  "explanation": "In left-hand traffic you normally overtake on the right, unless the vehicle ahead is turning right or other exceptions apply.",
+  "explanation": "A vehicle shall be overtaken only from the right side, with the exceptions listed in the regulation (Reg. 14(2)).",
   "languages": {
    "en": {
     "question": "Normally you should overtake a vehicle on its:",
@@ -595,7 +607,7 @@
      "Either side freely",
      "Footpath side"
     ],
-    "explanation": "In left-hand traffic you normally overtake on the right, unless the vehicle ahead is turning right or other exceptions apply."
+    "explanation": "A vehicle shall be overtaken only from the right side, with the exceptions listed in the regulation (Reg. 14(2))."
    }
   },
   "applicableVehicleClasses": [
@@ -604,10 +616,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 14(2)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 14(2)"
  },
  {
   "id": "q-row-016",
@@ -622,7 +635,7 @@
    "False"
   ],
   "correctAnswer": 1,
-  "explanation": "Do not overtake on bends, near crests or where your view ahead is not clear.",
+  "explanation": "Do not overtake on a bend or corner, or where the road ahead is not clearly visible (Reg. 14(5)(d)).",
   "languages": {
    "en": {
     "question": "Overtaking on a curve or bend is safe if you honk.",
@@ -630,7 +643,7 @@
      "True",
      "False"
     ],
-    "explanation": "Do not overtake on bends, near crests or where your view ahead is not clear."
+    "explanation": "Do not overtake on a bend or corner, or where the road ahead is not clearly visible (Reg. 14(5)(d))."
    }
   },
   "applicableVehicleClasses": [
@@ -639,10 +652,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 14(5)(d)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 14(5)(d)"
  },
  {
   "id": "q-row-017",
@@ -657,7 +671,7 @@
    "False"
   ],
   "correctAnswer": 0,
-  "explanation": "Increasing speed makes overtaking dangerous; allow the overtaking vehicle to pass.",
+  "explanation": "The driver being overtaken must not speed up or obstruct the overtaking vehicle (Reg. 14(9)).",
   "languages": {
    "en": {
     "question": "A driver being overtaken should not increase speed.",
@@ -665,7 +679,7 @@
      "True",
      "False"
     ],
-    "explanation": "Increasing speed makes overtaking dangerous; allow the overtaking vehicle to pass."
+    "explanation": "The driver being overtaken must not speed up or obstruct the overtaking vehicle (Reg. 14(9))."
    }
   },
   "applicableVehicleClasses": [
@@ -674,10 +688,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 14(9)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 14(9)"
  },
  {
   "id": "q-row-018",
@@ -694,7 +709,7 @@
    "Honk repeatedly"
   ],
   "correctAnswer": 0,
-  "explanation": "A safe gap gives you time to react and stop.",
+  "explanation": "Keep enough distance to stop safely if the vehicle ahead slows or stops suddenly; keep more in rain or poor weather (Reg. 17).",
   "languages": {
    "en": {
     "question": "The safest way to follow another vehicle is to:",
@@ -704,7 +719,7 @@
      "Use high beam",
      "Honk repeatedly"
     ],
-    "explanation": "A safe gap gives you time to react and stop."
+    "explanation": "Keep enough distance to stop safely if the vehicle ahead slows or stops suddenly; keep more in rain or poor weather (Reg. 17)."
    }
   },
   "applicableVehicleClasses": [
@@ -713,10 +728,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 17",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 17"
  },
  {
   "id": "q-row-019",
@@ -731,7 +747,7 @@
    "False"
   ],
   "correctAnswer": 1,
-  "explanation": "Overtaking near crossings is dangerous and generally prohibited.",
+  "explanation": "Overtaking at pedestrian crossings is prohibited (Reg. 14(5)(e)).",
   "languages": {
    "en": {
     "question": "You may overtake near a pedestrian crossing.",
@@ -739,7 +755,7 @@
      "True",
      "False"
     ],
-    "explanation": "Overtaking near crossings is dangerous and generally prohibited."
+    "explanation": "Overtaking at pedestrian crossings is prohibited (Reg. 14(5)(e))."
    }
   },
   "applicableVehicleClasses": [
@@ -748,10 +764,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 14(5)(e)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 14(5)(e)"
  },
  {
   "id": "q-row-020",
@@ -768,7 +785,7 @@
    "Ignore it"
   ],
   "correctAnswer": 0,
-  "explanation": "Emergency vehicles on duty must be given priority.",
+  "explanation": "Emergency vehicles with horn and flasher on have the right of way; other drivers must give way (Reg. 27).",
   "languages": {
    "en": {
     "question": "A fire engine is approaching with its bell or siren. You must:",
@@ -778,7 +795,7 @@
      "Block the lane",
      "Ignore it"
     ],
-    "explanation": "Emergency vehicles on duty must be given priority."
+    "explanation": "Emergency vehicles with horn and flasher on have the right of way; other drivers must give way (Reg. 27)."
    }
   },
   "applicableVehicleClasses": [
@@ -787,9 +804,10 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 27",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 27"
  }
 ]

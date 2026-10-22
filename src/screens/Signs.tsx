@@ -85,7 +85,8 @@ export default function Signs() {
             <h2 className="mt-2 text-xl font-black">{nm(detail)}</h2>
             <p className="text-xs font-extrabold uppercase text-teal-600">{t('signs.' + detail.category)}</p>
             <p className="mt-2 text-sm font-semibold">{mn(detail)}</p>
-            {detail.imagePlaceholder && <p className="muted mt-2 text-xs">{t('signs.placeholder')}</p>}
+            <p className="muted mt-2 text-xs">{detail.verified ? `✔ ${t('signs.verified')} (${detail.sourceDoc.split(' - ')[1] ?? ''})` : `⚠ ${t('signs.unverified')}`}</p>
+            {detail.imagePlaceholder && <p className="muted mt-1 text-xs">{t('signs.placeholder')}</p>}
             <button className="btn mt-4" onClick={() => setDetail(null)}>OK</button>
           </div>
         )}

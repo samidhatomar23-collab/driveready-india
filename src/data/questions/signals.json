@@ -8,33 +8,33 @@
   "difficulty": 1,
   "question": "To signal a right turn by hand, you extend your right arm:",
   "options": [
-   "Horizontally, palm facing forward",
+   "Horizontally, outside and to the right of the vehicle",
    "Straight down",
    "Pointing upward",
    "Rotating anti-clockwise"
   ],
   "correctAnswer": 0,
-  "explanation": "A right turn is signalled by extending the right arm horizontally out of the window.",
+  "explanation": "Hand signals are for when no indicator is fitted or working. To turn right, extend the right arm horizontally outside and to the right of the vehicle (Reg. 11(2)(ii)).",
   "languages": {
    "en": {
     "question": "To signal a right turn by hand, you extend your right arm:",
     "options": [
-     "Horizontally, palm facing forward",
+     "Horizontally, outside and to the right of the vehicle",
      "Straight down",
      "Pointing upward",
      "Rotating anti-clockwise"
     ],
-    "explanation": "A right turn is signalled by extending the right arm horizontally out of the window."
+    "explanation": "Hand signals are for when no indicator is fitted or working. To turn right, extend the right arm horizontally outside and to the right of the vehicle (Reg. 11(2)(ii))."
    },
    "hi": {
     "question": "हाथ से दाएँ मुड़ने का संकेत देने के लिए आप दायाँ हाथ कैसे फैलाते हैं?",
     "options": [
-     "क्षैतिज, हथेली आगे की ओर",
+     "वाहन के बाहर दाईं ओर क्षैतिज (सीधा)",
      "सीधा नीचे",
      "ऊपर की ओर",
      "वामावर्त घुमाते हुए"
     ],
-    "explanation": "दाएँ मुड़ने का संकेत दायाँ हाथ खिड़की से बाहर क्षैतिज फैलाकर दिया जाता है।"
+    "explanation": "जब इंडिकेटर न हो या काम न करे, दाएँ मुड़ने के लिए दायाँ हाथ वाहन के बाहर दाईं ओर क्षैतिज फैलाएँ।"
    }
   },
   "applicableVehicleClasses": [
@@ -43,11 +43,11 @@
   "statesApplicable": [
    "all"
   ],
-  "ruleRef": "Rules of the Road Regulations 2017 - signals",
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "ruleRef": "Reg. 11(2)(ii)",
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 11(2)(ii)",
+  "retrievedOn": "2026-10-22",
+  "verified": true
  },
  {
   "id": "q-signals-002",
@@ -56,25 +56,25 @@
   "lessonId": "sig-1",
   "type": "mcq",
   "difficulty": 1,
-  "question": "Moving the right arm up and down signals that you intend to:",
+  "question": "Raising your right forearm vertically outside the vehicle, palm to the right, signals that you intend to:",
   "options": [
-   "Slow down or stop",
+   "Stop",
    "Turn left",
    "Turn right",
    "Overtake"
   ],
   "correctAnswer": 0,
-  "explanation": "The up-and-down arm movement indicates slowing down or stopping.",
+  "explanation": "To signal a stop by hand, raise the right forearm vertically outside and to the right of the vehicle (Reg. 11(2)(i)). The regulation has no separate hand signal for slowing down.",
   "languages": {
    "en": {
-    "question": "Moving the right arm up and down signals that you intend to:",
+    "question": "Raising your right forearm vertically outside the vehicle, palm to the right, signals that you intend to:",
     "options": [
-     "Slow down or stop",
+     "Stop",
      "Turn left",
      "Turn right",
      "Overtake"
     ],
-    "explanation": "The up-and-down arm movement indicates slowing down or stopping."
+    "explanation": "To signal a stop by hand, raise the right forearm vertically outside and to the right of the vehicle (Reg. 11(2)(i)). The regulation has no separate hand signal for slowing down."
    }
   },
   "applicableVehicleClasses": [
@@ -83,10 +83,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 11(2)(i)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 11(2)(i)"
  },
  {
   "id": "q-signals-003",
@@ -101,7 +102,7 @@
    "False"
   ],
   "correctAnswer": 0,
-  "explanation": "Early signalling lets others respond safely.",
+  "explanation": "Signal clearly and in good time before changing course or turning (Reg. 11(1), Reg. 8).",
   "languages": {
    "en": {
     "question": "You should signal your intention in good time before turning or changing lanes.",
@@ -109,7 +110,7 @@
      "True",
      "False"
     ],
-    "explanation": "Early signalling lets others respond safely."
+    "explanation": "Signal clearly and in good time before changing course or turning (Reg. 11(1), Reg. 8)."
    }
   },
   "applicableVehicleClasses": [
@@ -118,10 +119,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 11(1)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 11(1)"
  },
  {
   "id": "q-signals-004",
@@ -153,8 +155,8 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "sourceUrl": "https://parivahan.gov.in",
+  "sourceDoc": "Not yet confirmed against an official source",
   "retrievedOn": null,
   "verified": false
  },
@@ -173,7 +175,7 @@
    "Reverse"
   ],
   "correctAnswer": 0,
-  "explanation": "This is the traditional hand signal for a left turn.",
+  "explanation": "To signal a left turn by hand, extend the right arm and rotate it anti-clockwise (Reg. 11(2)(iii)).",
   "languages": {
    "en": {
     "question": "An anticlockwise circular motion of the right arm signals that you intend to:",
@@ -183,7 +185,7 @@
      "Stop",
      "Reverse"
     ],
-    "explanation": "This is the traditional hand signal for a left turn."
+    "explanation": "To signal a left turn by hand, extend the right arm and rotate it anti-clockwise (Reg. 11(2)(iii))."
    }
   },
   "applicableVehicleClasses": [
@@ -192,10 +194,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 11(2)(iii)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 11(2)(iii)"
  },
  {
   "id": "q-signals-006",
@@ -212,7 +215,7 @@
    "In heavy rain only"
   ],
   "correctAnswer": 0,
-  "explanation": "Use hazard lights to warn others when your vehicle is stationary or obstructing traffic unavoidably.",
+  "explanation": "When a vehicle breaks down, switch on the hazard warning lights immediately (Reg. 28); hazard lights are also used after a minor accident and when towing (Reg. 29, 30).",
   "languages": {
    "en": {
     "question": "Hazard (four-way) lamps should be used:",
@@ -222,7 +225,7 @@
      "At all junctions",
      "In heavy rain only"
     ],
-    "explanation": "Use hazard lights to warn others when your vehicle is stationary or obstructing traffic unavoidably."
+    "explanation": "When a vehicle breaks down, switch on the hazard warning lights immediately (Reg. 28); hazard lights are also used after a minor accident and when towing (Reg. 29, 30)."
    }
   },
   "applicableVehicleClasses": [
@@ -231,10 +234,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 28",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 28"
  },
  {
   "id": "q-signals-007",
@@ -251,7 +255,7 @@
    "Speed limit ends"
   ],
   "correctAnswer": 0,
-  "explanation": "A continuous centre line must not be crossed (or straddled).",
+  "explanation": "Do not drive on or over a single or double solid longitudinal line, except when there is an obstruction (Reg. 6(6)).",
   "languages": {
    "en": {
     "question": "A solid white line along the centre of the road means:",
@@ -261,7 +265,7 @@
      "Parking allowed",
      "Speed limit ends"
     ],
-    "explanation": "A continuous centre line must not be crossed (or straddled)."
+    "explanation": "Do not drive on or over a single or double solid longitudinal line, except when there is an obstruction (Reg. 6(6))."
    },
    "hi": {
     "question": "सड़क के बीच में ठोस सफेद रेखा का अर्थ है:",
@@ -280,10 +284,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 6(6)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 6(6)"
  },
  {
   "id": "q-signals-008",
@@ -319,8 +324,8 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "sourceUrl": "https://parivahan.gov.in",
+  "sourceDoc": "Not yet confirmed against an official source",
   "retrievedOn": null,
   "verified": false
  },
@@ -339,7 +344,7 @@
    "Anywhere"
   ],
   "correctAnswer": 0,
-  "explanation": "Stop behind the line so pedestrians and cross traffic are not obstructed.",
+  "explanation": "Stop before the stop line at a red signal (Reg. 12(1)(a)) and before the STOP line at a STOP sign (Reg. 7(1)(a)).",
   "languages": {
    "en": {
     "question": "Where should you stop at a signal or stop sign with a stop line marked?",
@@ -349,7 +354,7 @@
      "Past the line",
      "Anywhere"
     ],
-    "explanation": "Stop behind the line so pedestrians and cross traffic are not obstructed."
+    "explanation": "Stop before the stop line at a red signal (Reg. 12(1)(a)) and before the STOP line at a STOP sign (Reg. 7(1)(a))."
    }
   },
   "applicableVehicleClasses": [
@@ -358,10 +363,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 12(1)(a)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 12(1)(a)"
  },
  {
   "id": "q-signals-010",
@@ -397,8 +403,8 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
+  "sourceUrl": "https://parivahan.gov.in",
+  "sourceDoc": "Not yet confirmed against an official source",
   "retrievedOn": null,
   "verified": false
  },
@@ -415,7 +421,7 @@
    "False"
   ],
   "correctAnswer": 1,
-  "explanation": "Keep zebra crossings clear; stop behind the stop line.",
+  "explanation": "Do not block a pedestrian crossing even when traffic is stopped (Reg. 39); stop before the stop line (Reg. 12(1)(a)).",
   "languages": {
    "en": {
     "question": "You may stop on a zebra crossing if the signal ahead is red and the queue is long.",
@@ -423,7 +429,7 @@
      "True",
      "False"
     ],
-    "explanation": "Keep zebra crossings clear; stop behind the stop line."
+    "explanation": "Do not block a pedestrian crossing even when traffic is stopped (Reg. 39); stop before the stop line (Reg. 12(1)(a))."
    }
   },
   "applicableVehicleClasses": [
@@ -432,10 +438,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 39",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 39"
  },
  {
   "id": "q-signals-012",
@@ -452,7 +459,7 @@
    "Turn left freely"
   ],
   "correctAnswer": 0,
-  "explanation": "Red means stop and wait behind the line.",
+  "explanation": "At red, stop before the stop line preceding the pedestrian crossing (Reg. 12(1)(a)).",
   "languages": {
    "en": {
     "question": "A steady red traffic light means:",
@@ -462,7 +469,7 @@
      "Proceed with caution",
      "Turn left freely"
     ],
-    "explanation": "Red means stop and wait behind the line."
+    "explanation": "At red, stop before the stop line preceding the pedestrian crossing (Reg. 12(1)(a))."
    },
    "hi": {
     "question": "ट्रैफिक लाइट में स्थिर लाल बत्ती का अर्थ है:",
@@ -481,10 +488,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 12(1)(a)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 12(1)(a)"
  },
  {
   "id": "q-signals-013",
@@ -495,23 +503,23 @@
   "difficulty": 1,
   "question": "A steady amber (yellow) light means:",
   "options": [
-   "Prepare to stop",
-   "Speed up",
+   "Stop before the stop line, unless you are too close to stop safely",
+   "Speed up to cross",
    "Go",
    "Reverse"
   ],
   "correctAnswer": 0,
-  "explanation": "Amber warns that the signal is about to turn red; stop if you can do so safely.",
+  "explanation": "At amber, stop before the stop line or crossing, unless you have already crossed it or are too close to stop safely (Reg. 12).",
   "languages": {
    "en": {
     "question": "A steady amber (yellow) light means:",
     "options": [
-     "Prepare to stop",
-     "Speed up",
+     "Stop before the stop line, unless you are too close to stop safely",
+     "Speed up to cross",
      "Go",
      "Reverse"
     ],
-    "explanation": "Amber warns that the signal is about to turn red; stop if you can do so safely."
+    "explanation": "At amber, stop before the stop line or crossing, unless you have already crossed it or are too close to stop safely (Reg. 12)."
    }
   },
   "applicableVehicleClasses": [
@@ -520,10 +528,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 12",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 12"
  },
  {
   "id": "q-signals-014",
@@ -540,7 +549,7 @@
    "Road closed"
   ],
   "correctAnswer": 0,
-  "explanation": "A flashing amber requires caution; give way as needed.",
+  "explanation": "At flashing amber, slow down and proceed with caution, giving way to pedestrians and vehicles already in the intersection (Reg. 12(3)(c)).",
   "languages": {
    "en": {
     "question": "A flashing amber light means:",
@@ -550,7 +559,7 @@
      "Speed up",
      "Road closed"
     ],
-    "explanation": "A flashing amber requires caution; give way as needed."
+    "explanation": "At flashing amber, slow down and proceed with caution, giving way to pedestrians and vehicles already in the intersection (Reg. 12(3)(c))."
    }
   },
   "applicableVehicleClasses": [
@@ -559,10 +568,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 12(3)(c)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 12(3)(c)"
  },
  {
   "id": "q-signals-015",
@@ -577,7 +587,7 @@
    "False"
   ],
   "correctAnswer": 0,
-  "explanation": "High beam can dazzle oncoming drivers.",
+  "explanation": "The high beam must be dipped in good time when an oncoming vehicle approaches (Reg. 31(4)).",
   "languages": {
    "en": {
     "question": "You should dip your headlights when meeting oncoming traffic at night.",
@@ -585,7 +595,7 @@
      "True",
      "False"
     ],
-    "explanation": "High beam can dazzle oncoming drivers."
+    "explanation": "The high beam must be dipped in good time when an oncoming vehicle approaches (Reg. 31(4))."
    }
   },
   "applicableVehicleClasses": [
@@ -594,10 +604,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 31(4)",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 31(4)"
  },
  {
   "id": "q-signals-016",
@@ -612,7 +623,7 @@
    "False"
   ],
   "correctAnswer": 1,
-  "explanation": "Silence zones prohibit unnecessary horn use.",
+  "explanation": "Unnecessary use of the horn is prohibited (Reg. 23(1)); a silence zone is an area where sound signals are prohibited (Reg. 2(1)(p)).",
   "languages": {
    "en": {
     "question": "Using the horn is permitted in silence zones near hospitals.",
@@ -620,7 +631,7 @@
      "True",
      "False"
     ],
-    "explanation": "Silence zones prohibit unnecessary horn use."
+    "explanation": "Unnecessary use of the horn is prohibited (Reg. 23(1)); a silence zone is an area where sound signals are prohibited (Reg. 2(1)(p))."
    }
   },
   "applicableVehicleClasses": [
@@ -629,10 +640,11 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 23",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 23"
  },
  {
   "id": "q-signals-017",
@@ -649,7 +661,7 @@
    "No lamps if road is lit"
   ],
   "correctAnswer": 0,
-  "explanation": "Use proper lighting between sunset and sunrise and in poor visibility.",
+  "explanation": "Use the required lights at nightfall, at night, at dawn and in poor visibility (Reg. 31).",
   "languages": {
    "en": {
     "question": "At night, you should switch on:",
@@ -659,7 +671,7 @@
      "Only hazard lamps",
      "No lamps if road is lit"
     ],
-    "explanation": "Use proper lighting between sunset and sunrise and in poor visibility."
+    "explanation": "Use the required lights at nightfall, at night, at dawn and in poor visibility (Reg. 31)."
    }
   },
   "applicableVehicleClasses": [
@@ -668,9 +680,10 @@
   "statesApplicable": [
    "all"
   ],
-  "sourceUrl": "https://indiacode.nic.in",
-  "sourceDoc": "Rules of the Road Regulations, 2017 / Motor Vehicles Act 1988 (original practice item - clause to be verified)",
-  "retrievedOn": null,
-  "verified": false
+  "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+  "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 31",
+  "retrievedOn": "2026-10-22",
+  "verified": true,
+  "ruleRef": "Reg. 31"
  }
 ]
