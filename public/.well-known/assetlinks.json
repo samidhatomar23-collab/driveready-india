@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.driveready_india.twa",
+        "sha256_cert_fingerprints": ["5F:C5:C8:47:35:60:D0:62:F5:6F:86:AA:CA:FD:FD:2D:A0:89:E8:2B:A7:97:48:D2:66:75:F6:16:18:39:10:70"]
+      }
+    }]
