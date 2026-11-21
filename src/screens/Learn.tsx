@@ -2,7 +2,7 @@ import { useMemo, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { dayKey, levelOf, useStore } from '../lib/store';
-import { tr, units } from '../lib/content';
+import { pick, tr, units } from '../lib/content';
 import { Sheet } from '../components/Sheet';
 import Footer from '../components/Footer';
 import type { Lesson, Unit } from '../types';
@@ -39,7 +39,7 @@ export default function Learn() {
       {units.map(u => (
         <section key={u.id} className="mt-6 px-4" aria-label={u.title}>
           <div className="rounded-2xl px-4 py-3 text-white" style={{ background: u.color, opacity: u.available ? 1 : 0.55 }}>
-            <p className="text-lg font-black">{u.icon} {lang === 'hi' ? u.title_hi ?? u.title : u.title}</p>
+            <p className="text-lg font-black">{u.icon} {pick(u, 'title', lang)}</p>
             {!u.available && <p className="text-xs font-bold opacity-90">{t('learn.soon')}</p>}
           </div>
           {u.available && (
@@ -49,7 +49,7 @@ export default function Learn() {
                 const offset = [0, 38, 0, -38][i % 4];
                 return (
                   <li key={l.id} style={{ transform: `translateX(${offset}px)` }}>
-                    <motion.button whileTap={{ scale: 0.94 }} aria-label={`${lang === 'hi' ? l.title_hi ?? l.title : l.title}${unlocked ? '' : ' - ' + t('learn.locked')}`}
+                    <motion.button whileTap={{ scale: 0.94 }} aria-label={`${pick(l, 'title', lang)}${unlocked ? '' : ' - ' + t('learn.locked')}`}
                       onClick={() => setOpen({ lesson: l, unit: u, unlocked })}
                       className="flex h-[76px] w-[76px] items-center justify-center rounded-full text-3xl text-white"
                       style={{ background: !unlocked ? '#a9b8bf' : done ? '#f5a000' : u.color, boxShadow: `0 6px 0 0 ${!unlocked ? '#7d8d95' : done ? '#9a6200' : '#0006'}` }}>
@@ -67,8 +67,8 @@ export default function Learn() {
 
       <Sheet open={!!open} onClose={() => setOpen(null)} label="Lesson">
         {open && (<div>
-          <p className="text-xs font-extrabold uppercase text-teal-600">{open.lesson.checkpoint ? t('learn.checkpoint') : (lang === 'hi' ? open.unit.title_hi : open.unit.title)}</p>
-          <h2 className="text-xl font-black">{lang === 'hi' ? open.lesson.title_hi ?? open.lesson.title : open.lesson.title}</h2>
+          <p className="text-xs font-extrabold uppercase text-teal-600">{open.lesson.checkpoint ? t('learn.checkpoint') : pick(open.unit, 'title', lang)}</p>
+          <h2 className="text-xl font-black">{pick(open.lesson, 'title', lang)}</h2>
           <p className="muted text-sm">{open.lesson.perSession} {t('test.questions').toLowerCase()}</p>
           {open.unlocked
             ? <button className="btn mt-4" onClick={() => nav(`/lesson/${open.lesson.id}`)}>{t('learn.start')}</button>

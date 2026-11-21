@@ -1,3 +1,5 @@
+// DEPRECATED - DO NOT RE-RUN. This generated the original unverified sample content.
+// The JSON in src/data has since been checked against official sources and edited directly; re-running this would overwrite that work.
 // Generates the Phase 1 SAMPLE content (src/data/*.json).
 // All items are ORIGINAL practice items written from commonly taught rules.
 // NOTHING here is marked verified:true. Each must be checked against the cited

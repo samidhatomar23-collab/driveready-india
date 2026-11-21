@@ -1,24 +1,28 @@
 {
- "lastUpdated": null,
- "note": "SAMPLE entries - amounts are NOT verified. Load verified figures from India Code (MV Act 1988 as amended 2019) and state notifications, then set verified:true.",
+ "lastUpdated": "2026-11-16",
+ "note": "Amounts filled from secondary sources on 2026-11-16; NOT verified against India Code. Not shown in the app yet.",
  "items": [
   {
    "id": "f1",
    "offence": "Driving without a valid licence",
    "section": "Sec 181",
-   "penalty": "See MV Act 1988 as amended (verify)",
+   "penalty": "Up to 3 months' imprisonment, fine Rs 5,000, or both (secondary source; confirm on India Code)",
    "vehicle": "All",
    "sourceUrl": "https://indiacode.nic.in",
-   "verified": false
+   "verified": false,
+   "auditedOn": "2026-11-16",
+   "auditNote": "Section number consistent with sources checked; amounts from Taxmann (updated 31 Mar 2023) and a PIB summary of the 2019 Act. States may change fines (s.210A)."
   },
   {
    "id": "f2",
    "offence": "Driving without a helmet (two-wheeler)",
    "section": "Sec 129 / 194D",
-   "penalty": "See MV Act 1988 as amended (verify)",
+   "penalty": "Fine Rs 1,000 and 3-month licence disqualification (secondary source; confirm on India Code)",
    "vehicle": "Two-wheeler",
    "sourceUrl": "https://indiacode.nic.in",
-   "verified": false
+   "verified": false,
+   "auditedOn": "2026-11-16",
+   "auditNote": "Section number consistent with sources checked; amounts from Taxmann (updated 31 Mar 2023) and a PIB summary of the 2019 Act. States may change fines (s.210A)."
   },
   {
    "id": "f3",
@@ -27,34 +31,42 @@
    "penalty": "See MV Act 1988 as amended (verify)",
    "vehicle": "Car",
    "sourceUrl": "https://indiacode.nic.in",
-   "verified": false
+   "verified": false,
+   "auditedOn": "2026-11-16",
+   "auditNote": "Section number (194B / 194E) could not be confirmed from the pages checked. Amount not filled."
   },
   {
    "id": "f4",
    "offence": "Over-speeding",
    "section": "Sec 183",
-   "penalty": "See MV Act 1988 as amended (verify)",
+   "penalty": "Light vehicles/motorcycles: Rs 1,000-2,000; medium/heavy: Rs 2,000-4,000 (first offence) (secondary source; confirm on India Code)",
    "vehicle": "All",
    "sourceUrl": "https://indiacode.nic.in",
-   "verified": false
+   "verified": false,
+   "auditedOn": "2026-11-16",
+   "auditNote": "Section number consistent with sources checked; amounts from Taxmann (updated 31 Mar 2023) and a PIB summary of the 2019 Act. States may change fines (s.210A)."
   },
   {
    "id": "f5",
    "offence": "Drunken driving",
    "section": "Sec 185",
-   "penalty": "See MV Act 1988 as amended (verify)",
+   "penalty": "First offence: up to 6 months and/or Rs 10,000; repeat within 3 years: up to 2 years and/or Rs 15,000 (secondary source; confirm on India Code)",
    "vehicle": "All",
    "sourceUrl": "https://indiacode.nic.in",
-   "verified": false
+   "verified": false,
+   "auditedOn": "2026-11-16",
+   "auditNote": "Section number consistent with sources checked; amounts from Taxmann (updated 31 Mar 2023) and a PIB summary of the 2019 Act. States may change fines (s.210A)."
   },
   {
    "id": "f6",
    "offence": "Driving without insurance",
    "section": "Sec 196",
-   "penalty": "See MV Act 1988 as amended (verify)",
+   "penalty": "First offence: up to 3 months and/or Rs 2,000; repeat: up to 3 months and/or Rs 4,000 (secondary source; confirm on India Code)",
    "vehicle": "All",
    "sourceUrl": "https://indiacode.nic.in",
-   "verified": false
+   "verified": false,
+   "auditedOn": "2026-11-16",
+   "auditNote": "Section number consistent with sources checked; amounts from Taxmann (updated 31 Mar 2023) and a PIB summary of the 2019 Act. States may change fines (s.210A)."
   },
   {
    "id": "f7",
@@ -63,7 +75,9 @@
    "penalty": "See MV Act 1988 as amended (verify)",
    "vehicle": "All",
    "sourceUrl": "https://indiacode.nic.in",
-   "verified": false
+   "verified": false,
+   "auditedOn": "2026-11-16",
+   "auditNote": "Section number (194B / 194E) could not be confirmed from the pages checked. Amount not filled."
   }
  ]
 }

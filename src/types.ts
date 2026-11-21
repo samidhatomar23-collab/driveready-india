@@ -1,4 +1,5 @@
-export type Lang = 'en' | 'hi';
+export type Lang = 'en' | 'hi' | 'mr' | 'te' | 'ta';
+export const LANG_CODES: Lang[] = ['en', 'hi', 'mr', 'te', 'ta'];
 export type VehicleClass = 'two-wheeler' | 'motorcycle-gear' | 'car' | 'both';
 export type QuestionType = 'mcq' | 'sign-id' | 'true-false' | 'fill-in' | 'match' | 'order';
 
@@ -23,7 +24,7 @@ export interface Question {
   pairs?: [string, string][];
   explanation: string;
   imageRef?: string; // signId from signs.json or path
-  languages: { en?: LocalizedText; hi?: LocalizedText };
+  languages: Partial<Record<Lang, LocalizedText>>;
   applicableVehicleClasses: VehicleClass[] | ['all'];
   statesApplicable: string[] | ['all'];
   ruleRef?: string;
@@ -60,6 +61,8 @@ export interface Sign {
   retrievedOn?: string | null;
   verified?: boolean;
   imagePlaceholder: boolean;
+  /** official picture file in /public/signs (optional; falls back to the drawn SVG) */
+  image?: string;
 }
 
 export interface StateConfig {

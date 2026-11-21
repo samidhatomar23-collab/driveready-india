@@ -2,8 +2,8 @@ import { Link } from 'react-router-dom';
 import Footer from '../components/Footer';
 import Mascot from '../components/Mascot';
 import { dayKey, levelOf, useStore } from '../lib/store';
-import { getStateConfig, states, tr } from '../lib/content';
-import type { VehicleClass } from '../types';
+import { LANG_LABELS, getStateConfig, states, tr } from '../lib/content';
+import type { Lang, VehicleClass } from '../types';
 
 const VEHICLES: VehicleClass[] = ['two-wheeler', 'motorcycle-gear', 'car', 'both'];
 
@@ -11,7 +11,7 @@ export default function Profile() {
   const { settings, progress, setSettings, resetAll } = useStore();
   const lang = settings.lang; const t = (k: string) => tr(lang, k);
 
-  const week = Array.from({ length: 7 }, (_, i) => { const d = new Date(); d.setDate(d.getDate() - (6 - i)); return { k: dayKey(d), label: d.toLocaleDateString(lang === 'hi' ? 'hi-IN' : 'en-IN', { weekday: 'narrow' }) }; });
+  const week = Array.from({ length: 7 }, (_, i) => { const d = new Date(); d.setDate(d.getDate() - (6 - i)); return { k: dayKey(d), label: d.toLocaleDateString(`${lang}-IN`, { weekday: 'narrow' }) }; });
   const maxXp = Math.max(settings.dailyGoalXp, ...week.map(w => progress.xpByDay[w.k] ?? 0));
   const lessonsDone = Object.values(progress.nodes).filter(n => n.completed).length;
 
@@ -60,8 +60,8 @@ export default function Profile() {
         <select className={select} style={{ background: 'var(--card)', borderColor: 'var(--line)' }} value={settings.vehicleClass} onChange={e => setSettings({ vehicleClass: e.target.value as VehicleClass })}>
           {VEHICLES.map(v => <option key={v} value={v}>{t('veh.' + v)}</option>)}</select>
         <label className="mb-1 mt-3 block text-sm font-bold">{t('onb.language')}</label>
-        <select className={select} style={{ background: 'var(--card)', borderColor: 'var(--line)' }} value={settings.lang} onChange={e => setSettings({ lang: e.target.value as 'en' | 'hi' })}>
-          <option value="en">English</option><option value="hi">हिन्दी</option></select>
+        <select className={select} style={{ background: 'var(--card)', borderColor: 'var(--line)' }} value={settings.lang} onChange={e => setSettings({ lang: e.target.value as Lang })}>
+          {(Object.keys(LANG_LABELS) as Lang[]).map(l => <option key={l} value={l}>{LANG_LABELS[l].full}</option>)}</select>
         <label className="mb-1 mt-3 block text-sm font-bold">{t('onb.goal')}</label>
         <select className={select} style={{ background: 'var(--card)', borderColor: 'var(--line)' }} value={settings.dailyGoalXp} onChange={e => setSettings({ dailyGoalXp: +e.target.value })}>
           {[10, 20, 30, 50].map(g => <option key={g} value={g}>{g} XP</option>)}</select>

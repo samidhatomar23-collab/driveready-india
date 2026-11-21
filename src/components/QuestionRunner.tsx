@@ -1,7 +1,7 @@
 import { useMemo, useRef, useState } from 'react';
 import { AnimatePresence, motion } from 'framer-motion';
-import type { Question } from '../types';
-import { localise, shuffle, signById, tr } from '../lib/content';
+import type { Lang, Question } from '../types';
+import { LANG_LABELS, localise, nextLang, pick, shuffle, signById, tr } from '../lib/content';
 import { useStore } from '../lib/store';
 import { play } from '../lib/sound';
 import { Sheet } from './Sheet';
@@ -61,8 +61,8 @@ export default function QuestionRunner({ questions, useHearts, onFinish, onQuit 
         <div className="h-4 flex-1 overflow-hidden rounded-full" style={{ background: 'var(--line)' }} role="progressbar" aria-valuenow={pct} aria-valuemin={0} aria-valuemax={100}>
           <motion.div className="h-full rounded-full bg-teal-500" animate={{ width: `${Math.max(pct, 4)}%` }} />
         </div>
-        <button onClick={() => setSettings({ lang: lang === 'en' ? 'hi' : 'en' })} className="rounded-lg border-2 px-2 py-1 text-xs font-extrabold" style={{ borderColor: 'var(--line)' }} aria-label="Toggle English / Hindi">
-          {lang === 'en' ? 'हिं' : 'EN'}
+        <button onClick={() => setSettings({ lang: nextLang(lang) })} className="rounded-lg border-2 px-2 py-1 text-xs font-extrabold" style={{ borderColor: 'var(--line)' }} aria-label={tr(lang, 'lang.switch')}>
+          {LANG_LABELS[nextLang(lang)].short}
         </button>
         {useHearts && <span className="font-extrabold text-rose-500" aria-label={`${progress.hearts} hearts`}>❤ {progress.hearts}</span>}
       </header>
@@ -104,9 +104,10 @@ export default function QuestionRunner({ questions, useHearts, onFinish, onQuit 
 }
 
 function QuestionBody({ q, L, lang, locked, onCheck, sheetOpen }: {
-  q: Question; L: ReturnType<typeof localise>; lang: 'en' | 'hi'; locked: boolean; onCheck: (ok: boolean) => void; sheetOpen: boolean;
+  q: Question; L: ReturnType<typeof localise>; lang: Lang; locked: boolean; onCheck: (ok: boolean) => void; sheetOpen: boolean;
 }) {
-  const sign = q.imageRef ? signById(q.imageRef) : undefined;
+  const sign = q.imageRef && !q.imageRef.startsWith('img:') ? signById(q.imageRef) : undefined;
+  const pic = q.imageRef?.startsWith('img:') ? q.imageRef.slice(4) : undefined;
   const [selected, setSelected] = useState<number | null>(null);
 
   // option order is shuffled per question (True/False stays fixed)
@@ -120,7 +121,7 @@ function QuestionBody({ q, L, lang, locked, onCheck, sheetOpen }: {
 
   const rightLabel = (i: number) => {
     const [left, right] = pairs[i];
-    if (lang === 'hi' && left.startsWith('sign:')) return signById(left.slice(5))?.name_hi ?? right;
+    if (lang !== 'en' && left.startsWith('sign:')) { const sg = signById(left.slice(5)); return sg ? pick(sg, 'name', lang) : right; }
     return right;
   };
   const clickLeft = (i: number) => { if (locked) return; play('tap', useStore.getState().settings.sound); setActive(i); };
@@ -144,6 +145,7 @@ function QuestionBody({ q, L, lang, locked, onCheck, sheetOpen }: {
       <h1 className="text-xl font-black leading-snug">{L.question}</h1>
       {isMatch && <p className="muted mb-3 text-sm font-semibold">{tr(lang, 'q.match')}</p>}
       {sign && !isMatch && <div className="my-4 flex justify-center"><SignGraphic sign={sign} size={150} /></div>}
+      {pic && !isMatch && <div className="my-4 flex justify-center"><img src={`/signs/${pic}`} alt="" style={{ maxHeight: 170, maxWidth: '100%', objectFit: 'contain' }} /></div>}
 
       {!isMatch && (
         <div className="mt-4 flex flex-col gap-3" role="group" aria-label="Answer options">

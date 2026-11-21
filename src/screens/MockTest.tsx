@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import SignGraphic from '../components/SignGraphic';
-import { getStateConfig, loadAllQuestions, localise, shuffle, signById, tr } from '../lib/content';
+import { LANG_LABELS, nextLang, getStateConfig, loadAllQuestions, localise, shuffle, signById, tr } from '../lib/content';
 import { eligible } from '../lib/session';
 import { useStore } from '../lib/store';
 import type { Question, TestResult } from '../types';
@@ -17,7 +17,7 @@ export function TestIntro() {
   const { questionCount, passMark, secondsPerQuestion } = cfg.llTest;
   return (
     <div className="mx-auto max-w-md p-4 pb-28">
-      <h1 className="text-xl font-extrabold">{t('test.title')} - Learner's Licence</h1>
+      <h1 className="text-xl font-extrabold">{t('test.title')} - {t('test.ll')}</h1>
       <section className="mt-4 rounded-lg border p-4" style={{ borderColor: 'var(--line)' }}>
         <h2 className="font-bold">{t('test.rules')} {cfg.name}</h2>
         <dl className="mt-2 grid grid-cols-2 gap-y-1 text-sm">
@@ -54,6 +54,7 @@ export function TestRun() {
   const [left, setLeft] = useState(cfg.llTest.secondsPerQuestion);
   const [confirm, setConfirm] = useState(false);
   const [result, setResult] = useState<TestResult | null>(null);
+  const [leaving, setLeaving] = useState(false);
   const startedAt = useRef(Date.now());
 
   useEffect(() => {
@@ -64,6 +65,15 @@ export function TestRun() {
       startedAt.current = Date.now();
     });
     // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, []);
+
+  // Back button during the test: ask before leaving (the browser Back would otherwise drop the whole test)
+  const doneRef = useRef(false); doneRef.current = !!result;
+  useEffect(() => {
+    window.history.pushState({ test: true }, '');
+    const onPop = () => { if (doneRef.current) return; window.history.pushState({ test: true }, ''); setLeaving(true); };
+    window.addEventListener('popstate', onPop);
+    return () => window.removeEventListener('popstate', onPop);
   }, []);
 
   const total = items?.length ?? 0;
@@ -77,43 +87,44 @@ export function TestRun() {
     recordTest(r); setResult(r); setConfirm(false);
   };
 
-  const advance = (ans: number | null) => {
+  const advance = (ans: number | null, auto = false) => {
     const next = [...answers]; next[i] = ans; setAnswers(next);
-    if (last) { if (ans === null) finish(next); else setConfirm(true); return; }
+    if (last) { if (ans === null || auto) finish(next); else setConfirm(true); return; }
     setI(i + 1); setPicked(null); setLeft(cfg.llTest.secondsPerQuestion);
   };
 
   // per-question countdown; on timeout auto-advance (auto-submit on final question)
   const advRef = useRef(advance); advRef.current = advance;
   useEffect(() => {
-    if (!items || result || confirm) return;
+    if (!items || result || confirm || leaving) return;
     const id = setInterval(() => setLeft(s => s - 1), 1000);
     return () => clearInterval(id);
-  }, [items, i, result, confirm]);
+  }, [items, i, result, confirm, leaving]);
   useEffect(() => {
-    if (left <= 0 && items && !result && !confirm) {
+    if (left <= 0 && items && !result && !confirm && !leaving) {
       const it = items[i];
-      advRef.current(picked === null ? null : it.perm[picked]);
+      advRef.current(picked === null ? null : it.perm[picked], true);
     }
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [left]);
 
-  if (!items) return <div className="p-6">Loading…</div>;
+  if (!items) return <div className="p-6">{t('loading')}</div>;
   if (total === 0) return <div className="p-6">{t('test.empty')}</div>;
 
   if (result) return <TestResultView r={result} items={items} onAgain={() => nav('/test', { replace: true })} />;
 
-  const it = items[i]; const L = localise(it.q, lang); const sign = it.q.imageRef ? signById(it.q.imageRef) : undefined;
+  const it = items[i]; const L = localise(it.q, lang); const sign = it.q.imageRef && !it.q.imageRef.startsWith('img:') ? signById(it.q.imageRef) : undefined; const pic = it.q.imageRef?.startsWith('img:') ? it.q.imageRef.slice(4) : undefined;
   return (
     <div className="mx-auto flex h-full max-w-md flex-col p-4">
       <header className="flex items-center justify-between border-b pb-3" style={{ borderColor: 'var(--line)' }}>
         <span className="font-bold">{t('test.questions')} {i + 1}/{total}</span>
-        <button onClick={() => setSettings({ lang: lang === 'en' ? 'hi' : 'en' })} className="rounded border px-2 py-0.5 text-xs font-bold" style={{ borderColor: 'var(--line)' }}>{lang === 'en' ? 'हिं' : 'EN'}</button>
+        <button onClick={() => setSettings({ lang: nextLang(lang) })} className="rounded border px-2 py-0.5 text-xs font-bold" style={{ borderColor: 'var(--line)' }}>{LANG_LABELS[nextLang(lang)].short}</button>
         <span className={`rounded px-2 py-1 font-mono font-bold ${left <= 5 ? 'bg-rose-600 text-white' : 'bg-slate-200 text-slate-800'}`} role="timer" aria-label={`${Math.max(0, left)} seconds left`}>{String(Math.max(0, left)).padStart(2, '0')}s</span>
       </header>
       <main className="flex-1 overflow-y-auto py-4">
         <h1 className="text-lg font-bold">{L.question}</h1>
         {sign && <div className="my-4 flex justify-center"><SignGraphic sign={sign} size={130} /></div>}
+        {pic && <div className="my-4 flex justify-center"><img src={`/signs/${pic}`} alt="" style={{ maxHeight: 150, maxWidth: '100%', objectFit: 'contain' }} /></div>}
         <div className="mt-4 flex flex-col gap-2" role="radiogroup">
           {it.perm.map((orig, k) => (
             <button key={orig} role="radio" aria-checked={picked === k} onClick={() => setPicked(k)}
@@ -126,6 +137,18 @@ export function TestRun() {
       <button className="w-full rounded-lg bg-slate-800 py-3 font-bold text-white disabled:opacity-40" disabled={picked === null} onClick={() => advance(it.perm[picked!])}>
         {last ? t('test.submit') : t('test.next')}
       </button>
+      {leaving && (
+        <div className="fixed inset-0 z-50 flex items-center justify-center bg-black/50 p-6" role="alertdialog" aria-modal="true">
+          <div className="w-full max-w-sm rounded-lg p-5" style={{ background: 'var(--card)' }}>
+            <h2 className="font-bold">{t('lesson.quit')}</h2>
+            <p className="muted mt-1 text-sm">{t('lesson.quit.sub')}</p>
+            <div className="mt-4 flex gap-3">
+              <button className="flex-1 rounded-lg border py-2 font-bold" style={{ borderColor: 'var(--line)' }} onClick={() => setLeaving(false)}>{t('lesson.keep')}</button>
+              <button className="flex-1 rounded-lg bg-slate-800 py-2 font-bold text-white" onClick={() => { setLeaving(false); nav('/', { replace: true }); }}>{t('lesson.exit')}</button>
+            </div>
+          </div>
+        </div>
+      )}
       {confirm && (
         <div className="fixed inset-0 z-40 flex items-center justify-center bg-black/50 p-6" role="alertdialog" aria-modal="true">
           <div className="w-full max-w-sm rounded-lg p-5" style={{ background: 'var(--card)' }}>

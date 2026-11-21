@@ -4,7 +4,7 @@ import SignGraphic from '../components/SignGraphic';
 import QuestionRunner from '../components/QuestionRunner';
 import Mascot from '../components/Mascot';
 import { Sheet } from '../components/Sheet';
-import { makeSignQuiz, signs, tr } from '../lib/content';
+import { makeSignQuiz, pick, signs, tr } from '../lib/content';
 import { useStore } from '../lib/store';
 import type { Sign } from '../types';
 
@@ -19,8 +19,8 @@ export default function Signs() {
   const [detail, setDetail] = useState<Sign | null>(null);
   const [quizKey, setQuizKey] = useState(0);
   const [score, setScore] = useState<null | { right: number; total: number }>(null);
-  const nm = (s: Sign) => (lang === 'hi' ? s.name_hi ?? s.name : s.name);
-  const mn = (s: Sign) => (lang === 'hi' ? s.meaning_hi ?? s.meaning : s.meaning);
+  const nm = (s: Sign) => pick(s, 'name', lang);
+  const mn = (s: Sign) => pick(s, 'meaning', lang);
 
   const list = useMemo(() => signs.filter(s => (cat === 'all' || s.category === cat) &&
     (!query.trim() || (s.name + ' ' + (s.name_hi ?? '') + ' ' + s.meaning).toLowerCase().includes(query.trim().toLowerCase()))), [cat, query]);
@@ -73,7 +73,7 @@ export default function Signs() {
               </button>
             </li>
           ))}
-          {list.length === 0 && <li className="muted col-span-3 text-center text-sm">No signs found.</li>}
+          {list.length === 0 && <li className="muted col-span-3 text-center text-sm">{t('signs.none')}</li>}
         </ul>
       )}
       {mode === 'flash' && <Flashcards list={list} nm={nm} mn={mn} t={t} />}

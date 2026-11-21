@@ -6,7 +6,7 @@
 html.dark { --bg: #0e1a20; --card: #15262e; --fg: #eaf2f4; --muted: #9db0b8; --line: #263a43; --soft: #112027; }
 html.large { font-size: 19px; }
 html, body, #root { height: 100%; }
-body { background: var(--bg); color: var(--fg); font-family: 'Nunito', system-ui, 'Noto Sans Devanagari', sans-serif; -webkit-tap-highlight-color: transparent; overscroll-behavior-y: none; }
+body { background: var(--bg); color: var(--fg); font-family: 'Nunito', 'Noto Sans Devanagari Variable', 'Noto Sans Telugu Variable', 'Noto Sans Tamil Variable', system-ui, sans-serif; -webkit-tap-highlight-color: transparent; overscroll-behavior-y: none; }
 
 @layer components {
   .card { @apply rounded-2xl border-2 p-4; background: var(--card); border-color: var(--line); }

@@ -31,7 +31,7 @@ export default function Lesson() {
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [lessonId]);
 
-  if (!unit || !lesson) return <div className="p-6">Lesson not found.</div>;
+  if (!unit || !lesson) return <div className="p-6">{t('lesson.nf')}</div>;
 
   if (blocked) return <OutOfHearts onBack={() => nav('/')} />;
   if (!qs || blocked === null) return <div className="flex h-full items-center justify-center"><Mascot size={80} /></div>;

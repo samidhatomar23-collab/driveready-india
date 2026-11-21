@@ -5,6 +5,7 @@ const RED = '#d42a3b', BLUE = '#1e5fa8';
 
 /** Placeholder sign illustration drawn in SVG. Replace with official MoRTH artwork when licensed. */
 export default function SignGraphic({ sign, size = 96 }: { sign: Sign; size?: number }) {
+  if (sign.image) return <img src={`/signs/${sign.image}`} width={size} height={size} alt={sign.name} style={{ objectFit: 'contain' }} />;
   const g = sign.glyph;
   const isEmoji = /\p{Extended_Pictographic}/u.test(g);
   const fs = g.length > 3 ? 20 : g.length > 1 ? 34 : isEmoji ? 38 : 48;

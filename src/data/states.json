@@ -10,7 +10,9 @@
   },
   "notes": "Practice format only (15 questions, 9 to pass, 30 seconds each). Your state's real test may differ - check Parivahan/Sarathi or your RTO.",
   "sourceUrl": "https://sarathi.parivahan.gov.in",
-  "verified": false
+  "verified": false,
+  "auditedOn": "2026-11-16",
+  "auditNote": "Practice format (15 questions, 9 to pass, 30 s each) is the app default, not this state's official format. Check the state transport department / Sarathi / RTO before showing it as the real test."
  },
  {
   "code": "MH",
@@ -23,7 +25,9 @@
   },
   "notes": "Practice format only (15 questions, 9 to pass, 30 seconds each). Your state's real test may differ - check Parivahan/Sarathi or your RTO.",
   "sourceUrl": "https://sarathi.parivahan.gov.in",
-  "verified": false
+  "verified": false,
+  "auditedOn": "2026-11-16",
+  "auditNote": "Practice format (15 questions, 9 to pass, 30 s each) is the app default, not this state's official format. Check the state transport department / Sarathi / RTO before showing it as the real test."
  },
  {
   "code": "KA",
@@ -36,7 +40,9 @@
   },
   "notes": "Practice format only (15 questions, 9 to pass, 30 seconds each). Your state's real test may differ - check Parivahan/Sarathi or your RTO.",
   "sourceUrl": "https://sarathi.parivahan.gov.in",
-  "verified": false
+  "verified": false,
+  "auditedOn": "2026-11-16",
+  "auditNote": "Practice format (15 questions, 9 to pass, 30 s each) is the app default, not this state's official format. Check the state transport department / Sarathi / RTO before showing it as the real test."
  },
  {
   "code": "TN",
@@ -49,7 +55,9 @@
   },
   "notes": "Practice format only (15 questions, 9 to pass, 30 seconds each). Your state's real test may differ - check Parivahan/Sarathi or your RTO.",
   "sourceUrl": "https://sarathi.parivahan.gov.in",
-  "verified": false
+  "verified": false,
+  "auditedOn": "2026-11-16",
+  "auditNote": "Practice format (15 questions, 9 to pass, 30 s each) is the app default, not this state's official format. Check the state transport department / Sarathi / RTO before showing it as the real test."
  },
  {
   "code": "UP",
@@ -62,7 +70,9 @@
   },
   "notes": "Practice format only (15 questions, 9 to pass, 30 seconds each). Your state's real test may differ - check Parivahan/Sarathi or your RTO.",
   "sourceUrl": "https://sarathi.parivahan.gov.in",
-  "verified": false
+  "verified": false,
+  "auditedOn": "2026-11-16",
+  "auditNote": "Practice format (15 questions, 9 to pass, 30 s each) is the app default, not this state's official format. Check the state transport department / Sarathi / RTO before showing it as the real test."
  },
  {
   "code": "GJ",
@@ -75,7 +85,9 @@
   },
   "notes": "Practice format only (15 questions, 9 to pass, 30 seconds each). Your state's real test may differ - check Parivahan/Sarathi or your RTO.",
   "sourceUrl": "https://sarathi.parivahan.gov.in",
-  "verified": false
+  "verified": false,
+  "auditedOn": "2026-11-16",
+  "auditNote": "Practice format (15 questions, 9 to pass, 30 s each) is the app default, not this state's official format. Check the state transport department / Sarathi / RTO before showing it as the real test."
  },
  {
   "code": "WB",
@@ -88,7 +100,9 @@
   },
   "notes": "Practice format only (15 questions, 9 to pass, 30 seconds each). Your state's real test may differ - check Parivahan/Sarathi or your RTO.",
   "sourceUrl": "https://sarathi.parivahan.gov.in",
-  "verified": false
+  "verified": false,
+  "auditedOn": "2026-11-16",
+  "auditNote": "Practice format (15 questions, 9 to pass, 30 s each) is the app default, not this state's official format. Check the state transport department / Sarathi / RTO before showing it as the real test."
  },
  {
   "code": "RJ",
@@ -101,7 +115,9 @@
   },
   "notes": "Practice format only (15 questions, 9 to pass, 30 seconds each). Your state's real test may differ - check Parivahan/Sarathi or your RTO.",
   "sourceUrl": "https://sarathi.parivahan.gov.in",
-  "verified": false
+  "verified": false,
+  "auditedOn": "2026-11-16",
+  "auditNote": "Practice format (15 questions, 9 to pass, 30 s each) is the app default, not this state's official format. Check the state transport department / Sarathi / RTO before showing it as the real test."
  },
  {
   "code": "TS",
@@ -114,7 +130,9 @@
   },
   "notes": "Practice format only (15 questions, 9 to pass, 30 seconds each). Your state's real test may differ - check Parivahan/Sarathi or your RTO.",
   "sourceUrl": "https://sarathi.parivahan.gov.in",
-  "verified": false
+  "verified": false,
+  "auditedOn": "2026-11-16",
+  "auditNote": "Practice format (15 questions, 9 to pass, 30 s each) is the app default, not this state's official format. Check the state transport department / Sarathi / RTO before showing it as the real test."
  },
  {
   "code": "default",
@@ -127,6 +145,8 @@
   },
   "notes": "Practice format only (15 questions, 9 to pass, 30 seconds each). Your state's real test may differ - check Parivahan/Sarathi or your RTO.",
   "sourceUrl": "https://sarathi.parivahan.gov.in",
-  "verified": false
+  "verified": false,
+  "auditedOn": "2026-11-16",
+  "auditNote": "Practice format (15 questions, 9 to pass, 30 s each) is the app default, not this state's official format. Check the state transport department / Sarathi / RTO before showing it as the real test."
  }
 ]

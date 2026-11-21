@@ -1,179 +1,434 @@
 [
- {
-  "id": "signs",
-  "title": "Road Signs",
-  "title_hi": "सड़क चिह्न",
-  "icon": "🛑",
-  "color": "#0f9d94",
-  "available": true,
-  "lessons": [
-   {
-    "id": "signs-1",
-    "title": "Mandatory signs",
-    "title_hi": "अनिवार्य चिह्न",
-    "checkpoint": false,
-    "perSession": 8
-   },
-   {
-    "id": "signs-2",
-    "title": "Cautionary signs",
-    "title_hi": "सावधानी चिह्न",
-    "checkpoint": false,
-    "perSession": 8
-   },
-   {
-    "id": "signs-3",
-    "title": "Informatory signs",
-    "title_hi": "सूचना चिह्न",
-    "checkpoint": false,
-    "perSession": 8
-   },
-   {
-    "id": "signs-cp",
-    "title": "Unit checkpoint",
-    "title_hi": "यूनिट चेकपॉइंट",
-    "checkpoint": true,
-    "perSession": 10
-   }
-  ]
- },
- {
-  "id": "row",
-  "title": "Right of Way",
-  "title_hi": "रास्ते का अधिकार",
-  "icon": "🔀",
-  "color": "#f5a000",
-  "available": true,
-  "lessons": [
-   {
-    "id": "row-1",
-    "title": "Junctions & roundabouts",
-    "title_hi": "चौराहे और गोलचक्कर",
-    "checkpoint": false,
-    "perSession": 8
-   },
-   {
-    "id": "row-2",
-    "title": "Pedestrians & crossings",
-    "title_hi": "पैदल यात्री और क्रॉसिंग",
-    "checkpoint": false,
-    "perSession": 8
-   },
-   {
-    "id": "row-3",
-    "title": "Overtaking & emergencies",
-    "title_hi": "ओवरटेकिंग और आपातकाल",
-    "checkpoint": false,
-    "perSession": 8
-   },
-   {
-    "id": "row-cp",
-    "title": "Unit checkpoint",
-    "title_hi": "यूनिट चेकपॉइंट",
-    "checkpoint": true,
-    "perSession": 10
-   }
-  ]
- },
- {
-  "id": "signals",
-  "title": "Signals & Markings",
-  "title_hi": "संकेत और मार्किंग",
-  "icon": "🚦",
-  "color": "#e0566b",
-  "available": true,
-  "lessons": [
-   {
-    "id": "sig-1",
-    "title": "Hand signals & indicators",
-    "title_hi": "हाथ के संकेत",
-    "checkpoint": false,
-    "perSession": 8
-   },
-   {
-    "id": "sig-2",
-    "title": "Road markings",
-    "title_hi": "सड़क की मार्किंग",
-    "checkpoint": false,
-    "perSession": 8
-   },
-   {
-    "id": "sig-3",
-    "title": "Traffic lights, lamps & horn",
-    "title_hi": "ट्रैफिक लाइट, लाइट और हॉर्न",
-    "checkpoint": false,
-    "perSession": 8
-   },
-   {
-    "id": "sig-cp",
-    "title": "Unit checkpoint",
-    "title_hi": "यूनिट चेकपॉइंट",
-    "checkpoint": true,
-    "perSession": 10
-   }
-  ]
- },
- {
-  "id": "speed",
-  "title": "Speed & Overtaking",
-  "title_hi": "गति और ओवरटेकिंग",
-  "icon": "🏎",
-  "color": "#7a8b94",
-  "available": false,
-  "lessons": []
- },
- {
-  "id": "parking",
-  "title": "Parking",
-  "title_hi": "पार्किंग",
-  "icon": "🅿",
-  "color": "#7a8b94",
-  "available": false,
-  "lessons": []
- },
- {
-  "id": "docs",
-  "title": "Documents & Insurance",
-  "title_hi": "दस्तावेज़ और बीमा",
-  "icon": "📄",
-  "color": "#7a8b94",
-  "available": false,
-  "lessons": []
- },
- {
-  "id": "fines",
-  "title": "Fines & Penalties",
-  "title_hi": "जुर्माने और दंड",
-  "icon": "💸",
-  "color": "#7a8b94",
-  "available": false,
-  "lessons": []
- },
- {
-  "id": "safe",
-  "title": "Safe Driving",
-  "title_hi": "सुरक्षित ड्राइविंग",
-  "icon": "🛡",
-  "color": "#7a8b94",
-  "available": false,
-  "lessons": []
- },
- {
-  "id": "firstaid",
-  "title": "First Aid & Accidents",
-  "title_hi": "प्राथमिक उपचार और दुर्घटना",
-  "icon": "⛑",
-  "color": "#7a8b94",
-  "available": false,
-  "lessons": []
- },
- {
-  "id": "vehicle",
-  "title": "Vehicle Basics",
-  "title_hi": "वाहन की बुनियादी बातें",
-  "icon": "🔧",
-  "color": "#7a8b94",
-  "available": false,
-  "lessons": []
- }
+  {
+    "id": "signs",
+    "title": "Road Signs",
+    "title_hi": "सड़क चिह्न",
+    "icon": "🛑",
+    "color": "#0f9d94",
+    "available": true,
+    "lessons": [
+      {
+        "id": "signs-1",
+        "title": "Mandatory signs",
+        "title_hi": "अनिवार्य चिह्न",
+        "checkpoint": false,
+        "perSession": 8,
+        "title_mr": "आदेशात्मक चिन्हे",
+        "title_te": "తప్పనిసరి సంకేతాలు",
+        "title_ta": "கட்டாயக் குறியீடுகள்"
+      },
+      {
+        "id": "signs-2",
+        "title": "Cautionary signs",
+        "title_hi": "सावधानी चिह्न",
+        "checkpoint": false,
+        "perSession": 8,
+        "title_mr": "सावधगिरीची चिन्हे",
+        "title_te": "హెచ్చరిక సంకేతాలు",
+        "title_ta": "எச்சரிக்கைக் குறியீடுகள்"
+      },
+      {
+        "id": "signs-3",
+        "title": "Informatory signs",
+        "title_hi": "सूचना चिह्न",
+        "checkpoint": false,
+        "perSession": 8,
+        "title_mr": "माहितीदर्शक चिन्हे",
+        "title_te": "సమాచార సంకేతాలు",
+        "title_ta": "தகவல் குறியீடுகள்"
+      },
+      {
+        "id": "signs-cp",
+        "title": "Unit checkpoint",
+        "title_hi": "यूनिट चेकपॉइंट",
+        "checkpoint": true,
+        "perSession": 10,
+        "title_mr": "विभाग चेकपॉइंट",
+        "title_te": "యూనిట్ చెక్‌పాయింట్",
+        "title_ta": "பிரிவு சோதனைப் புள்ளி"
+      }
+    ],
+    "title_mr": "रस्त्यावरील चिन्हे",
+    "title_te": "రహదారి సంకేతాలు",
+    "title_ta": "சாலைக் குறியீடுகள்"
+  },
+  {
+    "id": "row",
+    "title": "Right of Way",
+    "title_hi": "रास्ते का अधिकार",
+    "icon": "🔀",
+    "color": "#f5a000",
+    "available": true,
+    "lessons": [
+      {
+        "id": "row-1",
+        "title": "Junctions & roundabouts",
+        "title_hi": "चौराहे और गोलचक्कर",
+        "checkpoint": false,
+        "perSession": 8,
+        "title_mr": "चौक आणि वर्तुळाकार चौक",
+        "title_te": "జంక్షన్లు & రౌండ్‌అబౌట్లు",
+        "title_ta": "சந்திப்புகள் & ரவுண்டானாக்கள்"
+      },
+      {
+        "id": "row-2",
+        "title": "Pedestrians & crossings",
+        "title_hi": "पैदल यात्री और क्रॉसिंग",
+        "checkpoint": false,
+        "perSession": 8,
+        "title_mr": "पादचारी आणि क्रॉसिंग",
+        "title_te": "పాదచారులు & క్రాసింగ్‌లు",
+        "title_ta": "பாதசாரிகள் & கடக்கும் இடங்கள்"
+      },
+      {
+        "id": "row-3",
+        "title": "Overtaking & emergencies",
+        "title_hi": "ओवरटेकिंग और आपातकाल",
+        "checkpoint": false,
+        "perSession": 8,
+        "title_mr": "ओव्हरटेक आणि आणीबाणी",
+        "title_te": "ఓవర్‌టేకింగ్ & అత్యవసర పరిస్థితులు",
+        "title_ta": "முந்திச் செல்லுதல் & அவசர நிலைகள்"
+      },
+      {
+        "id": "row-cp",
+        "title": "Unit checkpoint",
+        "title_hi": "यूनिट चेकपॉइंट",
+        "checkpoint": true,
+        "perSession": 10,
+        "title_mr": "विभाग चेकपॉइंट",
+        "title_te": "యూనిట్ చెక్‌పాయింట్",
+        "title_ta": "பிரிவு சோதனைப் புள்ளி"
+      }
+    ],
+    "title_mr": "मार्गाचा अग्रक्रम",
+    "title_te": "ముందుగా వెళ్లే హక్కు",
+    "title_ta": "முன்னுரிமை வழி"
+  },
+  {
+    "id": "signals",
+    "title": "Signals & Markings",
+    "title_hi": "संकेत और मार्किंग",
+    "icon": "🚦",
+    "color": "#e0566b",
+    "available": true,
+    "lessons": [
+      {
+        "id": "sig-1",
+        "title": "Hand signals & indicators",
+        "title_hi": "हाथ के संकेत",
+        "checkpoint": false,
+        "perSession": 8,
+        "title_mr": "हाताचे इशारे आणि इंडिकेटर",
+        "title_te": "చేతి సంజ్ఞలు & ఇండికేటర్లు",
+        "title_ta": "கை சைகைகள் & இண்டிகேட்டர்கள்"
+      },
+      {
+        "id": "sig-2",
+        "title": "Road markings",
+        "title_hi": "सड़क की मार्किंग",
+        "checkpoint": false,
+        "perSession": 8,
+        "title_mr": "रस्त्यावरील खुणा",
+        "title_te": "రోడ్డు మార్కింగ్‌లు",
+        "title_ta": "சாலைக் குறிகள்"
+      },
+      {
+        "id": "sig-3",
+        "title": "Traffic lights, lamps & horn",
+        "title_hi": "ट्रैफिक लाइट, लाइट और हॉर्न",
+        "checkpoint": false,
+        "perSession": 8,
+        "title_mr": "ट्रॅफिक लाइट, दिवे आणि हॉर्न",
+        "title_te": "ట్రాఫిక్ లైట్లు, దీపాలు & హారన్",
+        "title_ta": "போக்குவரத்து சிக்னல்கள், விளக்குகள் & ஹாரன்"
+      },
+      {
+        "id": "sig-cp",
+        "title": "Unit checkpoint",
+        "title_hi": "यूनिट चेकपॉइंट",
+        "checkpoint": true,
+        "perSession": 10,
+        "title_mr": "विभाग चेकपॉइंट",
+        "title_te": "యూనిట్ చెక్‌పాయింట్",
+        "title_ta": "பிரிவு சோதனைப் புள்ளி"
+      }
+    ],
+    "title_mr": "सिग्नल आणि रस्त्यावरील खुणा",
+    "title_te": "సిగ్నళ్లు & రోడ్డు మార్కింగ్‌లు",
+    "title_ta": "சைகைகள் & சாலைக் குறிகள்"
+  },
+  {
+    "id": "speed",
+    "title": "Speed & Overtaking",
+    "title_hi": "गति और ओवरटेकिंग",
+    "icon": "🏎",
+    "color": "#7a8b94",
+    "available": true,
+    "lessons": [
+      {
+        "id": "speed-1",
+        "title": "Speed & safe distance",
+        "title_hi": "गति और सुरक्षित दूरी",
+        "checkpoint": false,
+        "perSession": 8
+      },
+      {
+        "id": "speed-2",
+        "title": "Overtaking & merging",
+        "title_hi": "ओवरटेकिंग और मर्जिंग",
+        "checkpoint": false,
+        "perSession": 8
+      },
+      {
+        "id": "speed-cp",
+        "title": "Unit checkpoint",
+        "title_hi": "यूनिट चेकपॉइंट",
+        "checkpoint": true,
+        "perSession": 10,
+        "title_mr": "विभाग चेकपॉइंट",
+        "title_te": "యూనిట్ చెక్‌పాయింట్",
+        "title_ta": "பிரிவு சோதனைப் புள்ளி"
+      }
+    ],
+    "title_mr": "वेग आणि ओव्हरटेक",
+    "title_te": "వేగం & ఓవర్‌టేకింగ్",
+    "title_ta": "வேகம் & முந்திச் செல்லுதல்"
+  },
+  {
+    "id": "parking",
+    "title": "Parking",
+    "title_hi": "पार्किंग",
+    "icon": "🅿",
+    "color": "#7a8b94",
+    "available": true,
+    "lessons": [
+      {
+        "id": "park-1",
+        "title": "Where you must not stop",
+        "title_hi": "कहाँ रुकना मना है",
+        "checkpoint": false,
+        "perSession": 8
+      },
+      {
+        "id": "park-2",
+        "title": "Where you must not park",
+        "title_hi": "कहाँ पार्किंग मना है",
+        "checkpoint": false,
+        "perSession": 8
+      },
+      {
+        "id": "park-cp",
+        "title": "Unit checkpoint",
+        "title_hi": "यूनिट चेकपॉइंट",
+        "checkpoint": true,
+        "perSession": 10,
+        "title_mr": "विभाग चेकपॉइंट",
+        "title_te": "యూనిట్ చెక్‌పాయింట్",
+        "title_ta": "பிரிவு சோதனைப் புள்ளி"
+      }
+    ],
+    "title_mr": "पार्किंग",
+    "title_te": "పార్కింగ్",
+    "title_ta": "வாகன நிறுத்தம்"
+  },
+  {
+    "id": "docs",
+    "title": "Documents & Insurance",
+    "title_hi": "दस्तावेज़ और बीमा",
+    "icon": "📄",
+    "color": "#7a8b94",
+    "available": true,
+    "lessons": [
+      {
+        "id": "docs-1",
+        "title": "Licence & documents",
+        "title_hi": "लाइसेंस और दस्तावेज़",
+        "checkpoint": false,
+        "perSession": 8
+      },
+      {
+        "id": "docs-2",
+        "title": "Insurance & legal duties",
+        "title_hi": "बीमा और कानूनी कर्तव्य",
+        "checkpoint": false,
+        "perSession": 8
+      },
+      {
+        "id": "docs-cp",
+        "title": "Unit checkpoint",
+        "title_hi": "यूनिट चेकपॉइंट",
+        "checkpoint": true,
+        "perSession": 10,
+        "title_mr": "विभाग चेकपॉइंट",
+        "title_te": "యూనిట్ చెక్‌పాయింట్",
+        "title_ta": "பிரிவு சோதனைப் புள்ளி"
+      }
+    ],
+    "title_mr": "कागदपत्रे आणि विमा",
+    "title_te": "పత్రాలు & బీమా",
+    "title_ta": "ஆவணங்கள் & காப்பீடு"
+  },
+  {
+    "id": "fines",
+    "title": "Fines & Penalties",
+    "title_hi": "जुर्माने और दंड",
+    "icon": "💸",
+    "color": "#7a8b94",
+    "available": true,
+    "lessons": [
+      {
+        "id": "fines-1",
+        "title": "Licence, speed & drink-driving fines",
+        "title_hi": "लाइसेंस, गति और शराब पीकर गाड़ी चलाने के जुर्माने",
+        "checkpoint": false,
+        "perSession": 8
+      },
+      {
+        "id": "fines-2",
+        "title": "Safety gear & other fines",
+        "title_hi": "सुरक्षा उपकरण और अन्य जुर्माने",
+        "checkpoint": false,
+        "perSession": 8
+      },
+      {
+        "id": "fines-cp",
+        "title": "Unit checkpoint",
+        "title_hi": "यूनिट चेकपॉइंट",
+        "checkpoint": true,
+        "perSession": 10,
+        "title_mr": "विभाग चेकपॉइंट",
+        "title_te": "యూనిట్ చెక్‌పాయింట్",
+        "title_ta": "பிரிவு சோதனைப் புள்ளி"
+      }
+    ],
+    "title_mr": "दंड आणि शिक्षा",
+    "title_te": "జరిమానాలు & శిక్షలు",
+    "title_ta": "அபராதங்கள் & தண்டனைகள்"
+  },
+  {
+    "id": "safe",
+    "title": "Safe Driving",
+    "title_hi": "सुरक्षित ड्राइविंग",
+    "icon": "🛡",
+    "color": "#7a8b94",
+    "available": true,
+    "lessons": [
+      {
+        "id": "safe-1",
+        "title": "Laws & offences",
+        "title_hi": "कानून और अपराध",
+        "checkpoint": false,
+        "perSession": 8
+      },
+      {
+        "id": "safe-2",
+        "title": "Accidents on the road",
+        "title_hi": "सड़क पर दुर्घटनाएँ",
+        "checkpoint": false,
+        "perSession": 8
+      },
+      {
+        "id": "safe-3",
+        "title": "Alertness & road conditions",
+        "title_hi": "सतर्कता और सड़क की स्थिति",
+        "checkpoint": false,
+        "perSession": 8
+      },
+      {
+        "id": "safe-4",
+        "title": "Lights, horns & special roads",
+        "title_hi": "लाइटें, हॉर्न और विशेष सड़कें",
+        "checkpoint": false,
+        "perSession": 8
+      },
+      {
+        "id": "safe-cp",
+        "title": "Unit checkpoint",
+        "title_hi": "यूनिट चेकपॉइंट",
+        "checkpoint": true,
+        "perSession": 10,
+        "title_mr": "विभाग चेकपॉइंट",
+        "title_te": "యూనిట్ చెక్‌పాయింట్",
+        "title_ta": "பிரிவு சோதனைப் புள்ளி"
+      }
+    ],
+    "title_mr": "सुरक्षित वाहन चालवणे",
+    "title_te": "సురక్షిత డ్రైవింగ్",
+    "title_ta": "பாதுகாப்பான வாகனம் ஓட்டுதல்"
+  },
+  {
+    "id": "firstaid",
+    "title": "First Aid & Accidents",
+    "title_hi": "प्राथमिक उपचार और दुर्घटना",
+    "icon": "⛑",
+    "color": "#7a8b94",
+    "available": true,
+    "lessons": [
+      {
+        "id": "first-1",
+        "title": "After an accident",
+        "title_hi": "दुर्घटना के बाद",
+        "checkpoint": false,
+        "perSession": 8
+      },
+      {
+        "id": "first-cp",
+        "title": "Unit checkpoint",
+        "title_hi": "यूनिट चेकपॉइंट",
+        "checkpoint": true,
+        "perSession": 10,
+        "title_mr": "विभाग चेकपॉइंट",
+        "title_te": "యూనిట్ చెక్‌పాయింట్",
+        "title_ta": "பிரிவு சோதனைப் புள்ளி"
+      }
+    ],
+    "title_mr": "प्रथमोपचार आणि अपघात",
+    "title_te": "ప్రథమ చికిత్స & ప్రమాదాలు",
+    "title_ta": "முதலுதவி & விபத்துகள்"
+  },
+  {
+    "id": "vehicle",
+    "title": "Vehicle Basics",
+    "title_hi": "वाहन की बुनियादी बातें",
+    "icon": "🔧",
+    "color": "#7a8b94",
+    "available": true,
+    "lessons": [
+      {
+        "id": "veh-1",
+        "title": "Controls & checks",
+        "title_hi": "नियंत्रण और जाँच",
+        "checkpoint": false,
+        "perSession": 8
+      },
+      {
+        "id": "veh-2",
+        "title": "Driving techniques",
+        "title_hi": "ड्राइविंग तकनीक",
+        "checkpoint": false,
+        "perSession": 8
+      },
+      {
+        "id": "veh-3",
+        "title": "Towing, loads & pollution",
+        "title_hi": "टोइंग, लोड और प्रदूषण",
+        "checkpoint": false,
+        "perSession": 8
+      },
+      {
+        "id": "veh-cp",
+        "title": "Unit checkpoint",
+        "title_hi": "यूनिट चेकपॉइंट",
+        "checkpoint": true,
+        "perSession": 10,
+        "title_mr": "विभाग चेकपॉइंट",
+        "title_te": "యూనిట్ చెక్‌పాయింట్",
+        "title_ta": "பிரிவு சோதனைப் புள்ளி"
+      }
+    ],
+    "title_mr": "वाहनाची मूलभूत माहिती",
+    "title_te": "వాహన ప్రాథమికాంశాలు",
+    "title_ta": "வாகன அடிப்படைகள்"
+  }
 ]

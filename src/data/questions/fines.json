@@ -1,0 +1,822 @@
+[
+  {
+    "id": "q-fines-001",
+    "topic": "Fines",
+    "unit": "fines",
+    "lessonId": "fines-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Under the Motor Vehicles Act, driving a motor vehicle without a valid licence can lead to a fine of up to:",
+    "options": [
+      "Rs 500",
+      "Rs 1,000",
+      "Rs 5,000",
+      "Rs 25,000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Section 181: up to 3 months in prison, or a fine of Rs 5,000, or both (central Act amount).",
+    "languages": {
+      "en": {
+        "question": "Under the Motor Vehicles Act, driving a motor vehicle without a valid licence can lead to a fine of up to:",
+        "options": [
+          "Rs 500",
+          "Rs 1,000",
+          "Rs 5,000",
+          "Rs 25,000"
+        ],
+        "explanation": "Section 181: up to 3 months in prison, or a fine of Rs 5,000, or both (central Act amount)."
+      },
+      "hi": {
+        "question": "मोटर वाहन अधिनियम के अनुसार, वैध लाइसेंस के बिना मोटर वाहन चलाने पर अधिकतम कितना जुर्माना हो सकता है:",
+        "options": [
+          "Rs 500",
+          "Rs 1,000",
+          "Rs 5,000",
+          "Rs 25,000"
+        ],
+        "explanation": "धारा 181: 3 महीने तक की जेल, या Rs 5,000 का जुर्माना, या दोनों (केंद्रीय अधिनियम की राशि)।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 181",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 181",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-fines-002",
+    "topic": "Fines",
+    "unit": "fines",
+    "lessonId": "fines-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Speeding by a light motor vehicle (car) is punished with a fine of:",
+    "options": [
+      "Rs 100 to 200",
+      "Rs 1,000 to Rs 2,000",
+      "Rs 5,000 to Rs 10,000",
+      "No fine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Section 183: Rs 1,000 to Rs 2,000 for a light motor vehicle; Rs 2,000 to Rs 4,000 for medium or heavy vehicles.",
+    "languages": {
+      "en": {
+        "question": "Speeding by a light motor vehicle (car) is punished with a fine of:",
+        "options": [
+          "Rs 100 to 200",
+          "Rs 1,000 to Rs 2,000",
+          "Rs 5,000 to Rs 10,000",
+          "No fine"
+        ],
+        "explanation": "Section 183: Rs 1,000 to Rs 2,000 for a light motor vehicle; Rs 2,000 to Rs 4,000 for medium or heavy vehicles."
+      },
+      "hi": {
+        "question": "हल्के मोटर वाहन (कार) की तेज़ गति पर कितना जुर्माना लगता है:",
+        "options": [
+          "Rs 100 से 200",
+          "Rs 1,000 से Rs 2,000",
+          "Rs 5,000 से Rs 10,000",
+          "कोई जुर्माना नहीं"
+        ],
+        "explanation": "धारा 183: हल्के मोटर वाहन के लिए Rs 1,000 से Rs 2,000; मध्यम या भारी वाहनों के लिए Rs 2,000 से Rs 4,000।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 183",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 183",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-fines-003",
+    "topic": "Fines",
+    "unit": "fines",
+    "lessonId": "fines-1",
+    "type": "mcq",
+    "difficulty": 3,
+    "question": "Speeding by a medium or heavy goods or passenger vehicle is punished with a fine of:",
+    "options": [
+      "Rs 1,000 to Rs 2,000",
+      "Rs 2,000 to Rs 4,000",
+      "Rs 500",
+      "Rs 25,000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Section 183: Rs 2,000 to Rs 4,000 for medium and heavy vehicles.",
+    "languages": {
+      "en": {
+        "question": "Speeding by a medium or heavy goods or passenger vehicle is punished with a fine of:",
+        "options": [
+          "Rs 1,000 to Rs 2,000",
+          "Rs 2,000 to Rs 4,000",
+          "Rs 500",
+          "Rs 25,000"
+        ],
+        "explanation": "Section 183: Rs 2,000 to Rs 4,000 for medium and heavy vehicles."
+      },
+      "hi": {
+        "question": "मध्यम या भारी माल वाहन या यात्री वाहन की तेज़ गति पर कितना जुर्माना लगता है:",
+        "options": [
+          "Rs 1,000 से Rs 2,000",
+          "Rs 2,000 से Rs 4,000",
+          "Rs 500",
+          "Rs 25,000"
+        ],
+        "explanation": "धारा 183: मध्यम और भारी वाहनों के लिए Rs 2,000 से Rs 4,000।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 183",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 183",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-fines-004",
+    "topic": "Fines",
+    "unit": "fines",
+    "lessonId": "fines-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Dangerous driving is punished (first offence) with up to 1 year in prison or a fine of:",
+    "options": [
+      "Rs 100 to Rs 500",
+      "Rs 1,000 to Rs 5,000",
+      "Rs 25,000",
+      "Rs 50,000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Section 184: first offence is imprisonment of 6 months to 1 year, or a fine of Rs 1,000 to Rs 5,000, or both.",
+    "languages": {
+      "en": {
+        "question": "Dangerous driving is punished (first offence) with up to 1 year in prison or a fine of:",
+        "options": [
+          "Rs 100 to Rs 500",
+          "Rs 1,000 to Rs 5,000",
+          "Rs 25,000",
+          "Rs 50,000"
+        ],
+        "explanation": "Section 184: first offence is imprisonment of 6 months to 1 year, or a fine of Rs 1,000 to Rs 5,000, or both."
+      },
+      "hi": {
+        "question": "खतरनाक ढंग से वाहन चलाने पर (पहले अपराध में) 1 वर्ष तक की जेल या कितना जुर्माना होता है:",
+        "options": [
+          "Rs 100 से Rs 500",
+          "Rs 1,000 से Rs 5,000",
+          "Rs 25,000",
+          "Rs 50,000"
+        ],
+        "explanation": "धारा 184: पहला अपराध होने पर 6 महीने से 1 वर्ष की जेल, या Rs 1,000 से Rs 5,000 का जुर्माना, या दोनों।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 184",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 184",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-fines-005",
+    "topic": "Fines",
+    "unit": "fines",
+    "lessonId": "fines-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "What is the alcohol limit in the blood for a driver?",
+    "options": [
+      "0 mg per 100 ml only",
+      "30 mg per 100 ml of blood",
+      "100 mg per 100 ml of blood",
+      "No limit is set"
+    ],
+    "correctAnswer": 1,
+    "explanation": "It is an offence to drive with more than 30 mg of alcohol per 100 ml of blood (Section 185).",
+    "languages": {
+      "en": {
+        "question": "What is the alcohol limit in the blood for a driver?",
+        "options": [
+          "0 mg per 100 ml only",
+          "30 mg per 100 ml of blood",
+          "100 mg per 100 ml of blood",
+          "No limit is set"
+        ],
+        "explanation": "It is an offence to drive with more than 30 mg of alcohol per 100 ml of blood (Section 185)."
+      },
+      "hi": {
+        "question": "चालक के लिए खून में शराब की सीमा क्या है?",
+        "options": [
+          "केवल 0 mg प्रति 100 ml",
+          "30 mg प्रति 100 ml खून",
+          "100 mg प्रति 100 ml खून",
+          "कोई सीमा तय नहीं है"
+        ],
+        "explanation": "प्रति 100 ml खून में 30 mg से अधिक शराब होने पर वाहन चलाना अपराध है (धारा 185)।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 185",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 185",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-fines-006",
+    "topic": "Fines",
+    "unit": "fines",
+    "lessonId": "fines-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Drunken driving (first offence) is punished with imprisonment up to 6 months or a fine of:",
+    "options": [
+      "Rs 1,000",
+      "Rs 5,000",
+      "Rs 10,000",
+      "Rs 50,000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Section 185: first offence is up to 6 months in prison, or a fine of Rs 10,000, or both.",
+    "languages": {
+      "en": {
+        "question": "Drunken driving (first offence) is punished with imprisonment up to 6 months or a fine of:",
+        "options": [
+          "Rs 1,000",
+          "Rs 5,000",
+          "Rs 10,000",
+          "Rs 50,000"
+        ],
+        "explanation": "Section 185: first offence is up to 6 months in prison, or a fine of Rs 10,000, or both."
+      },
+      "hi": {
+        "question": "शराब पीकर वाहन चलाने पर (पहले अपराध में) 6 महीने तक की जेल या कितना जुर्माना होता है:",
+        "options": [
+          "Rs 1,000",
+          "Rs 5,000",
+          "Rs 10,000",
+          "Rs 50,000"
+        ],
+        "explanation": "धारा 185: पहला अपराध होने पर 6 महीने तक की जेल, या Rs 10,000 का जुर्माना, या दोनों।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 185",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 185",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-fines-007",
+    "topic": "Fines",
+    "unit": "fines",
+    "lessonId": "fines-1",
+    "type": "mcq",
+    "difficulty": 3,
+    "question": "For a second drunken driving offence within three years the fine is:",
+    "options": [
+      "Rs 5,000",
+      "Rs 10,000",
+      "Rs 15,000",
+      "Rs 25,000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Section 185: second or later offence is up to 2 years in prison, or a fine of Rs 15,000, or both.",
+    "languages": {
+      "en": {
+        "question": "For a second drunken driving offence within three years the fine is:",
+        "options": [
+          "Rs 5,000",
+          "Rs 10,000",
+          "Rs 15,000",
+          "Rs 25,000"
+        ],
+        "explanation": "Section 185: second or later offence is up to 2 years in prison, or a fine of Rs 15,000, or both."
+      },
+      "hi": {
+        "question": "तीन साल के भीतर शराब पीकर वाहन चलाने के दूसरे अपराध पर जुर्माना कितना है:",
+        "options": [
+          "Rs 5,000",
+          "Rs 10,000",
+          "Rs 15,000",
+          "Rs 25,000"
+        ],
+        "explanation": "धारा 185: दूसरा या बाद का अपराध होने पर 2 वर्ष तक की जेल, या Rs 15,000 का जुर्माना, या दोनों।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 185",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 185",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-fines-008",
+    "topic": "Fines",
+    "unit": "fines",
+    "lessonId": "fines-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Driving without insurance (first offence) can lead to a fine of:",
+    "options": [
+      "Rs 500",
+      "Rs 2,000",
+      "Rs 25,000",
+      "Rs 50,000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Section 196: up to 3 months in prison, or a fine of Rs 2,000, or both, for a first offence.",
+    "languages": {
+      "en": {
+        "question": "Driving without insurance (first offence) can lead to a fine of:",
+        "options": [
+          "Rs 500",
+          "Rs 2,000",
+          "Rs 25,000",
+          "Rs 50,000"
+        ],
+        "explanation": "Section 196: up to 3 months in prison, or a fine of Rs 2,000, or both, for a first offence."
+      },
+      "hi": {
+        "question": "बिना बीमा के वाहन चलाने पर (पहले अपराध में) कितना जुर्माना हो सकता है:",
+        "options": [
+          "Rs 500",
+          "Rs 2,000",
+          "Rs 25,000",
+          "Rs 50,000"
+        ],
+        "explanation": "धारा 196: पहले अपराध पर 3 महीने तक की जेल, या Rs 2,000 का जुर्माना, या दोनों।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 196",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 196",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-fines-009",
+    "topic": "Fines",
+    "unit": "fines",
+    "lessonId": "fines-1",
+    "type": "true-false",
+    "difficulty": 2,
+    "question": "Under Section 185, a driver convicted of drunken driving can have the licence disqualified for at least 6 months.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A court must disqualify a driver for not less than 6 months on conviction under Section 185.",
+    "languages": {
+      "en": {
+        "question": "Under Section 185, a driver convicted of drunken driving can have the licence disqualified for at least 6 months.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "explanation": "A court must disqualify a driver for not less than 6 months on conviction under Section 185."
+      },
+      "hi": {
+        "question": "धारा 185 के तहत शराब पीकर वाहन चलाने के दोषी चालक का लाइसेंस कम से कम 6 महीने के लिए अयोग्य घोषित किया जा सकता है।",
+        "options": [
+          "सही",
+          "गलत"
+        ],
+        "explanation": "धारा 185 में दोषी पाए जाने पर अदालत को चालक को कम से कम 6 महीने के लिए अयोग्य घोषित करना ज़रूरी है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 20",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 20",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-fines-010",
+    "topic": "Fines",
+    "unit": "fines",
+    "lessonId": "fines-2",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "The fine for not wearing a helmet while riding a two-wheeler is Rs 1,000 and:",
+    "options": [
+      "Nothing more",
+      "Disqualification of the licence for 3 months",
+      "Arrest",
+      "Seizure of the vehicle for a year"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Section 194D: a fine of Rs 1,000 and disqualification from holding a licence for 3 months.",
+    "languages": {
+      "en": {
+        "question": "The fine for not wearing a helmet while riding a two-wheeler is Rs 1,000 and:",
+        "options": [
+          "Nothing more",
+          "Disqualification of the licence for 3 months",
+          "Arrest",
+          "Seizure of the vehicle for a year"
+        ],
+        "explanation": "Section 194D: a fine of Rs 1,000 and disqualification from holding a licence for 3 months."
+      },
+      "hi": {
+        "question": "दोपहिया चलाते समय हेलमेट न पहनने पर जुर्माना Rs 1,000 और:",
+        "options": [
+          "इसके अलावा कुछ नहीं",
+          "लाइसेंस 3 महीने के लिए अयोग्य घोषित",
+          "गिरफ्तारी",
+          "वाहन एक साल के लिए जब्त"
+        ],
+        "explanation": "धारा 194D: Rs 1,000 का जुर्माना और 3 महीने के लिए लाइसेंस रखने के लिए अयोग्य घोषित किया जाना।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 194D",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 194D",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-fines-011",
+    "topic": "Fines",
+    "unit": "fines",
+    "lessonId": "fines-2",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "The fine for not wearing a seat belt is:",
+    "options": [
+      "Rs 100",
+      "Rs 500",
+      "Rs 1,000",
+      "Rs 5,000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Section 194B: a fine of Rs 1,000 for driving without a seat belt or carrying a passenger without one.",
+    "languages": {
+      "en": {
+        "question": "The fine for not wearing a seat belt is:",
+        "options": [
+          "Rs 100",
+          "Rs 500",
+          "Rs 1,000",
+          "Rs 5,000"
+        ],
+        "explanation": "Section 194B: a fine of Rs 1,000 for driving without a seat belt or carrying a passenger without one."
+      },
+      "hi": {
+        "question": "सीट बेल्ट न लगाने पर जुर्माना कितना है:",
+        "options": [
+          "Rs 100",
+          "Rs 500",
+          "Rs 1,000",
+          "Rs 5,000"
+        ],
+        "explanation": "धारा 194B: बिना सीट बेल्ट के गाड़ी चलाने या बिना सीट बेल्ट के यात्री को ले जाने पर Rs 1,000 का जुर्माना।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 194B",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 194B",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-fines-012",
+    "topic": "Fines",
+    "unit": "fines",
+    "lessonId": "fines-2",
+    "type": "mcq",
+    "difficulty": 3,
+    "question": "Failing to give way to an ambulance or fire engine can lead to imprisonment up to 6 months or a fine of:",
+    "options": [
+      "Rs 1,000",
+      "Rs 5,000",
+      "Rs 10,000",
+      "Rs 25,000"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Section 194E: up to 6 months in prison, or a fine of Rs 10,000, or both, for not giving way to emergency vehicles.",
+    "languages": {
+      "en": {
+        "question": "Failing to give way to an ambulance or fire engine can lead to imprisonment up to 6 months or a fine of:",
+        "options": [
+          "Rs 1,000",
+          "Rs 5,000",
+          "Rs 10,000",
+          "Rs 25,000"
+        ],
+        "explanation": "Section 194E: up to 6 months in prison, or a fine of Rs 10,000, or both, for not giving way to emergency vehicles."
+      },
+      "hi": {
+        "question": "एम्बुलेंस या दमकल गाड़ी को रास्ता न देने पर 6 महीने तक की जेल या कितना जुर्माना हो सकता है:",
+        "options": [
+          "Rs 1,000",
+          "Rs 5,000",
+          "Rs 10,000",
+          "Rs 25,000"
+        ],
+        "explanation": "धारा 194E: आपातकालीन वाहनों को रास्ता न देने पर 6 महीने तक की जेल, या Rs 10,000 का जुर्माना, या दोनों।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 194E",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 194E",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-fines-013",
+    "topic": "Fines",
+    "unit": "fines",
+    "lessonId": "fines-2",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Using a horn in a silence zone or an unnecessary horn can lead to a fine of Rs 1,000 for the first offence and:",
+    "options": [
+      "Rs 1,500 for the second",
+      "Rs 2,000 for a second or later offence",
+      "Nothing for a second offence",
+      "Rs 25,000"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Section 194F: Rs 1,000 first offence, Rs 2,000 for a second or later offence.",
+    "languages": {
+      "en": {
+        "question": "Using a horn in a silence zone or an unnecessary horn can lead to a fine of Rs 1,000 for the first offence and:",
+        "options": [
+          "Rs 1,500 for the second",
+          "Rs 2,000 for a second or later offence",
+          "Nothing for a second offence",
+          "Rs 25,000"
+        ],
+        "explanation": "Section 194F: Rs 1,000 first offence, Rs 2,000 for a second or later offence."
+      },
+      "hi": {
+        "question": "शांत क्षेत्र में हॉर्न बजाने या बेवजह हॉर्न बजाने पर पहले अपराध में Rs 1,000 का जुर्माना हो सकता है और:",
+        "options": [
+          "दूसरे अपराध पर Rs 1,500",
+          "दूसरे या बाद के अपराध पर Rs 2,000",
+          "दूसरे अपराध पर कुछ नहीं",
+          "Rs 25,000"
+        ],
+        "explanation": "धारा 194F: पहले अपराध पर Rs 1,000, दूसरे या बाद के अपराध पर Rs 2,000।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 194F",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 194F",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-fines-014",
+    "topic": "Fines",
+    "unit": "fines",
+    "lessonId": "fines-2",
+    "type": "mcq",
+    "difficulty": 3,
+    "question": "If a juvenile (child under 18) drives a vehicle and commits an offence, the guardian or owner can be fined:",
+    "options": [
+      "Rs 1,000",
+      "Rs 5,000",
+      "Rs 25,000 and imprisonment up to 3 years",
+      "No action"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Section 199A: the guardian or owner is deemed guilty; up to 3 years in prison and a fine of Rs 25,000 (as per the 2019 amendment).",
+    "languages": {
+      "en": {
+        "question": "If a juvenile (child under 18) drives a vehicle and commits an offence, the guardian or owner can be fined:",
+        "options": [
+          "Rs 1,000",
+          "Rs 5,000",
+          "Rs 25,000 and imprisonment up to 3 years",
+          "No action"
+        ],
+        "explanation": "Section 199A: the guardian or owner is deemed guilty; up to 3 years in prison and a fine of Rs 25,000 (as per the 2019 amendment)."
+      },
+      "hi": {
+        "question": "अगर कोई किशोर (18 वर्ष से कम का बच्चा) वाहन चलाता है और अपराध करता है, तो अभिभावक या मालिक पर जुर्माना लग सकता है:",
+        "options": [
+          "Rs 1,000",
+          "Rs 5,000",
+          "Rs 25,000 और 3 वर्ष तक की जेल",
+          "कोई कार्रवाई नहीं"
+        ],
+        "explanation": "धारा 199A: अभिभावक या मालिक को दोषी माना जाता है; 3 वर्ष तक की जेल और Rs 25,000 का जुर्माना (2019 के संशोधन के अनुसार)।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 199A",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 199A",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-fines-015",
+    "topic": "Fines",
+    "unit": "fines",
+    "lessonId": "fines-2",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Carrying more than one pillion rider or breaking motorcycle safety rules can lead to a fine of Rs 1,000 and:",
+    "options": [
+      "3 months licence disqualification",
+      "Cancellation for life",
+      "No other action",
+      "Seizure of vehicle for a year"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Section 194C: a fine of Rs 1,000 and 3 months disqualification.",
+    "languages": {
+      "en": {
+        "question": "Carrying more than one pillion rider or breaking motorcycle safety rules can lead to a fine of Rs 1,000 and:",
+        "options": [
+          "3 months licence disqualification",
+          "Cancellation for life",
+          "No other action",
+          "Seizure of vehicle for a year"
+        ],
+        "explanation": "Section 194C: a fine of Rs 1,000 and 3 months disqualification."
+      },
+      "hi": {
+        "question": "एक से ज़्यादा पीछे बैठी सवारी ले जाने या मोटरसाइकिल सुरक्षा नियम तोड़ने पर Rs 1,000 का जुर्माना और:",
+        "options": [
+          "3 महीने के लिए लाइसेंस अयोग्य घोषित",
+          "आजीवन रद्द",
+          "इसके अलावा कोई कार्रवाई नहीं",
+          "वाहन एक साल के लिए जब्त"
+        ],
+        "explanation": "धारा 194C: Rs 1,000 का जुर्माना और 3 महीने के लिए अयोग्य घोषित किया जाना।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 194C",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 194C",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-fines-016",
+    "topic": "Fines",
+    "unit": "fines",
+    "lessonId": "fines-2",
+    "type": "true-false",
+    "difficulty": 2,
+    "question": "States may change the fine amounts of the central Motor Vehicles Act, so the fine in your state can differ.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0,
+    "explanation": "State governments can set the amount of some fines, so always check the rule in your own state.",
+    "languages": {
+      "en": {
+        "question": "States may change the fine amounts of the central Motor Vehicles Act, so the fine in your state can differ.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "explanation": "State governments can set the amount of some fines, so always check the rule in your own state."
+      },
+      "hi": {
+        "question": "राज्य केंद्रीय मोटर वाहन अधिनियम की जुर्माना राशियाँ बदल सकते हैं, इसलिए आपके राज्य में जुर्माना अलग हो सकता है।",
+        "options": [
+          "सही",
+          "गलत"
+        ],
+        "explanation": "राज्य सरकारें कुछ जुर्मानों की राशि तय कर सकती हैं, इसलिए हमेशा अपने राज्य का नियम देखें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 210",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 210",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  }
+]

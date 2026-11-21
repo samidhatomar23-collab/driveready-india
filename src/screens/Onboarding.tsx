@@ -2,13 +2,13 @@ import { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import Mascot from '../components/Mascot';
-import { states, tr } from '../lib/content';
+import { LANG_LABELS, states, tr } from '../lib/content';
 import { useStore } from '../lib/store';
 import type { Lang, VehicleClass } from '../types';
 
 const VEHICLES: VehicleClass[] = ['two-wheeler', 'motorcycle-gear', 'car', 'both'];
 const GOALS = [{ xp: 10, k: 'goal.casual' }, { xp: 20, k: 'goal.regular' }, { xp: 30, k: 'goal.serious' }, { xp: 50, k: 'goal.intense' }];
-const LANGS: { code: Lang; label: string }[] = [{ code: 'en', label: 'English' }, { code: 'hi', label: 'हिन्दी' }];
+const LANGS: { code: Lang; label: string }[] = (Object.keys(LANG_LABELS) as Lang[]).map(code => ({ code, label: LANG_LABELS[code].full }));
 
 export default function Onboarding() {
   const { settings, setSettings } = useStore();
@@ -22,7 +22,7 @@ export default function Onboarding() {
     { title: t('onb.language'), body: (
       <div className="flex flex-col gap-3">{LANGS.map(l => (
         <button key={l.code} className="opt" data-sel={lang === l.code} aria-pressed={lang === l.code} onClick={() => setSettings({ lang: l.code })}>{l.label}</button>))}
-        <p className="muted text-xs">Tamil, Telugu, Marathi, Bengali, Gujarati… coming soon.</p>
+        <p className="muted text-xs">{t('onb.more')}</p>
       </div>) },
     { title: t('onb.state'), body: (
       <div className="flex max-h-[48vh] flex-col gap-3 overflow-y-auto pr-1">{[...list, states.find(s => s.code === 'default')!].map(s => (

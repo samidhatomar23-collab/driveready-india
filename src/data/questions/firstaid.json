@@ -1,0 +1,607 @@
+[
+  {
+    "id": "q-firstaid-001",
+    "topic": "Accident",
+    "unit": "firstaid",
+    "lessonId": "first-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "You are in a road accident and someone is hurt. What is the first thing you do?",
+    "options": [
+      "Run away",
+      "Call for medical help and police, and help the injured if you can",
+      "Argue with the other driver",
+      "Take photographs only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "If anyone is hurt, call for an ambulance and the police at once and take reasonable steps to get the injured person to a doctor.",
+    "languages": {
+      "en": {
+        "question": "You are in a road accident and someone is hurt. What is the first thing you do?",
+        "options": [
+          "Run away",
+          "Call for medical help and police, and help the injured if you can",
+          "Argue with the other driver",
+          "Take photographs only"
+        ],
+        "explanation": "If anyone is hurt, call for an ambulance and the police at once and take reasonable steps to get the injured person to a doctor."
+      },
+      "hi": {
+        "question": "आप सड़क दुर्घटना में हैं और कोई घायल है। आप सबसे पहले क्या करते हैं?",
+        "options": [
+          "भाग जाते हैं",
+          "चिकित्सा सहायता और पुलिस को बुलाते हैं, और हो सके तो घायल की मदद करते हैं",
+          "दूसरे चालक से बहस करते हैं",
+          "केवल फ़ोटो खींचते हैं"
+        ],
+        "explanation": "अगर कोई घायल है, तो तुरंत एम्बुलेंस और पुलिस को बुलाएँ और घायल व्यक्ति को डॉक्टर तक पहुँचाने के लिए उचित कदम उठाएँ।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 29",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 29",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-firstaid-002",
+    "topic": "Accident",
+    "unit": "firstaid",
+    "lessonId": "first-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "The driver must report an accident that injured someone or damaged property to the nearest police station:",
+    "options": [
+      "As soon as possible and within 24 hours",
+      "Within 7 days",
+      "Within one month",
+      "Never, if the owner is not found"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Section 134: report as soon as possible and in any case within 24 hours.",
+    "languages": {
+      "en": {
+        "question": "The driver must report an accident that injured someone or damaged property to the nearest police station:",
+        "options": [
+          "As soon as possible and within 24 hours",
+          "Within 7 days",
+          "Within one month",
+          "Never, if the owner is not found"
+        ],
+        "explanation": "Section 134: report as soon as possible and in any case within 24 hours."
+      },
+      "hi": {
+        "question": "जिस दुर्घटना में किसी को चोट लगी हो या संपत्ति को नुकसान हुआ हो, चालक को उसकी सूचना नज़दीकी पुलिस थाने में देनी होती है:",
+        "options": [
+          "जितनी जल्दी हो सके और 24 घंटे के भीतर",
+          "7 दिन के भीतर",
+          "एक महीने के भीतर",
+          "कभी नहीं, अगर मालिक न मिले"
+        ],
+        "explanation": "Section 134: जितनी जल्दी हो सके और किसी भी हाल में 24 घंटे के भीतर सूचना दें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 134",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 134",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-firstaid-003",
+    "topic": "Accident",
+    "unit": "firstaid",
+    "lessonId": "first-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "After an accident you should inform:",
+    "options": [
+      "Only the police",
+      "The insurance company, in writing, with the policy number, time and place",
+      "Nobody",
+      "Only the neighbours"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Section 134 also requires the driver to give the insurer written details of the accident.",
+    "languages": {
+      "en": {
+        "question": "After an accident you should inform:",
+        "options": [
+          "Only the police",
+          "The insurance company, in writing, with the policy number, time and place",
+          "Nobody",
+          "Only the neighbours"
+        ],
+        "explanation": "Section 134 also requires the driver to give the insurer written details of the accident."
+      },
+      "hi": {
+        "question": "दुर्घटना के बाद आपको सूचना देनी चाहिए:",
+        "options": [
+          "केवल पुलिस को",
+          "बीमा कंपनी को, लिखित में, पॉलिसी नंबर, समय और जगह के साथ",
+          "किसी को नहीं",
+          "केवल पड़ोसियों को"
+        ],
+        "explanation": "Section 134 के अनुसार चालक को बीमा कंपनी को दुर्घटना का पूरा ब्योरा लिखित में भी देना होता है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 134",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 134",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-firstaid-004",
+    "topic": "Accident",
+    "unit": "firstaid",
+    "lessonId": "first-1",
+    "type": "true-false",
+    "difficulty": 1,
+    "question": "After a minor accident you may move the vehicles out of the way of traffic and switch on the hazard lights.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Move vehicles clear of oncoming traffic, switch on hazard lights and place reflective triangles.",
+    "languages": {
+      "en": {
+        "question": "After a minor accident you may move the vehicles out of the way of traffic and switch on the hazard lights.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "explanation": "Move vehicles clear of oncoming traffic, switch on hazard lights and place reflective triangles."
+      },
+      "hi": {
+        "question": "छोटी दुर्घटना के बाद आप वाहनों को यातायात के रास्ते से हटा सकते हैं और हैज़र्ड लाइट चालू कर सकते हैं।",
+        "options": [
+          "सही",
+          "गलत"
+        ],
+        "explanation": "वाहनों को सामने से आते यातायात से दूर हटाएँ, हैज़र्ड लाइट चालू करें और रिफ़्लेक्टिव त्रिकोण रखें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 29",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 29",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-firstaid-005",
+    "topic": "Accident",
+    "unit": "firstaid",
+    "lessonId": "first-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "What details must you exchange with the other driver after an accident?",
+    "options": [
+      "Only your name",
+      "Name, address, phone number, insurance details, licence number and registration number",
+      "Only your phone number",
+      "Nothing, to avoid trouble"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Exchange name, address, phone, insurance company and policy number, licence number and registration number.",
+    "languages": {
+      "en": {
+        "question": "What details must you exchange with the other driver after an accident?",
+        "options": [
+          "Only your name",
+          "Name, address, phone number, insurance details, licence number and registration number",
+          "Only your phone number",
+          "Nothing, to avoid trouble"
+        ],
+        "explanation": "Exchange name, address, phone, insurance company and policy number, licence number and registration number."
+      },
+      "hi": {
+        "question": "दुर्घटना के बाद आपको दूसरे चालक के साथ कौन-सी जानकारी साझा करनी चाहिए?",
+        "options": [
+          "केवल अपना नाम",
+          "नाम, पता, फ़ोन नंबर, बीमा की जानकारी, लाइसेंस नंबर और पंजीकरण नंबर",
+          "केवल अपना फ़ोन नंबर",
+          "कुछ नहीं, ताकि झंझट न हो"
+        ],
+        "explanation": "नाम, पता, फ़ोन, बीमा कंपनी और पॉलिसी नंबर, लाइसेंस नंबर और पंजीकरण नंबर साझा करें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 29",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 29",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-firstaid-006",
+    "topic": "Accident",
+    "unit": "firstaid",
+    "lessonId": "first-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "If there is no friendly agreement with the other driver after an accident, you should:",
+    "options": [
+      "Leave the place",
+      "Call the police and stay until they allow you to go",
+      "Fight",
+      "Hide the vehicle"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Call the police and stay at the scene until the investigators arrive and permit you to leave.",
+    "languages": {
+      "en": {
+        "question": "If there is no friendly agreement with the other driver after an accident, you should:",
+        "options": [
+          "Leave the place",
+          "Call the police and stay until they allow you to go",
+          "Fight",
+          "Hide the vehicle"
+        ],
+        "explanation": "Call the police and stay at the scene until the investigators arrive and permit you to leave."
+      },
+      "hi": {
+        "question": "अगर दुर्घटना के बाद दूसरे चालक के साथ आपसी सहमति नहीं बनती, तो आपको:",
+        "options": [
+          "वह जगह छोड़ देनी चाहिए",
+          "पुलिस को बुलाना चाहिए और उनके जाने की अनुमति देने तक रुकना चाहिए",
+          "लड़ना चाहिए",
+          "वाहन छिपा देना चाहिए"
+        ],
+        "explanation": "पुलिस को बुलाएँ और जाँच करने वालों के आने और जाने की अनुमति देने तक घटनास्थल पर रुके रहें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 29",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 29",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-firstaid-007",
+    "topic": "Good Samaritan",
+    "unit": "firstaid",
+    "lessonId": "first-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "A person who helps an accident victim in good faith and without reward is called:",
+    "options": [
+      "A Good Samaritan",
+      "A licence holder",
+      "A conductor",
+      "A traffic warden"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A Good Samaritan is protected by law (Section 134A) from civil or criminal liability for ordinary negligence.",
+    "languages": {
+      "en": {
+        "question": "A person who helps an accident victim in good faith and without reward is called:",
+        "options": [
+          "A Good Samaritan",
+          "A licence holder",
+          "A conductor",
+          "A traffic warden"
+        ],
+        "explanation": "A Good Samaritan is protected by law (Section 134A) from civil or criminal liability for ordinary negligence."
+      },
+      "hi": {
+        "question": "जो व्यक्ति नेकनीयती से और बिना किसी इनाम के दुर्घटना पीड़ित की मदद करता है, उसे कहते हैं:",
+        "options": [
+          "गुड सेमेरिटन",
+          "लाइसेंस धारक",
+          "कंडक्टर",
+          "ट्रैफ़िक वार्डन"
+        ],
+        "explanation": "गुड सेमेरिटन को कानून (Section 134A) से सामान्य लापरवाही के लिए दीवानी या आपराधिक ज़िम्मेदारी से सुरक्षा मिलती है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 134A",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 134A",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-firstaid-008",
+    "topic": "Good Samaritan",
+    "unit": "firstaid",
+    "lessonId": "first-1",
+    "type": "true-false",
+    "difficulty": 1,
+    "question": "A Good Samaritan who helps an accident victim in good faith is protected from civil or criminal action.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Section 134A protects Good Samaritans.",
+    "languages": {
+      "en": {
+        "question": "A Good Samaritan who helps an accident victim in good faith is protected from civil or criminal action.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "explanation": "Section 134A protects Good Samaritans."
+      },
+      "hi": {
+        "question": "जो गुड सेमेरिटन नेकनीयती से दुर्घटना पीड़ित की मदद करता है, उसे दीवानी या आपराधिक कार्रवाई से सुरक्षा मिलती है।",
+        "options": [
+          "सही",
+          "गलत"
+        ],
+        "explanation": "Section 134A गुड सेमेरिटन को सुरक्षा देती है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 134A",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 134A",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-firstaid-009",
+    "topic": "Accident",
+    "unit": "firstaid",
+    "lessonId": "first-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "A doctor treats an injured accident victim. Must the doctor wait for the police formalities before starting treatment?",
+    "options": [
+      "Yes",
+      "No, treatment must not wait for formalities",
+      "Only for serious injuries",
+      "Only at night"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Section 134: a doctor on duty must treat the injured without waiting for procedural formalities.",
+    "languages": {
+      "en": {
+        "question": "A doctor treats an injured accident victim. Must the doctor wait for the police formalities before starting treatment?",
+        "options": [
+          "Yes",
+          "No, treatment must not wait for formalities",
+          "Only for serious injuries",
+          "Only at night"
+        ],
+        "explanation": "Section 134: a doctor on duty must treat the injured without waiting for procedural formalities."
+      },
+      "hi": {
+        "question": "एक डॉक्टर दुर्घटना के घायल का इलाज करता है। क्या डॉक्टर को इलाज शुरू करने से पहले पुलिस की औपचारिकताओं का इंतज़ार करना चाहिए?",
+        "options": [
+          "हाँ",
+          "नहीं, इलाज औपचारिकताओं के लिए नहीं रुकना चाहिए",
+          "केवल गंभीर चोट में",
+          "केवल रात में"
+        ],
+        "explanation": "Section 134: ड्यूटी पर मौजूद डॉक्टर को कार्यवाही की औपचारिकताओं का इंतज़ार किए बिना घायल का इलाज करना होता है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 134",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 134",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-firstaid-010",
+    "topic": "Accident",
+    "unit": "firstaid",
+    "lessonId": "first-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Which phone number can you call in an emergency anywhere in India?",
+    "options": [
+      "100 only",
+      "112",
+      "1800",
+      "555"
+    ],
+    "correctAnswer": 1,
+    "explanation": "112 is the single emergency number for police, fire and ambulance across India.",
+    "languages": {
+      "en": {
+        "question": "Which phone number can you call in an emergency anywhere in India?",
+        "options": [
+          "100 only",
+          "112",
+          "1800",
+          "555"
+        ],
+        "explanation": "112 is the single emergency number for police, fire and ambulance across India."
+      },
+      "hi": {
+        "question": "भारत में कहीं भी आपातकाल में आप कौन-सा फ़ोन नंबर मिला सकते हैं?",
+        "options": [
+          "केवल 100",
+          "112",
+          "1800",
+          "555"
+        ],
+        "explanation": "112 पूरे भारत में पुलिस, दमकल और एम्बुलेंस के लिए एक ही आपातकालीन नंबर है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://112.gov.in",
+    "sourceDoc": "Emergency Response Support System (ERSS) 112, Government of India",
+    "retrievedOn": "2026-11-19",
+    "verified": false,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Emergency number 112; not yet checked against a downloaded official page."
+  },
+  {
+    "id": "q-firstaid-011",
+    "topic": "Accident",
+    "unit": "firstaid",
+    "lessonId": "first-1",
+    "type": "true-false",
+    "difficulty": 1,
+    "question": "If you hit a pedestrian, you should leave quickly to avoid a crowd.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The driver must stay, help the injured, get medical help and report to the police.",
+    "languages": {
+      "en": {
+        "question": "If you hit a pedestrian, you should leave quickly to avoid a crowd.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "explanation": "The driver must stay, help the injured, get medical help and report to the police."
+      },
+      "hi": {
+        "question": "अगर आप किसी पैदल यात्री को टक्कर मार दें, तो भीड़ से बचने के लिए आपको जल्दी से निकल जाना चाहिए।",
+        "options": [
+          "सही",
+          "गलत"
+        ],
+        "explanation": "चालक को रुकना चाहिए, घायल की मदद करनी चाहिए, चिकित्सा सहायता लेनी चाहिए और पुलिस को सूचना देनी चाहिए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 134",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 134",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-firstaid-012",
+    "topic": "Accident",
+    "unit": "firstaid",
+    "lessonId": "first-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Why should you take photographs of the vehicles and the scene after an accident, if it is safe?",
+    "options": [
+      "For social media",
+      "To keep a record for the police and insurance",
+      "To make the other driver afraid",
+      "It is not useful"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Photographs of the vehicles, number plates and scene help with the police investigation and the insurance claim.",
+    "languages": {
+      "en": {
+        "question": "Why should you take photographs of the vehicles and the scene after an accident, if it is safe?",
+        "options": [
+          "For social media",
+          "To keep a record for the police and insurance",
+          "To make the other driver afraid",
+          "It is not useful"
+        ],
+        "explanation": "Photographs of the vehicles, number plates and scene help with the police investigation and the insurance claim."
+      },
+      "hi": {
+        "question": "अगर सुरक्षित हो, तो दुर्घटना के बाद आपको वाहनों और घटनास्थल की फ़ोटो क्यों खींचनी चाहिए?",
+        "options": [
+          "सोशल मीडिया के लिए",
+          "पुलिस और बीमा के लिए रिकॉर्ड रखने के लिए",
+          "दूसरे चालक को डराने के लिए",
+          "यह उपयोगी नहीं है"
+        ],
+        "explanation": "वाहनों, नंबर प्लेट और घटनास्थल की फ़ोटो पुलिस जाँच और बीमा दावे में मदद करती हैं।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 29",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 29",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  }
+]

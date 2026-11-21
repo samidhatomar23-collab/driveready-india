@@ -5,20 +5,42 @@ import unitsData from '../data/units.json';
 import finesData from '../data/fines.json';
 import en from '../data/i18n/en.json';
 import hi from '../data/i18n/hi.json';
+import mr from '../data/i18n/mr.json';
+import te from '../data/i18n/te.json';
+import ta from '../data/i18n/ta.json';
 
 export const signs = signsData as unknown as Sign[];
 export const states = statesData as unknown as StateConfig[];
 export const units = unitsData as unknown as Unit[];
 export const fines = finesData as unknown as { lastUpdated: string | null; note: string; items: Fine[] };
 
-const dicts: Record<Lang, Record<string, string>> = { en, hi };
+const dicts: Record<Lang, Record<string, string>> = { en, hi, mr, te, ta };
+
+/** Name shown for each language in pickers, and a short label for quick toggles. */
+export const LANG_LABELS: Record<Lang, { full: string; short: string }> = {
+  en: { full: 'English', short: 'EN' }, hi: { full: 'हिन्दी', short: 'हिं' }, mr: { full: 'मराठी', short: 'मरा' },
+  te: { full: 'తెలుగు', short: 'తె' }, ta: { full: 'தமிழ்', short: 'த' }
+};
+export const nextLang = (l: Lang): Lang => { const a = Object.keys(LANG_LABELS) as Lang[]; return a[(a.indexOf(l) + 1) % a.length]; };
+/** Reads a translated field such as name_hi / title_ta, falling back to English. */
+export const pick = (obj: object, field: string, lang: Lang): string => {
+  const o = obj as Record<string, string | undefined>;
+  return (lang !== 'en' ? o[`${field}_${lang}`] : undefined) ?? o[field] ?? '';
+};
 export const tr = (lang: Lang, key: string) => dicts[lang][key] ?? dicts.en[key] ?? key;
 
 // Questions are lazy-loaded per unit (code-split JSON chunks) and cached.
 const loaders: Record<string, () => Promise<{ default: unknown }>> = {
   signs: () => import('../data/questions/signs.json'),
   row: () => import('../data/questions/row.json'),
-  signals: () => import('../data/questions/signals.json')
+  signals: () => import('../data/questions/signals.json'),
+  speed: () => import('../data/questions/speed.json'),
+  parking: () => import('../data/questions/parking.json'),
+  docs: () => import('../data/questions/docs.json'),
+  fines: () => import('../data/questions/fines.json'),
+  safe: () => import('../data/questions/safe.json'),
+  firstaid: () => import('../data/questions/firstaid.json'),
+  vehicle: () => import('../data/questions/vehicle.json')
 };
 const cache = new Map<string, Question[]>();
 
@@ -74,10 +96,9 @@ export function makeSignQuiz(n: number): Question[] {
       id: `guess-${sg.id}-${i}`, topic: 'Guess the sign', unit: 'signs', lessonId: 'guess', type: 'sign-id', difficulty: 1,
       question: 'What does this sign mean?', options: opts.map(o => o.name), correctAnswer: opts.findIndex(o => o.id === sg.id),
       explanation: sg.meaning, imageRef: sg.id,
-      languages: {
-        en: { question: 'What does this sign mean?', options: opts.map(o => o.name), explanation: sg.meaning },
-        hi: { question: 'यह चिह्न क्या दर्शाता है?', options: opts.map(o => o.name_hi ?? o.name), explanation: sg.meaning_hi ?? sg.meaning }
-      },
+      languages: Object.fromEntries((Object.keys(LANG_LABELS) as Lang[]).map(l => [l, {
+        question: tr(l, 'q.signq'), options: opts.map(o => pick(o, 'name', l)), explanation: pick(sg, 'meaning', l)
+      }])),
       applicableVehicleClasses: ['all'], statesApplicable: ['all'], sourceUrl: sg.sourceUrl, sourceDoc: sg.sourceDoc, retrievedOn: null, verified: false
     } as Question;
   });

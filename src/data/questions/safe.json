@@ -1,0 +1,2708 @@
+[
+  {
+    "id": "q-safe-001",
+    "topic": "Mobile phone",
+    "unit": "safe",
+    "lessonId": "safe-4",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Using a hand-held mobile phone while driving is:",
+    "options": [
+      "Allowed on straight roads",
+      "Not allowed",
+      "Allowed in the daytime",
+      "Allowed if you drive slowly"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Drivers must not use hand-held mobile phones or other communication devices. Supervisors must not use them while teaching a learner.",
+    "languages": {
+      "en": {
+        "question": "Using a hand-held mobile phone while driving is:",
+        "options": [
+          "Allowed on straight roads",
+          "Not allowed",
+          "Allowed in the daytime",
+          "Allowed if you drive slowly"
+        ],
+        "explanation": "Drivers must not use hand-held mobile phones or other communication devices. Supervisors must not use them while teaching a learner."
+      },
+      "hi": {
+        "question": "गाड़ी चलाते समय हाथ में मोबाइल फोन इस्तेमाल करना:",
+        "options": [
+          "सीधी सड़कों पर अनुमत है",
+          "अनुमत नहीं है",
+          "दिन में अनुमत है",
+          "धीरे चलाने पर अनुमत है"
+        ],
+        "explanation": "चालकों को हाथ में मोबाइल फोन या अन्य संचार उपकरण इस्तेमाल नहीं करने चाहिए। लर्नर को सिखाते समय पर्यवेक्षक भी इन्हें इस्तेमाल न करें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 37",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 37",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-safe-002",
+    "topic": "Distraction",
+    "unit": "safe",
+    "lessonId": "safe-4",
+    "type": "true-false",
+    "difficulty": 2,
+    "question": "You may watch videos while driving if the volume is low.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1,
+    "explanation": "You may not watch videos while driving. Only navigation is allowed, and it must not distract you.",
+    "languages": {
+      "en": {
+        "question": "You may watch videos while driving if the volume is low.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "explanation": "You may not watch videos while driving. Only navigation is allowed, and it must not distract you."
+      },
+      "hi": {
+        "question": "आवाज़ कम हो तो आप गाड़ी चलाते समय वीडियो देख सकते हैं।",
+        "options": [
+          "सही",
+          "गलत"
+        ],
+        "explanation": "गाड़ी चलाते समय आप वीडियो नहीं देख सकते। केवल नेविगेशन की अनुमति है, और उससे ध्यान नहीं भटकना चाहिए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 5",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 5",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-safe-003",
+    "topic": "Horn",
+    "unit": "safe",
+    "lessonId": "safe-4",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "When should you sound the horn?",
+    "options": [
+      "At every turn",
+      "Only when danger is apprehended or a sign tells you to",
+      "All the time in the market",
+      "To tell people to move"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Unnecessary horn use is prohibited. Sound it only where there is a danger or a mandatory sign says so.",
+    "languages": {
+      "en": {
+        "question": "When should you sound the horn?",
+        "options": [
+          "At every turn",
+          "Only when danger is apprehended or a sign tells you to",
+          "All the time in the market",
+          "To tell people to move"
+        ],
+        "explanation": "Unnecessary horn use is prohibited. Sound it only where there is a danger or a mandatory sign says so."
+      },
+      "hi": {
+        "question": "हॉर्न कब बजाना चाहिए?",
+        "options": [
+          "हर मोड़ पर",
+          "केवल तब जब खतरे की आशंका हो या कोई चिह्न बताए",
+          "बाज़ार में हर समय",
+          "लोगों को हटने के लिए कहने को"
+        ],
+        "explanation": "बेवजह हॉर्न बजाना मना है। इसे केवल तभी बजाएँ जब खतरा हो या कोई अनिवार्य चिह्न ऐसा कहे।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 23",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 23",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-safe-004",
+    "topic": "Horn",
+    "unit": "safe",
+    "lessonId": "safe-4",
+    "type": "true-false",
+    "difficulty": 1,
+    "question": "You may use air horns or harsh multi-tone horns in a residential area.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Air horns and harsh multi-tone horns are not allowed, and no horns in residential areas or silence zones.",
+    "languages": {
+      "en": {
+        "question": "You may use air horns or harsh multi-tone horns in a residential area.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "explanation": "Air horns and harsh multi-tone horns are not allowed, and no horns in residential areas or silence zones."
+      },
+      "hi": {
+        "question": "आप रिहायशी इलाके में एयर हॉर्न या तेज़ कई-स्वर वाले हॉर्न इस्तेमाल कर सकते हैं।",
+        "options": [
+          "सही",
+          "गलत"
+        ],
+        "explanation": "एयर हॉर्न और तेज़ कई-स्वर वाले हॉर्न की अनुमति नहीं है, और रिहायशी इलाकों या शांत क्षेत्रों में कोई भी हॉर्न नहीं बजाना चाहिए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 23",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 23",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-safe-005",
+    "topic": "Lights",
+    "unit": "safe",
+    "lessonId": "safe-4",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Two-wheeler riders must use the dipped headlight:",
+    "options": [
+      "Only at night",
+      "Also in the daytime",
+      "Only in the rain",
+      "Only on highways"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Two-wheelers must use dipped headlights at all times, including daytime.",
+    "languages": {
+      "en": {
+        "question": "Two-wheeler riders must use the dipped headlight:",
+        "options": [
+          "Only at night",
+          "Also in the daytime",
+          "Only in the rain",
+          "Only on highways"
+        ],
+        "explanation": "Two-wheelers must use dipped headlights at all times, including daytime."
+      },
+      "hi": {
+        "question": "दोपहिया चालकों को डिप्ड हेडलाइट इस्तेमाल करनी चाहिए:",
+        "options": [
+          "केवल रात में",
+          "दिन में भी",
+          "केवल बारिश में",
+          "केवल हाईवे पर"
+        ],
+        "explanation": "दोपहिया वाहनों को हर समय, दिन में भी, डिप्ड हेडलाइट इस्तेमाल करनी चाहिए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 31",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 31",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-safe-006",
+    "topic": "Lights",
+    "unit": "safe",
+    "lessonId": "safe-4",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Fog lamps may be used:",
+    "options": [
+      "Always, for a better look",
+      "Only when fog, dust, rain or snow greatly reduces visibility, with dipped headlights on",
+      "Only on hill roads",
+      "In place of headlights"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Use fog lamps only when visibility is very low, together with dipped headlamps.",
+    "languages": {
+      "en": {
+        "question": "Fog lamps may be used:",
+        "options": [
+          "Always, for a better look",
+          "Only when fog, dust, rain or snow greatly reduces visibility, with dipped headlights on",
+          "Only on hill roads",
+          "In place of headlights"
+        ],
+        "explanation": "Use fog lamps only when visibility is very low, together with dipped headlamps."
+      },
+      "hi": {
+        "question": "फॉग लैंप इस्तेमाल किए जा सकते हैं:",
+        "options": [
+          "हमेशा, बेहतर दिखने के लिए",
+          "केवल तब जब कोहरा, धूल, बारिश या बर्फ़ से दिखना बहुत कम हो जाए, और डिप्ड हेडलाइट जली हों",
+          "केवल पहाड़ी सड़कों पर",
+          "हेडलाइट की जगह"
+        ],
+        "explanation": "फॉग लैंप केवल तब इस्तेमाल करें जब दिखाई बहुत कम दे, और डिप्ड हेडलैंप के साथ।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 31",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 31",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-safe-007",
+    "topic": "Lights",
+    "unit": "safe",
+    "lessonId": "safe-4",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "You must dip your high beam:",
+    "options": [
+      "Never",
+      "In good time for oncoming vehicles or when following another vehicle closely",
+      "Only in cities",
+      "Only on one-way roads"
+    ],
+    "correctAnswer": 1,
+    "explanation": "High beam can dazzle other drivers, so dip it in good time.",
+    "languages": {
+      "en": {
+        "question": "You must dip your high beam:",
+        "options": [
+          "Never",
+          "In good time for oncoming vehicles or when following another vehicle closely",
+          "Only in cities",
+          "Only on one-way roads"
+        ],
+        "explanation": "High beam can dazzle other drivers, so dip it in good time."
+      },
+      "hi": {
+        "question": "आपको अपनी हाई बीम डिप करनी चाहिए:",
+        "options": [
+          "कभी नहीं",
+          "सामने से आ रहे वाहनों के लिए समय रहते, या किसी दूसरे वाहन के पीछे पास चलते समय",
+          "केवल शहरों में",
+          "केवल एकतरफा सड़कों पर"
+        ],
+        "explanation": "हाई बीम दूसरे चालकों की आँखों को चौंधिया सकती है, इसलिए इसे समय रहते डिप करें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 31",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 31",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-safe-008",
+    "topic": "Tunnel",
+    "unit": "safe",
+    "lessonId": "safe-4",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Before entering a tunnel you should:",
+    "options": [
+      "Switch on the dipped headlights",
+      "Speed up",
+      "Switch on the high beam",
+      "Switch off the lights"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Switch on dipped headlights before entering a tunnel. Do not overtake, make a U-turn or reverse inside.",
+    "languages": {
+      "en": {
+        "question": "Before entering a tunnel you should:",
+        "options": [
+          "Switch on the dipped headlights",
+          "Speed up",
+          "Switch on the high beam",
+          "Switch off the lights"
+        ],
+        "explanation": "Switch on dipped headlights before entering a tunnel. Do not overtake, make a U-turn or reverse inside."
+      },
+      "hi": {
+        "question": "सुरंग में घुसने से पहले आपको:",
+        "options": [
+          "डिप्ड हेडलाइट जलानी चाहिए",
+          "गति बढ़ानी चाहिए",
+          "हाई बीम जलानी चाहिए",
+          "लाइटें बंद कर देनी चाहिए"
+        ],
+        "explanation": "सुरंग में घुसने से पहले डिप्ड हेडलाइट जलाएँ। अंदर ओवरटेक न करें, यू-टर्न न लें और रिवर्स न करें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 20",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 20",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-safe-009",
+    "topic": "Tunnel",
+    "unit": "safe",
+    "lessonId": "safe-4",
+    "type": "mcq",
+    "difficulty": 3,
+    "question": "If you must stop in a tunnel, you should switch on the hazard lights and place reflective triangles at what distance in front and behind?",
+    "options": [
+      "5 metres",
+      "10 metres",
+      "20 metres",
+      "100 metres"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Stop only if unavoidable, then use hazard lights and reflective triangles 20 metres in front and behind.",
+    "languages": {
+      "en": {
+        "question": "If you must stop in a tunnel, you should switch on the hazard lights and place reflective triangles at what distance in front and behind?",
+        "options": [
+          "5 metres",
+          "10 metres",
+          "20 metres",
+          "100 metres"
+        ],
+        "explanation": "Stop only if unavoidable, then use hazard lights and reflective triangles 20 metres in front and behind."
+      },
+      "hi": {
+        "question": "अगर आपको सुरंग में रुकना ही पड़े, तो हैज़र्ड लाइटें जलाएँ और आगे-पीछे कितनी दूरी पर रिफ्लेक्टिव त्रिकोण रखें?",
+        "options": [
+          "5 मीटर",
+          "10 मीटर",
+          "20 मीटर",
+          "100 मीटर"
+        ],
+        "explanation": "केवल तभी रुकें जब टाला न जा सके, फिर हैज़र्ड लाइटें जलाएँ और आगे-पीछे 20 मीटर पर रिफ्लेक्टिव त्रिकोण रखें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 20",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 20",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-safe-010",
+    "topic": "Level crossing",
+    "unit": "safe",
+    "lessonId": "safe-4",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "At an unguarded railway level crossing you may cross:",
+    "options": [
+      "Only when no train is in sight",
+      "Always, if you sound the horn",
+      "After overtaking the vehicle ahead",
+      "With high speed"
+    ],
+    "correctAnswer": 0,
+    "explanation": "At an unguarded crossing, enter only when no train is in sight. Trains have priority.",
+    "languages": {
+      "en": {
+        "question": "At an unguarded railway level crossing you may cross:",
+        "options": [
+          "Only when no train is in sight",
+          "Always, if you sound the horn",
+          "After overtaking the vehicle ahead",
+          "With high speed"
+        ],
+        "explanation": "At an unguarded crossing, enter only when no train is in sight. Trains have priority."
+      },
+      "hi": {
+        "question": "बिना गार्ड वाले रेलवे लेवल क्रॉसिंग पर आप पार कर सकते हैं:",
+        "options": [
+          "केवल जब कोई ट्रेन दिखाई न दे",
+          "हमेशा, अगर आप हॉर्न बजाएँ",
+          "आगे वाले वाहन को ओवरटेक करने के बाद",
+          "तेज़ गति से"
+        ],
+        "explanation": "बिना गार्ड वाले क्रॉसिंग पर केवल तभी घुसें जब कोई ट्रेन दिखाई न दे। ट्रेन को प्राथमिकता मिलती है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 19",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 19",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-safe-011",
+    "topic": "Level crossing",
+    "unit": "safe",
+    "lessonId": "safe-4",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "At a guarded level crossing, the gate is closing. You should:",
+    "options": [
+      "Cross quickly",
+      "Not enter the crossing",
+      "Overtake the vehicles in the queue",
+      "Sound the horn and cross"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Do not enter after the gate or barrier has closed or started to close, or when the signal is red.",
+    "languages": {
+      "en": {
+        "question": "At a guarded level crossing, the gate is closing. You should:",
+        "options": [
+          "Cross quickly",
+          "Not enter the crossing",
+          "Overtake the vehicles in the queue",
+          "Sound the horn and cross"
+        ],
+        "explanation": "Do not enter after the gate or barrier has closed or started to close, or when the signal is red."
+      },
+      "hi": {
+        "question": "गार्ड वाले लेवल क्रॉसिंग पर गेट बंद हो रहा है। आपको:",
+        "options": [
+          "जल्दी से पार कर लेना चाहिए",
+          "क्रॉसिंग में नहीं घुसना चाहिए",
+          "कतार के वाहनों को ओवरटेक करना चाहिए",
+          "हॉर्न बजाकर पार कर लेना चाहिए"
+        ],
+        "explanation": "गेट या बैरियर बंद हो जाने या बंद होना शुरू होने के बाद, या सिग्नल लाल होने पर, अंदर न घुसें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 19",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 19",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-safe-012",
+    "topic": "Level crossing",
+    "unit": "safe",
+    "lessonId": "safe-4",
+    "type": "true-false",
+    "difficulty": 2,
+    "question": "Buses, including school buses, must stop before an unguarded level crossing and check both directions before crossing.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Buses, goods vehicles and vehicles carrying hazardous goods must stop at the approach and the way must be checked on foot.",
+    "languages": {
+      "en": {
+        "question": "Buses, including school buses, must stop before an unguarded level crossing and check both directions before crossing.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "explanation": "Buses, goods vehicles and vehicles carrying hazardous goods must stop at the approach and the way must be checked on foot."
+      },
+      "hi": {
+        "question": "स्कूल बसों सहित सभी बसों को बिना गार्ड वाले लेवल क्रॉसिंग से पहले रुकना चाहिए और पार करने से पहले दोनों दिशाएँ देखनी चाहिए।",
+        "options": [
+          "सही",
+          "गलत"
+        ],
+        "explanation": "बसों, माल वाहनों और खतरनाक माल ले जाने वाले वाहनों को क्रॉसिंग के पास रुकना चाहिए और पैदल जाकर रास्ता जाँचना चाहिए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 19",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 19",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-safe-013",
+    "topic": "Emergency vehicles",
+    "unit": "safe",
+    "lessonId": "safe-4",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "An ambulance with siren and flashing lights comes from behind. You should:",
+    "options": [
+      "Speed up",
+      "Move to the left as far as possible and stop if needed",
+      "Stop in the middle of the road",
+      "Follow it closely"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Give way to emergency vehicles by moving as far left as possible and stopping if needed.",
+    "languages": {
+      "en": {
+        "question": "An ambulance with siren and flashing lights comes from behind. You should:",
+        "options": [
+          "Speed up",
+          "Move to the left as far as possible and stop if needed",
+          "Stop in the middle of the road",
+          "Follow it closely"
+        ],
+        "explanation": "Give way to emergency vehicles by moving as far left as possible and stopping if needed."
+      },
+      "hi": {
+        "question": "पीछे से सायरन और जलती-बुझती लाइटों वाली एम्बुलेंस आ रही है। आपको:",
+        "options": [
+          "गति बढ़ानी चाहिए",
+          "जितना हो सके बाईं ओर हो जाना चाहिए और ज़रूरत हो तो रुक जाना चाहिए",
+          "सड़क के बीच में रुक जाना चाहिए",
+          "उसके बिल्कुल पीछे-पीछे चलना चाहिए"
+        ],
+        "explanation": "आपातकालीन वाहनों को रास्ता देने के लिए जितना हो सके बाईं ओर हो जाएँ और ज़रूरत हो तो रुक जाएँ।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 27",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 27",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-safe-014",
+    "topic": "Emergency vehicles",
+    "unit": "safe",
+    "lessonId": "safe-4",
+    "type": "mcq",
+    "difficulty": 3,
+    "question": "Keep at least how far from an emergency vehicle that has its siren or flashers on?",
+    "options": [
+      "5 metres",
+      "20 metres",
+      "50 metres",
+      "100 metres"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Keep at least 50 metres from an emergency vehicle with its siren or flashers working, unless its crew says otherwise.",
+    "languages": {
+      "en": {
+        "question": "Keep at least how far from an emergency vehicle that has its siren or flashers on?",
+        "options": [
+          "5 metres",
+          "20 metres",
+          "50 metres",
+          "100 metres"
+        ],
+        "explanation": "Keep at least 50 metres from an emergency vehicle with its siren or flashers working, unless its crew says otherwise."
+      },
+      "hi": {
+        "question": "सायरन या फ्लैशर चालू वाले आपातकालीन वाहन से कम से कम कितनी दूरी रखनी चाहिए?",
+        "options": [
+          "5 मीटर",
+          "20 मीटर",
+          "50 मीटर",
+          "100 मीटर"
+        ],
+        "explanation": "सायरन या फ्लैशर चालू वाले आपातकालीन वाहन से कम से कम 50 मीटर दूर रहें, जब तक उसका स्टाफ कुछ और न कहे।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 27",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 27",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-safe-015",
+    "topic": "Breakdown",
+    "unit": "safe",
+    "lessonId": "safe-4",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Your four-wheeler breaks down on a highway. What should you do first?",
+    "options": [
+      "Switch on the hazard lights",
+      "Leave the vehicle open and walk away",
+      "Switch off all lights",
+      "Sit on the road"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Switch on the hazard lights straight away and place reflective triangles 50 metres behind the vehicle.",
+    "languages": {
+      "en": {
+        "question": "Your four-wheeler breaks down on a highway. What should you do first?",
+        "options": [
+          "Switch on the hazard lights",
+          "Leave the vehicle open and walk away",
+          "Switch off all lights",
+          "Sit on the road"
+        ],
+        "explanation": "Switch on the hazard lights straight away and place reflective triangles 50 metres behind the vehicle."
+      },
+      "hi": {
+        "question": "आपकी चारपहिया गाड़ी हाईवे पर खराब हो जाती है। आपको सबसे पहले क्या करना चाहिए?",
+        "options": [
+          "हैज़र्ड लाइटें जलानी चाहिए",
+          "वाहन को खुला छोड़कर चले जाना चाहिए",
+          "सारी लाइटें बंद कर देनी चाहिए",
+          "सड़क पर बैठ जाना चाहिए"
+        ],
+        "explanation": "तुरंत हैज़र्ड लाइटें जलाएँ और वाहन के 50 मीटर पीछे रिफ्लेक्टिव त्रिकोण रखें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 28",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 28",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-safe-016",
+    "topic": "Breakdown",
+    "unit": "safe",
+    "lessonId": "safe-4",
+    "type": "mcq",
+    "difficulty": 3,
+    "question": "On a highway, reflective warning triangles for a broken-down vehicle should be placed about how far behind it?",
+    "options": [
+      "5 metres",
+      "10 metres",
+      "50 metres",
+      "200 metres"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Place reflective triangles 50 metres behind the vehicle (before a bend if the vehicle is on one).",
+    "languages": {
+      "en": {
+        "question": "On a highway, reflective warning triangles for a broken-down vehicle should be placed about how far behind it?",
+        "options": [
+          "5 metres",
+          "10 metres",
+          "50 metres",
+          "200 metres"
+        ],
+        "explanation": "Place reflective triangles 50 metres behind the vehicle (before a bend if the vehicle is on one)."
+      },
+      "hi": {
+        "question": "हाईवे पर खराब वाहन के पीछे रिफ्लेक्टिव चेतावनी त्रिकोण लगभग कितनी दूरी पर रखने चाहिए?",
+        "options": [
+          "5 मीटर",
+          "10 मीटर",
+          "50 मीटर",
+          "200 मीटर"
+        ],
+        "explanation": "रिफ्लेक्टिव त्रिकोण वाहन के 50 मीटर पीछे रखें (अगर वाहन मोड़ पर है तो मोड़ से पहले)।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 28",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 28",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-safe-017",
+    "topic": "Processions",
+    "unit": "safe",
+    "lessonId": "safe-4",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "You see a funeral procession or a herd of cattle crossing the road. You should:",
+    "options": [
+      "Drive through quickly",
+      "Slow down, pass with care or wait until they cross",
+      "Sound the horn continuously",
+      "Overtake them at speed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Slow down and pass formations or animals carefully, leaving space. If they are crossing, stop and wait.",
+    "languages": {
+      "en": {
+        "question": "You see a funeral procession or a herd of cattle crossing the road. You should:",
+        "options": [
+          "Drive through quickly",
+          "Slow down, pass with care or wait until they cross",
+          "Sound the horn continuously",
+          "Overtake them at speed"
+        ],
+        "explanation": "Slow down and pass formations or animals carefully, leaving space. If they are crossing, stop and wait."
+      },
+      "hi": {
+        "question": "आपको शव-यात्रा या सड़क पार करते मवेशियों का झुंड दिखता है। आपको:",
+        "options": [
+          "जल्दी से निकल जाना चाहिए",
+          "धीमे होकर सावधानी से निकलना चाहिए या उनके पार होने तक रुकना चाहिए",
+          "लगातार हॉर्न बजाना चाहिए",
+          "तेज़ गति से उन्हें ओवरटेक करना चाहिए"
+        ],
+        "explanation": "धीमे हों और जुलूस या जानवरों के पास से जगह छोड़कर सावधानी से निकलें। अगर वे सड़क पार कर रहे हों, तो रुककर इंतज़ार करें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 25",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 25",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-safe-018",
+    "topic": "Seat belt",
+    "unit": "safe",
+    "lessonId": "safe-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Who must wear a seat belt, where seat belts are provided?",
+    "options": [
+      "Only the driver",
+      "Only front-seat passengers",
+      "The driver and all the occupants",
+      "Nobody, it is optional"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The driver and all occupants must wear seat belts where they are provided.",
+    "languages": {
+      "en": {
+        "question": "Who must wear a seat belt, where seat belts are provided?",
+        "options": [
+          "Only the driver",
+          "Only front-seat passengers",
+          "The driver and all the occupants",
+          "Nobody, it is optional"
+        ],
+        "explanation": "The driver and all occupants must wear seat belts where they are provided."
+      },
+      "hi": {
+        "question": "जहाँ सीट बेल्ट लगी हों, वहाँ किसे सीट बेल्ट पहननी चाहिए?",
+        "options": [
+          "केवल चालक को",
+          "केवल आगे की सीट के यात्रियों को",
+          "चालक और सभी सवारियों को",
+          "किसी को नहीं, यह वैकल्पिक है"
+        ],
+        "explanation": "जहाँ सीट बेल्ट लगी हों, वहाँ चालक और सभी सवारियों को सीट बेल्ट पहननी चाहिए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 5",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 5",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-safe-019",
+    "topic": "Seat belt",
+    "unit": "safe",
+    "lessonId": "safe-4",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Children up to what age must use a child restraint system, where provided?",
+    "options": [
+      "5 years",
+      "12 years",
+      "16 years",
+      "18 years"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Children up to 12 years must use a child restraint system in vehicles where it is provided.",
+    "languages": {
+      "en": {
+        "question": "Children up to what age must use a child restraint system, where provided?",
+        "options": [
+          "5 years",
+          "12 years",
+          "16 years",
+          "18 years"
+        ],
+        "explanation": "Children up to 12 years must use a child restraint system in vehicles where it is provided."
+      },
+      "hi": {
+        "question": "जहाँ चाइल्ड रेस्ट्रेंट सिस्टम लगा हो, वहाँ कितनी उम्र तक के बच्चों को उसका उपयोग करना चाहिए?",
+        "options": [
+          "5 वर्ष",
+          "12 वर्ष",
+          "16 वर्ष",
+          "18 वर्ष"
+        ],
+        "explanation": "जिन वाहनों में चाइल्ड रेस्ट्रेंट सिस्टम लगा हो, उनमें 12 वर्ष तक के बच्चों को उसका उपयोग करना चाहिए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 5",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 5",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-safe-020",
+    "topic": "Reversing",
+    "unit": "safe",
+    "lessonId": "safe-4",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "You may reverse a vehicle:",
+    "options": [
+      "Anywhere, on any road",
+      "Only for the short distance and time needed to turn around, and only if it is safe",
+      "Into a one-way road",
+      "Onto a public road from a lane"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Reversing is allowed only for the distance and time reasonably needed to turn around, and only if safe.",
+    "languages": {
+      "en": {
+        "question": "You may reverse a vehicle:",
+        "options": [
+          "Anywhere, on any road",
+          "Only for the short distance and time needed to turn around, and only if it is safe",
+          "Into a one-way road",
+          "Onto a public road from a lane"
+        ],
+        "explanation": "Reversing is allowed only for the distance and time reasonably needed to turn around, and only if safe."
+      },
+      "hi": {
+        "question": "आप वाहन को पीछे ले सकते हैं:",
+        "options": [
+          "कहीं भी, किसी भी सड़क पर",
+          "केवल मुड़ने के लिए ज़रूरी थोड़ी दूरी और समय तक, और केवल तब जब यह सुरक्षित हो",
+          "एकतरफ़ा सड़क में",
+          "गली से सार्वजनिक सड़क पर"
+        ],
+        "explanation": "वाहन को पीछे केवल मुड़ने के लिए ज़रूरी दूरी और समय तक ही लिया जा सकता है, और वह भी तब जब यह सुरक्षित हो।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 18",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 18",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-safe-021",
+    "topic": "U-turn",
+    "unit": "safe",
+    "lessonId": "safe-4",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Where is a U-turn NOT allowed?",
+    "options": [
+      "On a quiet side road with a clear view",
+      "On a highway or expressway, or across continuous solid lines",
+      "At a marked U-turn gap",
+      "On a lane with a sign allowing U-turns"
+    ],
+    "correctAnswer": 1,
+    "explanation": "U-turns are prohibited on highways and expressways, across continuous lines, where signs forbid them and where there are blind spots.",
+    "languages": {
+      "en": {
+        "question": "Where is a U-turn NOT allowed?",
+        "options": [
+          "On a quiet side road with a clear view",
+          "On a highway or expressway, or across continuous solid lines",
+          "At a marked U-turn gap",
+          "On a lane with a sign allowing U-turns"
+        ],
+        "explanation": "U-turns are prohibited on highways and expressways, across continuous lines, where signs forbid them and where there are blind spots."
+      },
+      "hi": {
+        "question": "यू-टर्न कहाँ लेना मना है?",
+        "options": [
+          "साफ़ दिखाई देने वाली शांत छोटी सड़क पर",
+          "हाईवे या एक्सप्रेसवे पर, या लगातार ठोस लाइनों को पार करते हुए",
+          "चिह्नित यू-टर्न कट पर",
+          "उस लेन पर जहाँ यू-टर्न की अनुमति का चिह्न हो"
+        ],
+        "explanation": "हाईवे और एक्सप्रेसवे पर, लगातार लाइनों को पार करते हुए, जहाँ चिह्न मना करें और जहाँ अंधे मोड़ हों, वहाँ यू-टर्न लेना मना है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 8",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 8",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-pqb-045",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Drunken driving is",
+    "options": [
+      "Allowed in private vehicles",
+      "Allowed at night",
+      "Prohibited in all vehicles"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Alcohol slows your reactions, so driving after drinking is prohibited in every kind of vehicle.",
+    "languages": {
+      "en": {
+        "question": "Drunken driving is",
+        "options": [
+          "Allowed in private vehicles",
+          "Allowed at night",
+          "Prohibited in all vehicles"
+        ],
+        "explanation": "Alcohol slows your reactions, so driving after drinking is prohibited in every kind of vehicle."
+      },
+      "hi": {
+        "question": "नशे में वाहन चलाना",
+        "options": [
+          "निजी वाहनों में अनुमत है",
+          "रात में अनुमत है",
+          "सभी वाहनों में निषिद्ध है"
+        ],
+        "explanation": "शराब से आपकी प्रतिक्रिया धीमी हो जाती है, इसलिए शराब पीकर हर प्रकार का वाहन चलाना निषिद्ध है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q45",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-051",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Boarding or getting off a vehicle while it is moving is",
+    "options": [
+      "Permitted in a bus",
+      "Permitted in an autorickshaw",
+      "Prohibited in all vehicles"
+    ],
+    "correctAnswer": 2,
+    "explanation": "It is very dangerous and is not allowed in any vehicle.",
+    "languages": {
+      "en": {
+        "question": "Boarding or getting off a vehicle while it is moving is",
+        "options": [
+          "Permitted in a bus",
+          "Permitted in an autorickshaw",
+          "Prohibited in all vehicles"
+        ],
+        "explanation": "It is very dangerous and is not allowed in any vehicle."
+      },
+      "hi": {
+        "question": "चलते वाहन में चढ़ना या उतरना",
+        "options": [
+          "बस में अनुमत है",
+          "ऑटोरिक्शा में अनुमत है",
+          "सभी वाहनों में निषिद्ध है"
+        ],
+        "explanation": "यह बहुत खतरनाक है और किसी भी वाहन में अनुमत नहीं है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q51",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-057",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Mobile phones must not be used",
+    "options": [
+      "In government offices",
+      "In police stations",
+      "While driving a vehicle"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Using a phone while driving takes your attention off the road and can cause accidents.",
+    "languages": {
+      "en": {
+        "question": "Mobile phones must not be used",
+        "options": [
+          "In government offices",
+          "In police stations",
+          "While driving a vehicle"
+        ],
+        "explanation": "Using a phone while driving takes your attention off the road and can cause accidents."
+      },
+      "hi": {
+        "question": "मोबाइल फ़ोन का उपयोग नहीं करना चाहिए",
+        "options": [
+          "सरकारी कार्यालयों में",
+          "पुलिस थानों में",
+          "वाहन चलाते समय"
+        ],
+        "explanation": "वाहन चलाते समय फ़ोन का उपयोग करने से आपका ध्यान सड़क से हट जाता है और दुर्घटना हो सकती है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q57",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-095",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Carrying more than two persons on a two-wheeler is",
+    "options": [
+      "Allowed in unavoidable circumstances",
+      "A violation of the law",
+      "Allowed when traffic is light"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A two-wheeler may carry only the rider and one pillion rider, so more is an offence.",
+    "languages": {
+      "en": {
+        "question": "Carrying more than two persons on a two-wheeler is",
+        "options": [
+          "Allowed in unavoidable circumstances",
+          "A violation of the law",
+          "Allowed when traffic is light"
+        ],
+        "explanation": "A two-wheeler may carry only the rider and one pillion rider, so more is an offence."
+      },
+      "hi": {
+        "question": "दोपहिया वाहन पर दो से अधिक व्यक्तियों को ले जाना",
+        "options": [
+          "अपरिहार्य परिस्थितियों में अनुमत है",
+          "कानून का उल्लंघन है",
+          "यातायात कम होने पर अनुमत है"
+        ],
+        "explanation": "दोपहिया वाहन पर केवल चालक और एक पीछे बैठने वाला सवार हो सकता है, इसलिए इससे अधिक सवारी ले जाना अपराध है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q95",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-205",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "According to Section 129 of the Motor Vehicles Act 1988, a person driving a motor cycle must",
+    "options": [
+      "Wear a jerkin",
+      "Wear a helmet",
+      "Wear shoes"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Section 129 requires a rider to wear a protective helmet.",
+    "languages": {
+      "en": {
+        "question": "According to Section 129 of the Motor Vehicles Act 1988, a person driving a motor cycle must",
+        "options": [
+          "Wear a jerkin",
+          "Wear a helmet",
+          "Wear shoes"
+        ],
+        "explanation": "Section 129 requires a rider to wear a protective helmet."
+      },
+      "hi": {
+        "question": "मोटर वाहन अधिनियम 1988 की Section 129 के अनुसार मोटरसाइकिल चलाने वाले व्यक्ति को",
+        "options": [
+          "जर्किन पहनना चाहिए",
+          "हेलमेट पहनना चाहिए",
+          "जूते पहनना चाहिए"
+        ],
+        "explanation": "Section 129 के अनुसार सवार को सुरक्षात्मक हेलमेट पहनना ज़रूरी है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q205",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-217",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Why is it essential to wear a helmet while riding a two-wheeler?",
+    "options": [
+      "It is for your own safety",
+      "Otherwise the traffic police will catch you",
+      "It is needed for uniformity on the road"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A helmet protects your head in a fall or crash, which is its main purpose.",
+    "languages": {
+      "en": {
+        "question": "Why is it essential to wear a helmet while riding a two-wheeler?",
+        "options": [
+          "It is for your own safety",
+          "Otherwise the traffic police will catch you",
+          "It is needed for uniformity on the road"
+        ],
+        "explanation": "A helmet protects your head in a fall or crash, which is its main purpose."
+      },
+      "hi": {
+        "question": "दोपहिया वाहन चलाते समय हेलमेट पहनना ज़रूरी क्यों है?",
+        "options": [
+          "यह आपकी अपनी सुरक्षा के लिए है",
+          "नहीं तो ट्रैफ़िक पुलिस पकड़ लेगी",
+          "सड़क पर एकरूपता के लिए इसकी ज़रूरत है"
+        ],
+        "explanation": "गिरने या टक्कर होने पर हेलमेट आपके सिर की रक्षा करता है, यही इसका मुख्य उद्देश्य है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q217",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-276",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Section 185 of the Motor Vehicles Act deals with",
+    "options": [
+      "Driving at excessive speed",
+      "Drunken driving",
+      "Both of the above"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Section 185 covers driving while under the influence of alcohol.",
+    "languages": {
+      "en": {
+        "question": "Section 185 of the Motor Vehicles Act deals with",
+        "options": [
+          "Driving at excessive speed",
+          "Drunken driving",
+          "Both of the above"
+        ],
+        "explanation": "Section 185 covers driving while under the influence of alcohol."
+      },
+      "hi": {
+        "question": "मोटर वाहन अधिनियम की Section 185 किससे संबंधित है?",
+        "options": [
+          "अत्यधिक गति से वाहन चलाना",
+          "नशे में वाहन चलाना",
+          "उपरोक्त दोनों"
+        ],
+        "explanation": "Section 185 शराब के प्रभाव में वाहन चलाने से संबंधित है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q276",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-277",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Dangerous driving is",
+    "options": [
+      "Allowed in an emergency",
+      "A punishable offence under Section 184 of the Motor Vehicles Act",
+      "Both of the above"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Section 184 makes dangerous driving a punishable offence, and an emergency does not make it allowed.",
+    "languages": {
+      "en": {
+        "question": "Dangerous driving is",
+        "options": [
+          "Allowed in an emergency",
+          "A punishable offence under Section 184 of the Motor Vehicles Act",
+          "Both of the above"
+        ],
+        "explanation": "Section 184 makes dangerous driving a punishable offence, and an emergency does not make it allowed."
+      },
+      "hi": {
+        "question": "खतरनाक ढंग से वाहन चलाना",
+        "options": [
+          "आपात स्थिति में अनुमत है",
+          "मोटर वाहन अधिनियम की Section 184 के तहत दंडनीय अपराध है",
+          "उपरोक्त दोनों"
+        ],
+        "explanation": "Section 184 के तहत खतरनाक ढंग से वाहन चलाना दंडनीय अपराध है, और आपात स्थिति में भी यह अनुमत नहीं हो जाता।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q277",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-402",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Driving under the influence of drugs or alcohol can lead to action under",
+    "options": [
+      "Section 121",
+      "Section 125",
+      "Section 185"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Section 185 deals with driving under the influence of alcohol or drugs.",
+    "languages": {
+      "en": {
+        "question": "Driving under the influence of drugs or alcohol can lead to action under",
+        "options": [
+          "Section 121",
+          "Section 125",
+          "Section 185"
+        ],
+        "explanation": "Section 185 deals with driving under the influence of alcohol or drugs."
+      },
+      "hi": {
+        "question": "नशीली दवाओं या शराब के प्रभाव में वाहन चलाने पर किस धारा के तहत कार्रवाई हो सकती है?",
+        "options": [
+          "Section 121",
+          "Section 125",
+          "Section 185"
+        ],
+        "explanation": "Section 185 शराब या नशीली दवाओं के प्रभाव में वाहन चलाने से संबंधित है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q402",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-417",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Driving is punishable as drunken driving if the alcohol in the blood",
+    "options": [
+      "Exceeds 30 mg per 100 ml of blood",
+      "Is below 30 mg per 100 ml of blood",
+      "Exceeds 100 mg per 100 ml of blood"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The legal limit is 30 mg of alcohol per 100 ml of blood, and anything above it is an offence.",
+    "languages": {
+      "en": {
+        "question": "Driving is punishable as drunken driving if the alcohol in the blood",
+        "options": [
+          "Exceeds 30 mg per 100 ml of blood",
+          "Is below 30 mg per 100 ml of blood",
+          "Exceeds 100 mg per 100 ml of blood"
+        ],
+        "explanation": "The legal limit is 30 mg of alcohol per 100 ml of blood, and anything above it is an offence."
+      },
+      "hi": {
+        "question": "वाहन चलाना नशे में वाहन चलाने के रूप में दंडनीय है, यदि रक्त में अल्कोहल",
+        "options": [
+          "प्रति 100 ml रक्त में 30 mg से अधिक हो",
+          "प्रति 100 ml रक्त में 30 mg से कम हो",
+          "प्रति 100 ml रक्त में 100 mg से अधिक हो"
+        ],
+        "explanation": "कानूनी सीमा प्रति 100 ml रक्त में 30 mg अल्कोहल है, और इससे अधिक होना अपराध है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q417",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-415",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Overloading of any kind is",
+    "options": [
+      "Prohibited by law",
+      "Allowed if the driver can control the vehicle safely",
+      "Allowed if the driver pays the fine"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Overloading makes a vehicle unsafe, so the law prohibits it.",
+    "languages": {
+      "en": {
+        "question": "Overloading of any kind is",
+        "options": [
+          "Prohibited by law",
+          "Allowed if the driver can control the vehicle safely",
+          "Allowed if the driver pays the fine"
+        ],
+        "explanation": "Overloading makes a vehicle unsafe, so the law prohibits it."
+      },
+      "hi": {
+        "question": "किसी भी प्रकार का ओवरलोडिंग",
+        "options": [
+          "कानून द्वारा निषिद्ध है",
+          "अनुमत है यदि चालक वाहन को सुरक्षित रूप से नियंत्रित कर सके",
+          "अनुमत है यदि चालक जुर्माना भर दे"
+        ],
+        "explanation": "ओवरलोडिंग से वाहन असुरक्षित हो जाता है, इसलिए कानून इसे निषिद्ध करता है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q415",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-418",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "A person sitting or standing beside the driver in a way that makes it hard to control the vehicle",
+    "options": [
+      "Is allowed with the RTO's permission",
+      "Is not allowed",
+      "Is allowed in an emergency"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The driver must have full control, so nothing should obstruct driving.",
+    "languages": {
+      "en": {
+        "question": "A person sitting or standing beside the driver in a way that makes it hard to control the vehicle",
+        "options": [
+          "Is allowed with the RTO's permission",
+          "Is not allowed",
+          "Is allowed in an emergency"
+        ],
+        "explanation": "The driver must have full control, so nothing should obstruct driving."
+      },
+      "hi": {
+        "question": "चालक के पास इस तरह बैठना या खड़ा होना कि वाहन को नियंत्रित करना कठिन हो जाए",
+        "options": [
+          "RTO की अनुमति से अनुमत है",
+          "अनुमत नहीं है",
+          "आपात स्थिति में अनुमत है"
+        ],
+        "explanation": "चालक का वाहन पर पूरा नियंत्रण होना चाहिए, इसलिए गाड़ी चलाने में कोई रुकावट नहीं होनी चाहिए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q418",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-299",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "What must you do if your vehicle is involved in an accident?",
+    "options": [
+      "Stop at the scene, give first aid to the victim if possible and help the person get medical attention",
+      "Drive the vehicle to the nearest police station",
+      "Inform the insurance company as early as possible"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The first duty is to stop and help the injured person.",
+    "languages": {
+      "en": {
+        "question": "What must you do if your vehicle is involved in an accident?",
+        "options": [
+          "Stop at the scene, give first aid to the victim if possible and help the person get medical attention",
+          "Drive the vehicle to the nearest police station",
+          "Inform the insurance company as early as possible"
+        ],
+        "explanation": "The first duty is to stop and help the injured person."
+      },
+      "hi": {
+        "question": "यदि आपका वाहन किसी दुर्घटना में शामिल हो जाए तो आपको क्या करना चाहिए?",
+        "options": [
+          "घटनास्थल पर रुकें, संभव हो तो पीड़ित को प्राथमिक उपचार दें और उसे चिकित्सा सहायता दिलाने में मदद करें",
+          "वाहन को नज़दीकी पुलिस थाने ले जाएँ",
+          "जितनी जल्दी हो सके बीमा कंपनी को सूचित करें"
+        ],
+        "explanation": "सबसे पहला कर्तव्य रुकना और घायल व्यक्ति की मदद करना है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q299",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-300",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-2",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Your vehicle hits a parked vehicle and its owner cannot be found. What must you do?",
+    "options": [
+      "Drive away from the spot and settle the damage later",
+      "Inform the insurance company as soon as possible",
+      "Inform the police station having jurisdiction over the place within 24 hours"
+    ],
+    "correctAnswer": 2,
+    "explanation": "If the owner cannot be found, you must report the accident to the police within 24 hours.",
+    "languages": {
+      "en": {
+        "question": "Your vehicle hits a parked vehicle and its owner cannot be found. What must you do?",
+        "options": [
+          "Drive away from the spot and settle the damage later",
+          "Inform the insurance company as soon as possible",
+          "Inform the police station having jurisdiction over the place within 24 hours"
+        ],
+        "explanation": "If the owner cannot be found, you must report the accident to the police within 24 hours."
+      },
+      "hi": {
+        "question": "आपका वाहन खड़े वाहन से टकरा गया और उसका मालिक नहीं मिल रहा। आपको क्या करना चाहिए?",
+        "options": [
+          "घटनास्थल से चले जाएँ और नुकसान का हिसाब बाद में करें",
+          "जितनी जल्दी हो सके बीमा कंपनी को सूचित करें",
+          "24 घंटे के भीतर उस स्थान के क्षेत्राधिकार वाले पुलिस थाने को सूचित करें"
+        ],
+        "explanation": "यदि मालिक नहीं मिलता, तो आपको दुर्घटना की सूचना 24 घंटे के भीतर पुलिस को देनी होगी।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q300",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-338",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-2",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "If your vehicle hits a pedestrian, you should",
+    "options": [
+      "Identify yourself and leave",
+      "Help the person and call an ambulance",
+      "Help the injured person get medical aid, identify yourself and then report to the police"
+    ],
+    "correctAnswer": 2,
+    "explanation": "You must help the injured person, give your details and report to the police.",
+    "languages": {
+      "en": {
+        "question": "If your vehicle hits a pedestrian, you should",
+        "options": [
+          "Identify yourself and leave",
+          "Help the person and call an ambulance",
+          "Help the injured person get medical aid, identify yourself and then report to the police"
+        ],
+        "explanation": "You must help the injured person, give your details and report to the police."
+      },
+      "hi": {
+        "question": "यदि आपका वाहन किसी पैदल यात्री को टक्कर मार दे, तो आपको",
+        "options": [
+          "अपनी पहचान बताकर चले जाना चाहिए",
+          "उस व्यक्ति की मदद करनी चाहिए और एम्बुलेंस बुलानी चाहिए",
+          "घायल व्यक्ति को चिकित्सा सहायता दिलाने में मदद करनी चाहिए, अपनी पहचान बतानी चाहिए और फिर पुलिस को सूचना देनी चाहिए"
+        ],
+        "explanation": "आपको घायल व्यक्ति की मदद करनी चाहिए, अपना विवरण देना चाहिए और पुलिस को सूचना देनी चाहिए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q338",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-395",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Who can treat an accident victim?",
+    "options": [
+      "Only a government hospital doctor",
+      "Any registered medical practitioner or doctor",
+      "The driver"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Any registered doctor may treat the victim, so help should never be delayed.",
+    "languages": {
+      "en": {
+        "question": "Who can treat an accident victim?",
+        "options": [
+          "Only a government hospital doctor",
+          "Any registered medical practitioner or doctor",
+          "The driver"
+        ],
+        "explanation": "Any registered doctor may treat the victim, so help should never be delayed."
+      },
+      "hi": {
+        "question": "दुर्घटना के पीड़ित का इलाज कौन कर सकता है?",
+        "options": [
+          "केवल सरकारी अस्पताल का डॉक्टर",
+          "कोई भी पंजीकृत चिकित्सक या डॉक्टर",
+          "चालक"
+        ],
+        "explanation": "कोई भी पंजीकृत डॉक्टर पीड़ित का इलाज कर सकता है, इसलिए मदद में देरी नहीं करनी चाहिए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q395",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-312",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-2",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Your vehicle breaks down on a motorway with several passengers on board. What should you do?",
+    "options": [
+      "Stop the vehicle as far to the left of the road as you can",
+      "Move the passengers to the front of your vehicle",
+      "Both of the above"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pull over to the left, out of the way of fast traffic.",
+    "languages": {
+      "en": {
+        "question": "Your vehicle breaks down on a motorway with several passengers on board. What should you do?",
+        "options": [
+          "Stop the vehicle as far to the left of the road as you can",
+          "Move the passengers to the front of your vehicle",
+          "Both of the above"
+        ],
+        "explanation": "Pull over to the left, out of the way of fast traffic."
+      },
+      "hi": {
+        "question": "कई यात्रियों के साथ आपका वाहन मोटरवे पर खराब हो जाता है। आपको क्या करना चाहिए?",
+        "options": [
+          "वाहन को सड़क के जितना हो सके उतना बाईं ओर रोकें",
+          "यात्रियों को अपने वाहन के आगे ले जाएँ",
+          "उपरोक्त दोनों"
+        ],
+        "explanation": "वाहन को बाईं ओर रोकें, ताकि वह तेज़ यातायात के रास्ते से हट जाए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q312",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-283",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "While driving, you start feeling tired and unable to concentrate. What should you do?",
+    "options": [
+      "Stop as soon as it is safe and rest",
+      "Switch on the stereo to help you concentrate",
+      "Speed up to reach your destination sooner"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A tired driver is dangerous, and the only real cure is rest.",
+    "languages": {
+      "en": {
+        "question": "While driving, you start feeling tired and unable to concentrate. What should you do?",
+        "options": [
+          "Stop as soon as it is safe and rest",
+          "Switch on the stereo to help you concentrate",
+          "Speed up to reach your destination sooner"
+        ],
+        "explanation": "A tired driver is dangerous, and the only real cure is rest."
+      },
+      "hi": {
+        "question": "गाड़ी चलाते समय आपको थकान महसूस होती है और ध्यान नहीं लग रहा। आपको क्या करना चाहिए?",
+        "options": [
+          "जैसे ही सुरक्षित हो, रुकें और आराम करें",
+          "ध्यान लगाने के लिए स्टीरियो चालू करें",
+          "गंतव्य पर जल्दी पहुँचने के लिए गति बढ़ाएँ"
+        ],
+        "explanation": "थका हुआ चालक खतरनाक होता है, और इसका असली इलाज केवल आराम है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q283",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-285",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "You feel ill and unable to concentrate while driving a car. What should you do?",
+    "options": [
+      "Increase your speed to finish your work sooner",
+      "Continue the journey with the windows open",
+      "Stop in a safe place and, if possible, get medical attention"
+    ],
+    "correctAnswer": 2,
+    "explanation": "An ill driver cannot drive safely, so stop in a safe place and get help.",
+    "languages": {
+      "en": {
+        "question": "You feel ill and unable to concentrate while driving a car. What should you do?",
+        "options": [
+          "Increase your speed to finish your work sooner",
+          "Continue the journey with the windows open",
+          "Stop in a safe place and, if possible, get medical attention"
+        ],
+        "explanation": "An ill driver cannot drive safely, so stop in a safe place and get help."
+      },
+      "hi": {
+        "question": "कार चलाते समय आप बीमार महसूस करते हैं और ध्यान नहीं लगा पा रहे। आपको क्या करना चाहिए?",
+        "options": [
+          "अपना काम जल्दी निपटाने के लिए गति बढ़ाएँ",
+          "खिड़कियाँ खोलकर यात्रा जारी रखें",
+          "सुरक्षित स्थान पर रुकें और संभव हो तो चिकित्सा सहायता लें"
+        ],
+        "explanation": "बीमार चालक सुरक्षित रूप से गाड़ी नहीं चला सकता, इसलिए सुरक्षित स्थान पर रुकें और मदद लें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q285",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-303",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Before you open the right-side door after parking, you should",
+    "options": [
+      "Make sure no vehicle is passing",
+      "Open the door quickly and get out",
+      "Not open the right door and get out only from the left"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A passing vehicle or rider can hit an opening door, so check first.",
+    "languages": {
+      "en": {
+        "question": "Before you open the right-side door after parking, you should",
+        "options": [
+          "Make sure no vehicle is passing",
+          "Open the door quickly and get out",
+          "Not open the right door and get out only from the left"
+        ],
+        "explanation": "A passing vehicle or rider can hit an opening door, so check first."
+      },
+      "hi": {
+        "question": "पार्किंग के बाद दाईं ओर का दरवाज़ा खोलने से पहले आपको",
+        "options": [
+          "यह सुनिश्चित करना चाहिए कि कोई वाहन गुज़र नहीं रहा",
+          "दरवाज़ा जल्दी से खोलकर उतर जाना चाहिए",
+          "दाईं ओर का दरवाज़ा नहीं खोलना चाहिए और केवल बाईं ओर से उतरना चाहिए"
+        ],
+        "explanation": "गुज़रता हुआ वाहन या सवार खुलते दरवाज़े से टकरा सकता है, इसलिए पहले देख लें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q303",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-309",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "At a road junction, who is most at risk?",
+    "options": [
+      "Cyclists and motor cyclists",
+      "Pedestrians",
+      "Both"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Cyclists, motor cyclists and pedestrians are all unprotected road users, so all are at high risk at junctions.",
+    "languages": {
+      "en": {
+        "question": "At a road junction, who is most at risk?",
+        "options": [
+          "Cyclists and motor cyclists",
+          "Pedestrians",
+          "Both"
+        ],
+        "explanation": "Cyclists, motor cyclists and pedestrians are all unprotected road users, so all are at high risk at junctions."
+      },
+      "hi": {
+        "question": "सड़क के चौराहे पर सबसे अधिक खतरा किसे होता है?",
+        "options": [
+          "साइकिल सवारों और मोटरसाइकिल सवारों को",
+          "पैदल यात्रियों को",
+          "दोनों को"
+        ],
+        "explanation": "साइकिल सवार, मोटरसाइकिल सवार और पैदल यात्री सभी असुरक्षित सड़क उपयोगकर्ता हैं, इसलिए चौराहों पर सभी को अधिक खतरा होता है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q309",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-324",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Pedestrians should walk on the ______ side of the road.",
+    "options": [
+      "Right",
+      "Left",
+      "Middle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Walking on the right side means you face oncoming traffic and can see vehicles coming.",
+    "languages": {
+      "en": {
+        "question": "Pedestrians should walk on the ______ side of the road.",
+        "options": [
+          "Right",
+          "Left",
+          "Middle"
+        ],
+        "explanation": "Walking on the right side means you face oncoming traffic and can see vehicles coming."
+      },
+      "hi": {
+        "question": "पैदल यात्रियों को सड़क के ______ ओर चलना चाहिए।",
+        "options": [
+          "दाईं",
+          "बाईं",
+          "बीच में"
+        ],
+        "explanation": "दाईं ओर चलने से आप सामने से आते यातायात की ओर मुँह करके चलते हैं और आते हुए वाहनों को देख सकते हैं।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q324",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19. Reviewer note: Applies where no footpath exists; assumes keep-left traffic."
+  },
+  {
+    "id": "q-pqb-330",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "On roads with marked lanes, you should",
+    "options": [
+      "Use the proper indicator signal before changing lanes",
+      "Not change lanes, as it is prohibited by law",
+      "Look back through the front window before changing lanes"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Signalling tells other drivers what you plan to do before you change lanes.",
+    "languages": {
+      "en": {
+        "question": "On roads with marked lanes, you should",
+        "options": [
+          "Use the proper indicator signal before changing lanes",
+          "Not change lanes, as it is prohibited by law",
+          "Look back through the front window before changing lanes"
+        ],
+        "explanation": "Signalling tells other drivers what you plan to do before you change lanes."
+      },
+      "hi": {
+        "question": "चिह्नित लेन वाली सड़कों पर आपको",
+        "options": [
+          "लेन बदलने से पहले उचित इंडिकेटर संकेत देना चाहिए",
+          "लेन नहीं बदलनी चाहिए, क्योंकि यह कानून द्वारा निषिद्ध है",
+          "लेन बदलने से पहले आगे की खिड़की से पीछे देखना चाहिए"
+        ],
+        "explanation": "संकेत देने से लेन बदलने से पहले दूसरे चालकों को पता चल जाता है कि आप क्या करने वाले हैं।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q330",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-341",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "When driving on a wet or slippery road,",
+    "options": [
+      "Tyre pressure must be reduced",
+      "Avoid sudden braking and acceleration",
+      "Drive at high speed"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Sudden braking or acceleration can make the wheels skid on a slippery surface.",
+    "languages": {
+      "en": {
+        "question": "When driving on a wet or slippery road,",
+        "options": [
+          "Tyre pressure must be reduced",
+          "Avoid sudden braking and acceleration",
+          "Drive at high speed"
+        ],
+        "explanation": "Sudden braking or acceleration can make the wheels skid on a slippery surface."
+      },
+      "hi": {
+        "question": "गीली या फिसलन भरी सड़क पर गाड़ी चलाते समय,",
+        "options": [
+          "टायर का दबाव कम करना चाहिए",
+          "अचानक ब्रेक लगाने और तेज़ी से गति बढ़ाने से बचें",
+          "तेज़ गति से चलाएँ"
+        ],
+        "explanation": "फिसलन भरी सतह पर अचानक ब्रेक लगाने या गति बढ़ाने से पहिए फिसल सकते हैं।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q341",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-354",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Abrupt braking should not be used",
+    "options": [
+      "Unless it is absolutely necessary",
+      "On a downhill",
+      "On a main road"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Sudden hard braking can cause skidding or a collision from behind, so use it only in real emergencies.",
+    "languages": {
+      "en": {
+        "question": "Abrupt braking should not be used",
+        "options": [
+          "Unless it is absolutely necessary",
+          "On a downhill",
+          "On a main road"
+        ],
+        "explanation": "Sudden hard braking can cause skidding or a collision from behind, so use it only in real emergencies."
+      },
+      "hi": {
+        "question": "अचानक ब्रेक नहीं लगाना चाहिए",
+        "options": [
+          "जब तक बिल्कुल ज़रूरी न हो",
+          "ढलान पर",
+          "मुख्य सड़क पर"
+        ],
+        "explanation": "अचानक ज़ोर से ब्रेक लगाने से वाहन फिसल सकता है या पीछे से टक्कर हो सकती है, इसलिए इसे केवल सच्ची आपात स्थिति में ही लगाएँ।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q354",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-357",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-3",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "To stop a motor cycle,",
+    "options": [
+      "Apply the rear brake first and the front brake after slowing",
+      "Apply the front and rear brakes together",
+      "Apply the rear brake only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Using both brakes together gives the best stopping power and balance.",
+    "languages": {
+      "en": {
+        "question": "To stop a motor cycle,",
+        "options": [
+          "Apply the rear brake first and the front brake after slowing",
+          "Apply the front and rear brakes together",
+          "Apply the rear brake only"
+        ],
+        "explanation": "Using both brakes together gives the best stopping power and balance."
+      },
+      "hi": {
+        "question": "मोटरसाइकिल को रोकने के लिए,",
+        "options": [
+          "पहले पिछला ब्रेक लगाएँ और गति कम होने पर अगला ब्रेक लगाएँ",
+          "अगला और पिछला ब्रेक एक साथ लगाएँ",
+          "केवल पिछला ब्रेक लगाएँ"
+        ],
+        "explanation": "दोनों ब्रेक एक साथ लगाने से रुकने की सबसे अच्छी क्षमता और संतुलन मिलता है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q357",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-358",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-3",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "When riding in a group, two or more motor cycles should",
+    "options": [
+      "Ride side by side",
+      "Ride in a staggered position, keeping a proper distance between motor cycles",
+      "Ride one behind the other in a single line"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A staggered position with a safe gap gives each rider room to react.",
+    "languages": {
+      "en": {
+        "question": "When riding in a group, two or more motor cycles should",
+        "options": [
+          "Ride side by side",
+          "Ride in a staggered position, keeping a proper distance between motor cycles",
+          "Ride one behind the other in a single line"
+        ],
+        "explanation": "A staggered position with a safe gap gives each rider room to react."
+      },
+      "hi": {
+        "question": "समूह में चलते समय, दो या अधिक मोटरसाइकिलों को",
+        "options": [
+          "साथ-साथ चलना चाहिए",
+          "ज़िगज़ैग स्थिति में, मोटरसाइकिलों के बीच उचित दूरी रखकर चलना चाहिए",
+          "एक के पीछे एक, सीधी कतार में चलना चाहिए"
+        ],
+        "explanation": "सुरक्षित दूरी के साथ ज़िगज़ैग स्थिति में हर सवार को प्रतिक्रिया देने की जगह मिलती है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q358",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19. Reviewer note: Some sources prefer a single line; key kept as given."
+  },
+  {
+    "id": "q-pqb-359",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-3",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "When approaching a stretch of road with loose sand or gravel, you should",
+    "options": [
+      "Cross it as fast as possible",
+      "Go as slowly as possible",
+      "Slow down and change to high torque gears before entering"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Loose sand or gravel reduces grip, so slow speed keeps you in control.",
+    "languages": {
+      "en": {
+        "question": "When approaching a stretch of road with loose sand or gravel, you should",
+        "options": [
+          "Cross it as fast as possible",
+          "Go as slowly as possible",
+          "Slow down and change to high torque gears before entering"
+        ],
+        "explanation": "Loose sand or gravel reduces grip, so slow speed keeps you in control."
+      },
+      "hi": {
+        "question": "ढीली रेत या बजरी वाली सड़क के हिस्से के पास पहुँचते समय आपको",
+        "options": [
+          "उसे जितनी तेज़ हो सके पार करना चाहिए",
+          "जितना धीरे हो सके चलना चाहिए",
+          "गति कम करनी चाहिए और प्रवेश से पहले हाई टॉर्क गियर में आना चाहिए"
+        ],
+        "explanation": "ढीली रेत या बजरी से पकड़ कम हो जाती है, इसलिए धीमी गति से आपका नियंत्रण बना रहता है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q359",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19. Reviewer note: Option 3 (slow down and use a low gear) is also reasonable; ambiguous."
+  },
+  {
+    "id": "q-pqb-364",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "It is dangerous to drive with bald (worn-out) tyres because",
+    "options": [
+      "The vehicle picks up speed quickly",
+      "They give little grip on the road",
+      "They give too much grip on the road"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Worn tyres have little tread, so they grip poorly and the vehicle may skid.",
+    "languages": {
+      "en": {
+        "question": "It is dangerous to drive with bald (worn-out) tyres because",
+        "options": [
+          "The vehicle picks up speed quickly",
+          "They give little grip on the road",
+          "They give too much grip on the road"
+        ],
+        "explanation": "Worn tyres have little tread, so they grip poorly and the vehicle may skid."
+      },
+      "hi": {
+        "question": "घिसे हुए (पुराने) टायरों के साथ गाड़ी चलाना खतरनाक है क्योंकि",
+        "options": [
+          "वाहन तेज़ी से गति पकड़ता है",
+          "वे सड़क पर बहुत कम पकड़ देते हैं",
+          "वे सड़क पर बहुत ज़्यादा पकड़ देते हैं"
+        ],
+        "explanation": "घिसे टायरों में खाँचे बहुत कम होते हैं, इसलिए उनकी पकड़ कमज़ोर होती है और वाहन फिसल सकता है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q364",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-367",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-3",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "What does clutch riding (riding on the clutch) mean?",
+    "options": [
+      "Using the clutch often",
+      "Keeping a foot on the clutch pedal",
+      "Not using the clutch at all"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Resting your foot on the clutch pedal wears the clutch out and reduces control.",
+    "languages": {
+      "en": {
+        "question": "What does clutch riding (riding on the clutch) mean?",
+        "options": [
+          "Using the clutch often",
+          "Keeping a foot on the clutch pedal",
+          "Not using the clutch at all"
+        ],
+        "explanation": "Resting your foot on the clutch pedal wears the clutch out and reduces control."
+      },
+      "hi": {
+        "question": "क्लच राइडिंग (क्लच पर पैर रखकर चलाना) का क्या मतलब है?",
+        "options": [
+          "क्लच का बार-बार उपयोग करना",
+          "पैर को क्लच पैडल पर रखे रहना",
+          "क्लच का बिल्कुल उपयोग न करना"
+        ],
+        "explanation": "पैर को क्लच पैडल पर टिकाए रखने से क्लच घिस जाता है और नियंत्रण कम हो जाता है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q367",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-371",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-3",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "What should you do when your vehicle skids?",
+    "options": [
+      "Turn the steering both left and right",
+      "Apply the brakes first",
+      "Turn the steering wheel in the direction of the skid"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Steering in the direction of the skid helps the wheels regain grip.",
+    "languages": {
+      "en": {
+        "question": "What should you do when your vehicle skids?",
+        "options": [
+          "Turn the steering both left and right",
+          "Apply the brakes first",
+          "Turn the steering wheel in the direction of the skid"
+        ],
+        "explanation": "Steering in the direction of the skid helps the wheels regain grip."
+      },
+      "hi": {
+        "question": "जब आपका वाहन फिसले तो आपको क्या करना चाहिए?",
+        "options": [
+          "स्टीयरिंग को बाएँ और दाएँ दोनों ओर घुमाएँ",
+          "पहले ब्रेक लगाएँ",
+          "स्टीयरिंग व्हील को फिसलन की दिशा में घुमाएँ"
+        ],
+        "explanation": "फिसलन की दिशा में स्टीयरिंग घुमाने से पहियों की पकड़ वापस आने में मदद मिलती है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q371",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-388",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-3",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "What is the safest way to go down a steep descent?",
+    "options": [
+      "Use a low gear (high torque) with the brake",
+      "Use top gear with the brake",
+      "Use the brake and clutch together"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A low gear lets engine braking hold the vehicle back, so the brakes do not overheat.",
+    "languages": {
+      "en": {
+        "question": "What is the safest way to go down a steep descent?",
+        "options": [
+          "Use a low gear (high torque) with the brake",
+          "Use top gear with the brake",
+          "Use the brake and clutch together"
+        ],
+        "explanation": "A low gear lets engine braking hold the vehicle back, so the brakes do not overheat."
+      },
+      "hi": {
+        "question": "तेज़ ढलान से उतरने का सबसे सुरक्षित तरीका क्या है?",
+        "options": [
+          "ब्रेक के साथ लो गियर (हाई टॉर्क) का उपयोग करें",
+          "ब्रेक के साथ टॉप गियर का उपयोग करें",
+          "ब्रेक और क्लच दोनों साथ में दबाएँ"
+        ],
+        "explanation": "लो गियर में इंजन की ब्रेकिंग वाहन को रोके रखती है, इसलिए ब्रेक गर्म नहीं होते।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q388",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19. Reviewer note: Original option said 'higher torque gear'; changed to low gear (high torque) meaning."
+  },
+  {
+    "id": "q-pqb-396",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-3",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "When parking on a downward slope, in addition to the hand brake, which gear should be engaged?",
+    "options": [
+      "Neutral",
+      "First gear",
+      "Reverse gear"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Reverse gear pushes against the downhill roll, so it helps stop the vehicle from moving.",
+    "languages": {
+      "en": {
+        "question": "When parking on a downward slope, in addition to the hand brake, which gear should be engaged?",
+        "options": [
+          "Neutral",
+          "First gear",
+          "Reverse gear"
+        ],
+        "explanation": "Reverse gear pushes against the downhill roll, so it helps stop the vehicle from moving."
+      },
+      "hi": {
+        "question": "ढलान पर नीचे की ओर पार्किंग करते समय, हैंड ब्रेक के अलावा कौन सा गियर लगाना चाहिए?",
+        "options": [
+          "न्यूट्रल",
+          "पहला गियर",
+          "रिवर्स गियर"
+        ],
+        "explanation": "रिवर्स गियर नीचे की ओर लुढ़कने के विरुद्ध ज़ोर लगाता है, इसलिए यह वाहन को खिसकने से रोकने में मदद करता है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q396",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-411",
+    "topic": "Safe Driving",
+    "unit": "safe",
+    "lessonId": "safe-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "When driving behind a motor cycle on a badly maintained road, you should",
+    "options": [
+      "Keep blowing the horn",
+      "Overtake immediately",
+      "Keep a safe distance"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The rider may swerve to avoid potholes, so you need space to react.",
+    "languages": {
+      "en": {
+        "question": "When driving behind a motor cycle on a badly maintained road, you should",
+        "options": [
+          "Keep blowing the horn",
+          "Overtake immediately",
+          "Keep a safe distance"
+        ],
+        "explanation": "The rider may swerve to avoid potholes, so you need space to react."
+      },
+      "hi": {
+        "question": "खराब रखरखाव वाली सड़क पर मोटरसाइकिल के पीछे गाड़ी चलाते समय आपको",
+        "options": [
+          "लगातार हॉर्न बजाते रहना चाहिए",
+          "तुरंत ओवरटेक करना चाहिए",
+          "सुरक्षित दूरी बनाए रखनी चाहिए"
+        ],
+        "explanation": "सवार गड्ढों से बचने के लिए अचानक मुड़ सकता है, इसलिए प्रतिक्रिया देने के लिए आपको जगह चाहिए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q411",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  }
+]
