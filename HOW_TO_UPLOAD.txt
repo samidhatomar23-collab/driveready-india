@@ -1,0 +1,13 @@
+HOW TO PUT THIS UPDATE ON YOUR APP (about 5 minutes)
+
+1. Unzip this file on your PC. You get a folder called driveready-india-multilang.
+2. Open your GitHub repository page (driveready-india) in the browser.
+3. Click "Add file" > "Upload files".
+4. Open the unzipped folder, select EVERYTHING inside it (all files and folders), and drag them into the GitHub page.
+   (Do not upload a folder named node_modules - it is not in the zip.)
+5. Wait for the upload to finish, write "Add new topics and questions" in the message box, click "Commit changes".
+6. Vercel updates your site by itself in 1-2 minutes. Open https://driveready-india.vercel.app, close the app completely and open it again once (so the new version loads).
+7. In the app: Profile > Language, or the small language button on every question, to switch between English, Hindi, Marathi, Telugu and Tamil.
+
+NOTE: Upload every file and folder from the zip, including public/signs (new sign pictures) and src/data (questions).
+Do NOT upload your signing key or password files to GitHub.
