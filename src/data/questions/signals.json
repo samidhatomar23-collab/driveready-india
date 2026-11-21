@@ -8,19 +8,19 @@
     "difficulty": 1,
     "question": "To signal a right turn by hand, you extend your right arm:",
     "options": [
-      "Horizontally, outside and to the right of the vehicle",
       "Straight down",
+      "Horizontally, outside and to the right of the vehicle",
       "Pointing upward",
       "Rotating anti-clockwise"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Hand signals are for when no indicator is fitted or working. To turn right, extend the right arm horizontally outside and to the right of the vehicle (Reg. 11(2)(ii)).",
     "languages": {
       "en": {
         "question": "To signal a right turn by hand, you extend your right arm:",
         "options": [
-          "Horizontally, outside and to the right of the vehicle",
           "Straight down",
+          "Horizontally, outside and to the right of the vehicle",
           "Pointing upward",
           "Rotating anti-clockwise"
         ],
@@ -29,18 +29,18 @@
       "hi": {
         "question": "हाथ से दाएँ मुड़ने का संकेत देने के लिए आप दायाँ हाथ कैसे फैलाते हैं?",
         "options": [
-          "वाहन के बाहर दाईं ओर क्षैतिज (सीधा)",
           "सीधा नीचे",
+          "वाहन के बाहर दाईं ओर क्षैतिज (सीधा)",
           "ऊपर की ओर",
           "वामावर्त घुमाते हुए"
         ],
-        "explanation": "जब इंडिकेटर न हो या काम न करे, दाएँ मुड़ने के लिए दायाँ हाथ वाहन के बाहर दाईं ओर क्षैतिज फैलाएँ।"
+        "explanation": "जब इंडिकेटर न हो या काम न करे, दाएँ मुड़ने के लिए दायाँ हाथ वाहन के बाहर दाईं ओर क्षैतिज फैलाएँ (Reg. 11(2)।"
       },
       "mr": {
         "question": "हाताने उजवीकडे वळण्याचा संकेत देण्यासाठी तुम्ही तुमचा उजवा हात कसा पसरता:",
         "options": [
-          "आडवा, वाहनाच्या बाहेर आणि उजवीकडे",
           "सरळ खाली",
+          "आडवा, वाहनाच्या बाहेर आणि उजवीकडे",
           "वरच्या दिशेने",
           "घड्याळाच्या उलट दिशेने फिरवून"
         ],
@@ -49,8 +49,8 @@
       "te": {
         "question": "చేతి సంజ్ఞతో కుడివైపు తిరగడాన్ని సూచించడానికి, మీ కుడి చేతిని ఇలా చాపాలి:",
         "options": [
-          "అడ్డంగా, వాహనం బయట కుడివైపునకు",
           "నేరుగా కిందికి",
+          "అడ్డంగా, వాహనం బయట కుడివైపునకు",
           "పైకి చూపిస్తూ",
           "గడియారం ముల్లుకు వ్యతిరేక దిశలో తిప్పుతూ"
         ],
@@ -59,8 +59,8 @@
       "ta": {
         "question": "கையால் வலதுபுறம் திரும்பும் சைகை காட்ட, உங்கள் வலது கையை இப்படி நீட்ட வேண்டும்:",
         "options": [
-          "வாகனத்துக்கு வெளியே, வலதுபுறம் கிடைமட்டமாக",
           "நேராகக் கீழ்நோக்கி",
+          "வாகனத்துக்கு வெளியே, வலதுபுறம் கிடைமட்டமாக",
           "மேல்நோக்கிச் சுட்டியபடி",
           "இடஞ்சுழியாகச் சுழற்றியபடி"
         ],
@@ -90,61 +90,61 @@
     "difficulty": 1,
     "question": "Raising your right forearm vertically outside the vehicle, palm to the right, signals that you intend to:",
     "options": [
-      "Stop",
       "Turn left",
       "Turn right",
-      "Overtake"
+      "Overtake",
+      "Stop"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation": "To signal a stop by hand, raise the right forearm vertically outside and to the right of the vehicle (Reg. 11(2)(i)). The regulation has no separate hand signal for slowing down.",
     "languages": {
       "en": {
         "question": "Raising your right forearm vertically outside the vehicle, palm to the right, signals that you intend to:",
         "options": [
-          "Stop",
           "Turn left",
           "Turn right",
-          "Overtake"
+          "Overtake",
+          "Stop"
         ],
         "explanation": "To signal a stop by hand, raise the right forearm vertically outside and to the right of the vehicle (Reg. 11(2)(i)). The regulation has no separate hand signal for slowing down."
       },
       "hi": {
         "question": "अपनी दाईं अग्रबाहु को वाहन के बाहर ऊर्ध्वाधर ऊपर उठाना, हथेली दाईं ओर, किस इरादे का संकेत है?",
         "options": [
-          "रुकना",
           "बाएँ मुड़ना",
           "दाएँ मुड़ना",
-          "ओवरटेक करना"
+          "ओवरटेक करना",
+          "रुकना"
         ],
         "explanation": "रुकने का हाथ-संकेत देने के लिए दाईं अग्रबाहु को वाहन के बाहर और दाईं ओर सीधा ऊपर उठाएँ (Reg. 11(2)(i))। नियमन में धीमे होने का कोई अलग हाथ-संकेत नहीं है।"
       },
       "mr": {
         "question": "तुमचा उजवा हात कोपरापासून वाहनाच्या बाहेर उभा करून, तळहात उजवीकडे ठेवणे हा कोणता संकेत आहे:",
         "options": [
-          "थांबणे",
           "डावीकडे वळणे",
           "उजवीकडे वळणे",
-          "ओव्हरटेक करणे"
+          "ओव्हरटेक करणे",
+          "थांबणे"
         ],
         "explanation": "हाताने थांबण्याचा संकेत देण्यासाठी उजवा हात कोपरापासून वाहनाच्या बाहेर आणि उजवीकडे उभा करा (Reg. 11(2)(i)). नियमात वेग कमी करण्यासाठी वेगळा हाताचा संकेत नाही."
       },
       "te": {
         "question": "మీ కుడి ముంజేతిని వాహనం బయట నిటారుగా పైకెత్తి, అరచేయి కుడివైపు ఉంచడం దేన్ని సూచిస్తుంది:",
         "options": [
-          "ఆగడం",
           "ఎడమకు తిరగడం",
           "కుడికి తిరగడం",
-          "ఓవర్‌టేక్ చేయడం"
+          "ఓవర్‌టేక్ చేయడం",
+          "ఆగడం"
         ],
         "explanation": "చేతితో ఆగడాన్ని సూచించడానికి, కుడి ముంజేతిని వాహనం బయట కుడివైపున నిటారుగా పైకెత్తండి (Reg. 11(2)(i)). వేగం తగ్గించడానికి నిబంధనలో ప్రత్యేక చేతి సంజ్ఞ లేదు."
       },
       "ta": {
         "question": "வலது முன்கையை வாகனத்துக்கு வெளியே செங்குத்தாக உயர்த்தி, உள்ளங்கை வலதுபுறம் இருக்குமாறு காட்டினால், அது எதைக் குறிக்கிறது:",
         "options": [
-          "நிறுத்துவது",
           "இடதுபுறம் திரும்புவது",
           "வலதுபுறம் திரும்புவது",
-          "முந்திச் செல்வது"
+          "முந்திச் செல்வது",
+          "நிறுத்துவது"
         ],
         "explanation": "கையால் நிறுத்தும் சைகை காட்ட, வலது முன்கையை வாகனத்துக்கு வெளியே வலதுபுறம் செங்குத்தாக உயர்த்தவும் (Reg. 11(2)(i)). வேகத்தைக் குறைப்பதற்கு விதியில் தனியான கை சைகை இல்லை."
       }
@@ -311,20 +311,20 @@
     "difficulty": 1,
     "question": "An anticlockwise circular motion of the right arm signals that you intend to:",
     "options": [
-      "Turn left",
       "Turn right",
       "Stop",
+      "Turn left",
       "Reverse"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation": "To signal a left turn by hand, extend the right arm and rotate it anti-clockwise (Reg. 11(2)(iii)).",
     "languages": {
       "en": {
         "question": "An anticlockwise circular motion of the right arm signals that you intend to:",
         "options": [
-          "Turn left",
           "Turn right",
           "Stop",
+          "Turn left",
           "Reverse"
         ],
         "explanation": "To signal a left turn by hand, extend the right arm and rotate it anti-clockwise (Reg. 11(2)(iii))."
@@ -332,9 +332,9 @@
       "hi": {
         "question": "दाईं भुजा का वामावर्त (एंटीक्लॉकवाइज़) गोलाकार घुमाव किस इरादे का संकेत है?",
         "options": [
-          "बाएँ मुड़ना",
           "दाएँ मुड़ना",
           "रुकना",
+          "बाएँ मुड़ना",
           "पीछे लेना"
         ],
         "explanation": "बाएँ मुड़ने का हाथ-संकेत देने के लिए दाईं भुजा फैलाकर उसे वामावर्त घुमाएँ (Reg. 11(2)(iii))।"
@@ -342,9 +342,9 @@
       "mr": {
         "question": "उजव्या हाताची घड्याळाच्या उलट दिशेने गोलाकार हालचाल हा कोणता संकेत आहे:",
         "options": [
-          "डावीकडे वळणे",
           "उजवीकडे वळणे",
           "थांबणे",
+          "डावीकडे वळणे",
           "मागे घेणे"
         ],
         "explanation": "हाताने डावीकडे वळण्याचा संकेत देण्यासाठी उजवा हात पसरून घड्याळाच्या उलट दिशेने फिरवा (Reg. 11(2)(iii))."
@@ -352,9 +352,9 @@
       "te": {
         "question": "కుడి చేతిని గడియారం ముల్లుకు వ్యతిరేక దిశలో వృత్తాకారంగా తిప్పడం దేన్ని సూచిస్తుంది:",
         "options": [
-          "ఎడమకు తిరగడం",
           "కుడికి తిరగడం",
           "ఆగడం",
+          "ఎడమకు తిరగడం",
           "రివర్స్ చేయడం"
         ],
         "explanation": "చేతితో ఎడమకు తిరగడాన్ని సూచించడానికి, కుడి చేతిని చాపి గడియారం ముల్లుకు వ్యతిరేక దిశలో తిప్పండి (Reg. 11(2)(iii))."
@@ -362,9 +362,9 @@
       "ta": {
         "question": "வலது கையை இடஞ்சுழியாக வட்டமாகச் சுழற்றினால், அது எதைக் குறிக்கிறது:",
         "options": [
-          "இடதுபுறம் திரும்புவது",
           "வலதுபுறம் திரும்புவது",
           "நிறுத்துவது",
+          "இடதுபுறம் திரும்புவது",
           "பின்னோக்கிச் செல்வது"
         ],
         "explanation": "கையால் இடதுபுறம் திரும்பும் சைகை காட்ட, வலது கையை நீட்டி இடஞ்சுழியாகச் சுழற்றவும் (Reg. 11(2)(iii))."
@@ -475,61 +475,61 @@
     "difficulty": 1,
     "question": "A solid white line along the centre of the road means:",
     "options": [
-      "Do not cross it",
       "You may cross freely",
       "Parking allowed",
-      "Speed limit ends"
+      "Speed limit ends",
+      "Do not cross it"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation": "Do not drive on or over a single or double solid longitudinal line, except when there is an obstruction (Reg. 6(6)).",
     "languages": {
       "en": {
         "question": "A solid white line along the centre of the road means:",
         "options": [
-          "Do not cross it",
           "You may cross freely",
           "Parking allowed",
-          "Speed limit ends"
+          "Speed limit ends",
+          "Do not cross it"
         ],
         "explanation": "Do not drive on or over a single or double solid longitudinal line, except when there is an obstruction (Reg. 6(6))."
       },
       "hi": {
         "question": "सड़क के बीच में ठोस सफेद रेखा का अर्थ है:",
         "options": [
-          "इसे पार न करें",
           "इसे आराम से पार कर सकते हैं",
           "पार्किंग की अनुमति",
-          "गति सीमा समाप्त"
+          "गति सीमा समाप्त",
+          "इसे पार न करें"
         ],
         "explanation": "ठोस केंद्र रेखा को पार नहीं करना चाहिए, सिवाय किसी बाधा की स्थिति में (Reg. 6(6))।"
       },
       "mr": {
         "question": "रस्त्याच्या मधोमध असलेली घन पांढरी रेषा म्हणजे:",
         "options": [
-          "ती ओलांडू नका",
           "तुम्ही ती मोकळेपणाने ओलांडू शकता",
           "पार्किंगला परवानगी आहे",
-          "वेग मर्यादा संपते"
+          "वेग मर्यादा संपते",
+          "ती ओलांडू नका"
         ],
         "explanation": "अडथळा असेल तेव्हा वगळता, एकेरी किंवा दुहेरी घन लांबीच्या रेषेवरून किंवा ती ओलांडून वाहन चालवू नका (Reg. 6(6))."
       },
       "te": {
         "question": "రోడ్డు మధ్యలో ఉన్న ఒకే గట్టి తెల్ల గీత అర్థం:",
         "options": [
-          "దాన్ని దాటకూడదు",
           "మీ ఇష్టం వచ్చినట్లు దాటవచ్చు",
           "పార్కింగ్‌కు అనుమతి",
-          "వేగ పరిమితి ముగిసింది"
+          "వేగ పరిమితి ముగిసింది",
+          "దాన్ని దాటకూడదు"
         ],
         "explanation": "ఒకే లేదా రెండు గట్టి (విరామం లేని) పొడవు గీతలపై లేదా వాటిని దాటి నడపకూడదు, అడ్డంకి ఉన్నప్పుడు తప్ప (Reg. 6(6))."
       },
       "ta": {
         "question": "சாலையின் நடுவில் செல்லும் தொடர்ச்சியான வெள்ளைக் கோடு என்பதன் பொருள்:",
         "options": [
-          "அதைக் கடக்கக் கூடாது",
           "அதைத் தாராளமாகக் கடக்கலாம்",
           "வாகனம் நிறுத்த அனுமதி",
-          "வேக வரம்பு முடிகிறது"
+          "வேக வரம்பு முடிகிறது",
+          "அதைக் கடக்கக் கூடாது"
         ],
         "explanation": "தடையாக ஏதேனும் இருக்கும்போது தவிர, ஒற்றை அல்லது இரட்டைத் தொடர்ச்சியான நீளவாட்டுக் கோட்டின் மீதோ அதைத் தாண்டியோ வாகனத்தை ஓட்டக் கூடாது (Reg. 6(6))."
       }
@@ -557,19 +557,19 @@
     "difficulty": 1,
     "question": "A broken (dashed) white centre line means:",
     "options": [
-      "You may cross it when safe",
       "Never cross",
+      "You may cross it when safe",
       "Road is closed",
       "Stop"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "A broken line may be crossed to overtake when it is safe.",
     "languages": {
       "en": {
         "question": "A broken (dashed) white centre line means:",
         "options": [
-          "You may cross it when safe",
           "Never cross",
+          "You may cross it when safe",
           "Road is closed",
           "Stop"
         ],
@@ -578,8 +578,8 @@
       "hi": {
         "question": "टूटी (बिंदीदार) सफ़ेद केंद्र रेखा का क्या अर्थ है?",
         "options": [
-          "सुरक्षित होने पर आप इसे पार कर सकते हैं",
           "इसे कभी पार न करें",
+          "सुरक्षित होने पर आप इसे पार कर सकते हैं",
           "सड़क बंद है",
           "रुकें"
         ],
@@ -588,8 +588,8 @@
       "mr": {
         "question": "तुटक (ठिपक्यांची) पांढरी मधली रेषा म्हणजे:",
         "options": [
-          "सुरक्षित असेल तेव्हा तुम्ही ती ओलांडू शकता",
           "कधीही ओलांडू नका",
+          "सुरक्षित असेल तेव्हा तुम्ही ती ओलांडू शकता",
           "रस्ता बंद आहे",
           "थांबा"
         ],
@@ -598,8 +598,8 @@
       "te": {
         "question": "విరిగిన (చుక్కల) తెల్ల మధ్య గీత అర్థం:",
         "options": [
-          "సురక్షితంగా ఉన్నప్పుడు దాన్ని దాటవచ్చు",
           "ఎప్పుడూ దాటకూడదు",
+          "సురక్షితంగా ఉన్నప్పుడు దాన్ని దాటవచ్చు",
           "రోడ్డు మూసివేయబడింది",
           "ఆగండి"
         ],
@@ -608,8 +608,8 @@
       "ta": {
         "question": "இடைவெளி விட்டு வரையப்பட்ட (உடைந்த) வெள்ளை நடுக்கோடு என்பதன் பொருள்:",
         "options": [
-          "பாதுகாப்பாக இருக்கும்போது அதைக் கடக்கலாம்",
           "ஒருபோதும் கடக்கக் கூடாது",
+          "பாதுகாப்பாக இருக்கும்போது அதைக் கடக்கலாம்",
           "சாலை மூடப்பட்டுள்ளது",
           "நிறுத்துங்கள்"
         ],
@@ -720,20 +720,20 @@
     "difficulty": 1,
     "question": "Wide white stripes across the road parallel to traffic mark a:",
     "options": [
-      "Pedestrian (zebra) crossing",
       "Parking area",
       "Speed breaker only",
+      "Pedestrian (zebra) crossing",
       "Overtaking zone"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation": "This is a zebra crossing; pedestrians have priority.",
     "languages": {
       "en": {
         "question": "Wide white stripes across the road parallel to traffic mark a:",
         "options": [
-          "Pedestrian (zebra) crossing",
           "Parking area",
           "Speed breaker only",
+          "Pedestrian (zebra) crossing",
           "Overtaking zone"
         ],
         "explanation": "This is a zebra crossing; pedestrians have priority."
@@ -741,9 +741,9 @@
       "hi": {
         "question": "सड़क पर यातायात के समानांतर चौड़ी सफ़ेद पट्टियाँ किसे दर्शाती हैं?",
         "options": [
-          "पैदल (ज़ेब्रा) क्रॉसिंग",
           "पार्किंग क्षेत्र",
           "केवल स्पीड ब्रेकर",
+          "पैदल (ज़ेब्रा) क्रॉसिंग",
           "ओवरटेकिंग क्षेत्र"
         ],
         "explanation": "यह ज़ेब्रा क्रॉसिंग है; पैदल यात्रियों को प्राथमिकता होती है।"
@@ -751,9 +751,9 @@
       "mr": {
         "question": "वाहतुकीला समांतर, रस्त्यावर आडवे रुंद पांढरे पट्टे कशाची खूण आहेत:",
         "options": [
-          "पादचारी (झेब्रा) क्रॉसिंग",
           "पार्किंग क्षेत्र",
           "फक्त गतिरोधक",
+          "पादचारी (झेब्रा) क्रॉसिंग",
           "ओव्हरटेकिंग क्षेत्र"
         ],
         "explanation": "हे झेब्रा क्रॉसिंग आहे; पादचाऱ्यांना प्राधान्य असते."
@@ -761,9 +761,9 @@
       "te": {
         "question": "ట్రాఫిక్ దిశకు సమాంతరంగా రోడ్డు అడ్డంగా ఉన్న వెడల్పాటి తెల్ల చారలు దేన్ని సూచిస్తాయి:",
         "options": [
-          "పాదచారుల (జీబ్రా) క్రాసింగ్",
           "పార్కింగ్ స్థలం",
           "కేవలం స్పీడ్ బ్రేకర్",
+          "పాదచారుల (జీబ్రా) క్రాసింగ్",
           "ఓవర్‌టేకింగ్ ప్రాంతం"
         ],
         "explanation": "ఇది జీబ్రా క్రాసింగ్; పాదచారులకు ముందుగా వెళ్లే హక్కు ఉంటుంది."
@@ -771,9 +771,9 @@
       "ta": {
         "question": "சாலையின் குறுக்கே, போக்குவரத்துக்கு இணையாக வரையப்பட்ட அகலமான வெள்ளைப் பட்டைகள் குறிப்பது:",
         "options": [
-          "பாதசாரிகள் கடக்கும் இடம் (ஜீப்ரா கிராசிங்)",
           "வாகன நிறுத்தப் பகுதி",
           "வேகத்தடை மட்டும்",
+          "பாதசாரிகள் கடக்கும் இடம் (ஜீப்ரா கிராசிங்)",
           "முந்திச் செல்லும் பகுதி"
         ],
         "explanation": "இது ஜீப்ரா கிராசிங்; பாதசாரிகளுக்கே முன்னுரிமை."
@@ -871,19 +871,19 @@
     "difficulty": 1,
     "question": "A steady red traffic light means:",
     "options": [
-      "Stop behind the stop line",
       "Slow down",
+      "Stop behind the stop line",
       "Proceed with caution",
       "Go straight if the road looks empty"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "At red, stop before the stop line preceding the pedestrian crossing (Reg. 12(1)(a)).",
     "languages": {
       "en": {
         "question": "A steady red traffic light means:",
         "options": [
-          "Stop behind the stop line",
           "Slow down",
+          "Stop behind the stop line",
           "Proceed with caution",
           "Go straight if the road looks empty"
         ],
@@ -892,18 +892,18 @@
       "hi": {
         "question": "ट्रैफिक लाइट में स्थिर लाल बत्ती का अर्थ है:",
         "options": [
-          "स्टॉप लाइन के पीछे रुकें",
           "धीमे हों",
+          "स्टॉप लाइन के पीछे रुकें",
           "सावधानी से आगे बढ़ें",
           "सड़क खाली दिखे तो सीधे निकल जाएँ"
         ],
-        "explanation": "लाल का अर्थ है रुकें और लाइन के पीछे प्रतीक्षा करें।"
+        "explanation": "लाल का अर्थ है रुकें और लाइन के पीछे प्रतीक्षा करें (Reg. 12(1)।"
       },
       "mr": {
         "question": "स्थिर लाल वाहतूक दिवा म्हणजे:",
         "options": [
-          "स्टॉप लाइनच्या मागे थांबा",
           "वेग कमी करा",
+          "स्टॉप लाइनच्या मागे थांबा",
           "काळजीपूर्वक पुढे जा",
           "रस्ता रिकामा दिसत असेल तर सरळ जा"
         ],
@@ -912,8 +912,8 @@
       "te": {
         "question": "స్థిరంగా వెలిగే ఎరుపు ట్రాఫిక్ లైట్ అర్థం:",
         "options": [
-          "స్టాప్ లైన్ వెనుక ఆగండి",
           "వేగం తగ్గించండి",
+          "స్టాప్ లైన్ వెనుక ఆగండి",
           "జాగ్రత్తగా ముందుకు వెళ్లండి",
           "రోడ్డు ఖాళీగా కనిపిస్తే నేరుగా వెళ్లండి"
         ],
@@ -922,8 +922,8 @@
       "ta": {
         "question": "தொடர்ந்து எரியும் சிவப்பு போக்குவரத்து விளக்கு என்பதன் பொருள்:",
         "options": [
-          "நிறுத்தக் கோட்டுக்குப் பின்னால் நிறுத்துங்கள்",
           "வேகத்தைக் குறையுங்கள்",
+          "நிறுத்தக் கோட்டுக்குப் பின்னால் நிறுத்துங்கள்",
           "எச்சரிக்கையுடன் செல்லுங்கள்",
           "சாலை காலியாகத் தெரிந்தால் நேராகச் செல்லுங்கள்"
         ],
@@ -953,61 +953,61 @@
     "difficulty": 1,
     "question": "A steady amber (yellow) light means:",
     "options": [
-      "Stop before the stop line, unless you are too close to stop safely",
       "Speed up to cross",
       "Go",
-      "Reverse"
+      "Reverse",
+      "Stop before the stop line, unless you are too close to stop safely"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation": "At amber, stop before the stop line or crossing, unless you have already crossed it or are too close to stop safely (Reg. 12).",
     "languages": {
       "en": {
         "question": "A steady amber (yellow) light means:",
         "options": [
-          "Stop before the stop line, unless you are too close to stop safely",
           "Speed up to cross",
           "Go",
-          "Reverse"
+          "Reverse",
+          "Stop before the stop line, unless you are too close to stop safely"
         ],
         "explanation": "At amber, stop before the stop line or crossing, unless you have already crossed it or are too close to stop safely (Reg. 12)."
       },
       "hi": {
         "question": "स्थिर पीली (एम्बर) बत्ती का क्या अर्थ है?",
         "options": [
-          "स्टॉप लाइन से पहले रुकें, जब तक कि रुकना सुरक्षित रूप से संभव न हो",
           "पार करने के लिए गति बढ़ाएँ",
           "चलें",
-          "पीछे लें"
+          "पीछे लें",
+          "स्टॉप लाइन से पहले रुकें, जब तक कि रुकना सुरक्षित रूप से संभव न हो"
         ],
         "explanation": "पीली बत्ती पर स्टॉप लाइन या क्रॉसिंग से पहले रुकें, जब तक कि आप उसे पार न कर चुके हों या सुरक्षित रूप से रुकने के लिए बहुत पास न हों (Reg. 12)।"
       },
       "mr": {
         "question": "स्थिर अंबर (पिवळा) दिवा म्हणजे:",
         "options": [
-          "स्टॉप लाइनच्या आधी थांबा, मात्र सुरक्षितपणे थांबता येण्यासारखे नसेल इतके जवळ असाल तर थांबू नका",
           "ओलांडण्यासाठी वेग वाढवा",
           "चला",
-          "मागे घ्या"
+          "मागे घ्या",
+          "स्टॉप लाइनच्या आधी थांबा, मात्र सुरक्षितपणे थांबता येण्यासारखे नसेल इतके जवळ असाल तर थांबू नका"
         ],
         "explanation": "अंबर दिव्यावर स्टॉप लाइन किंवा क्रॉसिंगच्या आधी थांबा, मात्र तुम्ही ती आधीच ओलांडली असेल किंवा सुरक्षितपणे थांबता येणार नाही इतके जवळ असाल तर थांबू नका (Reg. 12)."
       },
       "te": {
         "question": "స్థిరంగా వెలిగే అంబర్ (పసుపు) లైట్ అర్థం:",
         "options": [
-          "స్టాప్ లైన్ ముందు ఆగండి, సురక్షితంగా ఆగలేనంత దగ్గరగా ఉంటే తప్ప",
           "దాటడానికి వేగం పెంచండి",
           "వెళ్లండి",
-          "రివర్స్ చేయండి"
+          "రివర్స్ చేయండి",
+          "స్టాప్ లైన్ ముందు ఆగండి, సురక్షితంగా ఆగలేనంత దగ్గరగా ఉంటే తప్ప"
         ],
         "explanation": "అంబర్ వద్ద, స్టాప్ లైన్ లేదా క్రాసింగ్ ముందు ఆగండి; ఇప్పటికే దాటి ఉంటే లేదా సురక్షితంగా ఆగలేనంత దగ్గరగా ఉంటే తప్ప (Reg. 12)."
       },
       "ta": {
         "question": "தொடர்ந்து எரியும் ஆம்பர் (மஞ்சள்) விளக்கு என்பதன் பொருள்:",
         "options": [
-          "பாதுகாப்பாக நிறுத்த முடியாத அளவுக்கு மிக அருகில் இருந்தால் தவிர, நிறுத்தக் கோட்டுக்கு முன் நிறுத்துங்கள்",
           "கடப்பதற்காக வேகத்தைக் கூட்டுங்கள்",
           "செல்லுங்கள்",
-          "பின்னோக்கிச் செல்லுங்கள்"
+          "பின்னோக்கிச் செல்லுங்கள்",
+          "பாதுகாப்பாக நிறுத்த முடியாத அளவுக்கு மிக அருகில் இருந்தால் தவிர, நிறுத்தக் கோட்டுக்கு முன் நிறுத்துங்கள்"
         ],
         "explanation": "ஆம்பர் விளக்கில், நிறுத்தக் கோட்டை அல்லது கடக்கும் இடத்தை ஏற்கெனவே தாண்டிவிட்டிருந்தாலோ பாதுகாப்பாக நிறுத்த முடியாத அளவுக்கு மிக அருகில் இருந்தாலோ தவிர, அதற்கு முன் நிறுத்துங்கள் (Reg. 12)."
       }
@@ -1035,20 +1035,20 @@
     "difficulty": 1,
     "question": "A flashing amber light means:",
     "options": [
-      "Proceed with caution",
       "Stop",
       "Speed up",
+      "Proceed with caution",
       "Road closed"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation": "At flashing amber, slow down and proceed with caution, giving way to pedestrians and vehicles already in the intersection (Reg. 12(3)(c)).",
     "languages": {
       "en": {
         "question": "A flashing amber light means:",
         "options": [
-          "Proceed with caution",
           "Stop",
           "Speed up",
+          "Proceed with caution",
           "Road closed"
         ],
         "explanation": "At flashing amber, slow down and proceed with caution, giving way to pedestrians and vehicles already in the intersection (Reg. 12(3)(c))."
@@ -1056,9 +1056,9 @@
       "hi": {
         "question": "टिमटिमाती (फ़्लैशिंग) पीली बत्ती का क्या अर्थ है?",
         "options": [
-          "सावधानी से आगे बढ़ें",
           "रुकें",
           "गति बढ़ाएँ",
+          "सावधानी से आगे बढ़ें",
           "सड़क बंद है"
         ],
         "explanation": "टिमटिमाती पीली बत्ती पर धीमे हों और चौराहे में पहले से मौजूद पैदल यात्रियों व वाहनों को रास्ता देते हुए सावधानी से आगे बढ़ें (Reg. 12(3)(c))।"
@@ -1066,9 +1066,9 @@
       "mr": {
         "question": "लुकलुकणारा अंबर दिवा म्हणजे:",
         "options": [
-          "काळजीपूर्वक पुढे जा",
           "थांबा",
           "वेग वाढवा",
+          "काळजीपूर्वक पुढे जा",
           "रस्ता बंद आहे"
         ],
         "explanation": "लुकलुकणाऱ्या अंबर दिव्यावर वेग कमी करा आणि काळजीपूर्वक पुढे जा; पादचाऱ्यांना आणि आधीच चौकात असलेल्या वाहनांना मार्ग द्या (Reg. 12(3)(c))."
@@ -1076,9 +1076,9 @@
       "te": {
         "question": "మెరిసే అంబర్ లైట్ అర్థం:",
         "options": [
-          "జాగ్రత్తగా ముందుకు వెళ్లండి",
           "ఆగండి",
           "వేగం పెంచండి",
+          "జాగ్రత్తగా ముందుకు వెళ్లండి",
           "రోడ్డు మూసివేయబడింది"
         ],
         "explanation": "మెరిసే అంబర్ వద్ద, వేగం తగ్గించి జాగ్రత్తగా వెళ్లండి; కూడలిలో ఇప్పటికే ఉన్న పాదచారులకు, వాహనాలకు దారి ఇవ్వండి (Reg. 12(3)(c))."
@@ -1086,9 +1086,9 @@
       "ta": {
         "question": "ஒளிரும் (மின்னும்) ஆம்பர் விளக்கு என்பதன் பொருள்:",
         "options": [
-          "எச்சரிக்கையுடன் செல்லுங்கள்",
           "நிறுத்துங்கள்",
           "வேகத்தைக் கூட்டுங்கள்",
+          "எச்சரிக்கையுடன் செல்லுங்கள்",
           "சாலை மூடப்பட்டுள்ளது"
         ],
         "explanation": "ஒளிரும் ஆம்பர் விளக்கில், வேகத்தைக் குறைத்து எச்சரிக்கையுடன் செல்லுங்கள்; பாதசாரிகளுக்கும், சந்திப்பில் ஏற்கெனவே உள்ள வாகனங்களுக்கும் வழிவிடுங்கள் (Reg. 12(3)(c))."
@@ -1339,18 +1339,18 @@
     "difficulty": 1,
     "question": "What does this hand signal from the driver mean?",
     "options": [
-      "Request to stop the vehicle coming behind",
       "Intends to turn right",
+      "Request to stop the vehicle coming behind",
       "Request to stop the vehicle from opposite direction"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "The driver extends the right arm horizontally to show a right turn.",
     "languages": {
       "en": {
         "question": "What does this hand signal from the driver mean?",
         "options": [
-          "Request to stop the vehicle coming behind",
           "Intends to turn right",
+          "Request to stop the vehicle coming behind",
           "Request to stop the vehicle from opposite direction"
         ],
         "explanation": "The driver extends the right arm horizontally to show a right turn."
@@ -1358,8 +1358,8 @@
       "hi": {
         "question": "चालक के इस हाथ के संकेत का क्या अर्थ है?",
         "options": [
-          "पीछे आ रहे वाहन को रुकने का अनुरोध",
           "दाएँ मुड़ने का इरादा",
+          "पीछे आ रहे वाहन को रुकने का अनुरोध",
           "सामने से आ रहे वाहन को रुकने का अनुरोध"
         ],
         "explanation": "चालक दाएँ मुड़ने के लिए अपना दायाँ हाथ सीधा क्षैतिज फैलाता है।"
@@ -1367,8 +1367,8 @@
       "mr": {
         "question": "चालकाच्या या हाताच्या संकेताचा अर्थ काय?",
         "options": [
-          "मागून येणाऱ्या वाहनाला थांबण्याची विनंती",
           "उजवीकडे वळण्याचा इरादा",
+          "मागून येणाऱ्या वाहनाला थांबण्याची विनंती",
           "विरुद्ध दिशेने येणाऱ्या वाहनाला थांबण्याची विनंती"
         ],
         "explanation": "उजवीकडे वळण दर्शवण्यासाठी चालक उजवा हात आडवा पसरतो."
@@ -1376,8 +1376,8 @@
       "te": {
         "question": "డ్రైవర్ చూపిస్తున్న ఈ చేతి సంజ్ఞ అర్థం ఏమిటి?",
         "options": [
-          "వెనుక వస్తున్న వాహనాన్ని ఆగమని కోరడం",
           "కుడికి తిరగాలనుకుంటున్నాడు",
+          "వెనుక వస్తున్న వాహనాన్ని ఆగమని కోరడం",
           "ఎదురు దిశ నుండి వచ్చే వాహనాన్ని ఆగమని కోరడం"
         ],
         "explanation": "కుడివైపు తిరగడాన్ని చూపడానికి డ్రైవర్ కుడి చేతిని అడ్డంగా చాపుతాడు."
@@ -1385,8 +1385,8 @@
       "ta": {
         "question": "ஓட்டுநரின் இந்தக் கை சைகையின் பொருள் என்ன?",
         "options": [
-          "பின்னால் வரும் வாகனத்தை நிறுத்தக் கோருதல்",
           "வலதுபுறம் திரும்ப எண்ணுகிறார்",
+          "பின்னால் வரும் வாகனத்தை நிறுத்தக் கோருதல்",
           "எதிர்த் திசையிலிருந்து வரும் வாகனத்தை நிறுத்தக் கோருதல்"
         ],
         "explanation": "வலது கையைக் கிடைமட்டமாக நீட்டுவது வலதுபுறத் திருப்பத்தைக் காட்டும்."
@@ -1416,18 +1416,18 @@
     "difficulty": 1,
     "question": "What does this hand signal from the driver mean?",
     "options": [
-      "Intends to turn left",
       "Intends to turn right",
+      "Intends to turn left",
       "Request to stop all other vehicles"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Turning the right arm anti-clockwise shows a left turn.",
     "languages": {
       "en": {
         "question": "What does this hand signal from the driver mean?",
         "options": [
-          "Intends to turn left",
           "Intends to turn right",
+          "Intends to turn left",
           "Request to stop all other vehicles"
         ],
         "explanation": "Turning the right arm anti-clockwise shows a left turn."
@@ -1435,8 +1435,8 @@
       "hi": {
         "question": "चालक के इस हाथ के संकेत का क्या अर्थ है?",
         "options": [
-          "बाएँ मुड़ने का इरादा",
           "दाएँ मुड़ने का इरादा",
+          "बाएँ मुड़ने का इरादा",
           "अन्य सभी वाहनों को रुकने का अनुरोध"
         ],
         "explanation": "दाएँ हाथ को वामावर्त (घड़ी की उलटी दिशा में) घुमाने का अर्थ बाएँ मुड़ना है।"
@@ -1444,8 +1444,8 @@
       "mr": {
         "question": "चालकाच्या या हाताच्या संकेताचा अर्थ काय?",
         "options": [
-          "डावीकडे वळण्याचा इरादा",
           "उजवीकडे वळण्याचा इरादा",
+          "डावीकडे वळण्याचा इरादा",
           "इतर सर्व वाहनांना थांबण्याची विनंती"
         ],
         "explanation": "उजवा हात घड्याळाच्या उलट दिशेने फिरवणे म्हणजे डावीकडे वळणे."
@@ -1453,8 +1453,8 @@
       "te": {
         "question": "డ్రైవర్ చూపిస్తున్న ఈ చేతి సంజ్ఞ అర్థం ఏమిటి?",
         "options": [
-          "ఎడమకు తిరగాలనుకుంటున్నాడు",
           "కుడికి తిరగాలనుకుంటున్నాడు",
+          "ఎడమకు తిరగాలనుకుంటున్నాడు",
           "ఇతర వాహనాలన్నింటినీ ఆగమని కోరడం"
         ],
         "explanation": "కుడి చేతిని గడియారం ముల్లుకు వ్యతిరేక దిశలో తిప్పడం ఎడమ మలుపును సూచిస్తుంది."
@@ -1462,8 +1462,8 @@
       "ta": {
         "question": "ஓட்டுநரின் இந்தக் கை சைகையின் பொருள் என்ன?",
         "options": [
-          "இடதுபுறம் திரும்ப எண்ணுகிறார்",
           "வலதுபுறம் திரும்ப எண்ணுகிறார்",
+          "இடதுபுறம் திரும்ப எண்ணுகிறார்",
           "மற்ற எல்லா வாகனங்களையும் நிறுத்தக் கோருதல்"
         ],
         "explanation": "வலது கையை இடஞ்சுழியாகச் சுழற்றுவது இடதுபுறத் திருப்பத்தைக் காட்டும்."
@@ -1493,18 +1493,18 @@
     "difficulty": 1,
     "question": "What does this hand signal from the driver mean?",
     "options": [
-      "Intends to go straight",
       "Intends to stop the vehicle",
+      "Intends to go straight",
       "Intends to turn right"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "A raised right forearm means the driver intends to stop.",
     "languages": {
       "en": {
         "question": "What does this hand signal from the driver mean?",
         "options": [
-          "Intends to go straight",
           "Intends to stop the vehicle",
+          "Intends to go straight",
           "Intends to turn right"
         ],
         "explanation": "A raised right forearm means the driver intends to stop."
@@ -1512,8 +1512,8 @@
       "hi": {
         "question": "चालक के इस हाथ के संकेत का क्या अर्थ है?",
         "options": [
-          "सीधे जाने का इरादा",
           "वाहन रोकने का इरादा",
+          "सीधे जाने का इरादा",
           "दाएँ मुड़ने का इरादा"
         ],
         "explanation": "दाएँ हाथ की ऊपर उठी हुई बाँह का अर्थ है कि चालक रुकना चाहता है।"
@@ -1521,8 +1521,8 @@
       "mr": {
         "question": "चालकाच्या या हाताच्या संकेताचा अर्थ काय?",
         "options": [
-          "सरळ जाण्याचा इरादा",
           "वाहन थांबवण्याचा इरादा",
+          "सरळ जाण्याचा इरादा",
           "उजवीकडे वळण्याचा इरादा"
         ],
         "explanation": "उजवा हात कोपरापासून उभा करणे म्हणजे चालक वाहन थांबवणार आहे."
@@ -1530,8 +1530,8 @@
       "te": {
         "question": "డ్రైవర్ చూపిస్తున్న ఈ చేతి సంజ్ఞ అర్థం ఏమిటి?",
         "options": [
-          "నేరుగా వెళ్లాలనుకుంటున్నాడు",
           "వాహనాన్ని ఆపాలనుకుంటున్నాడు",
+          "నేరుగా వెళ్లాలనుకుంటున్నాడు",
           "కుడికి తిరగాలనుకుంటున్నాడు"
         ],
         "explanation": "పైకెత్తిన కుడి ముంజేయి అంటే డ్రైవర్ ఆగాలనుకుంటున్నాడు."
@@ -1539,8 +1539,8 @@
       "ta": {
         "question": "ஓட்டுநரின் இந்தக் கை சைகையின் பொருள் என்ன?",
         "options": [
-          "நேராகச் செல்ல எண்ணுகிறார்",
           "வாகனத்தை நிறுத்த எண்ணுகிறார்",
+          "நேராகச் செல்ல எண்ணுகிறார்",
           "வலதுபுறம் திரும்ப எண்ணுகிறார்"
         ],
         "explanation": "வலது முன்கையை உயர்த்திக் காட்டினால், ஓட்டுநர் நிறுத்த எண்ணுகிறார் என்று பொருள்."
@@ -1571,18 +1571,18 @@
     "question": "What does this broken yellow centre line allow?",
     "options": [
       "Cross it whenever you feel like it",
-      "Cross it when it is safe and come back after overtaking",
-      "Not cross it under any circumstances"
+      "Not cross it under any circumstances",
+      "Cross it when it is safe and come back after overtaking"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "A broken line may be crossed to overtake when it is safe, returning to your side afterwards.",
     "languages": {
       "en": {
         "question": "What does this broken yellow centre line allow?",
         "options": [
           "Cross it whenever you feel like it",
-          "Cross it when it is safe and come back after overtaking",
-          "Not cross it under any circumstances"
+          "Not cross it under any circumstances",
+          "Cross it when it is safe and come back after overtaking"
         ],
         "explanation": "A broken line may be crossed to overtake when it is safe, returning to your side afterwards."
       },
@@ -1590,8 +1590,8 @@
         "question": "यह टूटी पीली बीच की रेखा क्या अनुमति देती है?",
         "options": [
           "जब मन करे तब पार करना",
-          "सुरक्षित होने पर पार करना और ओवरटेक के बाद वापस आ जाना",
-          "किसी भी हाल में पार न करना"
+          "किसी भी हाल में पार न करना",
+          "सुरक्षित होने पर पार करना और ओवरटेक के बाद वापस आ जाना"
         ],
         "explanation": "टूटी रेखा को सुरक्षित होने पर ओवरटेक करने के लिए पार किया जा सकता है, और बाद में अपनी ओर लौट आना चाहिए।"
       },
@@ -1599,8 +1599,8 @@
         "question": "ही तुटक पिवळी मधली रेषा काय करण्यास परवानगी देते?",
         "options": [
           "वाटेल तेव्हा ती ओलांडणे",
-          "सुरक्षित असेल तेव्हा ती ओलांडणे आणि ओव्हरटेक केल्यानंतर परत येणे",
-          "कोणत्याही परिस्थितीत ती न ओलांडणे"
+          "कोणत्याही परिस्थितीत ती न ओलांडणे",
+          "सुरक्षित असेल तेव्हा ती ओलांडणे आणि ओव्हरटेक केल्यानंतर परत येणे"
         ],
         "explanation": "सुरक्षित असेल तेव्हा ओव्हरटेक करण्यासाठी तुटक रेषा ओलांडता येते, आणि नंतर आपल्या बाजूला परत यावे."
       },
@@ -1608,8 +1608,8 @@
         "question": "ఈ విరిగిన పసుపు మధ్య గీత దేనికి అనుమతిస్తుంది?",
         "options": [
           "మీకు ఇష్టం వచ్చినప్పుడల్లా దాన్ని దాటవచ్చు",
-          "సురక్షితంగా ఉన్నప్పుడు దాన్ని దాటి, ఓవర్‌టేక్ చేశాక తిరిగి వెనక్కి రావచ్చు",
-          "ఏ పరిస్థితిలోనూ దాన్ని దాటకూడదు"
+          "ఏ పరిస్థితిలోనూ దాన్ని దాటకూడదు",
+          "సురక్షితంగా ఉన్నప్పుడు దాన్ని దాటి, ఓవర్‌టేక్ చేశాక తిరిగి వెనక్కి రావచ్చు"
         ],
         "explanation": "సురక్షితంగా ఉన్నప్పుడు ఓవర్‌టేక్ చేయడానికి విరిగిన గీతను దాటవచ్చు, తర్వాత మీ వైపునకు తిరిగి రావాలి."
       },
@@ -1617,8 +1617,8 @@
         "question": "இந்த இடைவெளி விட்ட மஞ்சள் நடுக்கோடு எதை அனுமதிக்கிறது?",
         "options": [
           "தோன்றும்போதெல்லாம் அதைக் கடக்கலாம்",
-          "பாதுகாப்பாக இருக்கும்போது அதைக் கடந்து, முந்திய பின் திரும்ப வந்துவிடலாம்",
-          "எந்தச் சூழ்நிலையிலும் அதைக் கடக்கக் கூடாது"
+          "எந்தச் சூழ்நிலையிலும் அதைக் கடக்கக் கூடாது",
+          "பாதுகாப்பாக இருக்கும்போது அதைக் கடந்து, முந்திய பின் திரும்ப வந்துவிடலாம்"
         ],
         "explanation": "பாதுகாப்பாக இருக்கும்போது, முந்திச் செல்வதற்காக இடைவெளிக் கோட்டைக் கடக்கலாம்; பிறகு உங்கள் பக்கத்துக்குத் திரும்பிவிட வேண்டும்."
       }
@@ -1647,18 +1647,18 @@
     "question": "While turning to the left, the driver of a two wheeler shall",
     "options": [
       "Extend his left hand towards left",
-      "Not show hand signal",
-      "Show left turn signal with his right hand"
+      "Show left turn signal with his right hand",
+      "Not show hand signal"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation": "A two-wheeler rider shows a left turn with the right arm rotated anti-clockwise (Reg. 11(2)).",
     "languages": {
       "en": {
         "question": "While turning to the left, the driver of a two wheeler shall",
         "options": [
           "Extend his left hand towards left",
-          "Not show hand signal",
-          "Show left turn signal with his right hand"
+          "Show left turn signal with his right hand",
+          "Not show hand signal"
         ],
         "explanation": "A two-wheeler rider shows a left turn with the right arm rotated anti-clockwise (Reg. 11(2))."
       },
@@ -1666,8 +1666,8 @@
         "question": "बाएँ मुड़ते समय दोपहिया वाहन के चालक को चाहिए कि",
         "options": [
           "अपना बायाँ हाथ बाईं ओर फैलाए",
-          "हाथ का संकेत न दे",
-          "अपने दाएँ हाथ से बाएँ मुड़ने का संकेत दे"
+          "अपने दाएँ हाथ से बाएँ मुड़ने का संकेत दे",
+          "हाथ का संकेत न दे"
         ],
         "explanation": "दोपहिया चालक दाएँ हाथ को वामावर्त (घड़ी की उलटी दिशा में) घुमाकर बाएँ मुड़ने का संकेत देता है (Reg. 11(2))।"
       },
@@ -1675,8 +1675,8 @@
         "question": "डावीकडे वळताना दुचाकी चालकाने",
         "options": [
           "आपला डावा हात डावीकडे पसरावा",
-          "हाताचा संकेत देऊ नये",
-          "उजव्या हाताने डावीकडे वळण्याचा संकेत द्यावा"
+          "उजव्या हाताने डावीकडे वळण्याचा संकेत द्यावा",
+          "हाताचा संकेत देऊ नये"
         ],
         "explanation": "दुचाकी चालक उजवा हात घड्याळाच्या उलट दिशेने फिरवून डावीकडे वळण्याचा संकेत देतो (Reg. 11(2))."
       },
@@ -1684,8 +1684,8 @@
         "question": "ఎడమకు తిరుగుతున్నప్పుడు, టూ-వీలర్ డ్రైవర్",
         "options": [
           "తన ఎడమ చేతిని ఎడమవైపునకు చాపాలి",
-          "చేతి సంజ్ఞ చూపకూడదు",
-          "తన కుడి చేతితో ఎడమ మలుపు సంజ్ఞ చూపాలి"
+          "తన కుడి చేతితో ఎడమ మలుపు సంజ్ఞ చూపాలి",
+          "చేతి సంజ్ఞ చూపకూడదు"
         ],
         "explanation": "టూ-వీలర్ నడిపేవారు కుడి చేతిని గడియారం ముల్లుకు వ్యతిరేక దిశలో తిప్పి ఎడమ మలుపును సూచిస్తారు (Reg. 11(2))."
       },
@@ -1693,8 +1693,8 @@
         "question": "இடதுபுறம் திரும்பும்போது, இருசக்கர வாகன ஓட்டி",
         "options": [
           "தன் இடது கையை இடதுபுறமாக நீட்ட வேண்டும்",
-          "கை சைகை காட்டக் கூடாது",
-          "தன் வலது கையால் இடது திருப்ப சைகை காட்ட வேண்டும்"
+          "தன் வலது கையால் இடது திருப்ப சைகை காட்ட வேண்டும்",
+          "கை சைகை காட்டக் கூடாது"
         ],
         "explanation": "இருசக்கர வாகன ஓட்டி, வலது கையை இடஞ்சுழியாகச் சுழற்றி இடதுபுறத் திருப்பத்தைக் காட்ட வேண்டும் (Reg. 11(2))."
       }
@@ -1722,18 +1722,18 @@
     "difficulty": 1,
     "question": "The Signal while taking U- turn",
     "options": [
-      "Left turn signal",
       "Right turn signal",
+      "Left turn signal",
       "Slow down signal"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Use the right-turn signal when taking a U-turn.",
     "languages": {
       "en": {
         "question": "The Signal while taking U- turn",
         "options": [
-          "Left turn signal",
           "Right turn signal",
+          "Left turn signal",
           "Slow down signal"
         ],
         "explanation": "Use the right-turn signal when taking a U-turn."
@@ -1741,8 +1741,8 @@
       "hi": {
         "question": "यू-टर्न लेते समय का संकेत",
         "options": [
-          "बाएँ मुड़ने का संकेत",
           "दाएँ मुड़ने का संकेत",
+          "बाएँ मुड़ने का संकेत",
           "गति धीमी करने का संकेत"
         ],
         "explanation": "यू-टर्न लेते समय दाएँ मुड़ने का संकेत दें।"
@@ -1750,8 +1750,8 @@
       "mr": {
         "question": "यू-टर्न घेताना द्यावयाचा संकेत",
         "options": [
-          "डावीकडे वळण्याचा संकेत",
           "उजवीकडे वळण्याचा संकेत",
+          "डावीकडे वळण्याचा संकेत",
           "वेग कमी करण्याचा संकेत"
         ],
         "explanation": "यू-टर्न घेताना उजवीकडे वळण्याचा संकेत वापरा."
@@ -1759,8 +1759,8 @@
       "te": {
         "question": "యు-టర్న్ తీసుకునేటప్పుడు ఇవ్వాల్సిన సంకేతం",
         "options": [
-          "ఎడమ మలుపు సంకేతం",
           "కుడి మలుపు సంకేతం",
+          "ఎడమ మలుపు సంకేతం",
           "వేగం తగ్గించే సంకేతం"
         ],
         "explanation": "యు-టర్న్ తీసుకునేటప్పుడు కుడి మలుపు సంకేతం ఇవ్వండి."
@@ -1768,8 +1768,8 @@
       "ta": {
         "question": "யு-டர்ன் எடுக்கும்போது காட்ட வேண்டிய சைகை",
         "options": [
-          "இடது திருப்ப சைகை",
           "வலது திருப்ப சைகை",
+          "இடது திருப்ப சைகை",
           "வேகம் குறைக்கும் சைகை"
         ],
         "explanation": "யு-டர்ன் எடுக்கும்போது வலது திருப்ப சைகையைப் பயன்படுத்துங்கள்."
@@ -1949,18 +1949,18 @@
     "difficulty": 1,
     "question": "Zebra lines are meant for..",
     "options": [
-      "stopping vehicle.",
       "pedestrians crossing",
+      "stopping vehicle.",
       "for giving preference to vehicle"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Zebra markings are for pedestrians crossing.",
     "languages": {
       "en": {
         "question": "Zebra lines are meant for..",
         "options": [
-          "stopping vehicle.",
           "pedestrians crossing",
+          "stopping vehicle.",
           "for giving preference to vehicle"
         ],
         "explanation": "Zebra markings are for pedestrians crossing."
@@ -1968,8 +1968,8 @@
       "hi": {
         "question": "ज़ेबरा रेखाएँ इसके लिए हैं..",
         "options": [
-          "वाहन रोकने के लिए।",
           "पैदल यात्रियों के सड़क पार करने के लिए",
+          "वाहन रोकने के लिए।",
           "वाहन को प्राथमिकता देने के लिए"
         ],
         "explanation": "ज़ेबरा निशान पैदल यात्रियों के सड़क पार करने के लिए हैं।"
@@ -1977,8 +1977,8 @@
       "mr": {
         "question": "झेब्रा पट्टे कशासाठी असतात..",
         "options": [
-          "वाहन थांबवण्यासाठी.",
           "पादचाऱ्यांना रस्ता ओलांडण्यासाठी",
+          "वाहन थांबवण्यासाठी.",
           "वाहनाला प्राधान्य देण्यासाठी"
         ],
         "explanation": "झेब्रा खुणा पादचाऱ्यांना रस्ता ओलांडण्यासाठी असतात."
@@ -1986,8 +1986,8 @@
       "te": {
         "question": "జీబ్రా గీతలు దేని కోసం ఉద్దేశించినవి..",
         "options": [
-          "వాహనాన్ని ఆపడానికి.",
           "పాదచారులు రోడ్డు దాటడానికి",
+          "వాహనాన్ని ఆపడానికి.",
           "వాహనానికి ప్రాధాన్యం ఇవ్వడానికి"
         ],
         "explanation": "జీబ్రా గుర్తులు పాదచారులు రోడ్డు దాటడానికి ఉద్దేశించినవి."
@@ -1995,8 +1995,8 @@
       "ta": {
         "question": "ஜீப்ரா கோடுகள் எதற்காக..",
         "options": [
-          "வாகனத்தை நிறுத்துவதற்கு.",
           "பாதசாரிகள் கடப்பதற்கு",
+          "வாகனத்தை நிறுத்துவதற்கு.",
           "வாகனத்துக்கு முன்னுரிமை கொடுப்பதற்கு"
         ],
         "explanation": "ஜீப்ரா குறிகள் பாதசாரிகள் கடப்பதற்கானவை."
@@ -2175,18 +2175,18 @@
     "difficulty": 1,
     "question": "The continuous yellow line in the centre of the road means",
     "options": [
-      "no parking",
       "do not over take",
+      "no parking",
       "stop"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "A continuous yellow line in the centre means do not overtake.",
     "languages": {
       "en": {
         "question": "The continuous yellow line in the centre of the road means",
         "options": [
-          "no parking",
           "do not over take",
+          "no parking",
           "stop"
         ],
         "explanation": "A continuous yellow line in the centre means do not overtake."
@@ -2194,8 +2194,8 @@
       "hi": {
         "question": "सड़क के बीच में लगातार (सीधी) पीली रेखा का अर्थ है",
         "options": [
-          "पार्किंग निषेध",
           "ओवरटेक न करें",
+          "पार्किंग निषेध",
           "रुकें"
         ],
         "explanation": "बीच में लगातार पीली रेखा का अर्थ है ओवरटेक न करें।"
@@ -2203,8 +2203,8 @@
       "mr": {
         "question": "रस्त्याच्या मधोमध असलेली सलग पिवळी रेषा म्हणजे",
         "options": [
-          "पार्किंग नाही",
           "ओव्हरटेक करू नका",
+          "पार्किंग नाही",
           "थांबा"
         ],
         "explanation": "मधोमध असलेली सलग पिवळी रेषा म्हणजे ओव्हरटेक करू नका."
@@ -2212,8 +2212,8 @@
       "te": {
         "question": "రోడ్డు మధ్యలో ఉన్న విరామం లేని పసుపు గీత అర్థం",
         "options": [
-          "పార్కింగ్ నిషేధం",
           "ఓవర్‌టేక్ చేయకూడదు",
+          "పార్కింగ్ నిషేధం",
           "ఆగండి"
         ],
         "explanation": "మధ్యలో ఉన్న విరామం లేని పసుపు గీత అంటే ఓవర్‌టేక్ చేయకూడదు."
@@ -2221,8 +2221,8 @@
       "ta": {
         "question": "சாலையின் நடுவில் உள்ள தொடர்ச்சியான மஞ்சள் கோடு என்பதன் பொருள்",
         "options": [
-          "வாகன நிறுத்தம் தடை",
           "முந்திச் செல்லக் கூடாது",
+          "வாகன நிறுத்தம் தடை",
           "நிறுத்துங்கள்"
         ],
         "explanation": "நடுவில் உள்ள தொடர்ச்சியான மஞ்சள் கோடு என்றால் முந்திச் செல்லக் கூடாது."
@@ -2401,18 +2401,18 @@
     "difficulty": 1,
     "question": "Use of horn prohibited",
     "options": [
-      "Mosque, Church and Temple",
       "Near Hospital, Courts of Law",
+      "Mosque, Church and Temple",
       "Near Police Station"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Horns are prohibited near hospitals and courts of law (silence zones, Reg. 23).",
     "languages": {
       "en": {
         "question": "Use of horn prohibited",
         "options": [
-          "Mosque, Church and Temple",
           "Near Hospital, Courts of Law",
+          "Mosque, Church and Temple",
           "Near Police Station"
         ],
         "explanation": "Horns are prohibited near hospitals and courts of law (silence zones, Reg. 23)."
@@ -2420,8 +2420,8 @@
       "hi": {
         "question": "हॉर्न बजाना मना है",
         "options": [
-          "मस्जिद, चर्च और मंदिर",
           "अस्पताल, न्यायालय के पास",
+          "मस्जिद, चर्च और मंदिर",
           "पुलिस स्टेशन के पास"
         ],
         "explanation": "अस्पतालों और न्यायालयों के पास हॉर्न बजाना मना है (शांत क्षेत्र, Reg. 23)।"
@@ -2429,8 +2429,8 @@
       "mr": {
         "question": "हॉर्न वापरण्यास मनाई",
         "options": [
-          "मशीद, चर्च आणि मंदिर",
           "रुग्णालय, न्यायालयाजवळ",
+          "मशीद, चर्च आणि मंदिर",
           "पोलीस ठाण्याजवळ"
         ],
         "explanation": "रुग्णालये आणि न्यायालयांजवळ हॉर्न वाजवण्यास मनाई आहे (शांतता क्षेत्रे, Reg. 23)."
@@ -2438,8 +2438,8 @@
       "te": {
         "question": "హారన్ వాడటం నిషేధం",
         "options": [
-          "మసీదు, చర్చి మరియు దేవాలయం",
           "ఆసుపత్రి, న్యాయస్థానాల దగ్గర",
+          "మసీదు, చర్చి మరియు దేవాలయం",
           "పోలీస్ స్టేషన్ దగ్గర"
         ],
         "explanation": "ఆసుపత్రులు మరియు న్యాయస్థానాల దగ్గర హారన్ నిషేధం (నిశ్శబ్ద ప్రాంతాలు, Reg. 23)."
@@ -2447,8 +2447,8 @@
       "ta": {
         "question": "ஹாரன் பயன்படுத்தத் தடை உள்ள இடம்",
         "options": [
-          "மசூதி, தேவாலயம், கோயில்",
           "மருத்துவமனை, நீதிமன்றங்கள் அருகில்",
+          "மசூதி, தேவாலயம், கோயில்",
           "காவல் நிலையம் அருகில்"
         ],
         "explanation": "மருத்துவமனைகள், நீதிமன்றங்கள் அருகில் ஹாரன் தடை செய்யப்பட்டுள்ளது (அமைதி மண்டலங்கள், Reg. 23)."
@@ -2478,18 +2478,18 @@
     "question": "You want to overtake a vehicle near a hospital. You will",
     "options": [
       "Blow the horn continuously.",
-      "Not blow horn.",
-      "Blow the horn only intermittently."
+      "Blow the horn only intermittently.",
+      "Not blow horn."
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "Do not sound the horn near a hospital (Reg. 23).",
     "languages": {
       "en": {
         "question": "You want to overtake a vehicle near a hospital. You will",
         "options": [
           "Blow the horn continuously.",
-          "Not blow horn.",
-          "Blow the horn only intermittently."
+          "Blow the horn only intermittently.",
+          "Not blow horn."
         ],
         "explanation": "Do not sound the horn near a hospital (Reg. 23)."
       },
@@ -2497,8 +2497,8 @@
         "question": "आप अस्पताल के पास किसी वाहन को ओवरटेक करना चाहते हैं। आप",
         "options": [
           "लगातार हॉर्न बजाएँगे।",
-          "हॉर्न नहीं बजाएँगे।",
-          "केवल बीच-बीच में हॉर्न बजाएँगे।"
+          "केवल बीच-बीच में हॉर्न बजाएँगे।",
+          "हॉर्न नहीं बजाएँगे।"
         ],
         "explanation": "अस्पताल के पास हॉर्न न बजाएँ (Reg. 23)।"
       },
@@ -2506,8 +2506,8 @@
         "question": "तुम्हाला रुग्णालयाजवळ एखाद्या वाहनाला ओव्हरटेक करायचे आहे. तुम्ही",
         "options": [
           "सतत हॉर्न वाजवाल.",
-          "हॉर्न वाजवणार नाही.",
-          "फक्त थोड्या थोड्या वेळाने हॉर्न वाजवाल."
+          "फक्त थोड्या थोड्या वेळाने हॉर्न वाजवाल.",
+          "हॉर्न वाजवणार नाही."
         ],
         "explanation": "रुग्णालयाजवळ हॉर्न वाजवू नका (Reg. 23)."
       },
@@ -2515,8 +2515,8 @@
         "question": "మీరు ఆసుపత్రి దగ్గర ఒక వాహనాన్ని ఓవర్‌టేక్ చేయాలనుకుంటున్నారు. మీరు",
         "options": [
           "హారన్ ఆపకుండా మోగిస్తారు.",
-          "హారన్ మోగించరు.",
-          "హారన్‌ను అప్పుడప్పుడు మాత్రమే మోగిస్తారు."
+          "హారన్‌ను అప్పుడప్పుడు మాత్రమే మోగిస్తారు.",
+          "హారన్ మోగించరు."
         ],
         "explanation": "ఆసుపత్రి దగ్గర హారన్ మోగించకండి (Reg. 23)."
       },
@@ -2524,8 +2524,8 @@
         "question": "மருத்துவமனை அருகில் ஒரு வாகனத்தை முந்திச் செல்ல விரும்புகிறீர்கள். நீங்கள்",
         "options": [
           "தொடர்ந்து ஹாரன் அடிப்பீர்கள்.",
-          "ஹாரன் அடிக்க மாட்டீர்கள்.",
-          "அவ்வப்போது மட்டும் ஹாரன் அடிப்பீர்கள்."
+          "அவ்வப்போது மட்டும் ஹாரன் அடிப்பீர்கள்.",
+          "ஹாரன் அடிக்க மாட்டீர்கள்."
         ],
         "explanation": "மருத்துவமனை அருகில் ஹாரன் ஒலிக்காதீர்கள் (Reg. 23)."
       }
@@ -2553,18 +2553,18 @@
     "difficulty": 1,
     "question": "Blinking red traffic light means…",
     "options": [
-      "stop the vehicle till green light glows.",
       "stop the vehicle and proceed if safe.",
+      "stop the vehicle till green light glows.",
       "reduce speed and proceed."
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "At a flashing red light stop, then proceed only when it is safe (Reg. 12).",
     "languages": {
       "en": {
         "question": "Blinking red traffic light means…",
         "options": [
-          "stop the vehicle till green light glows.",
           "stop the vehicle and proceed if safe.",
+          "stop the vehicle till green light glows.",
           "reduce speed and proceed."
         ],
         "explanation": "At a flashing red light stop, then proceed only when it is safe (Reg. 12)."
@@ -2572,8 +2572,8 @@
       "hi": {
         "question": "टिमटिमाती (ब्लिंक करती) लाल ट्रैफिक बत्ती का अर्थ है…",
         "options": [
-          "हरी बत्ती जलने तक वाहन रोकें।",
           "वाहन रोकें और सुरक्षित हो तो आगे बढ़ें।",
+          "हरी बत्ती जलने तक वाहन रोकें।",
           "गति कम करें और आगे बढ़ें।"
         ],
         "explanation": "टिमटिमाती लाल बत्ती पर रुकें, और फिर सुरक्षित होने पर ही आगे बढ़ें (Reg. 12)।"
@@ -2581,8 +2581,8 @@
       "mr": {
         "question": "लुकलुकणारा लाल वाहतूक दिवा म्हणजे…",
         "options": [
-          "हिरवा दिवा लागेपर्यंत वाहन थांबवा.",
           "वाहन थांबवा आणि सुरक्षित असेल तर पुढे जा.",
+          "हिरवा दिवा लागेपर्यंत वाहन थांबवा.",
           "वेग कमी करा आणि पुढे जा."
         ],
         "explanation": "लुकलुकणाऱ्या लाल दिव्यावर थांबा, आणि सुरक्षित असेल तेव्हाच पुढे जा (Reg. 12)."
@@ -2590,8 +2590,8 @@
       "te": {
         "question": "మెరిసే ఎరుపు ట్రాఫిక్ లైట్ అర్థం…",
         "options": [
-          "ఆకుపచ్చ లైట్ వెలిగే వరకు వాహనాన్ని ఆపండి.",
           "వాహనాన్ని ఆపి, సురక్షితంగా ఉంటే ముందుకు వెళ్లండి.",
+          "ఆకుపచ్చ లైట్ వెలిగే వరకు వాహనాన్ని ఆపండి.",
           "వేగం తగ్గించి ముందుకు వెళ్లండి."
         ],
         "explanation": "మెరిసే ఎరుపు లైట్ వద్ద ఆగండి, ఆ తర్వాత సురక్షితంగా ఉన్నప్పుడు మాత్రమే ముందుకు వెళ్లండి (Reg. 12)."
@@ -2599,8 +2599,8 @@
       "ta": {
         "question": "மின்னும் சிவப்பு போக்குவரத்து விளக்கு என்பதன் பொருள்…",
         "options": [
-          "பச்சை விளக்கு எரியும் வரை வாகனத்தை நிறுத்த வேண்டும்.",
           "வாகனத்தை நிறுத்தி, பாதுகாப்பாக இருந்தால் செல்ல வேண்டும்.",
+          "பச்சை விளக்கு எரியும் வரை வாகனத்தை நிறுத்த வேண்டும்.",
           "வேகத்தைக் குறைத்துச் செல்ல வேண்டும்."
         ],
         "explanation": "மின்னும் சிவப்பு விளக்கில் நிறுத்துங்கள்; பாதுகாப்பாக இருக்கும்போது மட்டுமே செல்லுங்கள் (Reg. 12)."
@@ -2629,18 +2629,18 @@
     "difficulty": 1,
     "question": "A high beam in foggy conditions….",
     "options": [
-      "is good because you can see more",
       "is bad because it reflects back and can dazzle",
+      "is good because you can see more",
       "make sure others can see you"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "High beam in fog reflects back off the fog and dazzles you; use low beam.",
     "languages": {
       "en": {
         "question": "A high beam in foggy conditions….",
         "options": [
-          "is good because you can see more",
           "is bad because it reflects back and can dazzle",
+          "is good because you can see more",
           "make sure others can see you"
         ],
         "explanation": "High beam in fog reflects back off the fog and dazzles you; use low beam."
@@ -2648,8 +2648,8 @@
       "hi": {
         "question": "कोहरे में हाई बीम का उपयोग….",
         "options": [
-          "अच्छा है क्योंकि आप ज़्यादा देख सकते हैं",
           "बुरा है क्योंकि रोशनी वापस लौटकर आँखों को चौंधिया सकती है",
+          "अच्छा है क्योंकि आप ज़्यादा देख सकते हैं",
           "यह सुनिश्चित करता है कि दूसरे आपको देख सकें"
         ],
         "explanation": "कोहरे में हाई बीम कोहरे से टकराकर वापस लौटती है और आँखों को चौंधिया देती है; लो बीम का उपयोग करें।"
@@ -2657,8 +2657,8 @@
       "mr": {
         "question": "धुक्याच्या परिस्थितीत हाय बीम….",
         "options": [
-          "चांगला आहे कारण जास्त दिसते",
           "वाईट आहे कारण तो परावर्तित होऊन डोळे दिपवू शकतो",
+          "चांगला आहे कारण जास्त दिसते",
           "इतरांना तुम्ही दिसाल याची खात्री करतो"
         ],
         "explanation": "धुक्यात हाय बीम धुक्यावरून परावर्तित होऊन तुमचेच डोळे दिपवतो; लो बीम वापरा."
@@ -2666,8 +2666,8 @@
       "te": {
         "question": "పొగమంచు పరిస్థితుల్లో హై బీమ్….",
         "options": [
-          "మంచిది, ఎందుకంటే ఎక్కువ కనిపిస్తుంది",
           "చెడ్డది, ఎందుకంటే అది వెనక్కి ప్రతిబింబించి కళ్లు మెరిపిస్తుంది",
+          "మంచిది, ఎందుకంటే ఎక్కువ కనిపిస్తుంది",
           "ఇతరులకు మీరు కనిపించేలా చేస్తుంది"
         ],
         "explanation": "పొగమంచులో హై బీమ్ మంచుపై పడి వెనక్కి ప్రతిబింబించి మీ కళ్లను మెరిపిస్తుంది; లో బీమ్ వాడండి."
@@ -2675,8 +2675,8 @@
       "ta": {
         "question": "மூடுபனி நிலையில் ஹை பீம் ஒளி….",
         "options": [
-          "நல்லது, ஏனெனில் அதிகமாகப் பார்க்க முடியும்",
           "மோசமானது, ஏனெனில் அது பிரதிபலித்துத் திரும்பி வந்து கண்ணைக் கூசச் செய்யும்",
+          "நல்லது, ஏனெனில் அதிகமாகப் பார்க்க முடியும்",
           "மற்றவர்கள் உங்களைப் பார்ப்பதை உறுதி செய்யும்"
         ],
         "explanation": "மூடுபனியில் ஹை பீம் ஒளி பனியில் பட்டுத் திரும்பி வந்து உங்கள் கண்ணையே கூசச் செய்யும்; லோ பீமைப் பயன்படுத்துங்கள்."
@@ -2779,18 +2779,18 @@
     "difficulty": 1,
     "question": "While travelling over motor way at night with other vehicles just ahead, better the switched on lights should be",
     "options": [
-      "hazard warning light",
       "low beam head light",
+      "hazard warning light",
       "high beam head light"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "With vehicles just ahead at night use low beam (Reg. 31).",
     "languages": {
       "en": {
         "question": "While travelling over motor way at night with other vehicles just ahead, better the switched on lights should be",
         "options": [
-          "hazard warning light",
           "low beam head light",
+          "hazard warning light",
           "high beam head light"
         ],
         "explanation": "With vehicles just ahead at night use low beam (Reg. 31)."
@@ -2798,8 +2798,8 @@
       "hi": {
         "question": "रात में मोटर सड़क पर चलते समय जब दूसरे वाहन ठीक आगे हों, तो जलाई जाने वाली बेहतर बत्ती होनी चाहिए",
         "options": [
-          "खतरे की चेतावनी वाली बत्ती",
           "लो बीम हेडलाइट",
+          "खतरे की चेतावनी वाली बत्ती",
           "हाई बीम हेडलाइट"
         ],
         "explanation": "रात में जब दूसरे वाहन ठीक आगे हों, तो लो बीम का उपयोग करें (Reg. 31)।"
@@ -2807,8 +2807,8 @@
       "mr": {
         "question": "रात्री मोटार मार्गावरून जाताना, इतर वाहने अगदी पुढे असताना, कोणते दिवे चालू ठेवणे चांगले",
         "options": [
-          "हॅझार्ड वॉर्निंग दिवा",
           "लो बीम हेडलाइट",
+          "हॅझार्ड वॉर्निंग दिवा",
           "हाय बीम हेडलाइट"
         ],
         "explanation": "रात्री अगदी पुढे वाहने असताना लो बीम वापरा (Reg. 31)."
@@ -2816,8 +2816,8 @@
       "te": {
         "question": "రాత్రి మోటార్‌వేపై ప్రయాణిస్తున్నప్పుడు, ముందు ఇతర వాహనాలు దగ్గరగా ఉంటే, ఆన్ చేయడానికి మంచి లైట్లు",
         "options": [
-          "హజార్డ్ హెచ్చరిక లైట్",
           "లో బీమ్ హెడ్‌లైట్",
+          "హజార్డ్ హెచ్చరిక లైట్",
           "హై బీమ్ హెడ్‌లైట్"
         ],
         "explanation": "రాత్రి ముందు వాహనాలు దగ్గరగా ఉంటే లో బీమ్ వాడండి (Reg. 31)."
@@ -2825,8 +2825,8 @@
       "ta": {
         "question": "இரவில் நெடுஞ்சாலையில் செல்லும்போது, மற்ற வாகனங்கள் சற்று முன்னால் இருந்தால், எரிய விட வேண்டிய சிறந்த விளக்கு",
         "options": [
-          "அபாய எச்சரிக்கை விளக்கு",
           "லோ பீம் ஹெட்லைட்",
+          "அபாய எச்சரிக்கை விளக்கு",
           "ஹை பீம் ஹெட்லைட்"
         ],
         "explanation": "இரவில் சற்று முன்னால் வாகனங்கள் இருக்கும்போது லோ பீமைப் பயன்படுத்துங்கள் (Reg. 31)."
@@ -2856,18 +2856,18 @@
     "question": "While travelling you are dazzled by head lights of on coming vehicle, you should",
     "options": [
       "pull down your sun visor",
-      "slow down and stop",
-      "switch on your main beam"
+      "switch on your main beam",
+      "slow down and stop"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "If you are dazzled, slow down and stop rather than driving blind.",
     "languages": {
       "en": {
         "question": "While travelling you are dazzled by head lights of on coming vehicle, you should",
         "options": [
           "pull down your sun visor",
-          "slow down and stop",
-          "switch on your main beam"
+          "switch on your main beam",
+          "slow down and stop"
         ],
         "explanation": "If you are dazzled, slow down and stop rather than driving blind."
       },
@@ -2875,8 +2875,8 @@
         "question": "चलते समय सामने से आ रहे वाहन की हेडलाइट से आपकी आँखें चौंधिया जाएँ, तो आपको चाहिए कि",
         "options": [
           "अपना सन वाइज़र नीचे कर लें",
-          "गति धीमी करें और रुक जाएँ",
-          "अपनी मेन बीम जला लें"
+          "अपनी मेन बीम जला लें",
+          "गति धीमी करें और रुक जाएँ"
         ],
         "explanation": "अगर आँखें चौंधिया जाएँ, तो अंधे होकर चलाने के बजाय गति धीमी करें और रुक जाएँ।"
       },
@@ -2884,8 +2884,8 @@
         "question": "प्रवासात समोरून येणाऱ्या वाहनाच्या हेडलाइटमुळे तुमचे डोळे दिपले आहेत, तुम्ही",
         "options": [
           "तुमचा सन व्हायझर खाली ओढावा",
-          "वेग कमी करून थांबावे",
-          "तुमचा मेन बीम चालू करावा"
+          "तुमचा मेन बीम चालू करावा",
+          "वेग कमी करून थांबावे"
         ],
         "explanation": "डोळे दिपले असतील तर आंधळेपणाने चालवण्याऐवजी वेग कमी करून थांबा."
       },
@@ -2893,8 +2893,8 @@
         "question": "ప్రయాణిస్తున్నప్పుడు ఎదురుగా వచ్చే వాహనం హెడ్‌లైట్ల వెలుతురుకు మీ కళ్లు మెరిస్తే, మీరు",
         "options": [
           "సన్ వైజర్‌ను కిందికి దించాలి",
-          "వేగం తగ్గించి ఆగాలి",
-          "మెయిన్ బీమ్ ఆన్ చేయాలి"
+          "మెయిన్ బీమ్ ఆన్ చేయాలి",
+          "వేగం తగ్గించి ఆగాలి"
         ],
         "explanation": "కళ్లు మెరిస్తే, కనిపించకుండా నడపడం కంటే వేగం తగ్గించి ఆగండి."
       },
@@ -2902,8 +2902,8 @@
         "question": "பயணத்தின்போது எதிரே வரும் வாகனத்தின் ஹெட்லைட் ஒளி உங்கள் கண்ணைக் கூசச் செய்கிறது; நீங்கள்",
         "options": [
           "சன் வைசரைக் கீழே இழுக்க வேண்டும்",
-          "வேகத்தைக் குறைத்து நிறுத்த வேண்டும்",
-          "மெயின் பீமை ஆன் செய்ய வேண்டும்"
+          "மெயின் பீமை ஆன் செய்ய வேண்டும்",
+          "வேகத்தைக் குறைத்து நிறுத்த வேண்டும்"
         ],
         "explanation": "கண் கூசினால், பார்வையில்லாமல் ஓட்டாமல், வேகத்தைக் குறைத்து நிறுத்துங்கள்."
       }
@@ -2930,18 +2930,18 @@
     "difficulty": 1,
     "question": "During night, a car driving towards you with high beam on, the driver of that car is",
     "options": [
-      "driving with bad manners since high beams blind others",
       "a safe driver since high beam lights up the road",
+      "driving with bad manners since high beams blind others",
       "not obeying law"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Driving with high beam towards other drivers dazzles them; it is bad manners and unsafe (Reg. 31).",
     "languages": {
       "en": {
         "question": "During night, a car driving towards you with high beam on, the driver of that car is",
         "options": [
-          "driving with bad manners since high beams blind others",
           "a safe driver since high beam lights up the road",
+          "driving with bad manners since high beams blind others",
           "not obeying law"
         ],
         "explanation": "Driving with high beam towards other drivers dazzles them; it is bad manners and unsafe (Reg. 31)."
@@ -2949,8 +2949,8 @@
       "hi": {
         "question": "रात में, एक कार हाई बीम जलाकर आपकी ओर आ रही है, उस कार का चालक",
         "options": [
-          "बुरे व्यवहार से चला रहा है क्योंकि हाई बीम दूसरों को अंधा कर देती है",
           "सुरक्षित चालक है क्योंकि हाई बीम से सड़क रोशन होती है",
+          "बुरे व्यवहार से चला रहा है क्योंकि हाई बीम दूसरों को अंधा कर देती है",
           "कानून का पालन नहीं कर रहा है"
         ],
         "explanation": "सामने से आते चालकों की ओर हाई बीम रखने से उनकी आँखें चौंधिया जाती हैं; यह बुरा व्यवहार और असुरक्षित है (Reg. 31)।"
@@ -2958,8 +2958,8 @@
       "mr": {
         "question": "रात्री, हाय बीम चालू ठेवून तुमच्या दिशेने येणाऱ्या कारचा चालक",
         "options": [
-          "वाईट सवयीने चालवत आहे कारण हाय बीमने इतरांचे डोळे दिपतात",
           "सुरक्षित चालक आहे कारण हाय बीमने रस्ता उजळतो",
+          "वाईट सवयीने चालवत आहे कारण हाय बीमने इतरांचे डोळे दिपतात",
           "कायद्याचे पालन करत नाही"
         ],
         "explanation": "इतर चालकांच्या दिशेने हाय बीम ठेवून चालवल्याने त्यांचे डोळे दिपतात; हे गैरवर्तन आणि असुरक्षित आहे (Reg. 31)."
@@ -2967,8 +2967,8 @@
       "te": {
         "question": "రాత్రి సమయంలో, హై బీమ్ ఆన్‌లో ఉన్న కారు మీ వైపు వస్తోంది, ఆ కారు డ్రైవర్",
         "options": [
-          "చెడు మర్యాదతో నడుపుతున్నాడు, ఎందుకంటే హై బీమ్ ఇతరుల కళ్లను మెరిపిస్తుంది",
           "సురక్షిత డ్రైవర్, ఎందుకంటే హై బీమ్ రోడ్డును వెలిగిస్తుంది",
+          "చెడు మర్యాదతో నడుపుతున్నాడు, ఎందుకంటే హై బీమ్ ఇతరుల కళ్లను మెరిపిస్తుంది",
           "చట్టాన్ని పాటించడం లేదు"
         ],
         "explanation": "ఇతర డ్రైవర్ల వైపు హై బీమ్‌తో నడపడం వారి కళ్లను మెరిపిస్తుంది; ఇది చెడు మర్యాద మరియు ప్రమాదకరం (Reg. 31)."
@@ -2976,8 +2976,8 @@
       "ta": {
         "question": "இரவில், ஒரு கார் ஹை பீம் ஒளியுடன் உங்களை நோக்கி வருகிறது; அந்தக் காரின் ஓட்டுநர்",
         "options": [
-          "மோசமான நடத்தையுடன் ஓட்டுகிறார், ஏனெனில் ஹை பீம் மற்றவர்களின் பார்வையைப் பறிக்கும்",
           "பாதுகாப்பான ஓட்டுநர், ஏனெனில் ஹை பீம் சாலையை ஒளிரச் செய்யும்",
+          "மோசமான நடத்தையுடன் ஓட்டுகிறார், ஏனெனில் ஹை பீம் மற்றவர்களின் பார்வையைப் பறிக்கும்",
           "சட்டத்துக்குக் கீழ்ப்படியவில்லை"
         ],
         "explanation": "மற்ற ஓட்டுநர்களை நோக்கி ஹை பீமுடன் ஓட்டினால் அவர்களின் கண் கூசும்; அது மோசமான நடத்தை, பாதுகாப்பற்றதும் ஆகும் (Reg. 31)."
@@ -3006,55 +3006,55 @@
     "difficulty": 1,
     "question": "Drivers should not sound horn",
     "options": [
+      "at silent zone",
       "in one way",
-      "on main road",
-      "at silent zone"
+      "on main road"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "Do not sound the horn in silence zones (Reg. 23).",
     "languages": {
       "en": {
         "question": "Drivers should not sound horn",
         "options": [
+          "at silent zone",
           "in one way",
-          "on main road",
-          "at silent zone"
+          "on main road"
         ],
         "explanation": "Do not sound the horn in silence zones (Reg. 23)."
       },
       "hi": {
         "question": "चालकों को हॉर्न नहीं बजाना चाहिए",
         "options": [
+          "शांत क्षेत्र में",
           "एकतरफा सड़क पर",
-          "मुख्य सड़क पर",
-          "शांत क्षेत्र में"
+          "मुख्य सड़क पर"
         ],
         "explanation": "शांत क्षेत्रों में हॉर्न न बजाएँ (Reg. 23)।"
       },
       "mr": {
         "question": "चालकांनी हॉर्न वाजवू नये",
         "options": [
+          "शांतता क्षेत्रात",
           "एकेरी मार्गावर",
-          "मुख्य रस्त्यावर",
-          "शांतता क्षेत्रात"
+          "मुख्य रस्त्यावर"
         ],
         "explanation": "शांतता क्षेत्रांत हॉर्न वाजवू नका (Reg. 23)."
       },
       "te": {
         "question": "డ్రైవర్లు హారన్ మోగించకూడదు",
         "options": [
+          "నిశ్శబ్ద ప్రాంతంలో",
           "వన్ వేలో",
-          "ప్రధాన రోడ్డుపై",
-          "నిశ్శబ్ద ప్రాంతంలో"
+          "ప్రధాన రోడ్డుపై"
         ],
         "explanation": "నిశ్శబ్ద ప్రాంతాల్లో హారన్ మోగించకండి (Reg. 23)."
       },
       "ta": {
         "question": "ஓட்டுநர்கள் ஹாரன் ஒலிக்கக் கூடாது",
         "options": [
+          "அமைதி மண்டலத்தில்",
           "ஒருவழிப் பாதையில்",
-          "முக்கியச் சாலையில்",
-          "அமைதி மண்டலத்தில்"
+          "முக்கியச் சாலையில்"
         ],
         "explanation": "அமைதி மண்டலங்களில் ஹாரன் ஒலிக்காதீர்கள் (Reg. 23)."
       }
@@ -3083,18 +3083,18 @@
     "question": "A solid yellow line is next to a broken line. Vehicles on the solid-line side:",
     "options": [
       "can cross the line to overtake",
-      "cannot cross the line to overtake",
-      "cannot stop"
+      "cannot stop",
+      "cannot cross the line to overtake"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "A driver next to the solid line must not cross it to overtake. Only the driver on the broken-line side may cross, when it is safe (Reg. 6).",
     "languages": {
       "en": {
         "question": "A solid yellow line is next to a broken line. Vehicles on the solid-line side:",
         "options": [
           "can cross the line to overtake",
-          "cannot cross the line to overtake",
-          "cannot stop"
+          "cannot stop",
+          "cannot cross the line to overtake"
         ],
         "explanation": "A driver next to the solid line must not cross it to overtake. Only the driver on the broken-line side may cross, when it is safe (Reg. 6)."
       },
@@ -3102,8 +3102,8 @@
         "question": "एक ठोस (लगातार) पीली रेखा के बगल में टूटी रेखा है। ठोस रेखा की तरफ़ के वाहन:",
         "options": [
           "ओवरटेक करने के लिए रेखा पार कर सकते हैं",
-          "ओवरटेक करने के लिए रेखा पार नहीं कर सकते",
-          "रुक नहीं सकते"
+          "रुक नहीं सकते",
+          "ओवरटेक करने के लिए रेखा पार नहीं कर सकते"
         ],
         "explanation": "ठोस रेखा की तरफ़ वाला चालक ओवरटेक के लिए उसे पार नहीं कर सकता। केवल टूटी रेखा की तरफ़ वाला चालक सुरक्षित होने पर पार कर सकता है (Reg. 6)।"
       }
@@ -3131,28 +3131,28 @@
     "difficulty": 1,
     "question": "What does a solid yellow centre line mean?",
     "options": [
+      "Do not overtake (do not cross it)",
       "No parking",
-      "Stop line",
-      "Do not overtake (do not cross it)"
+      "Stop line"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "A continuous yellow line along the centre must not be crossed to overtake (Reg. 6).",
     "languages": {
       "en": {
         "question": "What does a solid yellow centre line mean?",
         "options": [
+          "Do not overtake (do not cross it)",
           "No parking",
-          "Stop line",
-          "Do not overtake (do not cross it)"
+          "Stop line"
         ],
         "explanation": "A continuous yellow line along the centre must not be crossed to overtake (Reg. 6)."
       },
       "hi": {
         "question": "सड़क के बीच की ठोस पीली रेखा का क्या अर्थ है?",
         "options": [
+          "ओवरटेक न करें (रेखा पार न करें)",
           "पार्किंग मना",
-          "रुकने की रेखा",
-          "ओवरटेक न करें (रेखा पार न करें)"
+          "रुकने की रेखा"
         ],
         "explanation": "बीच की लगातार पीली रेखा को ओवरटेक करने के लिए पार नहीं करना चाहिए (Reg. 6)।"
       }
@@ -3229,18 +3229,18 @@
     "difficulty": 1,
     "question": "What does a flashing red light mean?",
     "options": [
-      "Stop, then proceed with caution after giving way",
       "Slow down only",
+      "Stop, then proceed with caution after giving way",
       "Give way only, no need to stop"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "At a flashing red light, stop at the stop line, then go on only after giving way to pedestrians and traffic on the major road (Reg. 12).",
     "languages": {
       "en": {
         "question": "What does a flashing red light mean?",
         "options": [
-          "Stop, then proceed with caution after giving way",
           "Slow down only",
+          "Stop, then proceed with caution after giving way",
           "Give way only, no need to stop"
         ],
         "explanation": "At a flashing red light, stop at the stop line, then go on only after giving way to pedestrians and traffic on the major road (Reg. 12)."
@@ -3248,8 +3248,8 @@
       "hi": {
         "question": "टिमटिमाती लाल बत्ती का क्या अर्थ है?",
         "options": [
-          "रुकें, फिर रास्ता देकर सावधानी से आगे बढ़ें",
           "केवल गति धीमी करें",
+          "रुकें, फिर रास्ता देकर सावधानी से आगे बढ़ें",
           "केवल रास्ता दें, रुकना ज़रूरी नहीं"
         ],
         "explanation": "टिमटिमाती लाल बत्ती पर स्टॉप लाइन पर रुकें और पैदल यात्रियों व मुख्य सड़क के यातायात को रास्ता देकर ही आगे बढ़ें (Reg. 12)।"
@@ -3350,7 +3350,7 @@
           "रियर-व्यू मिरर में देखकर, सुरक्षित होने पर ही लेन बदलनी चाहिए",
           "दोनों काम करने चाहिए"
         ],
-        "explanation": "समय पर संकेत दें और पहले मिरर देखें। लेन तभी बदलें जब सुरक्षित हो (Reg. 6 और Reg. 8)।"
+        "explanation": "समय पर संकेत दें और पहले मिरर देखें। लेन तभी बदलें जब सुरक्षित हो (Reg. 6 और Reg. 8) (Reg. 6 and Reg. 8)।"
       }
     },
     "imageRef": "img:q333.png",

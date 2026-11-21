@@ -60,19 +60,19 @@
     "difficulty": 2,
     "question": "Speeding by a light motor vehicle (car) is punished with a fine of:",
     "options": [
-      "Rs 100 to 200",
       "Rs 1,000 to Rs 2,000",
+      "Rs 100 to 200",
       "Rs 5,000 to Rs 10,000",
       "No fine"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Section 183: Rs 1,000 to Rs 2,000 for a light motor vehicle; Rs 2,000 to Rs 4,000 for medium or heavy vehicles.",
     "languages": {
       "en": {
         "question": "Speeding by a light motor vehicle (car) is punished with a fine of:",
         "options": [
-          "Rs 100 to 200",
           "Rs 1,000 to Rs 2,000",
+          "Rs 100 to 200",
           "Rs 5,000 to Rs 10,000",
           "No fine"
         ],
@@ -81,8 +81,8 @@
       "hi": {
         "question": "हल्के मोटर वाहन (कार) की तेज़ गति पर कितना जुर्माना लगता है:",
         "options": [
-          "Rs 100 से 200",
           "Rs 1,000 से Rs 2,000",
+          "Rs 100 से 200",
           "Rs 5,000 से Rs 10,000",
           "कोई जुर्माना नहीं"
         ],
@@ -113,20 +113,20 @@
     "question": "Speeding by a medium or heavy goods or passenger vehicle is punished with a fine of:",
     "options": [
       "Rs 1,000 to Rs 2,000",
-      "Rs 2,000 to Rs 4,000",
       "Rs 500",
-      "Rs 25,000"
+      "Rs 25,000",
+      "Rs 2,000 to Rs 4,000"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation": "Section 183: Rs 2,000 to Rs 4,000 for medium and heavy vehicles.",
     "languages": {
       "en": {
         "question": "Speeding by a medium or heavy goods or passenger vehicle is punished with a fine of:",
         "options": [
           "Rs 1,000 to Rs 2,000",
-          "Rs 2,000 to Rs 4,000",
           "Rs 500",
-          "Rs 25,000"
+          "Rs 25,000",
+          "Rs 2,000 to Rs 4,000"
         ],
         "explanation": "Section 183: Rs 2,000 to Rs 4,000 for medium and heavy vehicles."
       },
@@ -134,9 +134,9 @@
         "question": "मध्यम या भारी माल वाहन या यात्री वाहन की तेज़ गति पर कितना जुर्माना लगता है:",
         "options": [
           "Rs 1,000 से Rs 2,000",
-          "Rs 2,000 से Rs 4,000",
           "Rs 500",
-          "Rs 25,000"
+          "Rs 25,000",
+          "Rs 2,000 से Rs 4,000"
         ],
         "explanation": "धारा 183: मध्यम और भारी वाहनों के लिए Rs 2,000 से Rs 4,000।"
       }
@@ -216,19 +216,19 @@
     "difficulty": 1,
     "question": "What is the alcohol limit in the blood for a driver?",
     "options": [
-      "0 mg per 100 ml only",
       "30 mg per 100 ml of blood",
+      "0 mg per 100 ml only",
       "100 mg per 100 ml of blood",
       "No limit is set"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "It is an offence to drive with more than 30 mg of alcohol per 100 ml of blood (Section 185).",
     "languages": {
       "en": {
         "question": "What is the alcohol limit in the blood for a driver?",
         "options": [
-          "0 mg per 100 ml only",
           "30 mg per 100 ml of blood",
+          "0 mg per 100 ml only",
           "100 mg per 100 ml of blood",
           "No limit is set"
         ],
@@ -237,12 +237,12 @@
       "hi": {
         "question": "चालक के लिए खून में शराब की सीमा क्या है?",
         "options": [
-          "केवल 0 mg प्रति 100 ml",
           "30 mg प्रति 100 ml खून",
+          "केवल 0 mg प्रति 100 ml",
           "100 mg प्रति 100 ml खून",
           "कोई सीमा तय नहीं है"
         ],
-        "explanation": "प्रति 100 ml खून में 30 mg से अधिक शराब होने पर वाहन चलाना अपराध है (धारा 185)।"
+        "explanation": "प्रति 100 ml खून में 30 mg से अधिक शराब होने पर वाहन चलाना अपराध है (धारा 185) (Section 185)।"
       }
     },
     "applicableVehicleClasses": [
@@ -321,19 +321,19 @@
     "question": "For a second drunken driving offence within three years the fine is:",
     "options": [
       "Rs 5,000",
-      "Rs 10,000",
       "Rs 15,000",
+      "Rs 10,000",
       "Rs 25,000"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation": "Section 185: second or later offence is up to 2 years in prison, or a fine of Rs 15,000, or both.",
     "languages": {
       "en": {
         "question": "For a second drunken driving offence within three years the fine is:",
         "options": [
           "Rs 5,000",
-          "Rs 10,000",
           "Rs 15,000",
+          "Rs 10,000",
           "Rs 25,000"
         ],
         "explanation": "Section 185: second or later offence is up to 2 years in prison, or a fine of Rs 15,000, or both."
@@ -342,8 +342,8 @@
         "question": "तीन साल के भीतर शराब पीकर वाहन चलाने के दूसरे अपराध पर जुर्माना कितना है:",
         "options": [
           "Rs 5,000",
-          "Rs 10,000",
           "Rs 15,000",
+          "Rs 10,000",
           "Rs 25,000"
         ],
         "explanation": "धारा 185: दूसरा या बाद का अपराध होने पर 2 वर्ष तक की जेल, या Rs 15,000 का जुर्माना, या दोनों।"
@@ -373,20 +373,20 @@
     "question": "Driving without insurance (first offence) can lead to a fine of:",
     "options": [
       "Rs 500",
-      "Rs 2,000",
       "Rs 25,000",
-      "Rs 50,000"
+      "Rs 50,000",
+      "Rs 2,000"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation": "Section 196: up to 3 months in prison, or a fine of Rs 2,000, or both, for a first offence.",
     "languages": {
       "en": {
         "question": "Driving without insurance (first offence) can lead to a fine of:",
         "options": [
           "Rs 500",
-          "Rs 2,000",
           "Rs 25,000",
-          "Rs 50,000"
+          "Rs 50,000",
+          "Rs 2,000"
         ],
         "explanation": "Section 196: up to 3 months in prison, or a fine of Rs 2,000, or both, for a first offence."
       },
@@ -394,9 +394,9 @@
         "question": "बिना बीमा के वाहन चलाने पर (पहले अपराध में) कितना जुर्माना हो सकता है:",
         "options": [
           "Rs 500",
-          "Rs 2,000",
           "Rs 25,000",
-          "Rs 50,000"
+          "Rs 50,000",
+          "Rs 2,000"
         ],
         "explanation": "धारा 196: पहले अपराध पर 3 महीने तक की जेल, या Rs 2,000 का जुर्माना, या दोनों।"
       }
@@ -471,19 +471,19 @@
     "question": "The fine for not wearing a helmet while riding a two-wheeler is Rs 1,000 and:",
     "options": [
       "Nothing more",
-      "Disqualification of the licence for 3 months",
       "Arrest",
+      "Disqualification of the licence for 3 months",
       "Seizure of the vehicle for a year"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "Section 194D: a fine of Rs 1,000 and disqualification from holding a licence for 3 months.",
     "languages": {
       "en": {
         "question": "The fine for not wearing a helmet while riding a two-wheeler is Rs 1,000 and:",
         "options": [
           "Nothing more",
-          "Disqualification of the licence for 3 months",
           "Arrest",
+          "Disqualification of the licence for 3 months",
           "Seizure of the vehicle for a year"
         ],
         "explanation": "Section 194D: a fine of Rs 1,000 and disqualification from holding a licence for 3 months."
@@ -492,8 +492,8 @@
         "question": "दोपहिया चलाते समय हेलमेट न पहनने पर जुर्माना Rs 1,000 और:",
         "options": [
           "इसके अलावा कुछ नहीं",
-          "लाइसेंस 3 महीने के लिए अयोग्य घोषित",
           "गिरफ्तारी",
+          "लाइसेंस 3 महीने के लिए अयोग्य घोषित",
           "वाहन एक साल के लिए जब्त"
         ],
         "explanation": "धारा 194D: Rs 1,000 का जुर्माना और 3 महीने के लिए लाइसेंस रखने के लिए अयोग्य घोषित किया जाना।"
@@ -522,20 +522,20 @@
     "difficulty": 2,
     "question": "The fine for not wearing a seat belt is:",
     "options": [
+      "Rs 1,000",
       "Rs 100",
       "Rs 500",
-      "Rs 1,000",
       "Rs 5,000"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "Section 194B: a fine of Rs 1,000 for driving without a seat belt or carrying a passenger without one.",
     "languages": {
       "en": {
         "question": "The fine for not wearing a seat belt is:",
         "options": [
+          "Rs 1,000",
           "Rs 100",
           "Rs 500",
-          "Rs 1,000",
           "Rs 5,000"
         ],
         "explanation": "Section 194B: a fine of Rs 1,000 for driving without a seat belt or carrying a passenger without one."
@@ -543,9 +543,9 @@
       "hi": {
         "question": "सीट बेल्ट न लगाने पर जुर्माना कितना है:",
         "options": [
+          "Rs 1,000",
           "Rs 100",
           "Rs 500",
-          "Rs 1,000",
           "Rs 5,000"
         ],
         "explanation": "धारा 194B: बिना सीट बेल्ट के गाड़ी चलाने या बिना सीट बेल्ट के यात्री को ले जाने पर Rs 1,000 का जुर्माना।"
@@ -576,10 +576,10 @@
     "options": [
       "Rs 1,000",
       "Rs 5,000",
-      "Rs 10,000",
-      "Rs 25,000"
+      "Rs 25,000",
+      "Rs 10,000"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation": "Section 194E: up to 6 months in prison, or a fine of Rs 10,000, or both, for not giving way to emergency vehicles.",
     "languages": {
       "en": {
@@ -587,8 +587,8 @@
         "options": [
           "Rs 1,000",
           "Rs 5,000",
-          "Rs 10,000",
-          "Rs 25,000"
+          "Rs 25,000",
+          "Rs 10,000"
         ],
         "explanation": "Section 194E: up to 6 months in prison, or a fine of Rs 10,000, or both, for not giving way to emergency vehicles."
       },
@@ -597,8 +597,8 @@
         "options": [
           "Rs 1,000",
           "Rs 5,000",
-          "Rs 10,000",
-          "Rs 25,000"
+          "Rs 25,000",
+          "Rs 10,000"
         ],
         "explanation": "धारा 194E: आपातकालीन वाहनों को रास्ता न देने पर 6 महीने तक की जेल, या Rs 10,000 का जुर्माना, या दोनों।"
       }
@@ -678,20 +678,20 @@
     "difficulty": 3,
     "question": "If a juvenile (child under 18) drives a vehicle and commits an offence, the guardian or owner can be fined:",
     "options": [
+      "Rs 25,000 and imprisonment up to 3 years",
       "Rs 1,000",
       "Rs 5,000",
-      "Rs 25,000 and imprisonment up to 3 years",
       "No action"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "Section 199A: the guardian or owner is deemed guilty; up to 3 years in prison and a fine of Rs 25,000 (as per the 2019 amendment).",
     "languages": {
       "en": {
         "question": "If a juvenile (child under 18) drives a vehicle and commits an offence, the guardian or owner can be fined:",
         "options": [
+          "Rs 25,000 and imprisonment up to 3 years",
           "Rs 1,000",
           "Rs 5,000",
-          "Rs 25,000 and imprisonment up to 3 years",
           "No action"
         ],
         "explanation": "Section 199A: the guardian or owner is deemed guilty; up to 3 years in prison and a fine of Rs 25,000 (as per the 2019 amendment)."
@@ -699,9 +699,9 @@
       "hi": {
         "question": "अगर कोई किशोर (18 वर्ष से कम का बच्चा) वाहन चलाता है और अपराध करता है, तो अभिभावक या मालिक पर जुर्माना लग सकता है:",
         "options": [
+          "Rs 25,000 और 3 वर्ष तक की जेल",
           "Rs 1,000",
           "Rs 5,000",
-          "Rs 25,000 और 3 वर्ष तक की जेल",
           "कोई कार्रवाई नहीं"
         ],
         "explanation": "धारा 199A: अभिभावक या मालिक को दोषी माना जाता है; 3 वर्ष तक की जेल और Rs 25,000 का जुर्माना (2019 के संशोधन के अनुसार)।"
@@ -730,20 +730,20 @@
     "difficulty": 2,
     "question": "Carrying more than one pillion rider or breaking motorcycle safety rules can lead to a fine of Rs 1,000 and:",
     "options": [
-      "3 months licence disqualification",
       "Cancellation for life",
       "No other action",
+      "3 months licence disqualification",
       "Seizure of vehicle for a year"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation": "Section 194C: a fine of Rs 1,000 and 3 months disqualification.",
     "languages": {
       "en": {
         "question": "Carrying more than one pillion rider or breaking motorcycle safety rules can lead to a fine of Rs 1,000 and:",
         "options": [
-          "3 months licence disqualification",
           "Cancellation for life",
           "No other action",
+          "3 months licence disqualification",
           "Seizure of vehicle for a year"
         ],
         "explanation": "Section 194C: a fine of Rs 1,000 and 3 months disqualification."
@@ -751,9 +751,9 @@
       "hi": {
         "question": "एक से ज़्यादा पीछे बैठी सवारी ले जाने या मोटरसाइकिल सुरक्षा नियम तोड़ने पर Rs 1,000 का जुर्माना और:",
         "options": [
-          "3 महीने के लिए लाइसेंस अयोग्य घोषित",
           "आजीवन रद्द",
           "इसके अलावा कोई कार्रवाई नहीं",
+          "3 महीने के लिए लाइसेंस अयोग्य घोषित",
           "वाहन एक साल के लिए जब्त"
         ],
         "explanation": "धारा 194C: Rs 1,000 का जुर्माना और 3 महीने के लिए अयोग्य घोषित किया जाना।"

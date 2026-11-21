@@ -9,19 +9,19 @@
     "question": "You are in a road accident and someone is hurt. What is the first thing you do?",
     "options": [
       "Run away",
-      "Call for medical help and police, and help the injured if you can",
       "Argue with the other driver",
+      "Call for medical help and police, and help the injured if you can",
       "Take photographs only"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "If anyone is hurt, call for an ambulance and the police at once and take reasonable steps to get the injured person to a doctor.",
     "languages": {
       "en": {
         "question": "You are in a road accident and someone is hurt. What is the first thing you do?",
         "options": [
           "Run away",
-          "Call for medical help and police, and help the injured if you can",
           "Argue with the other driver",
+          "Call for medical help and police, and help the injured if you can",
           "Take photographs only"
         ],
         "explanation": "If anyone is hurt, call for an ambulance and the police at once and take reasonable steps to get the injured person to a doctor."
@@ -30,8 +30,8 @@
         "question": "आप सड़क दुर्घटना में हैं और कोई घायल है। आप सबसे पहले क्या करते हैं?",
         "options": [
           "भाग जाते हैं",
-          "चिकित्सा सहायता और पुलिस को बुलाते हैं, और हो सके तो घायल की मदद करते हैं",
           "दूसरे चालक से बहस करते हैं",
+          "चिकित्सा सहायता और पुलिस को बुलाते हैं, और हो सके तो घायल की मदद करते हैं",
           "केवल फ़ोटो खींचते हैं"
         ],
         "explanation": "अगर कोई घायल है, तो तुरंत एम्बुलेंस और पुलिस को बुलाएँ और घायल व्यक्ति को डॉक्टर तक पहुँचाने के लिए उचित कदम उठाएँ।"
@@ -60,19 +60,19 @@
     "difficulty": 2,
     "question": "The driver must report an accident that injured someone or damaged property to the nearest police station:",
     "options": [
-      "As soon as possible and within 24 hours",
       "Within 7 days",
+      "As soon as possible and within 24 hours",
       "Within one month",
       "Never, if the owner is not found"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Section 134: report as soon as possible and in any case within 24 hours.",
     "languages": {
       "en": {
         "question": "The driver must report an accident that injured someone or damaged property to the nearest police station:",
         "options": [
-          "As soon as possible and within 24 hours",
           "Within 7 days",
+          "As soon as possible and within 24 hours",
           "Within one month",
           "Never, if the owner is not found"
         ],
@@ -81,8 +81,8 @@
       "hi": {
         "question": "जिस दुर्घटना में किसी को चोट लगी हो या संपत्ति को नुकसान हुआ हो, चालक को उसकी सूचना नज़दीकी पुलिस थाने में देनी होती है:",
         "options": [
-          "जितनी जल्दी हो सके और 24 घंटे के भीतर",
           "7 दिन के भीतर",
+          "जितनी जल्दी हो सके और 24 घंटे के भीतर",
           "एक महीने के भीतर",
           "कभी नहीं, अगर मालिक न मिले"
         ],
@@ -113,20 +113,20 @@
     "question": "After an accident you should inform:",
     "options": [
       "Only the police",
-      "The insurance company, in writing, with the policy number, time and place",
       "Nobody",
-      "Only the neighbours"
+      "Only the neighbours",
+      "The insurance company, in writing, with the policy number, time and place"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation": "Section 134 also requires the driver to give the insurer written details of the accident.",
     "languages": {
       "en": {
         "question": "After an accident you should inform:",
         "options": [
           "Only the police",
-          "The insurance company, in writing, with the policy number, time and place",
           "Nobody",
-          "Only the neighbours"
+          "Only the neighbours",
+          "The insurance company, in writing, with the policy number, time and place"
         ],
         "explanation": "Section 134 also requires the driver to give the insurer written details of the accident."
       },
@@ -134,9 +134,9 @@
         "question": "दुर्घटना के बाद आपको सूचना देनी चाहिए:",
         "options": [
           "केवल पुलिस को",
-          "बीमा कंपनी को, लिखित में, पॉलिसी नंबर, समय और जगह के साथ",
           "किसी को नहीं",
-          "केवल पड़ोसियों को"
+          "केवल पड़ोसियों को",
+          "बीमा कंपनी को, लिखित में, पॉलिसी नंबर, समय और जगह के साथ"
         ],
         "explanation": "Section 134 के अनुसार चालक को बीमा कंपनी को दुर्घटना का पूरा ब्योरा लिखित में भी देना होता है।"
       }
@@ -211,19 +211,19 @@
     "question": "What details must you exchange with the other driver after an accident?",
     "options": [
       "Only your name",
-      "Name, address, phone number, insurance details, licence number and registration number",
       "Only your phone number",
+      "Name, address, phone number, insurance details, licence number and registration number",
       "Nothing, to avoid trouble"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "Exchange name, address, phone, insurance company and policy number, licence number and registration number.",
     "languages": {
       "en": {
         "question": "What details must you exchange with the other driver after an accident?",
         "options": [
           "Only your name",
-          "Name, address, phone number, insurance details, licence number and registration number",
           "Only your phone number",
+          "Name, address, phone number, insurance details, licence number and registration number",
           "Nothing, to avoid trouble"
         ],
         "explanation": "Exchange name, address, phone, insurance company and policy number, licence number and registration number."
@@ -232,8 +232,8 @@
         "question": "दुर्घटना के बाद आपको दूसरे चालक के साथ कौन-सी जानकारी साझा करनी चाहिए?",
         "options": [
           "केवल अपना नाम",
-          "नाम, पता, फ़ोन नंबर, बीमा की जानकारी, लाइसेंस नंबर और पंजीकरण नंबर",
           "केवल अपना फ़ोन नंबर",
+          "नाम, पता, फ़ोन नंबर, बीमा की जानकारी, लाइसेंस नंबर और पंजीकरण नंबर",
           "कुछ नहीं, ताकि झंझट न हो"
         ],
         "explanation": "नाम, पता, फ़ोन, बीमा कंपनी और पॉलिसी नंबर, लाइसेंस नंबर और पंजीकरण नंबर साझा करें।"
@@ -262,19 +262,19 @@
     "difficulty": 2,
     "question": "If there is no friendly agreement with the other driver after an accident, you should:",
     "options": [
-      "Leave the place",
       "Call the police and stay until they allow you to go",
+      "Leave the place",
       "Fight",
       "Hide the vehicle"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Call the police and stay at the scene until the investigators arrive and permit you to leave.",
     "languages": {
       "en": {
         "question": "If there is no friendly agreement with the other driver after an accident, you should:",
         "options": [
-          "Leave the place",
           "Call the police and stay until they allow you to go",
+          "Leave the place",
           "Fight",
           "Hide the vehicle"
         ],
@@ -283,8 +283,8 @@
       "hi": {
         "question": "अगर दुर्घटना के बाद दूसरे चालक के साथ आपसी सहमति नहीं बनती, तो आपको:",
         "options": [
-          "वह जगह छोड़ देनी चाहिए",
           "पुलिस को बुलाना चाहिए और उनके जाने की अनुमति देने तक रुकना चाहिए",
+          "वह जगह छोड़ देनी चाहिए",
           "लड़ना चाहिए",
           "वाहन छिपा देना चाहिए"
         ],
@@ -314,31 +314,31 @@
     "difficulty": 1,
     "question": "A person who helps an accident victim in good faith and without reward is called:",
     "options": [
-      "A Good Samaritan",
       "A licence holder",
       "A conductor",
-      "A traffic warden"
+      "A traffic warden",
+      "A Good Samaritan"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation": "A Good Samaritan is protected by law (Section 134A) from civil or criminal liability for ordinary negligence.",
     "languages": {
       "en": {
         "question": "A person who helps an accident victim in good faith and without reward is called:",
         "options": [
-          "A Good Samaritan",
           "A licence holder",
           "A conductor",
-          "A traffic warden"
+          "A traffic warden",
+          "A Good Samaritan"
         ],
         "explanation": "A Good Samaritan is protected by law (Section 134A) from civil or criminal liability for ordinary negligence."
       },
       "hi": {
         "question": "जो व्यक्ति नेकनीयती से और बिना किसी इनाम के दुर्घटना पीड़ित की मदद करता है, उसे कहते हैं:",
         "options": [
-          "गुड सेमेरिटन",
           "लाइसेंस धारक",
           "कंडक्टर",
-          "ट्रैफ़िक वार्डन"
+          "ट्रैफ़िक वार्डन",
+          "गुड सेमेरिटन"
         ],
         "explanation": "गुड सेमेरिटन को कानून (Section 134A) से सामान्य लापरवाही के लिए दीवानी या आपराधिक ज़िम्मेदारी से सुरक्षा मिलती है।"
       }
@@ -464,19 +464,19 @@
     "difficulty": 1,
     "question": "Which phone number can you call in an emergency anywhere in India?",
     "options": [
-      "100 only",
       "112",
+      "100 only",
       "1800",
       "555"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "112 is the single emergency number for police, fire and ambulance across India.",
     "languages": {
       "en": {
         "question": "Which phone number can you call in an emergency anywhere in India?",
         "options": [
-          "100 only",
           "112",
+          "100 only",
           "1800",
           "555"
         ],
@@ -485,8 +485,8 @@
       "hi": {
         "question": "भारत में कहीं भी आपातकाल में आप कौन-सा फ़ोन नंबर मिला सकते हैं?",
         "options": [
-          "केवल 100",
           "112",
+          "केवल 100",
           "1800",
           "555"
         ],
@@ -562,19 +562,19 @@
     "question": "Why should you take photographs of the vehicles and the scene after an accident, if it is safe?",
     "options": [
       "For social media",
-      "To keep a record for the police and insurance",
       "To make the other driver afraid",
+      "To keep a record for the police and insurance",
       "It is not useful"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "Photographs of the vehicles, number plates and scene help with the police investigation and the insurance claim.",
     "languages": {
       "en": {
         "question": "Why should you take photographs of the vehicles and the scene after an accident, if it is safe?",
         "options": [
           "For social media",
-          "To keep a record for the police and insurance",
           "To make the other driver afraid",
+          "To keep a record for the police and insurance",
           "It is not useful"
         ],
         "explanation": "Photographs of the vehicles, number plates and scene help with the police investigation and the insurance claim."
@@ -583,8 +583,8 @@
         "question": "अगर सुरक्षित हो, तो दुर्घटना के बाद आपको वाहनों और घटनास्थल की फ़ोटो क्यों खींचनी चाहिए?",
         "options": [
           "सोशल मीडिया के लिए",
-          "पुलिस और बीमा के लिए रिकॉर्ड रखने के लिए",
           "दूसरे चालक को डराने के लिए",
+          "पुलिस और बीमा के लिए रिकॉर्ड रखने के लिए",
           "यह उपयोगी नहीं है"
         ],
         "explanation": "वाहनों, नंबर प्लेट और घटनास्थल की फ़ोटो पुलिस जाँच और बीमा दावे में मदद करती हैं।"

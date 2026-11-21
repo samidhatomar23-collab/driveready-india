@@ -8,31 +8,31 @@
     "difficulty": 1,
     "question": "What is the maximum speed when you pass a school, hospital or construction site where a sign applies (unless a lower limit is signed)?",
     "options": [
-      "25 km/h",
       "40 km/h",
       "50 km/h",
-      "60 km/h"
+      "60 km/h",
+      "25 km/h"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation": "Near a construction site, school or hospital where signs show it, do not go faster than 25 km/h (or any lower signed limit).",
     "languages": {
       "en": {
         "question": "What is the maximum speed when you pass a school, hospital or construction site where a sign applies (unless a lower limit is signed)?",
         "options": [
-          "25 km/h",
           "40 km/h",
           "50 km/h",
-          "60 km/h"
+          "60 km/h",
+          "25 km/h"
         ],
         "explanation": "Near a construction site, school or hospital where signs show it, do not go faster than 25 km/h (or any lower signed limit)."
       },
       "hi": {
         "question": "जिस स्कूल, अस्पताल या निर्माण स्थल पर चिह्न लगा हो, वहाँ से गुज़रते समय अधिकतम गति कितनी है (जब तक उससे कम सीमा न लिखी हो)?",
         "options": [
-          "25 km/h",
           "40 km/h",
           "50 km/h",
-          "60 km/h"
+          "60 km/h",
+          "25 km/h"
         ],
         "explanation": "जहाँ चिह्न लगे हों, वहाँ निर्माण स्थल, स्कूल या अस्पताल के पास 25 km/h (या लिखी हुई कम सीमा) से तेज़ न चलें।"
       }
@@ -112,19 +112,19 @@
     "difficulty": 1,
     "question": "In fog, heavy rain or a dust storm you must drive at a speed that lets you:",
     "options": [
-      "Keep up with other vehicles",
       "Stop within the distance you can see ahead",
+      "Keep up with other vehicles",
       "Reach the destination early",
       "Use the horn less"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "In poor visibility drive slowly enough to stop within the distance you can see.",
     "languages": {
       "en": {
         "question": "In fog, heavy rain or a dust storm you must drive at a speed that lets you:",
         "options": [
-          "Keep up with other vehicles",
           "Stop within the distance you can see ahead",
+          "Keep up with other vehicles",
           "Reach the destination early",
           "Use the horn less"
         ],
@@ -133,8 +133,8 @@
       "hi": {
         "question": "कोहरे, भारी बारिश या धूल भरी आँधी में आपको इतनी गति से चलना चाहिए कि आप:",
         "options": [
-          "दूसरे वाहनों के साथ चल सकें",
           "जितनी दूरी तक आगे दिखता है, उसके भीतर रुक सकें",
+          "दूसरे वाहनों के साथ चल सकें",
           "मंज़िल पर जल्दी पहुँचें",
           "हॉर्न कम बजाएँ"
         ],
@@ -263,19 +263,19 @@
     "question": "How much space should you keep behind the vehicle in front?",
     "options": [
       "Just enough to see its number plate",
-      "Enough to stop safely if it slows or stops suddenly",
       "One car length at all speeds",
+      "Enough to stop safely if it slows or stops suddenly",
       "No space is needed in slow traffic"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "Keep enough distance so you can stop safely if the vehicle ahead slows or stops suddenly.",
     "languages": {
       "en": {
         "question": "How much space should you keep behind the vehicle in front?",
         "options": [
           "Just enough to see its number plate",
-          "Enough to stop safely if it slows or stops suddenly",
           "One car length at all speeds",
+          "Enough to stop safely if it slows or stops suddenly",
           "No space is needed in slow traffic"
         ],
         "explanation": "Keep enough distance so you can stop safely if the vehicle ahead slows or stops suddenly."
@@ -284,8 +284,8 @@
         "question": "आगे वाले वाहन के पीछे कितनी जगह रखनी चाहिए?",
         "options": [
           "इतनी कि उसकी नंबर प्लेट दिख जाए",
-          "इतनी कि वह अचानक धीमा हो या रुके तो आप सुरक्षित रुक सकें",
           "हर गति पर एक कार की लंबाई",
+          "इतनी कि वह अचानक धीमा हो या रुके तो आप सुरक्षित रुक सकें",
           "धीमे यातायात में जगह की ज़रूरत नहीं"
         ],
         "explanation": "इतनी दूरी रखें कि आगे वाला वाहन अचानक धीमा हो या रुके तो आप सुरक्षित रुक सकें।"
@@ -315,19 +315,19 @@
     "question": "In rain, snow or a storm you should keep the distance from the vehicle ahead:",
     "options": [
       "The same as in dry weather",
-      "Shorter",
       "Greater",
+      "Shorter",
       "Very short, to keep sight of it"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation": "Roads are slippery in bad weather and vehicles take longer to stop, so increase the following distance.",
     "languages": {
       "en": {
         "question": "In rain, snow or a storm you should keep the distance from the vehicle ahead:",
         "options": [
           "The same as in dry weather",
-          "Shorter",
           "Greater",
+          "Shorter",
           "Very short, to keep sight of it"
         ],
         "explanation": "Roads are slippery in bad weather and vehicles take longer to stop, so increase the following distance."
@@ -336,8 +336,8 @@
         "question": "बारिश, बर्फ़ या तूफ़ान में आगे वाले वाहन से दूरी:",
         "options": [
           "सूखे मौसम जितनी रखें",
-          "कम रखें",
           "अधिक रखें",
+          "कम रखें",
           "बहुत कम रखें, ताकि वह दिखता रहे"
         ],
         "explanation": "खराब मौसम में सड़क फिसलनी होती है और वाहन को रुकने में अधिक समय लगता है, इसलिए दूरी बढ़ा दें।"
@@ -465,20 +465,20 @@
     "question": "Motorcycles may move between slow vehicles in a queue only where signs permit it, on roads with a 40 km/h limit, and if the speed difference is not more than:",
     "options": [
       "5 km/h",
-      "15 km/h",
       "30 km/h",
-      "40 km/h"
+      "40 km/h",
+      "15 km/h"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation": "The rule allows filtering between three- and four-wheeled vehicles only where signs permit and the speed difference is not more than 15 km/h.",
     "languages": {
       "en": {
         "question": "Motorcycles may move between slow vehicles in a queue only where signs permit it, on roads with a 40 km/h limit, and if the speed difference is not more than:",
         "options": [
           "5 km/h",
-          "15 km/h",
           "30 km/h",
-          "40 km/h"
+          "40 km/h",
+          "15 km/h"
         ],
         "explanation": "The rule allows filtering between three- and four-wheeled vehicles only where signs permit and the speed difference is not more than 15 km/h."
       },
@@ -486,9 +486,9 @@
         "question": "मोटरसाइकिल धीमे वाहनों की कतार के बीच से केवल तभी निकल सकती हैं जब चिह्न इसकी अनुमति दें, सड़क पर 40 km/h की सीमा हो, और गति का अंतर इससे अधिक न हो:",
         "options": [
           "5 km/h",
-          "15 km/h",
           "30 km/h",
-          "40 km/h"
+          "40 km/h",
+          "15 km/h"
         ],
         "explanation": "नियम के अनुसार तीन और चार पहिया वाहनों के बीच से निकलने की अनुमति तभी है जब चिह्न अनुमति दें और गति का अंतर 15 km/h से अधिक न हो।"
       }
@@ -517,19 +517,19 @@
     "question": "On which side should you normally overtake?",
     "options": [
       "Left side",
-      "Right side",
       "Either side",
+      "Right side",
       "Whichever side is empty"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "Overtake from the right of the vehicle ahead, except in the cases the rules allow.",
     "languages": {
       "en": {
         "question": "On which side should you normally overtake?",
         "options": [
           "Left side",
-          "Right side",
           "Either side",
+          "Right side",
           "Whichever side is empty"
         ],
         "explanation": "Overtake from the right of the vehicle ahead, except in the cases the rules allow."
@@ -538,8 +538,8 @@
         "question": "सामान्यतः आपको किस ओर से ओवरटेक करना चाहिए?",
         "options": [
           "बाईं ओर से",
-          "दाईं ओर से",
           "किसी भी ओर से",
+          "दाईं ओर से",
           "जो ओर खाली हो उससे"
         ],
         "explanation": "आगे वाले वाहन के दाईं ओर से ओवरटेक करें, सिवाय उन मामलों के जिनमें नियम अनुमति देते हैं।"
@@ -568,19 +568,19 @@
     "difficulty": 2,
     "question": "When may you overtake on the left side?",
     "options": [
-      "Always, if you are in a hurry",
       "Only when the vehicle ahead is turning right (and has signalled) or is stopped, and it is safe",
+      "Always, if you are in a hurry",
       "Never",
       "Only on hill roads"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Left-side overtaking is allowed only in special cases: vehicle ahead turning right or making a U-turn with a signal, or standing still, and it is safe, or a marked lane on a multi-lane road.",
     "languages": {
       "en": {
         "question": "When may you overtake on the left side?",
         "options": [
-          "Always, if you are in a hurry",
           "Only when the vehicle ahead is turning right (and has signalled) or is stopped, and it is safe",
+          "Always, if you are in a hurry",
           "Never",
           "Only on hill roads"
         ],
@@ -589,8 +589,8 @@
       "hi": {
         "question": "आप बाईं ओर से ओवरटेक कब कर सकते हैं?",
         "options": [
-          "हमेशा, अगर जल्दी हो",
           "केवल तब जब आगे वाला वाहन दाएँ मुड़ रहा हो (और संकेत दे चुका हो) या खड़ा हो, और यह सुरक्षित हो",
+          "हमेशा, अगर जल्दी हो",
           "कभी नहीं",
           "केवल पहाड़ी सड़कों पर"
         ],
@@ -621,20 +621,20 @@
     "question": "Overtaking is NOT allowed:",
     "options": [
       "On a straight, clear road with a broken line",
-      "Near a pedestrian crossing",
       "When the vehicle ahead is slow",
-      "After giving a signal"
+      "After giving a signal",
+      "Near a pedestrian crossing"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation": "Do not overtake at pedestrian crossings, junctions, bends, narrow culverts, or where visibility is limited.",
     "languages": {
       "en": {
         "question": "Overtaking is NOT allowed:",
         "options": [
           "On a straight, clear road with a broken line",
-          "Near a pedestrian crossing",
           "When the vehicle ahead is slow",
-          "After giving a signal"
+          "After giving a signal",
+          "Near a pedestrian crossing"
         ],
         "explanation": "Do not overtake at pedestrian crossings, junctions, bends, narrow culverts, or where visibility is limited."
       },
@@ -642,9 +642,9 @@
         "question": "ओवरटेक करना मना है:",
         "options": [
           "सीधी, साफ़ सड़क पर जहाँ टूटी रेखा हो",
-          "पैदल पार पथ के पास",
           "जब आगे वाला वाहन धीमा हो",
-          "संकेत देने के बाद"
+          "संकेत देने के बाद",
+          "पैदल पार पथ के पास"
         ],
         "explanation": "पैदल पार पथ, चौराहों, मोड़ों, संकरी पुलियाओं या जहाँ दिखाई कम देता हो, वहाँ ओवरटेक न करें।"
       }
@@ -673,19 +673,19 @@
     "question": "Can you cross a continuous (solid) line to overtake?",
     "options": [
       "Yes, if the road looks empty",
-      "Yes, with the horn",
       "No",
+      "Yes, with the horn",
       "Yes, in the daytime"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation": "You must not cross a continuous yellow or white solid line to overtake.",
     "languages": {
       "en": {
         "question": "Can you cross a continuous (solid) line to overtake?",
         "options": [
           "Yes, if the road looks empty",
-          "Yes, with the horn",
           "No",
+          "Yes, with the horn",
           "Yes, in the daytime"
         ],
         "explanation": "You must not cross a continuous yellow or white solid line to overtake."
@@ -694,8 +694,8 @@
         "question": "क्या आप ओवरटेक करने के लिए लगातार (ठोस) रेखा पार कर सकते हैं?",
         "options": [
           "हाँ, अगर सड़क खाली दिखे",
-          "हाँ, हॉर्न बजाकर",
           "नहीं",
+          "हाँ, हॉर्न बजाकर",
           "हाँ, दिन में"
         ],
         "explanation": "ओवरटेक करने के लिए लगातार पीली या सफ़ेद ठोस रेखा पार नहीं करनी चाहिए।"
@@ -868,20 +868,20 @@
     "difficulty": 2,
     "question": "Outside built-up areas, how can you tell the driver ahead you want to overtake?",
     "options": [
-      "By a short horn blast or flash of headlights",
       "By switching on the hazard lights",
       "By a long continuous horn",
+      "By a short horn blast or flash of headlights",
       "By putting on the right indicator and waiting"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation": "Give a brief horn blast or a headlight flash, and overtake only when the way is clear or the driver ahead lets you.",
     "languages": {
       "en": {
         "question": "Outside built-up areas, how can you tell the driver ahead you want to overtake?",
         "options": [
-          "By a short horn blast or flash of headlights",
           "By switching on the hazard lights",
           "By a long continuous horn",
+          "By a short horn blast or flash of headlights",
           "By putting on the right indicator and waiting"
         ],
         "explanation": "Give a brief horn blast or a headlight flash, and overtake only when the way is clear or the driver ahead lets you."
@@ -889,9 +889,9 @@
       "hi": {
         "question": "आबादी वाले क्षेत्र के बाहर, आप आगे वाले चालक को कैसे बताएँगे कि आप ओवरटेक करना चाहते हैं?",
         "options": [
-          "हॉर्न की छोटी आवाज़ या हेडलाइट की चमक से",
           "हैज़र्ड लाइट जलाकर",
           "लंबा लगातार हॉर्न बजाकर",
+          "हॉर्न की छोटी आवाज़ या हेडलाइट की चमक से",
           "दायाँ इंडिकेटर देकर और रुककर"
         ],
         "explanation": "हॉर्न की छोटी आवाज़ दें या हेडलाइट चमकाएँ, और ओवरटेक तभी करें जब रास्ता साफ़ हो या आगे वाला चालक आपको जाने दे।"
@@ -1065,20 +1065,20 @@
     "question": "On a narrow hill road where two vehicles cannot pass, who must stop and give way?",
     "options": [
       "The vehicle going uphill",
-      "The vehicle going downhill (it stops on the left)",
       "The larger vehicle",
-      "The faster vehicle"
+      "The faster vehicle",
+      "The vehicle going downhill (it stops on the left)"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation": "The downhill driver stops on the left and lets the uphill vehicle pass first.",
     "languages": {
       "en": {
         "question": "On a narrow hill road where two vehicles cannot pass, who must stop and give way?",
         "options": [
           "The vehicle going uphill",
-          "The vehicle going downhill (it stops on the left)",
           "The larger vehicle",
-          "The faster vehicle"
+          "The faster vehicle",
+          "The vehicle going downhill (it stops on the left)"
         ],
         "explanation": "The downhill driver stops on the left and lets the uphill vehicle pass first."
       },
@@ -1086,9 +1086,9 @@
         "question": "संकरी पहाड़ी सड़क पर जहाँ दो वाहन साथ नहीं निकल सकते, किसे रुककर रास्ता देना चाहिए?",
         "options": [
           "ऊपर चढ़ने वाले वाहन को",
-          "नीचे उतरने वाले वाहन को (वह बाईं ओर रुकेगा)",
           "बड़े वाहन को",
-          "तेज़ वाहन को"
+          "तेज़ वाहन को",
+          "नीचे उतरने वाले वाहन को (वह बाईं ओर रुकेगा)"
         ],
         "explanation": "नीचे उतरने वाला चालक बाईं ओर रुकता है और पहले ऊपर चढ़ने वाले वाहन को निकलने देता है।"
       }
@@ -1117,19 +1117,19 @@
     "question": "You are joining a national or state highway from a side road. You must:",
     "options": [
       "Enter quickly and expect others to slow down",
-      "Give way to the traffic already on the highway",
       "Sound the horn and go",
+      "Give way to the traffic already on the highway",
       "Stop traffic with your hand"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "Give way to traffic on the highway. Use an acceleration lane if there is one, and check your mirrors.",
     "languages": {
       "en": {
         "question": "You are joining a national or state highway from a side road. You must:",
         "options": [
           "Enter quickly and expect others to slow down",
-          "Give way to the traffic already on the highway",
           "Sound the horn and go",
+          "Give way to the traffic already on the highway",
           "Stop traffic with your hand"
         ],
         "explanation": "Give way to traffic on the highway. Use an acceleration lane if there is one, and check your mirrors."
@@ -1138,8 +1138,8 @@
         "question": "आप किसी छोटी सड़क से राष्ट्रीय या राज्य राजमार्ग पर आ रहे हैं। आपको:",
         "options": [
           "तेज़ी से घुस जाना चाहिए और उम्मीद करनी चाहिए कि दूसरे धीमे होंगे",
-          "राजमार्ग पर पहले से चल रहे यातायात को रास्ता देना चाहिए",
           "हॉर्न बजाकर निकल जाना चाहिए",
+          "राजमार्ग पर पहले से चल रहे यातायात को रास्ता देना चाहिए",
           "हाथ से यातायात रोकना चाहिए"
         ],
         "explanation": "राजमार्ग के यातायात को रास्ता दें। अगर त्वरण लेन हो तो उसका उपयोग करें और अपने शीशे देखें।"
@@ -1168,19 +1168,19 @@
     "difficulty": 2,
     "question": "Two roads of the same category meet at an intersection with no signs or signals. Who has the right of way?",
     "options": [
-      "The driver on the left",
       "The driver on the right",
+      "The driver on the left",
       "The bigger vehicle",
       "The faster vehicle"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "At the meeting of two roads of the same category, the driver on the right has the right of way.",
     "languages": {
       "en": {
         "question": "Two roads of the same category meet at an intersection with no signs or signals. Who has the right of way?",
         "options": [
-          "The driver on the left",
           "The driver on the right",
+          "The driver on the left",
           "The bigger vehicle",
           "The faster vehicle"
         ],
@@ -1189,8 +1189,8 @@
       "hi": {
         "question": "एक ही श्रेणी की दो सड़कें ऐसे चौराहे पर मिलती हैं जहाँ कोई चिह्न या सिग्नल नहीं है। किसे रास्ते का अधिकार है?",
         "options": [
-          "बाईं ओर वाले चालक को",
           "दाईं ओर वाले चालक को",
+          "बाईं ओर वाले चालक को",
           "बड़े वाहन को",
           "तेज़ वाहन को"
         ],

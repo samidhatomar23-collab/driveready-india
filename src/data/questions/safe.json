@@ -107,20 +107,20 @@
     "question": "When should you sound the horn?",
     "options": [
       "At every turn",
-      "Only when danger is apprehended or a sign tells you to",
       "All the time in the market",
-      "To tell people to move"
+      "To tell people to move",
+      "Only when danger is apprehended or a sign tells you to"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation": "Unnecessary horn use is prohibited. Sound it only where there is a danger or a mandatory sign says so.",
     "languages": {
       "en": {
         "question": "When should you sound the horn?",
         "options": [
           "At every turn",
-          "Only when danger is apprehended or a sign tells you to",
           "All the time in the market",
-          "To tell people to move"
+          "To tell people to move",
+          "Only when danger is apprehended or a sign tells you to"
         ],
         "explanation": "Unnecessary horn use is prohibited. Sound it only where there is a danger or a mandatory sign says so."
       },
@@ -128,9 +128,9 @@
         "question": "हॉर्न कब बजाना चाहिए?",
         "options": [
           "हर मोड़ पर",
-          "केवल तब जब खतरे की आशंका हो या कोई चिह्न बताए",
           "बाज़ार में हर समय",
-          "लोगों को हटने के लिए कहने को"
+          "लोगों को हटने के लिए कहने को",
+          "केवल तब जब खतरे की आशंका हो या कोई चिह्न बताए"
         ],
         "explanation": "बेवजह हॉर्न बजाना मना है। इसे केवल तभी बजाएँ जब खतरा हो या कोई अनिवार्य चिह्न ऐसा कहे।"
       }
@@ -205,19 +205,19 @@
     "question": "Two-wheeler riders must use the dipped headlight:",
     "options": [
       "Only at night",
-      "Also in the daytime",
       "Only in the rain",
+      "Also in the daytime",
       "Only on highways"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "Two-wheelers must use dipped headlights at all times, including daytime.",
     "languages": {
       "en": {
         "question": "Two-wheeler riders must use the dipped headlight:",
         "options": [
           "Only at night",
-          "Also in the daytime",
           "Only in the rain",
+          "Also in the daytime",
           "Only on highways"
         ],
         "explanation": "Two-wheelers must use dipped headlights at all times, including daytime."
@@ -226,8 +226,8 @@
         "question": "दोपहिया चालकों को डिप्ड हेडलाइट इस्तेमाल करनी चाहिए:",
         "options": [
           "केवल रात में",
-          "दिन में भी",
           "केवल बारिश में",
+          "दिन में भी",
           "केवल हाईवे पर"
         ],
         "explanation": "दोपहिया वाहनों को हर समय, दिन में भी, डिप्ड हेडलाइट इस्तेमाल करनी चाहिए।"
@@ -256,19 +256,19 @@
     "difficulty": 2,
     "question": "Fog lamps may be used:",
     "options": [
-      "Always, for a better look",
       "Only when fog, dust, rain or snow greatly reduces visibility, with dipped headlights on",
+      "Always, for a better look",
       "Only on hill roads",
       "In place of headlights"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Use fog lamps only when visibility is very low, together with dipped headlamps.",
     "languages": {
       "en": {
         "question": "Fog lamps may be used:",
         "options": [
-          "Always, for a better look",
           "Only when fog, dust, rain or snow greatly reduces visibility, with dipped headlights on",
+          "Always, for a better look",
           "Only on hill roads",
           "In place of headlights"
         ],
@@ -277,8 +277,8 @@
       "hi": {
         "question": "फॉग लैंप इस्तेमाल किए जा सकते हैं:",
         "options": [
-          "हमेशा, बेहतर दिखने के लिए",
           "केवल तब जब कोहरा, धूल, बारिश या बर्फ़ से दिखना बहुत कम हो जाए, और डिप्ड हेडलाइट जली हों",
+          "हमेशा, बेहतर दिखने के लिए",
           "केवल पहाड़ी सड़कों पर",
           "हेडलाइट की जगह"
         ],
@@ -309,20 +309,20 @@
     "question": "You must dip your high beam:",
     "options": [
       "Never",
-      "In good time for oncoming vehicles or when following another vehicle closely",
       "Only in cities",
-      "Only on one-way roads"
+      "Only on one-way roads",
+      "In good time for oncoming vehicles or when following another vehicle closely"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation": "High beam can dazzle other drivers, so dip it in good time.",
     "languages": {
       "en": {
         "question": "You must dip your high beam:",
         "options": [
           "Never",
-          "In good time for oncoming vehicles or when following another vehicle closely",
           "Only in cities",
-          "Only on one-way roads"
+          "Only on one-way roads",
+          "In good time for oncoming vehicles or when following another vehicle closely"
         ],
         "explanation": "High beam can dazzle other drivers, so dip it in good time."
       },
@@ -330,9 +330,9 @@
         "question": "आपको अपनी हाई बीम डिप करनी चाहिए:",
         "options": [
           "कभी नहीं",
-          "सामने से आ रहे वाहनों के लिए समय रहते, या किसी दूसरे वाहन के पीछे पास चलते समय",
           "केवल शहरों में",
-          "केवल एकतरफा सड़कों पर"
+          "केवल एकतरफा सड़कों पर",
+          "सामने से आ रहे वाहनों के लिए समय रहते, या किसी दूसरे वाहन के पीछे पास चलते समय"
         ],
         "explanation": "हाई बीम दूसरे चालकों की आँखों को चौंधिया सकती है, इसलिए इसे समय रहते डिप करें।"
       }
@@ -360,19 +360,19 @@
     "difficulty": 2,
     "question": "Before entering a tunnel you should:",
     "options": [
-      "Switch on the dipped headlights",
       "Speed up",
+      "Switch on the dipped headlights",
       "Switch on the high beam",
       "Switch off the lights"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Switch on dipped headlights before entering a tunnel. Do not overtake, make a U-turn or reverse inside.",
     "languages": {
       "en": {
         "question": "Before entering a tunnel you should:",
         "options": [
-          "Switch on the dipped headlights",
           "Speed up",
+          "Switch on the dipped headlights",
           "Switch on the high beam",
           "Switch off the lights"
         ],
@@ -381,8 +381,8 @@
       "hi": {
         "question": "सुरंग में घुसने से पहले आपको:",
         "options": [
-          "डिप्ड हेडलाइट जलानी चाहिए",
           "गति बढ़ानी चाहिए",
+          "डिप्ड हेडलाइट जलानी चाहिए",
           "हाई बीम जलानी चाहिए",
           "लाइटें बंद कर देनी चाहिए"
         ],
@@ -412,20 +412,20 @@
     "difficulty": 3,
     "question": "If you must stop in a tunnel, you should switch on the hazard lights and place reflective triangles at what distance in front and behind?",
     "options": [
+      "20 metres",
       "5 metres",
       "10 metres",
-      "20 metres",
       "100 metres"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "Stop only if unavoidable, then use hazard lights and reflective triangles 20 metres in front and behind.",
     "languages": {
       "en": {
         "question": "If you must stop in a tunnel, you should switch on the hazard lights and place reflective triangles at what distance in front and behind?",
         "options": [
+          "20 metres",
           "5 metres",
           "10 metres",
-          "20 metres",
           "100 metres"
         ],
         "explanation": "Stop only if unavoidable, then use hazard lights and reflective triangles 20 metres in front and behind."
@@ -433,9 +433,9 @@
       "hi": {
         "question": "अगर आपको सुरंग में रुकना ही पड़े, तो हैज़र्ड लाइटें जलाएँ और आगे-पीछे कितनी दूरी पर रिफ्लेक्टिव त्रिकोण रखें?",
         "options": [
+          "20 मीटर",
           "5 मीटर",
           "10 मीटर",
-          "20 मीटर",
           "100 मीटर"
         ],
         "explanation": "केवल तभी रुकें जब टाला न जा सके, फिर हैज़र्ड लाइटें जलाएँ और आगे-पीछे 20 मीटर पर रिफ्लेक्टिव त्रिकोण रखें।"
@@ -464,20 +464,20 @@
     "difficulty": 2,
     "question": "At an unguarded railway level crossing you may cross:",
     "options": [
-      "Only when no train is in sight",
       "Always, if you sound the horn",
       "After overtaking the vehicle ahead",
+      "Only when no train is in sight",
       "With high speed"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation": "At an unguarded crossing, enter only when no train is in sight. Trains have priority.",
     "languages": {
       "en": {
         "question": "At an unguarded railway level crossing you may cross:",
         "options": [
-          "Only when no train is in sight",
           "Always, if you sound the horn",
           "After overtaking the vehicle ahead",
+          "Only when no train is in sight",
           "With high speed"
         ],
         "explanation": "At an unguarded crossing, enter only when no train is in sight. Trains have priority."
@@ -485,9 +485,9 @@
       "hi": {
         "question": "बिना गार्ड वाले रेलवे लेवल क्रॉसिंग पर आप पार कर सकते हैं:",
         "options": [
-          "केवल जब कोई ट्रेन दिखाई न दे",
           "हमेशा, अगर आप हॉर्न बजाएँ",
           "आगे वाले वाहन को ओवरटेक करने के बाद",
+          "केवल जब कोई ट्रेन दिखाई न दे",
           "तेज़ गति से"
         ],
         "explanation": "बिना गार्ड वाले क्रॉसिंग पर केवल तभी घुसें जब कोई ट्रेन दिखाई न दे। ट्रेन को प्राथमिकता मिलती है।"
@@ -615,20 +615,20 @@
     "question": "An ambulance with siren and flashing lights comes from behind. You should:",
     "options": [
       "Speed up",
-      "Move to the left as far as possible and stop if needed",
       "Stop in the middle of the road",
-      "Follow it closely"
+      "Follow it closely",
+      "Move to the left as far as possible and stop if needed"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation": "Give way to emergency vehicles by moving as far left as possible and stopping if needed.",
     "languages": {
       "en": {
         "question": "An ambulance with siren and flashing lights comes from behind. You should:",
         "options": [
           "Speed up",
-          "Move to the left as far as possible and stop if needed",
           "Stop in the middle of the road",
-          "Follow it closely"
+          "Follow it closely",
+          "Move to the left as far as possible and stop if needed"
         ],
         "explanation": "Give way to emergency vehicles by moving as far left as possible and stopping if needed."
       },
@@ -636,9 +636,9 @@
         "question": "पीछे से सायरन और जलती-बुझती लाइटों वाली एम्बुलेंस आ रही है। आपको:",
         "options": [
           "गति बढ़ानी चाहिए",
-          "जितना हो सके बाईं ओर हो जाना चाहिए और ज़रूरत हो तो रुक जाना चाहिए",
           "सड़क के बीच में रुक जाना चाहिए",
-          "उसके बिल्कुल पीछे-पीछे चलना चाहिए"
+          "उसके बिल्कुल पीछे-पीछे चलना चाहिए",
+          "जितना हो सके बाईं ओर हो जाना चाहिए और ज़रूरत हो तो रुक जाना चाहिए"
         ],
         "explanation": "आपातकालीन वाहनों को रास्ता देने के लिए जितना हो सके बाईं ओर हो जाएँ और ज़रूरत हो तो रुक जाएँ।"
       }
@@ -772,10 +772,10 @@
     "options": [
       "5 metres",
       "10 metres",
-      "50 metres",
-      "200 metres"
+      "200 metres",
+      "50 metres"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 3,
     "explanation": "Place reflective triangles 50 metres behind the vehicle (before a bend if the vehicle is on one).",
     "languages": {
       "en": {
@@ -783,8 +783,8 @@
         "options": [
           "5 metres",
           "10 metres",
-          "50 metres",
-          "200 metres"
+          "200 metres",
+          "50 metres"
         ],
         "explanation": "Place reflective triangles 50 metres behind the vehicle (before a bend if the vehicle is on one)."
       },
@@ -793,8 +793,8 @@
         "options": [
           "5 मीटर",
           "10 मीटर",
-          "50 मीटर",
-          "200 मीटर"
+          "200 मीटर",
+          "50 मीटर"
         ],
         "explanation": "रिफ्लेक्टिव त्रिकोण वाहन के 50 मीटर पीछे रखें (अगर वाहन मोड़ पर है तो मोड़ से पहले)।"
       }
@@ -874,20 +874,20 @@
     "difficulty": 1,
     "question": "Who must wear a seat belt, where seat belts are provided?",
     "options": [
+      "The driver and all the occupants",
       "Only the driver",
       "Only front-seat passengers",
-      "The driver and all the occupants",
       "Nobody, it is optional"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "The driver and all occupants must wear seat belts where they are provided.",
     "languages": {
       "en": {
         "question": "Who must wear a seat belt, where seat belts are provided?",
         "options": [
+          "The driver and all the occupants",
           "Only the driver",
           "Only front-seat passengers",
-          "The driver and all the occupants",
           "Nobody, it is optional"
         ],
         "explanation": "The driver and all occupants must wear seat belts where they are provided."
@@ -895,9 +895,9 @@
       "hi": {
         "question": "जहाँ सीट बेल्ट लगी हों, वहाँ किसे सीट बेल्ट पहननी चाहिए?",
         "options": [
+          "चालक और सभी सवारियों को",
           "केवल चालक को",
           "केवल आगे की सीट के यात्रियों को",
-          "चालक और सभी सवारियों को",
           "किसी को नहीं, यह वैकल्पिक है"
         ],
         "explanation": "जहाँ सीट बेल्ट लगी हों, वहाँ चालक और सभी सवारियों को सीट बेल्ट पहननी चाहिए।"
@@ -927,19 +927,19 @@
     "question": "Children up to what age must use a child restraint system, where provided?",
     "options": [
       "5 years",
-      "12 years",
       "16 years",
+      "12 years",
       "18 years"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "Children up to 12 years must use a child restraint system in vehicles where it is provided.",
     "languages": {
       "en": {
         "question": "Children up to what age must use a child restraint system, where provided?",
         "options": [
           "5 years",
-          "12 years",
           "16 years",
+          "12 years",
           "18 years"
         ],
         "explanation": "Children up to 12 years must use a child restraint system in vehicles where it is provided."
@@ -948,8 +948,8 @@
         "question": "जहाँ चाइल्ड रेस्ट्रेंट सिस्टम लगा हो, वहाँ कितनी उम्र तक के बच्चों को उसका उपयोग करना चाहिए?",
         "options": [
           "5 वर्ष",
-          "12 वर्ष",
           "16 वर्ष",
+          "12 वर्ष",
           "18 वर्ष"
         ],
         "explanation": "जिन वाहनों में चाइल्ड रेस्ट्रेंट सिस्टम लगा हो, उनमें 12 वर्ष तक के बच्चों को उसका उपयोग करना चाहिए।"
@@ -1031,20 +1031,20 @@
     "question": "Where is a U-turn NOT allowed?",
     "options": [
       "On a quiet side road with a clear view",
-      "On a highway or expressway, or across continuous solid lines",
       "At a marked U-turn gap",
-      "On a lane with a sign allowing U-turns"
+      "On a lane with a sign allowing U-turns",
+      "On a highway or expressway, or across continuous solid lines"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation": "U-turns are prohibited on highways and expressways, across continuous lines, where signs forbid them and where there are blind spots.",
     "languages": {
       "en": {
         "question": "Where is a U-turn NOT allowed?",
         "options": [
           "On a quiet side road with a clear view",
-          "On a highway or expressway, or across continuous solid lines",
           "At a marked U-turn gap",
-          "On a lane with a sign allowing U-turns"
+          "On a lane with a sign allowing U-turns",
+          "On a highway or expressway, or across continuous solid lines"
         ],
         "explanation": "U-turns are prohibited on highways and expressways, across continuous lines, where signs forbid them and where there are blind spots."
       },
@@ -1052,9 +1052,9 @@
         "question": "यू-टर्न कहाँ लेना मना है?",
         "options": [
           "साफ़ दिखाई देने वाली शांत छोटी सड़क पर",
-          "हाईवे या एक्सप्रेसवे पर, या लगातार ठोस लाइनों को पार करते हुए",
           "चिह्नित यू-टर्न कट पर",
-          "उस लेन पर जहाँ यू-टर्न की अनुमति का चिह्न हो"
+          "उस लेन पर जहाँ यू-टर्न की अनुमति का चिह्न हो",
+          "हाईवे या एक्सप्रेसवे पर, या लगातार ठोस लाइनों को पार करते हुए"
         ],
         "explanation": "हाईवे और एक्सप्रेसवे पर, लगातार लाइनों को पार करते हुए, जहाँ चिह्न मना करें और जहाँ अंधे मोड़ हों, वहाँ यू-टर्न लेना मना है।"
       }
@@ -1130,28 +1130,28 @@
     "difficulty": 1,
     "question": "Boarding or getting off a vehicle while it is moving is",
     "options": [
+      "Prohibited in all vehicles",
       "Permitted in a bus",
-      "Permitted in an autorickshaw",
-      "Prohibited in all vehicles"
+      "Permitted in an autorickshaw"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "It is very dangerous and is not allowed in any vehicle.",
     "languages": {
       "en": {
         "question": "Boarding or getting off a vehicle while it is moving is",
         "options": [
+          "Prohibited in all vehicles",
           "Permitted in a bus",
-          "Permitted in an autorickshaw",
-          "Prohibited in all vehicles"
+          "Permitted in an autorickshaw"
         ],
         "explanation": "It is very dangerous and is not allowed in any vehicle."
       },
       "hi": {
         "question": "चलते वाहन में चढ़ना या उतरना",
         "options": [
+          "सभी वाहनों में निषिद्ध है",
           "बस में अनुमत है",
-          "ऑटोरिक्शा में अनुमत है",
-          "सभी वाहनों में निषिद्ध है"
+          "ऑटोरिक्शा में अनुमत है"
         ],
         "explanation": "यह बहुत खतरनाक है और किसी भी वाहन में अनुमत नहीं है।"
       }
@@ -1178,28 +1178,28 @@
     "difficulty": 1,
     "question": "Mobile phones must not be used",
     "options": [
+      "While driving a vehicle",
       "In government offices",
-      "In police stations",
-      "While driving a vehicle"
+      "In police stations"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "Using a phone while driving takes your attention off the road and can cause accidents.",
     "languages": {
       "en": {
         "question": "Mobile phones must not be used",
         "options": [
+          "While driving a vehicle",
           "In government offices",
-          "In police stations",
-          "While driving a vehicle"
+          "In police stations"
         ],
         "explanation": "Using a phone while driving takes your attention off the road and can cause accidents."
       },
       "hi": {
         "question": "मोबाइल फ़ोन का उपयोग नहीं करना चाहिए",
         "options": [
+          "वाहन चलाते समय",
           "सरकारी कार्यालयों में",
-          "पुलिस थानों में",
-          "वाहन चलाते समय"
+          "पुलिस थानों में"
         ],
         "explanation": "वाहन चलाते समय फ़ोन का उपयोग करने से आपका ध्यान सड़क से हट जाता है और दुर्घटना हो सकती है।"
       }
@@ -1274,18 +1274,18 @@
     "difficulty": 1,
     "question": "According to Section 129 of the Motor Vehicles Act 1988, a person driving a motor cycle must",
     "options": [
-      "Wear a jerkin",
       "Wear a helmet",
+      "Wear a jerkin",
       "Wear shoes"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Section 129 requires a rider to wear a protective helmet.",
     "languages": {
       "en": {
         "question": "According to Section 129 of the Motor Vehicles Act 1988, a person driving a motor cycle must",
         "options": [
-          "Wear a jerkin",
           "Wear a helmet",
+          "Wear a jerkin",
           "Wear shoes"
         ],
         "explanation": "Section 129 requires a rider to wear a protective helmet."
@@ -1293,8 +1293,8 @@
       "hi": {
         "question": "मोटर वाहन अधिनियम 1988 की Section 129 के अनुसार मोटरसाइकिल चलाने वाले व्यक्ति को",
         "options": [
-          "जर्किन पहनना चाहिए",
           "हेलमेट पहनना चाहिए",
+          "जर्किन पहनना चाहिए",
           "जूते पहनना चाहिए"
         ],
         "explanation": "Section 129 के अनुसार सवार को सुरक्षात्मक हेलमेट पहनना ज़रूरी है।"
@@ -1322,28 +1322,28 @@
     "difficulty": 1,
     "question": "Why is it essential to wear a helmet while riding a two-wheeler?",
     "options": [
-      "It is for your own safety",
       "Otherwise the traffic police will catch you",
-      "It is needed for uniformity on the road"
+      "It is needed for uniformity on the road",
+      "It is for your own safety"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation": "A helmet protects your head in a fall or crash, which is its main purpose.",
     "languages": {
       "en": {
         "question": "Why is it essential to wear a helmet while riding a two-wheeler?",
         "options": [
-          "It is for your own safety",
           "Otherwise the traffic police will catch you",
-          "It is needed for uniformity on the road"
+          "It is needed for uniformity on the road",
+          "It is for your own safety"
         ],
         "explanation": "A helmet protects your head in a fall or crash, which is its main purpose."
       },
       "hi": {
         "question": "दोपहिया वाहन चलाते समय हेलमेट पहनना ज़रूरी क्यों है?",
         "options": [
-          "यह आपकी अपनी सुरक्षा के लिए है",
           "नहीं तो ट्रैफ़िक पुलिस पकड़ लेगी",
-          "सड़क पर एकरूपता के लिए इसकी ज़रूरत है"
+          "सड़क पर एकरूपता के लिए इसकी ज़रूरत है",
+          "यह आपकी अपनी सुरक्षा के लिए है"
         ],
         "explanation": "गिरने या टक्कर होने पर हेलमेट आपके सिर की रक्षा करता है, यही इसका मुख्य उद्देश्य है।"
       }
@@ -1467,18 +1467,18 @@
     "question": "Driving under the influence of drugs or alcohol can lead to action under",
     "options": [
       "Section 121",
-      "Section 125",
-      "Section 185"
+      "Section 185",
+      "Section 125"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation": "Section 185 deals with driving under the influence of alcohol or drugs.",
     "languages": {
       "en": {
         "question": "Driving under the influence of drugs or alcohol can lead to action under",
         "options": [
           "Section 121",
-          "Section 125",
-          "Section 185"
+          "Section 185",
+          "Section 125"
         ],
         "explanation": "Section 185 deals with driving under the influence of alcohol or drugs."
       },
@@ -1486,8 +1486,8 @@
         "question": "नशीली दवाओं या शराब के प्रभाव में वाहन चलाने पर किस धारा के तहत कार्रवाई हो सकती है?",
         "options": [
           "Section 121",
-          "Section 125",
-          "Section 185"
+          "Section 185",
+          "Section 125"
         ],
         "explanation": "Section 185 शराब या नशीली दवाओं के प्रभाव में वाहन चलाने से संबंधित है।"
       }
@@ -1562,28 +1562,28 @@
     "difficulty": 1,
     "question": "Overloading of any kind is",
     "options": [
-      "Prohibited by law",
       "Allowed if the driver can control the vehicle safely",
-      "Allowed if the driver pays the fine"
+      "Allowed if the driver pays the fine",
+      "Prohibited by law"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation": "Overloading makes a vehicle unsafe, so the law prohibits it.",
     "languages": {
       "en": {
         "question": "Overloading of any kind is",
         "options": [
-          "Prohibited by law",
           "Allowed if the driver can control the vehicle safely",
-          "Allowed if the driver pays the fine"
+          "Allowed if the driver pays the fine",
+          "Prohibited by law"
         ],
         "explanation": "Overloading makes a vehicle unsafe, so the law prohibits it."
       },
       "hi": {
         "question": "किसी भी प्रकार का ओवरलोडिंग",
         "options": [
-          "कानून द्वारा निषिद्ध है",
           "अनुमत है यदि चालक वाहन को सुरक्षित रूप से नियंत्रित कर सके",
-          "अनुमत है यदि चालक जुर्माना भर दे"
+          "अनुमत है यदि चालक जुर्माना भर दे",
+          "कानून द्वारा निषिद्ध है"
         ],
         "explanation": "ओवरलोडिंग से वाहन असुरक्षित हो जाता है, इसलिए कानून इसे निषिद्ध करता है।"
       }
@@ -1610,18 +1610,18 @@
     "difficulty": 1,
     "question": "A person sitting or standing beside the driver in a way that makes it hard to control the vehicle",
     "options": [
-      "Is allowed with the RTO's permission",
       "Is not allowed",
+      "Is allowed with the RTO's permission",
       "Is allowed in an emergency"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "The driver must have full control, so nothing should obstruct driving.",
     "languages": {
       "en": {
         "question": "A person sitting or standing beside the driver in a way that makes it hard to control the vehicle",
         "options": [
-          "Is allowed with the RTO's permission",
           "Is not allowed",
+          "Is allowed with the RTO's permission",
           "Is allowed in an emergency"
         ],
         "explanation": "The driver must have full control, so nothing should obstruct driving."
@@ -1629,8 +1629,8 @@
       "hi": {
         "question": "चालक के पास इस तरह बैठना या खड़ा होना कि वाहन को नियंत्रित करना कठिन हो जाए",
         "options": [
-          "RTO की अनुमति से अनुमत है",
           "अनुमत नहीं है",
+          "RTO की अनुमति से अनुमत है",
           "आपात स्थिति में अनुमत है"
         ],
         "explanation": "चालक का वाहन पर पूरा नियंत्रण होना चाहिए, इसलिए गाड़ी चलाने में कोई रुकावट नहीं होनी चाहिए।"
@@ -1707,18 +1707,18 @@
     "question": "Your vehicle hits a parked vehicle and its owner cannot be found. What must you do?",
     "options": [
       "Drive away from the spot and settle the damage later",
-      "Inform the insurance company as soon as possible",
-      "Inform the police station having jurisdiction over the place within 24 hours"
+      "Inform the police station having jurisdiction over the place within 24 hours",
+      "Inform the insurance company as soon as possible"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation": "If the owner cannot be found, you must report the accident to the police within 24 hours.",
     "languages": {
       "en": {
         "question": "Your vehicle hits a parked vehicle and its owner cannot be found. What must you do?",
         "options": [
           "Drive away from the spot and settle the damage later",
-          "Inform the insurance company as soon as possible",
-          "Inform the police station having jurisdiction over the place within 24 hours"
+          "Inform the police station having jurisdiction over the place within 24 hours",
+          "Inform the insurance company as soon as possible"
         ],
         "explanation": "If the owner cannot be found, you must report the accident to the police within 24 hours."
       },
@@ -1726,8 +1726,8 @@
         "question": "आपका वाहन खड़े वाहन से टकरा गया और उसका मालिक नहीं मिल रहा। आपको क्या करना चाहिए?",
         "options": [
           "घटनास्थल से चले जाएँ और नुकसान का हिसाब बाद में करें",
-          "जितनी जल्दी हो सके बीमा कंपनी को सूचित करें",
-          "24 घंटे के भीतर उस स्थान के क्षेत्राधिकार वाले पुलिस थाने को सूचित करें"
+          "24 घंटे के भीतर उस स्थान के क्षेत्राधिकार वाले पुलिस थाने को सूचित करें",
+          "जितनी जल्दी हो सके बीमा कंपनी को सूचित करें"
         ],
         "explanation": "यदि मालिक नहीं मिलता, तो आपको दुर्घटना की सूचना 24 घंटे के भीतर पुलिस को देनी होगी।"
       }
@@ -1754,28 +1754,28 @@
     "difficulty": 2,
     "question": "If your vehicle hits a pedestrian, you should",
     "options": [
+      "Help the injured person get medical aid, identify yourself and then report to the police",
       "Identify yourself and leave",
-      "Help the person and call an ambulance",
-      "Help the injured person get medical aid, identify yourself and then report to the police"
+      "Help the person and call an ambulance"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "You must help the injured person, give your details and report to the police.",
     "languages": {
       "en": {
         "question": "If your vehicle hits a pedestrian, you should",
         "options": [
+          "Help the injured person get medical aid, identify yourself and then report to the police",
           "Identify yourself and leave",
-          "Help the person and call an ambulance",
-          "Help the injured person get medical aid, identify yourself and then report to the police"
+          "Help the person and call an ambulance"
         ],
         "explanation": "You must help the injured person, give your details and report to the police."
       },
       "hi": {
         "question": "यदि आपका वाहन किसी पैदल यात्री को टक्कर मार दे, तो आपको",
         "options": [
+          "घायल व्यक्ति को चिकित्सा सहायता दिलाने में मदद करनी चाहिए, अपनी पहचान बतानी चाहिए और फिर पुलिस को सूचना देनी चाहिए",
           "अपनी पहचान बताकर चले जाना चाहिए",
-          "उस व्यक्ति की मदद करनी चाहिए और एम्बुलेंस बुलानी चाहिए",
-          "घायल व्यक्ति को चिकित्सा सहायता दिलाने में मदद करनी चाहिए, अपनी पहचान बतानी चाहिए और फिर पुलिस को सूचना देनी चाहिए"
+          "उस व्यक्ति की मदद करनी चाहिए और एम्बुलेंस बुलानी चाहिए"
         ],
         "explanation": "आपको घायल व्यक्ति की मदद करनी चाहिए, अपना विवरण देना चाहिए और पुलिस को सूचना देनी चाहिए।"
       }
@@ -1803,18 +1803,18 @@
     "question": "Who can treat an accident victim?",
     "options": [
       "Only a government hospital doctor",
-      "Any registered medical practitioner or doctor",
-      "The driver"
+      "The driver",
+      "Any registered medical practitioner or doctor"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "Any registered doctor may treat the victim, so help should never be delayed.",
     "languages": {
       "en": {
         "question": "Who can treat an accident victim?",
         "options": [
           "Only a government hospital doctor",
-          "Any registered medical practitioner or doctor",
-          "The driver"
+          "The driver",
+          "Any registered medical practitioner or doctor"
         ],
         "explanation": "Any registered doctor may treat the victim, so help should never be delayed."
       },
@@ -1822,8 +1822,8 @@
         "question": "दुर्घटना के पीड़ित का इलाज कौन कर सकता है?",
         "options": [
           "केवल सरकारी अस्पताल का डॉक्टर",
-          "कोई भी पंजीकृत चिकित्सक या डॉक्टर",
-          "चालक"
+          "चालक",
+          "कोई भी पंजीकृत चिकित्सक या डॉक्टर"
         ],
         "explanation": "कोई भी पंजीकृत डॉक्टर पीड़ित का इलाज कर सकता है, इसलिए मदद में देरी नहीं करनी चाहिए।"
       }
@@ -1898,18 +1898,18 @@
     "difficulty": 1,
     "question": "While driving, you start feeling tired and unable to concentrate. What should you do?",
     "options": [
-      "Stop as soon as it is safe and rest",
       "Switch on the stereo to help you concentrate",
+      "Stop as soon as it is safe and rest",
       "Speed up to reach your destination sooner"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "A tired driver is dangerous, and the only real cure is rest.",
     "languages": {
       "en": {
         "question": "While driving, you start feeling tired and unable to concentrate. What should you do?",
         "options": [
-          "Stop as soon as it is safe and rest",
           "Switch on the stereo to help you concentrate",
+          "Stop as soon as it is safe and rest",
           "Speed up to reach your destination sooner"
         ],
         "explanation": "A tired driver is dangerous, and the only real cure is rest."
@@ -1917,8 +1917,8 @@
       "hi": {
         "question": "गाड़ी चलाते समय आपको थकान महसूस होती है और ध्यान नहीं लग रहा। आपको क्या करना चाहिए?",
         "options": [
-          "जैसे ही सुरक्षित हो, रुकें और आराम करें",
           "ध्यान लगाने के लिए स्टीरियो चालू करें",
+          "जैसे ही सुरक्षित हो, रुकें और आराम करें",
           "गंतव्य पर जल्दी पहुँचने के लिए गति बढ़ाएँ"
         ],
         "explanation": "थका हुआ चालक खतरनाक होता है, और इसका असली इलाज केवल आराम है।"
@@ -1946,28 +1946,28 @@
     "difficulty": 1,
     "question": "You feel ill and unable to concentrate while driving a car. What should you do?",
     "options": [
+      "Stop in a safe place and, if possible, get medical attention",
       "Increase your speed to finish your work sooner",
-      "Continue the journey with the windows open",
-      "Stop in a safe place and, if possible, get medical attention"
+      "Continue the journey with the windows open"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "An ill driver cannot drive safely, so stop in a safe place and get help.",
     "languages": {
       "en": {
         "question": "You feel ill and unable to concentrate while driving a car. What should you do?",
         "options": [
+          "Stop in a safe place and, if possible, get medical attention",
           "Increase your speed to finish your work sooner",
-          "Continue the journey with the windows open",
-          "Stop in a safe place and, if possible, get medical attention"
+          "Continue the journey with the windows open"
         ],
         "explanation": "An ill driver cannot drive safely, so stop in a safe place and get help."
       },
       "hi": {
         "question": "कार चलाते समय आप बीमार महसूस करते हैं और ध्यान नहीं लगा पा रहे। आपको क्या करना चाहिए?",
         "options": [
+          "सुरक्षित स्थान पर रुकें और संभव हो तो चिकित्सा सहायता लें",
           "अपना काम जल्दी निपटाने के लिए गति बढ़ाएँ",
-          "खिड़कियाँ खोलकर यात्रा जारी रखें",
-          "सुरक्षित स्थान पर रुकें और संभव हो तो चिकित्सा सहायता लें"
+          "खिड़कियाँ खोलकर यात्रा जारी रखें"
         ],
         "explanation": "बीमार चालक सुरक्षित रूप से गाड़ी नहीं चला सकता, इसलिए सुरक्षित स्थान पर रुकें और मदद लें।"
       }
@@ -1994,28 +1994,28 @@
     "difficulty": 1,
     "question": "Before you open the right-side door after parking, you should",
     "options": [
-      "Make sure no vehicle is passing",
       "Open the door quickly and get out",
-      "Not open the right door and get out only from the left"
+      "Not open the right door and get out only from the left",
+      "Make sure no vehicle is passing"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation": "A passing vehicle or rider can hit an opening door, so check first.",
     "languages": {
       "en": {
         "question": "Before you open the right-side door after parking, you should",
         "options": [
-          "Make sure no vehicle is passing",
           "Open the door quickly and get out",
-          "Not open the right door and get out only from the left"
+          "Not open the right door and get out only from the left",
+          "Make sure no vehicle is passing"
         ],
         "explanation": "A passing vehicle or rider can hit an opening door, so check first."
       },
       "hi": {
         "question": "पार्किंग के बाद दाईं ओर का दरवाज़ा खोलने से पहले आपको",
         "options": [
-          "यह सुनिश्चित करना चाहिए कि कोई वाहन गुज़र नहीं रहा",
           "दरवाज़ा जल्दी से खोलकर उतर जाना चाहिए",
-          "दाईं ओर का दरवाज़ा नहीं खोलना चाहिए और केवल बाईं ओर से उतरना चाहिए"
+          "दाईं ओर का दरवाज़ा नहीं खोलना चाहिए और केवल बाईं ओर से उतरना चाहिए",
+          "यह सुनिश्चित करना चाहिए कि कोई वाहन गुज़र नहीं रहा"
         ],
         "explanation": "गुज़रता हुआ वाहन या सवार खुलते दरवाज़े से टकरा सकता है, इसलिए पहले देख लें।"
       }
@@ -2283,18 +2283,18 @@
     "question": "To stop a motor cycle,",
     "options": [
       "Apply the rear brake first and the front brake after slowing",
-      "Apply the front and rear brakes together",
-      "Apply the rear brake only"
+      "Apply the rear brake only",
+      "Apply the front and rear brakes together"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "Using both brakes together gives the best stopping power and balance.",
     "languages": {
       "en": {
         "question": "To stop a motor cycle,",
         "options": [
           "Apply the rear brake first and the front brake after slowing",
-          "Apply the front and rear brakes together",
-          "Apply the rear brake only"
+          "Apply the rear brake only",
+          "Apply the front and rear brakes together"
         ],
         "explanation": "Using both brakes together gives the best stopping power and balance."
       },
@@ -2302,8 +2302,8 @@
         "question": "मोटरसाइकिल को रोकने के लिए,",
         "options": [
           "पहले पिछला ब्रेक लगाएँ और गति कम होने पर अगला ब्रेक लगाएँ",
-          "अगला और पिछला ब्रेक एक साथ लगाएँ",
-          "केवल पिछला ब्रेक लगाएँ"
+          "केवल पिछला ब्रेक लगाएँ",
+          "अगला और पिछला ब्रेक एक साथ लगाएँ"
         ],
         "explanation": "दोनों ब्रेक एक साथ लगाने से रुकने की सबसे अच्छी क्षमता और संतुलन मिलता है।"
       }
@@ -2378,18 +2378,18 @@
     "difficulty": 2,
     "question": "When approaching a stretch of road with loose sand or gravel, you should",
     "options": [
-      "Cross it as fast as possible",
       "Go as slowly as possible",
+      "Cross it as fast as possible",
       "Slow down and change to high torque gears before entering"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Loose sand or gravel reduces grip, so slow speed keeps you in control.",
     "languages": {
       "en": {
         "question": "When approaching a stretch of road with loose sand or gravel, you should",
         "options": [
-          "Cross it as fast as possible",
           "Go as slowly as possible",
+          "Cross it as fast as possible",
           "Slow down and change to high torque gears before entering"
         ],
         "explanation": "Loose sand or gravel reduces grip, so slow speed keeps you in control."
@@ -2397,8 +2397,8 @@
       "hi": {
         "question": "ढीली रेत या बजरी वाली सड़क के हिस्से के पास पहुँचते समय आपको",
         "options": [
-          "उसे जितनी तेज़ हो सके पार करना चाहिए",
           "जितना धीरे हो सके चलना चाहिए",
+          "उसे जितनी तेज़ हो सके पार करना चाहिए",
           "गति कम करनी चाहिए और प्रवेश से पहले हाई टॉर्क गियर में आना चाहिए"
         ],
         "explanation": "ढीली रेत या बजरी से पकड़ कम हो जाती है, इसलिए धीमी गति से आपका नियंत्रण बना रहता है।"
@@ -2427,18 +2427,18 @@
     "question": "It is dangerous to drive with bald (worn-out) tyres because",
     "options": [
       "The vehicle picks up speed quickly",
-      "They give little grip on the road",
-      "They give too much grip on the road"
+      "They give too much grip on the road",
+      "They give little grip on the road"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "Worn tyres have little tread, so they grip poorly and the vehicle may skid.",
     "languages": {
       "en": {
         "question": "It is dangerous to drive with bald (worn-out) tyres because",
         "options": [
           "The vehicle picks up speed quickly",
-          "They give little grip on the road",
-          "They give too much grip on the road"
+          "They give too much grip on the road",
+          "They give little grip on the road"
         ],
         "explanation": "Worn tyres have little tread, so they grip poorly and the vehicle may skid."
       },
@@ -2446,8 +2446,8 @@
         "question": "घिसे हुए (पुराने) टायरों के साथ गाड़ी चलाना खतरनाक है क्योंकि",
         "options": [
           "वाहन तेज़ी से गति पकड़ता है",
-          "वे सड़क पर बहुत कम पकड़ देते हैं",
-          "वे सड़क पर बहुत ज़्यादा पकड़ देते हैं"
+          "वे सड़क पर बहुत ज़्यादा पकड़ देते हैं",
+          "वे सड़क पर बहुत कम पकड़ देते हैं"
         ],
         "explanation": "घिसे टायरों में खाँचे बहुत कम होते हैं, इसलिए उनकी पकड़ कमज़ोर होती है और वाहन फिसल सकता है।"
       }
@@ -2474,18 +2474,18 @@
     "difficulty": 2,
     "question": "What does clutch riding (riding on the clutch) mean?",
     "options": [
-      "Using the clutch often",
       "Keeping a foot on the clutch pedal",
+      "Using the clutch often",
       "Not using the clutch at all"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Resting your foot on the clutch pedal wears the clutch out and reduces control.",
     "languages": {
       "en": {
         "question": "What does clutch riding (riding on the clutch) mean?",
         "options": [
-          "Using the clutch often",
           "Keeping a foot on the clutch pedal",
+          "Using the clutch often",
           "Not using the clutch at all"
         ],
         "explanation": "Resting your foot on the clutch pedal wears the clutch out and reduces control."
@@ -2493,8 +2493,8 @@
       "hi": {
         "question": "क्लच राइडिंग (क्लच पर पैर रखकर चलाना) का क्या मतलब है?",
         "options": [
-          "क्लच का बार-बार उपयोग करना",
           "पैर को क्लच पैडल पर रखे रहना",
+          "क्लच का बार-बार उपयोग करना",
           "क्लच का बिल्कुल उपयोग न करना"
         ],
         "explanation": "पैर को क्लच पैडल पर टिकाए रखने से क्लच घिस जाता है और नियंत्रण कम हो जाता है।"
@@ -2619,18 +2619,18 @@
     "question": "When parking on a downward slope, in addition to the hand brake, which gear should be engaged?",
     "options": [
       "Neutral",
-      "First gear",
-      "Reverse gear"
+      "Reverse gear",
+      "First gear"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation": "Reverse gear pushes against the downhill roll, so it helps stop the vehicle from moving.",
     "languages": {
       "en": {
         "question": "When parking on a downward slope, in addition to the hand brake, which gear should be engaged?",
         "options": [
           "Neutral",
-          "First gear",
-          "Reverse gear"
+          "Reverse gear",
+          "First gear"
         ],
         "explanation": "Reverse gear pushes against the downhill roll, so it helps stop the vehicle from moving."
       },
@@ -2638,8 +2638,8 @@
         "question": "ढलान पर नीचे की ओर पार्किंग करते समय, हैंड ब्रेक के अलावा कौन सा गियर लगाना चाहिए?",
         "options": [
           "न्यूट्रल",
-          "पहला गियर",
-          "रिवर्स गियर"
+          "रिवर्स गियर",
+          "पहला गियर"
         ],
         "explanation": "रिवर्स गियर नीचे की ओर लुढ़कने के विरुद्ध ज़ोर लगाता है, इसलिए यह वाहन को खिसकने से रोकने में मदद करता है।"
       }
@@ -2666,28 +2666,28 @@
     "difficulty": 1,
     "question": "When driving behind a motor cycle on a badly maintained road, you should",
     "options": [
+      "Keep a safe distance",
       "Keep blowing the horn",
-      "Overtake immediately",
-      "Keep a safe distance"
+      "Overtake immediately"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "The rider may swerve to avoid potholes, so you need space to react.",
     "languages": {
       "en": {
         "question": "When driving behind a motor cycle on a badly maintained road, you should",
         "options": [
+          "Keep a safe distance",
           "Keep blowing the horn",
-          "Overtake immediately",
-          "Keep a safe distance"
+          "Overtake immediately"
         ],
         "explanation": "The rider may swerve to avoid potholes, so you need space to react."
       },
       "hi": {
         "question": "खराब रखरखाव वाली सड़क पर मोटरसाइकिल के पीछे गाड़ी चलाते समय आपको",
         "options": [
+          "सुरक्षित दूरी बनाए रखनी चाहिए",
           "लगातार हॉर्न बजाते रहना चाहिए",
-          "तुरंत ओवरटेक करना चाहिए",
-          "सुरक्षित दूरी बनाए रखनी चाहिए"
+          "तुरंत ओवरटेक करना चाहिए"
         ],
         "explanation": "सवार गड्ढों से बचने के लिए अचानक मुड़ सकता है, इसलिए प्रतिक्रिया देने के लिए आपको जगह चाहिए।"
       }

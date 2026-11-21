@@ -9,20 +9,20 @@
     "question": "Parking means waiting that goes beyond quickly picking up or dropping off. A stop of more than how long counts as parking?",
     "options": [
       "1 minute",
-      "3 minutes",
       "10 minutes",
-      "30 minutes"
+      "30 minutes",
+      "3 minutes"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation": "A halt for more than 3 minutes (or any wait longer than quick loading or unloading) counts as parking.",
     "languages": {
       "en": {
         "question": "Parking means waiting that goes beyond quickly picking up or dropping off. A stop of more than how long counts as parking?",
         "options": [
           "1 minute",
-          "3 minutes",
           "10 minutes",
-          "30 minutes"
+          "30 minutes",
+          "3 minutes"
         ],
         "explanation": "A halt for more than 3 minutes (or any wait longer than quick loading or unloading) counts as parking."
       },
@@ -30,9 +30,9 @@
         "question": "पार्किंग का मतलब है सवारी या सामान को जल्दी चढ़ाने-उतारने से अधिक देर रुकना। कितने समय से अधिक रुकना पार्किंग माना जाता है?",
         "options": [
           "1 मिनट",
-          "3 मिनट",
           "10 मिनट",
-          "30 मिनट"
+          "30 मिनट",
+          "3 मिनट"
         ],
         "explanation": "3 मिनट से अधिक रुकना (या जल्दी चढ़ाने-उतारने से अधिक कोई भी इंतज़ार) पार्किंग माना जाता है।"
       }
@@ -158,19 +158,19 @@
     "difficulty": 1,
     "question": "Where must you NOT stop?",
     "options": [
-      "At the left edge of a wide road for a moment",
       "On a sharp bend or where the road is narrow and view is blocked",
+      "At the left edge of a wide road for a moment",
       "At a bus stop, if you drive a bus",
       "Near a shop on a wide road"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Do not stop on narrow roads, near sharp bends or where the view is blocked.",
     "languages": {
       "en": {
         "question": "Where must you NOT stop?",
         "options": [
-          "At the left edge of a wide road for a moment",
           "On a sharp bend or where the road is narrow and view is blocked",
+          "At the left edge of a wide road for a moment",
           "At a bus stop, if you drive a bus",
           "Near a shop on a wide road"
         ],
@@ -179,8 +179,8 @@
       "hi": {
         "question": "आपको कहाँ नहीं रुकना चाहिए?",
         "options": [
-          "चौड़ी सड़क के बाएँ किनारे पर थोड़ी देर के लिए",
           "तीखे मोड़ पर या जहाँ सड़क संकरी हो और दिखाई न दे",
+          "चौड़ी सड़क के बाएँ किनारे पर थोड़ी देर के लिए",
           "बस स्टॉप पर, अगर आप बस चलाते हैं",
           "चौड़ी सड़क पर दुकान के पास"
         ],
@@ -211,19 +211,19 @@
     "question": "What does a yellow box marking on a junction mean for stopping?",
     "options": [
       "You may wait there for a friend",
-      "You must not stop inside it",
       "It is a parking bay",
+      "You must not stop inside it",
       "It is for two-wheelers only"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "Stopping on a yellow box is not allowed.",
     "languages": {
       "en": {
         "question": "What does a yellow box marking on a junction mean for stopping?",
         "options": [
           "You may wait there for a friend",
-          "You must not stop inside it",
           "It is a parking bay",
+          "You must not stop inside it",
           "It is for two-wheelers only"
         ],
         "explanation": "Stopping on a yellow box is not allowed."
@@ -232,8 +232,8 @@
         "question": "चौराहे पर पीले बॉक्स के निशान का रुकने के लिए क्या मतलब है?",
         "options": [
           "आप वहाँ दोस्त का इंतज़ार कर सकते हैं",
-          "आपको उसके अंदर नहीं रुकना चाहिए",
           "यह पार्किंग की जगह है",
+          "आपको उसके अंदर नहीं रुकना चाहिए",
           "यह केवल दोपहिया वाहनों के लिए है"
         ],
         "explanation": "पीले बॉक्स पर रुकना मना है।"
@@ -262,19 +262,19 @@
     "difficulty": 2,
     "question": "You must not stop within 5 metres before:",
     "options": [
-      "A traffic signal, Give Way sign or STOP sign",
       "A lamp post",
+      "A traffic signal, Give Way sign or STOP sign",
       "A tree",
       "A milestone"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "A stopped vehicle there blocks the signal or sign from other drivers, so do not stop within 5 metres before it.",
     "languages": {
       "en": {
         "question": "You must not stop within 5 metres before:",
         "options": [
-          "A traffic signal, Give Way sign or STOP sign",
           "A lamp post",
+          "A traffic signal, Give Way sign or STOP sign",
           "A tree",
           "A milestone"
         ],
@@ -283,8 +283,8 @@
       "hi": {
         "question": "आपको इनसे 5 मीटर पहले तक नहीं रुकना चाहिए:",
         "options": [
-          "ट्रैफ़िक सिग्नल, Give Way चिह्न या STOP चिह्न",
           "बिजली का खंभा",
+          "ट्रैफ़िक सिग्नल, Give Way चिह्न या STOP चिह्न",
           "पेड़",
           "मील का पत्थर"
         ],
@@ -315,20 +315,20 @@
     "question": "Which of these places is a NO PARKING place?",
     "options": [
       "A marked parking bay",
-      "A footpath",
       "A side street where parking is allowed",
-      "A parking lot"
+      "A parking lot",
+      "A footpath"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation": "Do not park on footpaths, cycle tracks or pedestrian crossings.",
     "languages": {
       "en": {
         "question": "Which of these places is a NO PARKING place?",
         "options": [
           "A marked parking bay",
-          "A footpath",
           "A side street where parking is allowed",
-          "A parking lot"
+          "A parking lot",
+          "A footpath"
         ],
         "explanation": "Do not park on footpaths, cycle tracks or pedestrian crossings."
       },
@@ -336,9 +336,9 @@
         "question": "इनमें से कौन-सी जगह पार्किंग निषिद्ध है?",
         "options": [
           "निशान लगी पार्किंग की जगह",
-          "फुटपाथ",
           "साइड वाली गली जहाँ पार्किंग की अनुमति है",
-          "पार्किंग स्थल"
+          "पार्किंग स्थल",
+          "फुटपाथ"
         ],
         "explanation": "फुटपाथ, साइकिल ट्रैक या पैदल पार पथ पर पार्किंग न करें।"
       }
@@ -366,20 +366,20 @@
     "difficulty": 1,
     "question": "Parking is prohibited:",
     "options": [
-      "In front of a gate or entrance of a property",
       "In a marked parking bay",
       "In a paid parking lot",
+      "In front of a gate or entrance of a property",
       "Where a PARKING sign is shown"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation": "Do not park in front of the entrance or exit of a property.",
     "languages": {
       "en": {
         "question": "Parking is prohibited:",
         "options": [
-          "In front of a gate or entrance of a property",
           "In a marked parking bay",
           "In a paid parking lot",
+          "In front of a gate or entrance of a property",
           "Where a PARKING sign is shown"
         ],
         "explanation": "Do not park in front of the entrance or exit of a property."
@@ -387,9 +387,9 @@
       "hi": {
         "question": "पार्किंग मना है:",
         "options": [
-          "किसी संपत्ति के गेट या प्रवेश के सामने",
           "निशान लगी पार्किंग की जगह में",
           "शुल्क वाले पार्किंग स्थल में",
+          "किसी संपत्ति के गेट या प्रवेश के सामने",
           "जहाँ PARKING का चिह्न लगा हो"
         ],
         "explanation": "किसी संपत्ति के प्रवेश या निकास के सामने पार्किंग न करें।"
@@ -464,19 +464,19 @@
     "difficulty": 2,
     "question": "Parking next to or opposite another parked vehicle, so that the road becomes narrow, is:",
     "options": [
-      "Allowed on wide roads only",
       "Not allowed (double parking)",
+      "Allowed on wide roads only",
       "Allowed for 3 minutes",
       "Allowed at night"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Do not park alongside or opposite another parked vehicle when it blocks other traffic.",
     "languages": {
       "en": {
         "question": "Parking next to or opposite another parked vehicle, so that the road becomes narrow, is:",
         "options": [
-          "Allowed on wide roads only",
           "Not allowed (double parking)",
+          "Allowed on wide roads only",
           "Allowed for 3 minutes",
           "Allowed at night"
         ],
@@ -485,8 +485,8 @@
       "hi": {
         "question": "किसी खड़े वाहन के बगल में या उसके सामने पार्किंग करना, जिससे सड़क संकरी हो जाए:",
         "options": [
-          "केवल चौड़ी सड़कों पर अनुमत है",
           "मना है (दोहरी पार्किंग)",
+          "केवल चौड़ी सड़कों पर अनुमत है",
           "3 मिनट के लिए अनुमत है",
           "रात में अनुमत है"
         ],
@@ -517,20 +517,20 @@
     "question": "A parking space is marked for differently abled drivers. You may park there:",
     "options": [
       "If you are in a hurry",
-      "Only if you are a differently abled person",
       "If the car park is full",
-      "For up to 10 minutes"
+      "For up to 10 minutes",
+      "Only if you are a differently abled person"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation": "Spaces reserved for differently abled drivers are only for them.",
     "languages": {
       "en": {
         "question": "A parking space is marked for differently abled drivers. You may park there:",
         "options": [
           "If you are in a hurry",
-          "Only if you are a differently abled person",
           "If the car park is full",
-          "For up to 10 minutes"
+          "For up to 10 minutes",
+          "Only if you are a differently abled person"
         ],
         "explanation": "Spaces reserved for differently abled drivers are only for them."
       },
@@ -538,9 +538,9 @@
         "question": "दिव्यांग चालकों के लिए पार्किंग की जगह निशान लगाकर रखी गई है। आप वहाँ पार्क कर सकते हैं:",
         "options": [
           "अगर आपको जल्दी हो",
-          "केवल अगर आप दिव्यांग व्यक्ति हैं",
           "अगर पार्किंग भरी हो",
-          "10 मिनट तक"
+          "10 मिनट तक",
+          "केवल अगर आप दिव्यांग व्यक्ति हैं"
         ],
         "explanation": "दिव्यांग चालकों के लिए आरक्षित जगहें केवल उन्हीं के लिए हैं।"
       }
@@ -614,19 +614,19 @@
     "difficulty": 1,
     "question": "A vehicle left in a dangerous position where it blocks other traffic can lead to action under:",
     "options": [
-      "Section 122 of the Motor Vehicles Act",
       "Section 129",
+      "Section 122 of the Motor Vehicles Act",
       "Section 181",
       "Section 194F"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Section 122 says no one may leave a vehicle where it may cause danger or obstruction to other road users.",
     "languages": {
       "en": {
         "question": "A vehicle left in a dangerous position where it blocks other traffic can lead to action under:",
         "options": [
-          "Section 122 of the Motor Vehicles Act",
           "Section 129",
+          "Section 122 of the Motor Vehicles Act",
           "Section 181",
           "Section 194F"
         ],
@@ -635,8 +635,8 @@
       "hi": {
         "question": "ऐसी खतरनाक जगह पर छोड़ा गया वाहन जहाँ वह दूसरे यातायात को रोकता हो, इसके तहत कार्रवाई का कारण बन सकता है:",
         "options": [
-          "मोटर वाहन अधिनियम की Section 122",
           "Section 129",
+          "मोटर वाहन अधिनियम की Section 122",
           "Section 181",
           "Section 194F"
         ],
@@ -666,28 +666,28 @@
     "difficulty": 1,
     "question": "When a vehicle is parked at the side of the road at night, what must you do?",
     "options": [
+      "Keep the parking light on",
       "Lock the vehicle",
-      "Keep a licensed driver in the driver's seat",
-      "Keep the parking light on"
+      "Keep a licensed driver in the driver's seat"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "A parked vehicle must stay visible to other drivers in the dark, so its parking light should remain on.",
     "languages": {
       "en": {
         "question": "When a vehicle is parked at the side of the road at night, what must you do?",
         "options": [
+          "Keep the parking light on",
           "Lock the vehicle",
-          "Keep a licensed driver in the driver's seat",
-          "Keep the parking light on"
+          "Keep a licensed driver in the driver's seat"
         ],
         "explanation": "A parked vehicle must stay visible to other drivers in the dark, so its parking light should remain on."
       },
       "hi": {
         "question": "रात में सड़क के किनारे वाहन खड़ा हो, तो आपको क्या करना चाहिए?",
         "options": [
+          "पार्किंग लाइट जलाए रखें",
           "वाहन में ताला लगाएँ",
-          "चालक की सीट पर लाइसेंस वाला चालक बैठाएँ",
-          "पार्किंग लाइट जलाए रखें"
+          "चालक की सीट पर लाइसेंस वाला चालक बैठाएँ"
         ],
         "explanation": "खड़ा वाहन अंधेरे में दूसरे चालकों को दिखता रहना चाहिए, इसलिए उसकी पार्किंग लाइट जलती रहनी चाहिए।"
       }
@@ -715,18 +715,18 @@
     "question": "Is it correct to park a vehicle in front of the entrance to a hospital?",
     "options": [
       "Correct",
-      "Incorrect",
-      "Correct if there is no NO PARKING sign"
+      "Correct if there is no NO PARKING sign",
+      "Incorrect"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "Parking at a hospital entrance can block ambulances and patients, so it is never proper, with or without a sign.",
     "languages": {
       "en": {
         "question": "Is it correct to park a vehicle in front of the entrance to a hospital?",
         "options": [
           "Correct",
-          "Incorrect",
-          "Correct if there is no NO PARKING sign"
+          "Correct if there is no NO PARKING sign",
+          "Incorrect"
         ],
         "explanation": "Parking at a hospital entrance can block ambulances and patients, so it is never proper, with or without a sign."
       },
@@ -734,8 +734,8 @@
         "question": "क्या अस्पताल के प्रवेश के सामने वाहन खड़ा करना सही है?",
         "options": [
           "सही",
-          "गलत",
-          "सही, अगर NO PARKING का चिह्न न हो"
+          "सही, अगर NO PARKING का चिह्न न हो",
+          "गलत"
         ],
         "explanation": "अस्पताल के प्रवेश पर पार्किंग से एम्बुलेंस और मरीज़ रुक सकते हैं, इसलिए चिह्न हो या न हो, यह कभी सही नहीं है।"
       }
@@ -763,18 +763,18 @@
     "question": "Where is parking permitted?",
     "options": [
       "At turnings",
-      "On footpaths",
-      "Where parking is not prohibited"
+      "Where parking is not prohibited",
+      "On footpaths"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation": "You may park only in places where parking is not prohibited and where you do not block others.",
     "languages": {
       "en": {
         "question": "Where is parking permitted?",
         "options": [
           "At turnings",
-          "On footpaths",
-          "Where parking is not prohibited"
+          "Where parking is not prohibited",
+          "On footpaths"
         ],
         "explanation": "You may park only in places where parking is not prohibited and where you do not block others."
       },
@@ -782,8 +782,8 @@
         "question": "पार्किंग कहाँ की अनुमति है?",
         "options": [
           "मोड़ों पर",
-          "फुटपाथ पर",
-          "जहाँ पार्किंग मना नहीं है"
+          "जहाँ पार्किंग मना नहीं है",
+          "फुटपाथ पर"
         ],
         "explanation": "आप केवल उन जगहों पर पार्क कर सकते हैं जहाँ पार्किंग मना नहीं है और जहाँ आप दूसरों को नहीं रोकते।"
       }
@@ -810,28 +810,28 @@
     "difficulty": 1,
     "question": "Which of these is a place where parking is prohibited?",
     "options": [
+      "On a footpath",
       "Behind a parked vehicle",
-      "On a one-way road",
-      "On a footpath"
+      "On a one-way road"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "A footpath is for pedestrians, and a parked vehicle forces them to walk on the road.",
     "languages": {
       "en": {
         "question": "Which of these is a place where parking is prohibited?",
         "options": [
+          "On a footpath",
           "Behind a parked vehicle",
-          "On a one-way road",
-          "On a footpath"
+          "On a one-way road"
         ],
         "explanation": "A footpath is for pedestrians, and a parked vehicle forces them to walk on the road."
       },
       "hi": {
         "question": "इनमें से कौन-सी जगह पार्किंग निषिद्ध है?",
         "options": [
+          "फुटपाथ पर",
           "खड़े वाहन के पीछे",
-          "एकतरफ़ा सड़क पर",
-          "फुटपाथ पर"
+          "एकतरफ़ा सड़क पर"
         ],
         "explanation": "फुटपाथ पैदल चलने वालों के लिए है, और खड़ा वाहन उन्हें सड़क पर चलने के लिए मजबूर करता है।"
       }
@@ -904,7 +904,7 @@
     "lessonId": "park-2",
     "type": "mcq",
     "difficulty": 1,
-    "question": "In which of these places is parking prohibited?",
+    "question": "Parking is prohibited at which of these places?",
     "options": [
       "Entrance of a hospital",
       "Left side of the road",
@@ -914,7 +914,7 @@
     "explanation": "Parking at a hospital entrance can block ambulances and emergency access.",
     "languages": {
       "en": {
-        "question": "In which of these places is parking prohibited?",
+        "question": "Parking is prohibited at which of these places?",
         "options": [
           "Entrance of a hospital",
           "Left side of the road",
@@ -923,7 +923,7 @@
         "explanation": "Parking at a hospital entrance can block ambulances and emergency access."
       },
       "hi": {
-        "question": "इनमें से किस जगह पार्किंग निषिद्ध है?",
+        "question": "इनमें से किस स्थान पर पार्किंग वर्जित है?",
         "options": [
           "अस्पताल का प्रवेश",
           "सड़क का बायाँ किनारा",
@@ -952,7 +952,7 @@
     "lessonId": "park-2",
     "type": "mcq",
     "difficulty": 1,
-    "question": "In which of these places is parking prohibited?",
+    "question": "Which of these is a place where you must never park?",
     "options": [
       "Blocking a fire hydrant",
       "Near a public well",
@@ -962,7 +962,7 @@
     "explanation": "Fire services need quick access to a hydrant in an emergency, so it must never be blocked.",
     "languages": {
       "en": {
-        "question": "In which of these places is parking prohibited?",
+        "question": "Which of these is a place where you must never park?",
         "options": [
           "Blocking a fire hydrant",
           "Near a public well",
@@ -971,7 +971,7 @@
         "explanation": "Fire services need quick access to a hydrant in an emergency, so it must never be blocked."
       },
       "hi": {
-        "question": "इनमें से किस जगह पार्किंग निषिद्ध है?",
+        "question": "इनमें से कौन-सी ऐसी जगह है जहाँ कभी पार्क नहीं करना चाहिए?",
         "options": [
           "फ़ायर हाइड्रेंट को रोकना",
           "सार्वजनिक कुएँ के पास",
@@ -1004,28 +1004,28 @@
     "options": [
       "On a footpath",
       "At the top of a hill",
-      "Neither of these"
+      "Only where parking is not prohibited and you do not block others"
     ],
     "correctAnswer": 2,
-    "explanation": "Parking on a footpath or at the top of a hill is unsafe, so neither is allowed.",
+    "explanation": "Never park on a footpath or where it is unsafe, such as the top of a hill; park only where it is permitted and causes no obstruction.",
     "languages": {
       "en": {
         "question": "Where are you allowed to park?",
         "options": [
           "On a footpath",
           "At the top of a hill",
-          "Neither of these"
+          "Only where parking is not prohibited and you do not block others"
         ],
-        "explanation": "Parking on a footpath or at the top of a hill is unsafe, so neither is allowed."
+        "explanation": "Never park on a footpath or where it is unsafe, such as the top of a hill; park only where it is permitted and causes no obstruction."
       },
       "hi": {
         "question": "आप कहाँ पार्क कर सकते हैं?",
         "options": [
-          "फुटपाथ पर",
+          "फ़ुटपाथ पर",
           "पहाड़ी की चोटी पर",
-          "इनमें से कहीं नहीं"
+          "केवल वहाँ जहाँ पार्किंग वर्जित नहीं है और दूसरों को रुकावट नहीं होती"
         ],
-        "explanation": "फुटपाथ पर या पहाड़ी की चोटी पर पार्किंग असुरक्षित है, इसलिए दोनों जगह मना है।"
+        "explanation": "फ़ुटपाथ पर या पहाड़ी की चोटी जैसी असुरक्षित जगह पर कभी पार्क न करें; केवल अनुमत स्थान पर पार्क करें जहाँ रुकावट न हो।"
       }
     },
     "applicableVehicleClasses": [
@@ -1098,28 +1098,28 @@
     "difficulty": 1,
     "question": "When parking your vehicle, you should",
     "options": [
-      "Park so that you do not block or inconvenience other road users",
       "Park parallel to the kerb",
-      "Park at a right angle to the kerb"
+      "Park at a right angle to the kerb",
+      "Park so that you do not block or inconvenience other road users"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation": "The main rule of parking is not to obstruct or trouble other road users.",
     "languages": {
       "en": {
         "question": "When parking your vehicle, you should",
         "options": [
-          "Park so that you do not block or inconvenience other road users",
           "Park parallel to the kerb",
-          "Park at a right angle to the kerb"
+          "Park at a right angle to the kerb",
+          "Park so that you do not block or inconvenience other road users"
         ],
         "explanation": "The main rule of parking is not to obstruct or trouble other road users."
       },
       "hi": {
         "question": "वाहन पार्क करते समय आपको:",
         "options": [
-          "इस तरह पार्क करना चाहिए कि दूसरे सड़क उपयोगकर्ताओं को रुकावट या परेशानी न हो",
           "कर्ब के समानांतर पार्क करना चाहिए",
-          "कर्ब से समकोण पर पार्क करना चाहिए"
+          "कर्ब से समकोण पर पार्क करना चाहिए",
+          "इस तरह पार्क करना चाहिए कि दूसरे सड़क उपयोगकर्ताओं को रुकावट या परेशानी न हो"
         ],
         "explanation": "पार्किंग का मुख्य नियम है कि दूसरे सड़क उपयोगकर्ताओं को रुकावट या परेशानी न दें।"
       }

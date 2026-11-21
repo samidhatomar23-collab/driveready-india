@@ -34,7 +34,7 @@
           "बीच में",
           "किसी भी ओर"
         ],
-        "explanation": "भारत में बाएँ हाथ का यातायात है: बाईं ओर चलें।"
+        "explanation": "भारत में बाएँ हाथ का यातायात है: बाईं ओर चलें (Reg. 4(3)।"
       },
       "mr": {
         "question": "भारतात वाहने रस्त्याच्या कोणत्या बाजूने चालवली जातात?",
@@ -90,20 +90,20 @@
     "difficulty": 1,
     "question": "At a roundabout you should give way to:",
     "options": [
-      "Traffic already on the roundabout",
       "Traffic entering after you",
       "Only buses",
+      "Traffic already on the roundabout",
       "Nobody"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation": "While entering a roundabout, traffic already in the roundabout has the right of way (Reg. 10(1)).",
     "languages": {
       "en": {
         "question": "At a roundabout you should give way to:",
         "options": [
-          "Traffic already on the roundabout",
           "Traffic entering after you",
           "Only buses",
+          "Traffic already on the roundabout",
           "Nobody"
         ],
         "explanation": "While entering a roundabout, traffic already in the roundabout has the right of way (Reg. 10(1))."
@@ -111,19 +111,19 @@
       "hi": {
         "question": "गोलचक्कर पर आपको किसे रास्ता देना चाहिए?",
         "options": [
-          "गोलचक्कर पर पहले से चल रहे यातायात को",
           "आपके बाद प्रवेश करने वाले को",
           "केवल बसों को",
+          "गोलचक्कर पर पहले से चल रहे यातायात को",
           "किसी को नहीं"
         ],
-        "explanation": "पहले से चल रहे यातायात की प्राथमिकता होती है; प्रवेश से पहले रास्ता दें।"
+        "explanation": "पहले से चल रहे यातायात की प्राथमिकता होती है; प्रवेश से पहले रास्ता दें (Reg. 10(1)।"
       },
       "mr": {
         "question": "वर्तुळाकार चौकात तुम्ही कोणाला मार्ग द्यावा?",
         "options": [
-          "आधीच वर्तुळाकार चौकात असलेल्या वाहतुकीला",
           "तुमच्यानंतर आत येणाऱ्या वाहतुकीला",
           "फक्त बसना",
+          "आधीच वर्तुळाकार चौकात असलेल्या वाहतुकीला",
           "कोणालाही नाही"
         ],
         "explanation": "वर्तुळाकार चौकात प्रवेश करताना, आधीच चौकात असलेल्या वाहतुकीला प्राधान्य असते (Reg. 10(1))."
@@ -131,9 +131,9 @@
       "te": {
         "question": "రౌండ్‌అబౌట్ వద్ద మీరు ఎవరికి దారి ఇవ్వాలి:",
         "options": [
-          "రౌండ్‌అబౌట్‌లో ఇప్పటికే ఉన్న వాహనాలకు",
           "మీ తర్వాత లోపలికి వచ్చే వాహనాలకు",
           "బస్సులకు మాత్రమే",
+          "రౌండ్‌అబౌట్‌లో ఇప్పటికే ఉన్న వాహనాలకు",
           "ఎవరికీ కాదు"
         ],
         "explanation": "రౌండ్‌అబౌట్‌లోకి ప్రవేశించేటప్పుడు, అందులో ఇప్పటికే ఉన్న వాహనాలకు ముందుగా వెళ్లే హక్కు ఉంటుంది (Reg. 10(1))."
@@ -141,9 +141,9 @@
       "ta": {
         "question": "ரவுண்டானாவில் நீங்கள் யாருக்கு வழிவிட வேண்டும்?",
         "options": [
-          "ஏற்கெனவே ரவுண்டானாவில் செல்லும் வாகனங்களுக்கு",
           "உங்களுக்குப் பின் உள்ளே நுழையும் வாகனங்களுக்கு",
           "பேருந்துகளுக்கு மட்டும்",
+          "ஏற்கெனவே ரவுண்டானாவில் செல்லும் வாகனங்களுக்கு",
           "யாருக்கும் இல்லை"
         ],
         "explanation": "ரவுண்டானாவுக்குள் நுழையும்போது, ஏற்கெனவே ரவுண்டானாவில் உள்ள வாகனங்களுக்கே முன்னுரிமை உண்டு (Reg. 10(1))."
@@ -172,19 +172,19 @@
     "difficulty": 1,
     "question": "You are on a minor road joining a main road. You should:",
     "options": [
-      "Give way to traffic on the main road",
       "Expect the main road to give way",
+      "Give way to traffic on the main road",
       "Speed up and merge",
       "Stop only at night"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "A vehicle exiting a minor road onto a major road does not get the right-of-way priority; give way to traffic on the major road (Reg. 9(2)).",
     "languages": {
       "en": {
         "question": "You are on a minor road joining a main road. You should:",
         "options": [
-          "Give way to traffic on the main road",
           "Expect the main road to give way",
+          "Give way to traffic on the main road",
           "Speed up and merge",
           "Stop only at night"
         ],
@@ -193,8 +193,8 @@
       "hi": {
         "question": "आप एक छोटी सड़क पर हैं जो मुख्य सड़क से मिलती है। आपको क्या करना चाहिए?",
         "options": [
-          "मुख्य सड़क के यातायात को रास्ता दें",
           "उम्मीद करें कि मुख्य सड़क वाले रास्ता देंगे",
+          "मुख्य सड़क के यातायात को रास्ता दें",
           "गति बढ़ाकर मिल जाएँ",
           "केवल रात में रुकें"
         ],
@@ -203,8 +203,8 @@
       "mr": {
         "question": "तुम्ही मुख्य रस्त्याला मिळणाऱ्या लहान रस्त्यावर आहात. तुम्ही काय करावे?",
         "options": [
-          "मुख्य रस्त्यावरील वाहतुकीला मार्ग द्यावा",
           "मुख्य रस्त्यावरील वाहनांनी मार्ग द्यावा अशी अपेक्षा ठेवावी",
+          "मुख्य रस्त्यावरील वाहतुकीला मार्ग द्यावा",
           "वेग वाढवून मिसळावे",
           "फक्त रात्री थांबावे"
         ],
@@ -213,8 +213,8 @@
       "te": {
         "question": "మీరు ఒక చిన్న రోడ్డులో ఉన్నారు, అది ప్రధాన రోడ్డులో కలుస్తోంది. మీరు:",
         "options": [
-          "ప్రధాన రోడ్డులోని వాహనాలకు దారి ఇవ్వాలి",
           "ప్రధాన రోడ్డు వాహనాలు దారి ఇస్తాయని అనుకోవాలి",
+          "ప్రధాన రోడ్డులోని వాహనాలకు దారి ఇవ్వాలి",
           "వేగం పెంచి కలిసిపోవాలి",
           "రాత్రి వేళ మాత్రమే ఆగాలి"
         ],
@@ -223,8 +223,8 @@
       "ta": {
         "question": "நீங்கள் ஒரு முக்கியச் சாலையில் இணையும் சிறிய சாலையில் உள்ளீர்கள். நீங்கள்:",
         "options": [
-          "முக்கியச் சாலையில் வரும் வாகனங்களுக்கு வழிவிட வேண்டும்",
           "முக்கியச் சாலை வாகனங்கள் வழிவிடும் என எதிர்பார்க்க வேண்டும்",
+          "முக்கியச் சாலையில் வரும் வாகனங்களுக்கு வழிவிட வேண்டும்",
           "வேகத்தைக் கூட்டி இணைய வேண்டும்",
           "இரவில் மட்டும் நிற்க வேண்டும்"
         ],
@@ -254,61 +254,61 @@
     "difficulty": 1,
     "question": "When turning right at a junction, you must give way to:",
     "options": [
-      "Oncoming traffic going straight",
       "Nobody",
       "Only pedestrians",
-      "Vehicles behind you"
+      "Vehicles behind you",
+      "Oncoming traffic going straight"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation": "Oncoming traffic going straight ahead has priority over a vehicle turning across its path.",
     "languages": {
       "en": {
         "question": "When turning right at a junction, you must give way to:",
         "options": [
-          "Oncoming traffic going straight",
           "Nobody",
           "Only pedestrians",
-          "Vehicles behind you"
+          "Vehicles behind you",
+          "Oncoming traffic going straight"
         ],
         "explanation": "Oncoming traffic going straight ahead has priority over a vehicle turning across its path."
       },
       "hi": {
         "question": "चौराहे पर दाएँ मुड़ते समय आपको किसे रास्ता देना चाहिए?",
         "options": [
-          "सामने से सीधे आ रहे यातायात को",
           "किसी को नहीं",
           "केवल पैदल यात्रियों को",
-          "आपके पीछे के वाहनों को"
+          "आपके पीछे के वाहनों को",
+          "सामने से सीधे आ रहे यातायात को"
         ],
         "explanation": "सामने से सीधे आ रहे यातायात को, आपके रास्ते को काटकर मुड़ने वाले वाहन पर प्राथमिकता होती है।"
       },
       "mr": {
         "question": "चौकात उजवीकडे वळताना तुम्ही कोणाला मार्ग द्यावा?",
         "options": [
-          "समोरून सरळ येणाऱ्या वाहतुकीला",
           "कोणालाही नाही",
           "फक्त पादचाऱ्यांना",
-          "तुमच्या मागच्या वाहनांना"
+          "तुमच्या मागच्या वाहनांना",
+          "समोरून सरळ येणाऱ्या वाहतुकीला"
         ],
         "explanation": "समोरून सरळ पुढे येणाऱ्या वाहतुकीला, त्यांच्या मार्गाला आडवे वळणाऱ्या वाहनापेक्षा प्राधान्य असते."
       },
       "te": {
         "question": "కూడలి వద్ద కుడివైపునకు తిరిగేటప్పుడు, మీరు ఎవరికి దారి ఇవ్వాలి:",
         "options": [
-          "ఎదురుగా నేరుగా వస్తున్న వాహనాలకు",
           "ఎవరికీ కాదు",
           "పాదచారులకు మాత్రమే",
-          "మీ వెనుక ఉన్న వాహనాలకు"
+          "మీ వెనుక ఉన్న వాహనాలకు",
+          "ఎదురుగా నేరుగా వస్తున్న వాహనాలకు"
         ],
         "explanation": "నేరుగా ముందుకు వెళ్లే ఎదురు వాహనాలకు, వాటి దారిని దాటి తిరిగే వాహనం కంటే ముందుగా వెళ్లే హక్కు ఉంటుంది."
       },
       "ta": {
         "question": "சந்திப்பில் வலதுபுறம் திரும்பும்போது, நீங்கள் யாருக்கு வழிவிட வேண்டும்?",
         "options": [
-          "எதிரே நேராக வரும் வாகனங்களுக்கு",
           "யாருக்கும் இல்லை",
           "பாதசாரிகளுக்கு மட்டும்",
-          "உங்களுக்குப் பின்னால் வரும் வாகனங்களுக்கு"
+          "உங்களுக்குப் பின்னால் வரும் வாகனங்களுக்கு",
+          "எதிரே நேராக வரும் வாகனங்களுக்கு"
         ],
         "explanation": "எதிரே நேராக வரும் வாகனங்களுக்கு, அவற்றின் பாதையைக் குறுக்கே கடந்து திரும்பும் வாகனத்தை விட முன்னுரிமை உண்டு."
       }
@@ -475,20 +475,20 @@
     "difficulty": 1,
     "question": "At an intersection with no signs or signals, which vehicle generally has the right of way?",
     "options": [
-      "The vehicle approaching from your right",
       "The vehicle approaching from your left",
       "The faster vehicle",
+      "The vehicle approaching from your right",
       "The larger vehicle"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation": "Vehicles approaching from the right generally have the right of way, except where signals, manual control or mandatory signs apply, or when exiting a minor road onto a major one (Reg. 9(2)).",
     "languages": {
       "en": {
         "question": "At an intersection with no signs or signals, which vehicle generally has the right of way?",
         "options": [
-          "The vehicle approaching from your right",
           "The vehicle approaching from your left",
           "The faster vehicle",
+          "The vehicle approaching from your right",
           "The larger vehicle"
         ],
         "explanation": "Vehicles approaching from the right generally have the right of way, except where signals, manual control or mandatory signs apply, or when exiting a minor road onto a major one (Reg. 9(2))."
@@ -496,9 +496,9 @@
       "hi": {
         "question": "बिना चिह्न या सिग्नल वाले चौराहे पर आम तौर पर किस वाहन को रास्ते का अधिकार होता है?",
         "options": [
-          "आपकी दाईं ओर से आने वाले वाहन को",
           "आपकी बाईं ओर से आने वाले वाहन को",
           "तेज़ वाहन को",
+          "आपकी दाईं ओर से आने वाले वाहन को",
           "बड़े वाहन को"
         ],
         "explanation": "आम तौर पर दाईं ओर से आने वाले वाहन को रास्ते का अधिकार होता है, सिवाय जहाँ सिग्नल, हाथ से नियंत्रण या अनिवार्य चिह्न लागू हों, या जब कोई वाहन छोटी सड़क से मुख्य सड़क पर आ रहा हो (Reg. 9(2))।"
@@ -506,9 +506,9 @@
       "mr": {
         "question": "चिन्हे किंवा सिग्नल नसलेल्या चौकात साधारणपणे कोणत्या वाहनाला प्राधान्य असते?",
         "options": [
-          "तुमच्या उजवीकडून येणारे वाहन",
           "तुमच्या डावीकडून येणारे वाहन",
           "जास्त वेगाचे वाहन",
+          "तुमच्या उजवीकडून येणारे वाहन",
           "मोठे वाहन"
         ],
         "explanation": "सिग्नल, हाताने नियंत्रण किंवा सक्तीची चिन्हे असतील, किंवा लहान रस्त्यावरून मुख्य रस्त्यावर येत असाल तर ते वगळता, उजवीकडून येणाऱ्या वाहनांना साधारणपणे प्राधान्य असते (Reg. 9(2))."
@@ -516,9 +516,9 @@
       "te": {
         "question": "సంకేతాలు లేదా సిగ్నళ్లు లేని కూడలి వద్ద, సాధారణంగా ఏ వాహనానికి ముందుగా వెళ్లే హక్కు ఉంటుంది?",
         "options": [
-          "మీ కుడి వైపు నుంచి వస్తున్న వాహనం",
           "మీ ఎడమ వైపు నుంచి వస్తున్న వాహనం",
           "వేగంగా వస్తున్న వాహనం",
+          "మీ కుడి వైపు నుంచి వస్తున్న వాహనం",
           "పెద్ద వాహనం"
         ],
         "explanation": "సిగ్నళ్లు, చేతితో నియంత్రణ లేదా తప్పనిసరి సంకేతాలు ఉన్నప్పుడు, లేదా చిన్న రోడ్డు నుంచి ప్రధాన రోడ్డులోకి వస్తున్నప్పుడు తప్ప, కుడి వైపు నుంచి వచ్చే వాహనాలకు సాధారణంగా ముందుగా వెళ్లే హక్కు ఉంటుంది (Reg. 9(2))."
@@ -526,9 +526,9 @@
       "ta": {
         "question": "குறியீடுகளோ சிக்னல்களோ இல்லாத சந்திப்பில், பொதுவாக எந்த வாகனத்துக்கு முன்னுரிமை உண்டு?",
         "options": [
-          "உங்கள் வலதுபுறத்திலிருந்து வரும் வாகனம்",
           "உங்கள் இடதுபுறத்திலிருந்து வரும் வாகனம்",
           "வேகமாக வரும் வாகனம்",
+          "உங்கள் வலதுபுறத்திலிருந்து வரும் வாகனம்",
           "பெரிய வாகனம்"
         ],
         "explanation": "சிக்னல்கள், கைகளால் கட்டுப்படுத்துதல் அல்லது கட்டாயக் குறியீடுகள் உள்ள இடங்களிலும், சிறிய சாலையிலிருந்து முக்கியச் சாலைக்கு வரும்போதும் தவிர, பொதுவாக வலதுபுறத்திலிருந்து வரும் வாகனங்களுக்கு முன்னுரிமை உண்டு (Reg. 9(2))."
@@ -583,7 +583,7 @@
           "तेजी से बगल से निकल जाएँ",
           "लाइट चमकाकर आगे बढ़ें"
         ],
-        "explanation": "बिना सिग्नल वाली पैदल क्रॉसिंग के पास धीमे हों, रुकें और पैदल यात्रियों को रास्ता दें।"
+        "explanation": "बिना सिग्नल वाली पैदल क्रॉसिंग के पास धीमे हों, रुकें और पैदल यात्रियों को रास्ता दें (Reg. 39(1)।"
       },
       "mr": {
         "question": "नियंत्रण नसलेल्या पादचारी (झेब्रा) क्रॉसिंगवर एक पादचारी रस्ता ओलांडत आहे. तुम्ही काय करावे?",
@@ -709,61 +709,61 @@
     "difficulty": 1,
     "question": "You see a person with a white cane waiting to cross. You should:",
     "options": [
-      "Stop and give way",
       "Honk loudly",
       "Pass closely",
-      "Ignore"
+      "Ignore",
+      "Stop and give way"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation": "Drivers must take special care of vulnerable road users, including children and differently-abled people (Reg. 5(4)). Give them time and room.",
     "languages": {
       "en": {
         "question": "You see a person with a white cane waiting to cross. You should:",
         "options": [
-          "Stop and give way",
           "Honk loudly",
           "Pass closely",
-          "Ignore"
+          "Ignore",
+          "Stop and give way"
         ],
         "explanation": "Drivers must take special care of vulnerable road users, including children and differently-abled people (Reg. 5(4)). Give them time and room."
       },
       "hi": {
         "question": "आप सफ़ेद छड़ी वाले व्यक्ति को सड़क पार करने के लिए इंतज़ार करते देखते हैं। आपको क्या करना चाहिए?",
         "options": [
-          "रुकें और रास्ता दें",
           "ज़ोर से हॉर्न बजाएँ",
           "बहुत पास से निकलें",
-          "अनदेखा करें"
+          "अनदेखा करें",
+          "रुकें और रास्ता दें"
         ],
         "explanation": "चालकों को बच्चों और दिव्यांगजनों सहित असुरक्षित सड़क उपयोगकर्ताओं का विशेष ध्यान रखना चाहिए (Reg. 5(4))। उन्हें समय और जगह दें।"
       },
       "mr": {
         "question": "पांढरी काठी घेतलेली एक व्यक्ती रस्ता ओलांडण्यासाठी थांबलेली तुम्हाला दिसते. तुम्ही काय करावे?",
         "options": [
-          "थांबून मार्ग द्यावा",
           "जोरात हॉर्न वाजवावा",
           "अगदी जवळून पुढे जावे",
-          "दुर्लक्ष करावे"
+          "दुर्लक्ष करावे",
+          "थांबून मार्ग द्यावा"
         ],
         "explanation": "मुले आणि दिव्यांग व्यक्तींसह दुर्बल रस्ता वापरकर्त्यांची चालकांनी विशेष काळजी घ्यावी (Reg. 5(4)). त्यांना वेळ आणि जागा द्या."
       },
       "te": {
         "question": "తెల్ల కర్ర పట్టుకున్న వ్యక్తి రోడ్డు దాటడానికి వేచి ఉండటం మీరు చూశారు. మీరు:",
         "options": [
-          "ఆగి దారి ఇవ్వాలి",
           "గట్టిగా హారన్ కొట్టాలి",
           "దగ్గరగా దాటి వెళ్లాలి",
-          "పట్టించుకోకూడదు"
+          "పట్టించుకోకూడదు",
+          "ఆగి దారి ఇవ్వాలి"
         ],
         "explanation": "పిల్లలు మరియు దివ్యాంగులతో సహా బలహీన రోడ్డు వినియోగదారుల పట్ల డ్రైవర్లు ప్రత్యేక జాగ్రత్త తీసుకోవాలి (Reg. 5(4)). వారికి సమయం మరియు స్థలం ఇవ్వండి."
       },
       "ta": {
         "question": "வெள்ளைப் பிரம்பு வைத்திருக்கும் ஒருவர் சாலையைக் கடக்கக் காத்திருப்பதைப் பார்க்கிறீர்கள். நீங்கள்:",
         "options": [
-          "நிறுத்தி வழிவிட வேண்டும்",
           "சத்தமாக ஹாரன் அடிக்க வேண்டும்",
           "மிக அருகில் கடந்து செல்ல வேண்டும்",
-          "கண்டுகொள்ளக் கூடாது"
+          "கண்டுகொள்ளக் கூடாது",
+          "நிறுத்தி வழிவிட வேண்டும்"
         ],
         "explanation": "குழந்தைகள், மாற்றுத்திறனாளிகள் உள்ளிட்ட பாதிக்கப்படக்கூடிய சாலைப் பயனாளர்கள் மீது ஓட்டுநர்கள் சிறப்புக் கவனம் செலுத்த வேண்டும் (Reg. 5(4)). அவர்களுக்கு நேரமும் இடமும் கொடுங்கள்."
       }
@@ -791,19 +791,19 @@
     "difficulty": 1,
     "question": "Near a school at closing time you should:",
     "options": [
-      "Drive slowly and be ready to stop",
       "Maintain speed",
+      "Drive slowly and be ready to stop",
       "Use the horn continuously",
       "Overtake"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "Take special care of children (Reg. 5(4)); near schools where signs indicate it, speed is limited to 25 km/h (Reg. 16(5)).",
     "languages": {
       "en": {
         "question": "Near a school at closing time you should:",
         "options": [
-          "Drive slowly and be ready to stop",
           "Maintain speed",
+          "Drive slowly and be ready to stop",
           "Use the horn continuously",
           "Overtake"
         ],
@@ -812,8 +812,8 @@
       "hi": {
         "question": "स्कूल की छुट्टी के समय स्कूल के पास आपको क्या करना चाहिए?",
         "options": [
-          "धीमे चलें और रुकने के लिए तैयार रहें",
           "गति बनाए रखें",
+          "धीमे चलें और रुकने के लिए तैयार रहें",
           "लगातार हॉर्न बजाएँ",
           "ओवरटेक करें"
         ],
@@ -822,8 +822,8 @@
       "mr": {
         "question": "शाळा सुटण्याच्या वेळी शाळेजवळ तुम्ही काय करावे?",
         "options": [
-          "हळू चालवावे आणि थांबण्यास तयार राहावे",
           "वेग तसाच ठेवावा",
+          "हळू चालवावे आणि थांबण्यास तयार राहावे",
           "सतत हॉर्न वाजवावा",
           "ओव्हरटेक करावे"
         ],
@@ -832,8 +832,8 @@
       "te": {
         "question": "పాఠశాల వదిలే సమయంలో పాఠశాల దగ్గర మీరు:",
         "options": [
-          "నెమ్మదిగా నడిపి, ఆగడానికి సిద్ధంగా ఉండాలి",
           "అదే వేగంతో వెళ్లాలి",
+          "నెమ్మదిగా నడిపి, ఆగడానికి సిద్ధంగా ఉండాలి",
           "హారన్ ఆపకుండా కొట్టాలి",
           "ఓవర్‌టేక్ చేయాలి"
         ],
@@ -842,8 +842,8 @@
       "ta": {
         "question": "பள்ளி முடியும் நேரத்தில் பள்ளிக்கு அருகில் நீங்கள்:",
         "options": [
-          "மெதுவாக ஓட்டி, நிறுத்தத் தயாராக இருக்க வேண்டும்",
           "வேகத்தை மாற்றாமல் செல்ல வேண்டும்",
+          "மெதுவாக ஓட்டி, நிறுத்தத் தயாராக இருக்க வேண்டும்",
           "தொடர்ந்து ஹாரன் அடிக்க வேண்டும்",
           "முந்திச் செல்ல வேண்டும்"
         ],
@@ -1025,20 +1025,20 @@
     "difficulty": 1,
     "question": "An ambulance with a siren approaches from behind. You should:",
     "options": [
-      "Pull to the left and let it pass",
       "Speed up",
       "Stay in the middle",
+      "Pull to the left and let it pass",
       "Stop suddenly in the middle of the road"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation": "Give way to an emergency vehicle by driving to the left as close as practicable to the kerb (Reg. 27(5)(a)).",
     "languages": {
       "en": {
         "question": "An ambulance with a siren approaches from behind. You should:",
         "options": [
-          "Pull to the left and let it pass",
           "Speed up",
           "Stay in the middle",
+          "Pull to the left and let it pass",
           "Stop suddenly in the middle of the road"
         ],
         "explanation": "Give way to an emergency vehicle by driving to the left as close as practicable to the kerb (Reg. 27(5)(a))."
@@ -1046,19 +1046,19 @@
       "hi": {
         "question": "पीछे से सायरन बजाती एम्बुलेंस आ रही है। आपको क्या करना चाहिए?",
         "options": [
-          "बाईं ओर होकर उसे निकलने दें",
           "गति बढ़ाएँ",
           "बीच सड़क पर रहें",
+          "बाईं ओर होकर उसे निकलने दें",
           "अचानक बीच सड़क में रुकें"
         ],
-        "explanation": "आपातकालीन वाहनों को रास्ता दें: सुरक्षित रूप से बाईं ओर होकर धीमे हों या ज़रूरत हो तो रुकें।"
+        "explanation": "आपातकालीन वाहनों को रास्ता दें: सुरक्षित रूप से बाईं ओर होकर धीमे हों या ज़रूरत हो तो रुकें (Reg. 27(5)।"
       },
       "mr": {
         "question": "सायरन वाजवत एक रुग्णवाहिका तुमच्या मागून येत आहे. तुम्ही काय करावे?",
         "options": [
-          "डावीकडे घेऊन तिला पुढे जाऊ द्यावे",
           "वेग वाढवावा",
           "मध्येच राहावे",
+          "डावीकडे घेऊन तिला पुढे जाऊ द्यावे",
           "रस्त्याच्या मध्येच अचानक थांबावे"
         ],
         "explanation": "आपत्कालीन वाहनाला मार्ग देण्यासाठी शक्य तितके कर्बच्या जवळ डाव्या बाजूने चालवा (Reg. 27(5)(a))."
@@ -1066,9 +1066,9 @@
       "te": {
         "question": "సైరన్‌తో అంబులెన్స్ మీ వెనుక నుంచి వస్తోంది. మీరు:",
         "options": [
-          "ఎడమ వైపునకు జరిగి దానిని వెళ్లనివ్వాలి",
           "వేగం పెంచాలి",
           "మధ్యలోనే ఉండాలి",
+          "ఎడమ వైపునకు జరిగి దానిని వెళ్లనివ్వాలి",
           "రోడ్డు మధ్యలో ఒక్కసారిగా ఆగిపోవాలి"
         ],
         "explanation": "అత్యవసర వాహనానికి దారి ఇవ్వడానికి, వీలైనంత వరకు కర్బ్‌కు దగ్గరగా ఎడమ వైపునకు నడపండి (Reg. 27(5)(a))."
@@ -1076,9 +1076,9 @@
       "ta": {
         "question": "சைரனுடன் ஆம்புலன்ஸ் உங்களுக்குப் பின்னால் வருகிறது. நீங்கள்:",
         "options": [
-          "இடதுபுறம் ஒதுங்கி அதைச் செல்ல விட வேண்டும்",
           "வேகத்தைக் கூட்ட வேண்டும்",
           "நடுவிலேயே இருக்க வேண்டும்",
+          "இடதுபுறம் ஒதுங்கி அதைச் செல்ல விட வேண்டும்",
           "சாலையின் நடுவில் திடீரென நிறுத்த வேண்டும்"
         ],
         "explanation": "அவசரகால வாகனத்துக்கு, நடைபாதை ஓரத்துக்கு முடிந்தவரை அருகில் இடதுபுறம் ஒதுங்கி வழிவிடுங்கள் (Reg. 27(5)(a))."
@@ -1107,19 +1107,19 @@
     "difficulty": 1,
     "question": "Normally you should overtake a vehicle on its:",
     "options": [
-      "Right side",
       "Left side",
+      "Right side",
       "Either side freely",
       "Footpath side"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "A vehicle shall be overtaken only from the right side, with the exceptions listed in the regulation (Reg. 14(2)).",
     "languages": {
       "en": {
         "question": "Normally you should overtake a vehicle on its:",
         "options": [
-          "Right side",
           "Left side",
+          "Right side",
           "Either side freely",
           "Footpath side"
         ],
@@ -1128,8 +1128,8 @@
       "hi": {
         "question": "आम तौर पर किसी वाहन को उसकी किस ओर से ओवरटेक करना चाहिए?",
         "options": [
-          "दाईं ओर से",
           "बाईं ओर से",
+          "दाईं ओर से",
           "किसी भी ओर से बेरोकटोक",
           "फुटपाथ की ओर से"
         ],
@@ -1138,8 +1138,8 @@
       "mr": {
         "question": "साधारणपणे तुम्ही वाहनाला त्याच्या कोणत्या बाजूने ओव्हरटेक करावे?",
         "options": [
-          "उजव्या बाजूने",
           "डाव्या बाजूने",
+          "उजव्या बाजूने",
           "कोणत्याही बाजूने मोकळेपणाने",
           "पदपथाच्या बाजूने"
         ],
@@ -1148,8 +1148,8 @@
       "te": {
         "question": "సాధారణంగా మీరు ఒక వాహనాన్ని దాని ఏ వైపు నుంచి ఓవర్‌టేక్ చేయాలి:",
         "options": [
-          "కుడి వైపు",
           "ఎడమ వైపు",
+          "కుడి వైపు",
           "ఏ వైపైనా స్వేచ్ఛగా",
           "ఫుట్‌పాత్ వైపు"
         ],
@@ -1158,8 +1158,8 @@
       "ta": {
         "question": "வழக்கமாக ஒரு வாகனத்தை அதன் எந்தப் பக்கத்தில் முந்திச் செல்ல வேண்டும்?",
         "options": [
-          "வலது பக்கம்",
           "இடது பக்கம்",
+          "வலது பக்கம்",
           "எந்தப் பக்கமும் சுதந்திரமாக",
           "நடைபாதைப் பக்கம்"
         ],
@@ -1329,61 +1329,61 @@
     "difficulty": 1,
     "question": "The safest way to follow another vehicle is to:",
     "options": [
-      "Keep a safe distance",
       "Stay very close",
       "Use high beam",
-      "Honk repeatedly"
+      "Honk repeatedly",
+      "Keep a safe distance"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation": "Keep enough distance to stop safely if the vehicle ahead slows or stops suddenly; keep more in rain or poor weather (Reg. 17).",
     "languages": {
       "en": {
         "question": "The safest way to follow another vehicle is to:",
         "options": [
-          "Keep a safe distance",
           "Stay very close",
           "Use high beam",
-          "Honk repeatedly"
+          "Honk repeatedly",
+          "Keep a safe distance"
         ],
         "explanation": "Keep enough distance to stop safely if the vehicle ahead slows or stops suddenly; keep more in rain or poor weather (Reg. 17)."
       },
       "hi": {
         "question": "किसी दूसरे वाहन के पीछे चलने का सबसे सुरक्षित तरीका क्या है?",
         "options": [
-          "सुरक्षित दूरी रखें",
           "बहुत पास रहें",
           "हाई बीम का उपयोग करें",
-          "बार-बार हॉर्न बजाएँ"
+          "बार-बार हॉर्न बजाएँ",
+          "सुरक्षित दूरी रखें"
         ],
         "explanation": "आगे वाला वाहन अचानक धीमा हो या रुके तो सुरक्षित रूप से रुक सकें, इतनी दूरी रखें; बारिश या खराब मौसम में अधिक दूरी रखें (Reg. 17)।"
       },
       "mr": {
         "question": "दुसऱ्या वाहनाच्या मागून जाण्याचा सर्वात सुरक्षित मार्ग कोणता?",
         "options": [
-          "सुरक्षित अंतर ठेवणे",
           "अगदी जवळ राहणे",
           "हाय बीम वापरणे",
-          "वारंवार हॉर्न वाजवणे"
+          "वारंवार हॉर्न वाजवणे",
+          "सुरक्षित अंतर ठेवणे"
         ],
         "explanation": "पुढचे वाहन अचानक हळू झाले किंवा थांबले तर सुरक्षितपणे थांबता येईल एवढे अंतर ठेवा; पाऊस किंवा खराब हवामानात जास्त अंतर ठेवा (Reg. 17)."
       },
       "te": {
         "question": "మరో వాహనాన్ని అనుసరించడానికి అత్యంత సురక్షితమైన మార్గం:",
         "options": [
-          "సురక్షిత దూరం పాటించడం",
           "చాలా దగ్గరగా ఉండటం",
           "హై బీమ్ వాడటం",
-          "పదే పదే హారన్ కొట్టడం"
+          "పదే పదే హారన్ కొట్టడం",
+          "సురక్షిత దూరం పాటించడం"
         ],
         "explanation": "ముందున్న వాహనం ఒక్కసారిగా వేగం తగ్గించినా లేదా ఆగినా సురక్షితంగా ఆగడానికి సరిపడా దూరం ఉంచండి; వర్షం లేదా వాతావరణం బాగాలేనప్పుడు ఎక్కువ దూరం ఉంచండి (Reg. 17)."
       },
       "ta": {
         "question": "மற்றொரு வாகனத்தைப் பின்தொடர்வதற்கான பாதுகாப்பான வழி:",
         "options": [
-          "பாதுகாப்பான இடைவெளி விடுவது",
           "மிக அருகில் செல்வது",
           "ஹை பீம் பயன்படுத்துவது",
-          "மீண்டும் மீண்டும் ஹாரன் அடிப்பது"
+          "மீண்டும் மீண்டும் ஹாரன் அடிப்பது",
+          "பாதுகாப்பான இடைவெளி விடுவது"
         ],
         "explanation": "முன்னால் உள்ள வாகனம் திடீரென வேகத்தைக் குறைத்தாலோ நின்றாலோ பாதுகாப்பாக நிறுத்தும் அளவுக்கு இடைவெளி விடுங்கள்; மழையிலும் மோசமான வானிலையிலும் அதிக இடைவெளி விடுங்கள் (Reg. 17)."
       }
@@ -1481,20 +1481,20 @@
     "difficulty": 1,
     "question": "A fire engine is approaching with its bell or siren. You must:",
     "options": [
-      "Give way",
       "Race it",
       "Block the lane",
+      "Give way",
       "Ignore it"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation": "Emergency vehicles with horn and flasher on have the right of way; other drivers must give way (Reg. 27).",
     "languages": {
       "en": {
         "question": "A fire engine is approaching with its bell or siren. You must:",
         "options": [
-          "Give way",
           "Race it",
           "Block the lane",
+          "Give way",
           "Ignore it"
         ],
         "explanation": "Emergency vehicles with horn and flasher on have the right of way; other drivers must give way (Reg. 27)."
@@ -1502,9 +1502,9 @@
       "hi": {
         "question": "फायर इंजन घंटी या सायरन बजाता हुआ आ रहा है। आपको क्या करना चाहिए?",
         "options": [
-          "रास्ता दें",
           "उससे होड़ लगाएँ",
           "लेन रोक दें",
+          "रास्ता दें",
           "अनदेखा करें"
         ],
         "explanation": "हॉर्न और फ्लैशर चालू होने पर आपातकालीन वाहन को रास्ते का अधिकार होता है; अन्य चालकों को रास्ता देना चाहिए (Reg. 27)।"
@@ -1512,9 +1512,9 @@
       "mr": {
         "question": "अग्निशमन दलाचे वाहन घंटा किंवा सायरन वाजवत येत आहे. तुम्ही काय केले पाहिजे?",
         "options": [
-          "मार्ग द्यावा",
           "त्याच्याशी शर्यत लावावी",
           "लेन अडवावी",
+          "मार्ग द्यावा",
           "दुर्लक्ष करावे"
         ],
         "explanation": "हॉर्न आणि फ्लॅशर चालू असलेल्या आपत्कालीन वाहनांना प्राधान्य असते; इतर चालकांनी मार्ग द्यावा (Reg. 27)."
@@ -1522,9 +1522,9 @@
       "te": {
         "question": "గంట లేదా సైరన్‌తో అగ్నిమాపక వాహనం వస్తోంది. మీరు తప్పనిసరిగా:",
         "options": [
-          "దారి ఇవ్వాలి",
           "దానితో పోటీ పడాలి",
           "లేన్‌ను అడ్డుకోవాలి",
+          "దారి ఇవ్వాలి",
           "పట్టించుకోకూడదు"
         ],
         "explanation": "హారన్ మరియు ఫ్లాషర్ ఆన్‌లో ఉన్న అత్యవసర వాహనాలకు ముందుగా వెళ్లే హక్కు ఉంటుంది; ఇతర డ్రైవర్లు దారి ఇవ్వాలి (Reg. 27)."
@@ -1532,9 +1532,9 @@
       "ta": {
         "question": "தீயணைப்பு வாகனம் மணி அல்லது சைரனுடன் வருகிறது. நீங்கள்:",
         "options": [
-          "வழிவிட வேண்டும்",
           "அதனுடன் போட்டியிட வேண்டும்",
           "பாதையை அடைக்க வேண்டும்",
+          "வழிவிட வேண்டும்",
           "கண்டுகொள்ளக் கூடாது"
         ],
         "explanation": "ஹாரனும் ஒளிரும் விளக்கும் இயங்கும் அவசரகால வாகனங்களுக்கே முன்னுரிமை; மற்ற ஓட்டுநர்கள் வழிவிட வேண்டும் (Reg. 27)."
@@ -1639,55 +1639,55 @@
     "difficulty": 1,
     "question": "You are approaching a narrow bridge, another vehicle is about to enter the bridge from opposite side you should",
     "options": [
+      "Wait till the other vehicle crosses the bridge and then proceed",
       "Increase the speed and try to cross the bridge as fast as possible",
-      "Put on the head light and pass the bridge",
-      "Wait till the other vehicle crosses the bridge and then proceed"
+      "Put on the head light and pass the bridge"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "At a narrow bridge, wait for the vehicle that is already crossing or about to enter from the opposite side, then proceed.",
     "languages": {
       "en": {
         "question": "You are approaching a narrow bridge, another vehicle is about to enter the bridge from opposite side you should",
         "options": [
+          "Wait till the other vehicle crosses the bridge and then proceed",
           "Increase the speed and try to cross the bridge as fast as possible",
-          "Put on the head light and pass the bridge",
-          "Wait till the other vehicle crosses the bridge and then proceed"
+          "Put on the head light and pass the bridge"
         ],
         "explanation": "At a narrow bridge, wait for the vehicle that is already crossing or about to enter from the opposite side, then proceed."
       },
       "hi": {
         "question": "आप एक संकरे पुल के पास पहुँच रहे हैं, दूसरी ओर से एक और वाहन पुल पर चढ़ने वाला है, आपको चाहिए कि",
         "options": [
+          "दूसरे वाहन के पुल पार करने तक रुकें और फिर आगे बढ़ें",
           "गति बढ़ाकर जितनी जल्दी हो सके पुल पार कर लें",
-          "हेडलाइट जलाकर पुल पार करें",
-          "दूसरे वाहन के पुल पार करने तक रुकें और फिर आगे बढ़ें"
+          "हेडलाइट जलाकर पुल पार करें"
         ],
         "explanation": "संकरे पुल पर, जो वाहन पुल पार कर रहा है या दूसरी ओर से चढ़ने वाला है, उसके लिए रुकें और फिर आगे बढ़ें।"
       },
       "mr": {
         "question": "तुम्ही अरुंद पुलाजवळ येत आहात, आणि विरुद्ध दिशेने दुसरे वाहन पुलावर प्रवेश करणार आहे. तुम्ही काय करावे?",
         "options": [
+          "दुसरे वाहन पूल ओलांडेपर्यंत थांबावे आणि मग पुढे जावे",
           "वेग वाढवून शक्य तितक्या वेगाने पूल ओलांडण्याचा प्रयत्न करावा",
-          "हेडलाइट लावून पूल ओलांडावा",
-          "दुसरे वाहन पूल ओलांडेपर्यंत थांबावे आणि मग पुढे जावे"
+          "हेडलाइट लावून पूल ओलांडावा"
         ],
         "explanation": "अरुंद पुलावर, विरुद्ध दिशेने आधीच पूल ओलांडत असलेल्या किंवा प्रवेश करणार असलेल्या वाहनाची वाट पाहा, मग पुढे जा."
       },
       "te": {
         "question": "మీరు ఇరుకైన వంతెన దగ్గరకు వస్తున్నారు, ఎదురు వైపు నుంచి మరో వాహనం వంతెనపైకి ప్రవేశించబోతోంది, మీరు",
         "options": [
+          "ఆ వాహనం వంతెన దాటే వరకు ఆగి, తర్వాత ముందుకు వెళ్లాలి",
           "వేగం పెంచి వీలైనంత వేగంగా వంతెన దాటడానికి ప్రయత్నించాలి",
-          "హెడ్‌లైట్ వేసి వంతెన దాటాలి",
-          "ఆ వాహనం వంతెన దాటే వరకు ఆగి, తర్వాత ముందుకు వెళ్లాలి"
+          "హెడ్‌లైట్ వేసి వంతెన దాటాలి"
         ],
         "explanation": "ఇరుకైన వంతెన వద్ద, ఇప్పటికే దాటుతున్న లేదా ఎదురు వైపు నుంచి ప్రవేశించబోతున్న వాహనం కోసం ఆగి, తర్వాత ముందుకు వెళ్లండి."
       },
       "ta": {
         "question": "நீங்கள் ஒரு குறுகிய பாலத்தை நெருங்குகிறீர்கள், எதிர்ப்பக்கத்திலிருந்து மற்றொரு வாகனம் பாலத்தில் நுழையப் போகிறது. நீங்கள்",
         "options": [
+          "மற்ற வாகனம் பாலத்தைக் கடக்கும் வரை காத்திருந்து, பின்னர் செல்ல வேண்டும்",
           "வேகத்தைக் கூட்டி முடிந்தவரை விரைவாகப் பாலத்தைக் கடக்க முயல வேண்டும்",
-          "ஹெட்லைட்டைப் போட்டுப் பாலத்தைக் கடக்க வேண்டும்",
-          "மற்ற வாகனம் பாலத்தைக் கடக்கும் வரை காத்திருந்து, பின்னர் செல்ல வேண்டும்"
+          "ஹெட்லைட்டைப் போட்டுப் பாலத்தைக் கடக்க வேண்டும்"
         ],
         "explanation": "குறுகிய பாலத்தில், ஏற்கெனவே கடந்துகொண்டிருக்கும் அல்லது எதிர்ப்பக்கத்திலிருந்து நுழையப் போகும் வாகனத்துக்காகக் காத்திருந்து, பின்னர் செல்லுங்கள்."
       }
@@ -1715,18 +1715,18 @@
     "question": "While turning to a road to the left of the road in which you are going, you should",
     "options": [
       "Show the left turn signal, drive to the center and turn to the left",
-      "Sound horn and turn to the left",
-      "Show the left turn signal, keep to the left side of the road and turn to the left."
+      "Show the left turn signal, keep to the left side of the road and turn to the left.",
+      "Sound horn and turn to the left"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation": "Signal in good time, keep to the left side of the road and then turn left (Reg. 8).",
     "languages": {
       "en": {
         "question": "While turning to a road to the left of the road in which you are going, you should",
         "options": [
           "Show the left turn signal, drive to the center and turn to the left",
-          "Sound horn and turn to the left",
-          "Show the left turn signal, keep to the left side of the road and turn to the left."
+          "Show the left turn signal, keep to the left side of the road and turn to the left.",
+          "Sound horn and turn to the left"
         ],
         "explanation": "Signal in good time, keep to the left side of the road and then turn left (Reg. 8)."
       },
@@ -1734,8 +1734,8 @@
         "question": "जिस सड़क पर आप जा रहे हैं, उससे बाईं ओर की सड़क पर मुड़ते समय आपको चाहिए कि",
         "options": [
           "बाएँ मुड़ने का संकेत दें, सड़क के बीच में जाएँ और बाएँ मुड़ें",
-          "हॉर्न बजाएँ और बाएँ मुड़ें",
-          "बाएँ मुड़ने का संकेत दें, सड़क के बाईं ओर रहें और बाएँ मुड़ें।"
+          "बाएँ मुड़ने का संकेत दें, सड़क के बाईं ओर रहें और बाएँ मुड़ें।",
+          "हॉर्न बजाएँ और बाएँ मुड़ें"
         ],
         "explanation": "समय रहते संकेत दें, सड़क के बाईं ओर रहें और फिर बाएँ मुड़ें (Reg. 8)।"
       },
@@ -1743,8 +1743,8 @@
         "question": "तुम्ही ज्या रस्त्याने जात आहात त्याच्या डावीकडील रस्त्याला वळताना तुम्ही काय करावे?",
         "options": [
           "डावीकडे वळण्याचा सिग्नल द्यावा, रस्त्याच्या मध्यावर जावे आणि डावीकडे वळावे",
-          "हॉर्न वाजवून डावीकडे वळावे",
-          "डावीकडे वळण्याचा सिग्नल द्यावा, रस्त्याच्या डाव्या बाजूला राहावे आणि डावीकडे वळावे."
+          "डावीकडे वळण्याचा सिग्नल द्यावा, रस्त्याच्या डाव्या बाजूला राहावे आणि डावीकडे वळावे.",
+          "हॉर्न वाजवून डावीकडे वळावे"
         ],
         "explanation": "वेळेत सिग्नल द्या, रस्त्याच्या डाव्या बाजूला राहा आणि मग डावीकडे वळा (Reg. 8)."
       },
@@ -1752,8 +1752,8 @@
         "question": "మీరు వెళ్తున్న రోడ్డుకు ఎడమ వైపున ఉన్న రోడ్డులోకి తిరిగేటప్పుడు, మీరు",
         "options": [
           "ఎడమ మలుపు సిగ్నల్ చూపించి, రోడ్డు మధ్యకు నడిపి, ఎడమకు తిరగాలి",
-          "హారన్ కొట్టి ఎడమకు తిరగాలి",
-          "ఎడమ మలుపు సిగ్నల్ చూపించి, రోడ్డుకు ఎడమ వైపునే ఉండి, ఎడమకు తిరగాలి."
+          "ఎడమ మలుపు సిగ్నల్ చూపించి, రోడ్డుకు ఎడమ వైపునే ఉండి, ఎడమకు తిరగాలి.",
+          "హారన్ కొట్టి ఎడమకు తిరగాలి"
         ],
         "explanation": "తగిన సమయంలో సిగ్నల్ ఇచ్చి, రోడ్డుకు ఎడమ వైపునే ఉండి, తర్వాత ఎడమకు తిరగండి (Reg. 8)."
       },
@@ -1761,8 +1761,8 @@
         "question": "நீங்கள் செல்லும் சாலையின் இடதுபுறம் உள்ள சாலைக்குத் திரும்பும்போது, நீங்கள்",
         "options": [
           "இடது திருப்ப சைகை காட்டி, சாலையின் நடுவுக்குச் சென்று இடதுபுறம் திரும்ப வேண்டும்",
-          "ஹாரன் அடித்து இடதுபுறம் திரும்ப வேண்டும்",
-          "இடது திருப்ப சைகை காட்டி, சாலையின் இடது பக்கமாகவே சென்று இடதுபுறம் திரும்ப வேண்டும்."
+          "இடது திருப்ப சைகை காட்டி, சாலையின் இடது பக்கமாகவே சென்று இடதுபுறம் திரும்ப வேண்டும்.",
+          "ஹாரன் அடித்து இடதுபுறம் திரும்ப வேண்டும்"
         ],
         "explanation": "உரிய நேரத்தில் சைகை காட்டி, சாலையின் இடது பக்கமாகவே சென்று, பின்னர் இடதுபுறம் திரும்புங்கள் (Reg. 8)."
       }
@@ -1790,18 +1790,18 @@
     "difficulty": 1,
     "question": "The driver of a vehicle shall not take U-turn",
     "options": [
-      "In a road where there is no traffic restrictions",
       "In a busy road",
+      "In a road where there is no traffic restrictions",
       "When there are vehicles passing through the left"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "A U-turn is barred on busy roads, continuous-flow roads and across a continuous solid line (Reg. 8).",
     "languages": {
       "en": {
         "question": "The driver of a vehicle shall not take U-turn",
         "options": [
-          "In a road where there is no traffic restrictions",
           "In a busy road",
+          "In a road where there is no traffic restrictions",
           "When there are vehicles passing through the left"
         ],
         "explanation": "A U-turn is barred on busy roads, continuous-flow roads and across a continuous solid line (Reg. 8)."
@@ -1809,8 +1809,8 @@
       "hi": {
         "question": "वाहन चालक को यू-टर्न नहीं लेना चाहिए",
         "options": [
-          "ऐसी सड़क पर जहाँ यातायात पर कोई रोक न हो",
           "व्यस्त सड़क पर",
+          "ऐसी सड़क पर जहाँ यातायात पर कोई रोक न हो",
           "जब बाईं ओर से वाहन गुज़र रहे हों"
         ],
         "explanation": "व्यस्त सड़कों, लगातार चलने वाले यातायात की सड़कों और लगातार सीधी रेखा के आर-पार यू-टर्न लेना मना है (Reg. 8)।"
@@ -1818,8 +1818,8 @@
       "mr": {
         "question": "वाहनचालकाने यू-टर्न घेऊ नये",
         "options": [
-          "वाहतुकीवर कोणतेही निर्बंध नसलेल्या रस्त्यावर",
           "गर्दीच्या रस्त्यावर",
+          "वाहतुकीवर कोणतेही निर्बंध नसलेल्या रस्त्यावर",
           "डावीकडून वाहने जात असताना"
         ],
         "explanation": "गर्दीच्या रस्त्यावर, सतत वाहतूक असलेल्या रस्त्यावर आणि सलग घन रेषा ओलांडून यू-टर्न घेण्यास मनाई आहे (Reg. 8)."
@@ -1827,8 +1827,8 @@
       "te": {
         "question": "వాహన డ్రైవర్ యూ-టర్న్ తీసుకోకూడదు",
         "options": [
-          "ట్రాఫిక్ ఆంక్షలు లేని రోడ్డులో",
           "రద్దీగా ఉన్న రోడ్డులో",
+          "ట్రాఫిక్ ఆంక్షలు లేని రోడ్డులో",
           "ఎడమ వైపు నుంచి వాహనాలు వెళ్తున్నప్పుడు"
         ],
         "explanation": "రద్దీ రోడ్లలో, నిరంతరం వాహనాలు సాగే రోడ్లలో మరియు నిరంతర ఘన గీతను దాటి యూ-టర్న్ తీసుకోవడం నిషేధం (Reg. 8)."
@@ -1836,8 +1836,8 @@
       "ta": {
         "question": "வாகன ஓட்டி யு-டர்ன் செய்யக் கூடாத இடம்",
         "options": [
-          "போக்குவரத்துக் கட்டுப்பாடுகள் இல்லாத சாலை",
           "நெரிசலான சாலை",
+          "போக்குவரத்துக் கட்டுப்பாடுகள் இல்லாத சாலை",
           "இடது பக்கத்தில் வாகனங்கள் கடந்து செல்லும்போது"
         ],
         "explanation": "நெரிசலான சாலைகளிலும், தொடர்ச்சியாக வாகனங்கள் செல்லும் சாலைகளிலும், தொடர்ச்சியான நேர்கோட்டைக் கடந்தும் யு-டர்ன் செய்வது தடை (Reg. 8)."
@@ -1942,18 +1942,18 @@
     "question": "When you reach an intersection where there is no signal light or police man, you will…",
     "options": [
       "Give way to traffic approaching the intersection from other roads",
-      "Give proper signal, sound the horn and proceed",
-      "Give way to the traffic approaching the intersection on your right side and proceed after giving necessary signals."
+      "Give way to the traffic approaching the intersection on your right side and proceed after giving necessary signals.",
+      "Give proper signal, sound the horn and proceed"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation": "With no signal or police officer, give way to traffic approaching from your right (Reg. 9(2)).",
     "languages": {
       "en": {
         "question": "When you reach an intersection where there is no signal light or police man, you will…",
         "options": [
           "Give way to traffic approaching the intersection from other roads",
-          "Give proper signal, sound the horn and proceed",
-          "Give way to the traffic approaching the intersection on your right side and proceed after giving necessary signals."
+          "Give way to the traffic approaching the intersection on your right side and proceed after giving necessary signals.",
+          "Give proper signal, sound the horn and proceed"
         ],
         "explanation": "With no signal or police officer, give way to traffic approaching from your right (Reg. 9(2))."
       },
@@ -1961,8 +1961,8 @@
         "question": "जब आप ऐसे चौराहे पर पहुँचें जहाँ न सिग्नल बत्ती हो न पुलिसकर्मी, तो आप…",
         "options": [
           "चौराहे पर दूसरी सड़कों से आने वाले यातायात को रास्ता देंगे",
-          "उचित संकेत देंगे, हॉर्न बजाएँगे और आगे बढ़ेंगे",
-          "अपनी दाईं ओर से चौराहे पर आने वाले यातायात को रास्ता देंगे और ज़रूरी संकेत देकर आगे बढ़ेंगे।"
+          "अपनी दाईं ओर से चौराहे पर आने वाले यातायात को रास्ता देंगे और ज़रूरी संकेत देकर आगे बढ़ेंगे।",
+          "उचित संकेत देंगे, हॉर्न बजाएँगे और आगे बढ़ेंगे"
         ],
         "explanation": "जहाँ सिग्नल या पुलिसकर्मी न हो, वहाँ अपनी दाईं ओर से आने वाले यातायात को रास्ता दें (Reg. 9(2))।"
       },
@@ -1970,8 +1970,8 @@
         "question": "सिग्नल दिवा किंवा वाहतूक पोलीस नसलेल्या चौकात पोहोचल्यावर तुम्ही …",
         "options": [
           "इतर रस्त्यांवरून चौकाकडे येणाऱ्या वाहतुकीला मार्ग द्यावा",
-          "योग्य सिग्नल द्यावा, हॉर्न वाजवावा आणि पुढे जावे",
-          "तुमच्या उजव्या बाजूने चौकाकडे येणाऱ्या वाहतुकीला मार्ग द्यावा आणि आवश्यक सिग्नल देऊन पुढे जावे."
+          "तुमच्या उजव्या बाजूने चौकाकडे येणाऱ्या वाहतुकीला मार्ग द्यावा आणि आवश्यक सिग्नल देऊन पुढे जावे.",
+          "योग्य सिग्नल द्यावा, हॉर्न वाजवावा आणि पुढे जावे"
         ],
         "explanation": "सिग्नल किंवा पोलीस नसेल तर तुमच्या उजवीकडून येणाऱ्या वाहतुकीला मार्ग द्या (Reg. 9(2))."
       },
@@ -1979,8 +1979,8 @@
         "question": "సిగ్నల్ లైటు లేదా పోలీసు లేని కూడలి వద్దకు చేరినప్పుడు, మీరు…",
         "options": [
           "ఇతర రోడ్ల నుంచి కూడలికి వస్తున్న వాహనాలకు దారి ఇవ్వాలి",
-          "సరైన సిగ్నల్ ఇచ్చి, హారన్ కొట్టి ముందుకు వెళ్లాలి",
-          "మీ కుడి వైపు నుంచి కూడలికి వస్తున్న వాహనాలకు దారి ఇచ్చి, అవసరమైన సిగ్నళ్లు ఇచ్చి ముందుకు వెళ్లాలి."
+          "మీ కుడి వైపు నుంచి కూడలికి వస్తున్న వాహనాలకు దారి ఇచ్చి, అవసరమైన సిగ్నళ్లు ఇచ్చి ముందుకు వెళ్లాలి.",
+          "సరైన సిగ్నల్ ఇచ్చి, హారన్ కొట్టి ముందుకు వెళ్లాలి"
         ],
         "explanation": "సిగ్నల్ లేదా పోలీసు లేనప్పుడు, మీ కుడి వైపు నుంచి వచ్చే వాహనాలకు దారి ఇవ్వండి (Reg. 9(2))."
       },
@@ -1988,8 +1988,8 @@
         "question": "சிக்னல் விளக்கோ போக்குவரத்துக் காவலரோ இல்லாத சந்திப்பை அடையும்போது, நீங்கள்…",
         "options": [
           "மற்ற சாலைகளிலிருந்து சந்திப்பை நெருங்கும் வாகனங்களுக்கு வழிவிட வேண்டும்",
-          "உரிய சைகை காட்டி, ஹாரன் ஒலித்து, தொடர்ந்து செல்ல வேண்டும்",
-          "உங்கள் வலதுபுறத்திலிருந்து சந்திப்பை நெருங்கும் வாகனங்களுக்கு வழிவிட்டு, தேவையான சைகைகளைக் காட்டிப் பின்னர் செல்ல வேண்டும்."
+          "உங்கள் வலதுபுறத்திலிருந்து சந்திப்பை நெருங்கும் வாகனங்களுக்கு வழிவிட்டு, தேவையான சைகைகளைக் காட்டிப் பின்னர் செல்ல வேண்டும்.",
+          "உரிய சைகை காட்டி, ஹாரன் ஒலித்து, தொடர்ந்து செல்ல வேண்டும்"
         ],
         "explanation": "சிக்னலோ காவலரோ இல்லாதபோது, உங்கள் வலதுபுறத்திலிருந்து வரும் வாகனங்களுக்கு வழிவிடுங்கள் (Reg. 9(2))."
       }
@@ -2017,55 +2017,55 @@
     "difficulty": 1,
     "question": "You are waiting at a T- Junction, A vehicle is coming from the left with right signal flashing, you should",
     "options": [
+      "wait until the vehicle turn to right side",
       "accelerate hard and move forward",
-      "move forward slowly",
-      "wait until the vehicle turn to right side"
+      "move forward slowly"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "Wait until the vehicle has actually turned right before you move.",
     "languages": {
       "en": {
         "question": "You are waiting at a T- Junction, A vehicle is coming from the left with right signal flashing, you should",
         "options": [
+          "wait until the vehicle turn to right side",
           "accelerate hard and move forward",
-          "move forward slowly",
-          "wait until the vehicle turn to right side"
+          "move forward slowly"
         ],
         "explanation": "Wait until the vehicle has actually turned right before you move."
       },
       "hi": {
         "question": "आप टी-चौराहे पर रुके हैं, बाईं ओर से एक वाहन दाएँ का संकेत देता हुआ आ रहा है, आपको चाहिए कि",
         "options": [
+          "वाहन के दाईं ओर मुड़ जाने तक रुकें",
           "तेज़ी से गति बढ़ाकर आगे बढ़ें",
-          "धीरे से आगे बढ़ें",
-          "वाहन के दाईं ओर मुड़ जाने तक रुकें"
+          "धीरे से आगे बढ़ें"
         ],
         "explanation": "आगे बढ़ने से पहले तब तक रुकें जब तक वाहन सचमुच दाएँ न मुड़ जाए।"
       },
       "mr": {
         "question": "तुम्ही टी-जंक्शनवर थांबला आहात. डावीकडून एक वाहन उजव्या वळणाचा सिग्नल चमकवत येत आहे. तुम्ही काय करावे?",
         "options": [
+          "वाहन उजवीकडे वळेपर्यंत थांबावे",
           "जोरात वेग वाढवून पुढे जावे",
-          "हळूहळू पुढे जावे",
-          "वाहन उजवीकडे वळेपर्यंत थांबावे"
+          "हळूहळू पुढे जावे"
         ],
         "explanation": "वाहन प्रत्यक्षात उजवीकडे वळेपर्यंत थांबा, मगच पुढे जा."
       },
       "te": {
         "question": "మీరు T-జంక్షన్ వద్ద ఆగి ఉన్నారు, ఎడమ వైపు నుంచి ఒక వాహనం కుడి సిగ్నల్ వెలుగుతూ వస్తోంది, మీరు",
         "options": [
+          "ఆ వాహనం కుడి వైపునకు తిరిగే వరకు ఆగాలి",
           "వేగంగా వేగం పెంచి ముందుకు వెళ్లాలి",
-          "నెమ్మదిగా ముందుకు వెళ్లాలి",
-          "ఆ వాహనం కుడి వైపునకు తిరిగే వరకు ఆగాలి"
+          "నెమ్మదిగా ముందుకు వెళ్లాలి"
         ],
         "explanation": "ఆ వాహనం నిజంగా కుడివైపునకు తిరిగిన తర్వాతే మీరు ముందుకు కదలండి."
       },
       "ta": {
         "question": "நீங்கள் ஒரு டி-சந்திப்பில் காத்திருக்கிறீர்கள். இடதுபுறத்திலிருந்து ஒரு வாகனம் வலது சைகை ஒளிர வருகிறது. நீங்கள்",
         "options": [
+          "அந்த வாகனம் வலதுபுறம் திரும்பும் வரை காத்திருக்க வேண்டும்",
           "வேகமாக முடுக்கி முன்னே செல்ல வேண்டும்",
-          "மெதுவாக முன்னே செல்ல வேண்டும்",
-          "அந்த வாகனம் வலதுபுறம் திரும்பும் வரை காத்திருக்க வேண்டும்"
+          "மெதுவாக முன்னே செல்ல வேண்டும்"
         ],
         "explanation": "அந்த வாகனம் உண்மையில் வலதுபுறம் திரும்பிய பின்னரே நீங்கள் நகருங்கள்."
       }
@@ -2093,18 +2093,18 @@
     "question": "At the Blind Junction you must stop",
     "options": [
       "only if there is traffic on the main road",
-      "behind the line and move forward slowly as vision improves",
-      "only if you are turning to the right"
+      "only if you are turning to the right",
+      "behind the line and move forward slowly as vision improves"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "At a junction with poor visibility, stop behind the line and creep forward slowly as your view improves.",
     "languages": {
       "en": {
         "question": "At the Blind Junction you must stop",
         "options": [
           "only if there is traffic on the main road",
-          "behind the line and move forward slowly as vision improves",
-          "only if you are turning to the right"
+          "only if you are turning to the right",
+          "behind the line and move forward slowly as vision improves"
         ],
         "explanation": "At a junction with poor visibility, stop behind the line and creep forward slowly as your view improves."
       },
@@ -2112,8 +2112,8 @@
         "question": "अंधे चौराहे (जहाँ दिखाई कम देता है) पर आपको रुकना चाहिए",
         "options": [
           "केवल तब जब मुख्य सड़क पर यातायात हो",
-          "रेखा के पीछे, और जैसे-जैसे दिखाई देने लगे धीरे-धीरे आगे बढ़ें",
-          "केवल तब जब आप दाएँ मुड़ रहे हों"
+          "केवल तब जब आप दाएँ मुड़ रहे हों",
+          "रेखा के पीछे, और जैसे-जैसे दिखाई देने लगे धीरे-धीरे आगे बढ़ें"
         ],
         "explanation": "कम दिखाई देने वाले चौराहे पर रेखा के पीछे रुकें और जैसे-जैसे आपको साफ़ दिखे, धीरे-धीरे आगे सरकें।"
       },
@@ -2121,8 +2121,8 @@
         "question": "दिसत नसलेल्या जंक्शनवर तुम्ही थांबले पाहिजे",
         "options": [
           "फक्त मुख्य रस्त्यावर वाहतूक असेल तरच",
-          "रेषेच्या मागे, आणि दिसू लागेल तसे हळूहळू पुढे जावे",
-          "फक्त उजवीकडे वळत असाल तरच"
+          "फक्त उजवीकडे वळत असाल तरच",
+          "रेषेच्या मागे, आणि दिसू लागेल तसे हळूहळू पुढे जावे"
         ],
         "explanation": "कमी दृश्यमानता असलेल्या जंक्शनवर रेषेच्या मागे थांबा आणि दिसू लागेल तसे हळूहळू पुढे सरका."
       },
@@ -2130,8 +2130,8 @@
         "question": "కనిపించని (బ్లైండ్) జంక్షన్ వద్ద మీరు తప్పనిసరిగా ఆగాలి",
         "options": [
           "ప్రధాన రోడ్డులో ట్రాఫిక్ ఉంటే మాత్రమే",
-          "గీత వెనుక, ఆపై కనిపించడం మెరుగయ్యే కొద్దీ నెమ్మదిగా ముందుకు కదలాలి",
-          "మీరు కుడివైపునకు తిరుగుతుంటే మాత్రమే"
+          "మీరు కుడివైపునకు తిరుగుతుంటే మాత్రమే",
+          "గీత వెనుక, ఆపై కనిపించడం మెరుగయ్యే కొద్దీ నెమ్మదిగా ముందుకు కదలాలి"
         ],
         "explanation": "కనిపించడం సరిగా లేని జంక్షన్ వద్ద, గీత వెనుక ఆగి, మీ దృష్టి మెరుగయ్యే కొద్దీ నెమ్మదిగా ముందుకు కదలండి."
       },
@@ -2139,8 +2139,8 @@
         "question": "பார்வை மறைக்கப்பட்ட சந்திப்பில் நீங்கள் நிற்க வேண்டும்",
         "options": [
           "முக்கியச் சாலையில் வாகனங்கள் இருந்தால் மட்டும்",
-          "கோட்டுக்குப் பின்னால்; பார்வை தெளிவாகும்போது மெதுவாக முன்னேற வேண்டும்",
-          "வலதுபுறம் திரும்பினால் மட்டும்"
+          "வலதுபுறம் திரும்பினால் மட்டும்",
+          "கோட்டுக்குப் பின்னால்; பார்வை தெளிவாகும்போது மெதுவாக முன்னேற வேண்டும்"
         ],
         "explanation": "பார்வை குறைவாக உள்ள சந்திப்பில், கோட்டுக்குப் பின்னால் நின்று, பார்வை தெளிவாகும்போது மெதுவாக முன்னேறுங்கள்."
       }
@@ -2167,55 +2167,55 @@
     "difficulty": 1,
     "question": "You meet an obstruction on your side of the road, You should",
     "options": [
+      "give way to on coming traffic",
       "move on as you have priority",
-      "accelerate to move quickly",
-      "give way to on coming traffic"
+      "accelerate to move quickly"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "When there is an obstruction on your side, give way to oncoming traffic.",
     "languages": {
       "en": {
         "question": "You meet an obstruction on your side of the road, You should",
         "options": [
+          "give way to on coming traffic",
           "move on as you have priority",
-          "accelerate to move quickly",
-          "give way to on coming traffic"
+          "accelerate to move quickly"
         ],
         "explanation": "When there is an obstruction on your side, give way to oncoming traffic."
       },
       "hi": {
         "question": "आपकी ओर की सड़क पर कोई रुकावट है, आपको चाहिए कि",
         "options": [
+          "सामने से आने वाले यातायात को रास्ता दें",
           "आगे बढ़ें क्योंकि आपको प्राथमिकता है",
-          "तेज़ी से निकलने के लिए गति बढ़ाएँ",
-          "सामने से आने वाले यातायात को रास्ता दें"
+          "तेज़ी से निकलने के लिए गति बढ़ाएँ"
         ],
         "explanation": "जब आपकी ओर रुकावट हो, तो सामने से आने वाले यातायात को रास्ता दें।"
       },
       "mr": {
         "question": "तुमच्या बाजूच्या रस्त्यावर अडथळा आला आहे. तुम्ही काय करावे?",
         "options": [
+          "समोरून येणाऱ्या वाहतुकीला मार्ग द्यावा",
           "तुम्हाला प्राधान्य आहे म्हणून पुढे जावे",
-          "वेग वाढवून पटकन पुढे जावे",
-          "समोरून येणाऱ्या वाहतुकीला मार्ग द्यावा"
+          "वेग वाढवून पटकन पुढे जावे"
         ],
         "explanation": "तुमच्या बाजूला अडथळा असेल तर समोरून येणाऱ्या वाहतुकीला मार्ग द्या."
       },
       "te": {
         "question": "మీ వైపు రోడ్డులో అడ్డంకి ఎదురైంది, మీరు",
         "options": [
+          "ఎదురుగా వస్తున్న వాహనాలకు దారి ఇవ్వాలి",
           "మీకు ముందుగా వెళ్లే హక్కు ఉందని ముందుకు వెళ్లాలి",
-          "త్వరగా వెళ్లడానికి వేగం పెంచాలి",
-          "ఎదురుగా వస్తున్న వాహనాలకు దారి ఇవ్వాలి"
+          "త్వరగా వెళ్లడానికి వేగం పెంచాలి"
         ],
         "explanation": "మీ వైపు అడ్డంకి ఉన్నప్పుడు, ఎదురుగా వస్తున్న వాహనాలకు దారి ఇవ్వండి."
       },
       "ta": {
         "question": "உங்கள் பக்கச் சாலையில் ஒரு தடை உள்ளது. நீங்கள்",
         "options": [
+          "எதிரே வரும் வாகனங்களுக்கு வழிவிட வேண்டும்",
           "உங்களுக்கு முன்னுரிமை உள்ளதால் தொடர்ந்து செல்ல வேண்டும்",
-          "விரைவாகச் செல்ல முடுக்க வேண்டும்",
-          "எதிரே வரும் வாகனங்களுக்கு வழிவிட வேண்டும்"
+          "விரைவாகச் செல்ல முடுக்க வேண்டும்"
         ],
         "explanation": "உங்கள் பக்கத்தில் தடை இருக்கும்போது, எதிரே வரும் வாகனங்களுக்கு வழிவிடுங்கள்."
       }
@@ -2242,18 +2242,18 @@
     "difficulty": 1,
     "question": "When approaching from the rear, where two lanes of traffic have stopped at a signal, you should",
     "options": [
-      "pass all the vehicle and stop in front of them",
       "stop behind the last vehicle in the appropriate lane",
+      "pass all the vehicle and stop in front of them",
       "stop any where"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Stop behind the last vehicle in your lane; do not push to the front.",
     "languages": {
       "en": {
         "question": "When approaching from the rear, where two lanes of traffic have stopped at a signal, you should",
         "options": [
-          "pass all the vehicle and stop in front of them",
           "stop behind the last vehicle in the appropriate lane",
+          "pass all the vehicle and stop in front of them",
           "stop any where"
         ],
         "explanation": "Stop behind the last vehicle in your lane; do not push to the front."
@@ -2261,8 +2261,8 @@
       "hi": {
         "question": "जब सिग्नल पर यातायात की दो लेन रुकी हुई हों और आप पीछे से आ रहे हों, तो आपको चाहिए कि",
         "options": [
-          "सभी वाहनों को पार करके उनके आगे रुकें",
           "उचित लेन में सबसे आख़िरी वाहन के पीछे रुकें",
+          "सभी वाहनों को पार करके उनके आगे रुकें",
           "कहीं भी रुक जाएँ"
         ],
         "explanation": "अपनी लेन में आख़िरी वाहन के पीछे रुकें; आगे घुसने की कोशिश न करें।"
@@ -2270,8 +2270,8 @@
       "mr": {
         "question": "सिग्नलवर दोन लेनमधील वाहतूक थांबलेली असताना तुम्ही मागून येत असाल, तर तुम्ही काय करावे?",
         "options": [
-          "सर्व वाहनांच्या पुढे जाऊन त्यांच्या समोर थांबावे",
           "योग्य लेनमधील शेवटच्या वाहनाच्या मागे थांबावे",
+          "सर्व वाहनांच्या पुढे जाऊन त्यांच्या समोर थांबावे",
           "कुठेही थांबावे"
         ],
         "explanation": "तुमच्या लेनमधील शेवटच्या वाहनाच्या मागे थांबा; पुढे घुसू नका."
@@ -2279,8 +2279,8 @@
       "te": {
         "question": "సిగ్నల్ వద్ద రెండు లేన్ల వాహనాలు ఆగి ఉన్నప్పుడు వెనుక నుంచి వస్తుంటే, మీరు",
         "options": [
-          "అన్ని వాహనాలను దాటి వాటి ముందు ఆగాలి",
           "సంబంధిత లేన్‌లోని చివరి వాహనం వెనుక ఆగాలి",
+          "అన్ని వాహనాలను దాటి వాటి ముందు ఆగాలి",
           "ఎక్కడైనా ఆగవచ్చు"
         ],
         "explanation": "మీ లేన్‌లోని చివరి వాహనం వెనుక ఆగండి; ముందుకు చొచ్చుకుపోకండి."
@@ -2288,8 +2288,8 @@
       "ta": {
         "question": "சிக்னலில் இரண்டு வரிசை வாகனங்கள் நின்றிருக்க, பின்னாலிருந்து நெருங்கும்போது, நீங்கள்",
         "options": [
-          "அனைத்து வாகனங்களையும் கடந்து சென்று அவற்றுக்கு முன்னால் நிற்க வேண்டும்",
           "உரிய வரிசையில் கடைசி வாகனத்துக்குப் பின்னால் நிற்க வேண்டும்",
+          "அனைத்து வாகனங்களையும் கடந்து சென்று அவற்றுக்கு முன்னால் நிற்க வேண்டும்",
           "எங்காவது நிற்கலாம்"
         ],
         "explanation": "உங்கள் வரிசையில் கடைசி வாகனத்துக்குப் பின்னால் நில்லுங்கள்; முன்னால் முட்டிக்கொண்டு செல்லாதீர்கள்."
@@ -2318,18 +2318,18 @@
     "question": "In lane traffic,before making a right turn you should be in",
     "options": [
       "any lane",
-      "extreme left lane",
-      "extreme right lane"
+      "extreme right lane",
+      "extreme left lane"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation": "Before turning right, move to the right-most lane (Reg. 8: move to the correct lane in advance).",
     "languages": {
       "en": {
         "question": "In lane traffic,before making a right turn you should be in",
         "options": [
           "any lane",
-          "extreme left lane",
-          "extreme right lane"
+          "extreme right lane",
+          "extreme left lane"
         ],
         "explanation": "Before turning right, move to the right-most lane (Reg. 8: move to the correct lane in advance)."
       },
@@ -2337,37 +2337,37 @@
         "question": "लेन वाले यातायात में, दाएँ मुड़ने से पहले आपको होना चाहिए",
         "options": [
           "किसी भी लेन में",
-          "सबसे बाईं लेन में",
-          "सबसे दाईं लेन में"
+          "सबसे दाईं लेन में",
+          "सबसे बाईं लेन में"
         ],
-        "explanation": "दाएँ मुड़ने से पहले सबसे दाईं लेन में आ जाएँ (Reg. 8: पहले से सही लेन में आएँ)।"
+        "explanation": "दाएँ मुड़ने से पहले सबसे दाईं लेन में आ जाएँ (Reg. 8: पहले से सही लेन में आएँ) (Reg. 8: move to the correct lane in advance)।"
       },
       "mr": {
         "question": "लेननुसार चालणाऱ्या वाहतुकीत, उजवीकडे वळण्यापूर्वी तुम्ही कोणत्या लेनमध्ये असावे",
         "options": [
           "कोणत्याही लेनमध्ये",
-          "अगदी डाव्या लेनमध्ये",
-          "अगदी उजव्या लेनमध्ये"
+          "अगदी उजव्या लेनमध्ये",
+          "अगदी डाव्या लेनमध्ये"
         ],
-        "explanation": "उजवीकडे वळण्यापूर्वी अगदी उजव्या लेनमध्ये जा (Reg. 8: आधीच योग्य लेनमध्ये जा)."
+        "explanation": "उजवीकडे वळण्यापूर्वी अगदी उजव्या लेनमध्ये जा (Reg. 8: आधीच योग्य लेनमध्ये जा) (Reg. 8: move to the correct lane in advance)।"
       },
       "te": {
         "question": "లేన్ ట్రాఫిక్‌లో, కుడి మలుపు తీసుకునే ముందు మీరు ఉండాల్సింది",
         "options": [
           "ఏ లేన్‌లోనైనా",
-          "అత్యంత ఎడమ లేన్‌లో",
-          "అత్యంత కుడి లేన్‌లో"
+          "అత్యంత కుడి లేన్‌లో",
+          "అత్యంత ఎడమ లేన్‌లో"
         ],
-        "explanation": "కుడివైపునకు తిరిగే ముందు, అత్యంత కుడి లేన్‌లోకి వెళ్లండి (Reg. 8: ముందుగానే సరైన లేన్‌లోకి వెళ్లాలి)."
+        "explanation": "కుడివైపునకు తిరిగే ముందు, అత్యంత కుడి లేన్‌లోకి వెళ్లండి (Reg. 8: ముందుగానే సరైన లేన్‌లోకి వెళ్లాలి) (Reg. 8: move to the correct lane in advance)."
       },
       "ta": {
         "question": "வரிசைப் போக்குவரத்தில், வலதுபுறம் திரும்பும் முன் நீங்கள் இருக்க வேண்டியது",
         "options": [
           "எந்த வரிசையிலும்",
-          "இடது கடைசி வரிசையில்",
-          "வலது கடைசி வரிசையில்"
+          "வலது கடைசி வரிசையில்",
+          "இடது கடைசி வரிசையில்"
         ],
-        "explanation": "வலதுபுறம் திரும்பும் முன், வலது கடைசி வரிசைக்குச் செல்லுங்கள் (Reg. 8: முன்கூட்டியே சரியான வரிசைக்குச் செல்ல வேண்டும்)."
+        "explanation": "வலதுபுறம் திரும்பும் முன், வலது கடைசி வரிசைக்குச் செல்லுங்கள் (Reg. 8: முன்கூட்டியே சரியான வரிசைக்குச் செல்ல வேண்டும்) (Reg. 8: move to the correct lane in advance)."
       }
     },
     "applicableVehicleClasses": [
@@ -2393,18 +2393,18 @@
     "difficulty": 1,
     "question": "When you are approaching a round to which you are about to enter you should",
     "options": [
-      "continue into the circular traffic at slow speed",
       "give way to the vehicles coming from the right direction",
+      "continue into the circular traffic at slow speed",
       "use the outside lane only"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Traffic already on the roundabout has the right of way, and in India that traffic comes from your right (Reg. 10(1)).",
     "languages": {
       "en": {
         "question": "When you are approaching a round to which you are about to enter you should",
         "options": [
-          "continue into the circular traffic at slow speed",
           "give way to the vehicles coming from the right direction",
+          "continue into the circular traffic at slow speed",
           "use the outside lane only"
         ],
         "explanation": "Traffic already on the roundabout has the right of way, and in India that traffic comes from your right (Reg. 10(1))."
@@ -2412,8 +2412,8 @@
       "hi": {
         "question": "जब आप किसी गोलचक्कर में प्रवेश करने वाले हों, तो आपको चाहिए कि",
         "options": [
-          "धीमी गति से गोलाकार यातायात में चलते जाएँ",
           "दाईं दिशा से आने वाले वाहनों को रास्ता दें",
+          "धीमी गति से गोलाकार यातायात में चलते जाएँ",
           "केवल बाहरी लेन का उपयोग करें"
         ],
         "explanation": "गोलचक्कर में पहले से मौजूद यातायात को पहले जाने का अधिकार है, और भारत में वह यातायात आपकी दाईं ओर से आता है (Reg. 10(1))।"
@@ -2421,8 +2421,8 @@
       "mr": {
         "question": "तुम्ही वर्तुळाकार चौकात प्रवेश करणार असताना तुम्ही काय करावे",
         "options": [
-          "हळू वेगाने वर्तुळाकार वाहतुकीत शिरावे",
           "उजव्या दिशेकडून येणाऱ्या वाहनांना मार्ग द्यावा",
+          "हळू वेगाने वर्तुळाकार वाहतुकीत शिरावे",
           "फक्त बाहेरची लेन वापरावी"
         ],
         "explanation": "वर्तुळाकार चौकात आधीच असलेल्या वाहतुकीला प्राधान्य असते, आणि भारतात ही वाहतूक तुमच्या उजवीकडून येते (Reg. 10(1))."
@@ -2430,8 +2430,8 @@
       "te": {
         "question": "మీరు ప్రవేశించబోతున్న రౌండ్‌అబౌట్ దగ్గరకు వస్తున్నప్పుడు, మీరు",
         "options": [
-          "నెమ్మదిగా వృత్తాకార ట్రాఫిక్‌లోకి వెళ్లాలి",
           "కుడి దిశ నుంచి వస్తున్న వాహనాలకు దారి ఇవ్వాలి",
+          "నెమ్మదిగా వృత్తాకార ట్రాఫిక్‌లోకి వెళ్లాలి",
           "బయటి లేన్‌ను మాత్రమే వాడాలి"
         ],
         "explanation": "రౌండ్‌అబౌట్‌లో ఇప్పటికే ఉన్న ట్రాఫిక్‌కు ముందుగా వెళ్లే హక్కు ఉంటుంది, భారతదేశంలో ఆ ట్రాఫిక్ మీ కుడి వైపు నుంచి వస్తుంది (Reg. 10(1))."
@@ -2439,8 +2439,8 @@
       "ta": {
         "question": "நீங்கள் உள்ளே நுழையப் போகும் ரவுண்டானாவை நெருங்கும்போது, நீங்கள்",
         "options": [
-          "மெதுவான வேகத்தில் வட்டப் போக்குவரத்துக்குள் தொடர்ந்து செல்ல வேண்டும்",
           "வலதுபுறத்திலிருந்து வரும் வாகனங்களுக்கு வழிவிட வேண்டும்",
+          "மெதுவான வேகத்தில் வட்டப் போக்குவரத்துக்குள் தொடர்ந்து செல்ல வேண்டும்",
           "வெளிப்புற வரிசையை மட்டும் பயன்படுத்த வேண்டும்"
         ],
         "explanation": "ரவுண்டானாவில் ஏற்கெனவே உள்ள வாகனங்களுக்கே முன்னுரிமை; இந்தியாவில் அந்த வாகனங்கள் உங்கள் வலதுபுறத்திலிருந்து வரும் (Reg. 10(1))."
@@ -2469,55 +2469,55 @@
     "difficulty": 1,
     "question": "When you approach an intersection and you are in main road without traffic lights, police man and traffic signs, you should",
     "options": [
-      "slow down and be cautious to negotiate the intersection",
       "come to full stop and proceed with caution",
-      "not change speed if the way is clear"
+      "not change speed if the way is clear",
+      "slow down and be cautious to negotiate the intersection"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation": "Slow down at every intersection and be ready to give way (Reg. 9).",
     "languages": {
       "en": {
         "question": "When you approach an intersection and you are in main road without traffic lights, police man and traffic signs, you should",
         "options": [
-          "slow down and be cautious to negotiate the intersection",
           "come to full stop and proceed with caution",
-          "not change speed if the way is clear"
+          "not change speed if the way is clear",
+          "slow down and be cautious to negotiate the intersection"
         ],
         "explanation": "Slow down at every intersection and be ready to give way (Reg. 9)."
       },
       "hi": {
         "question": "जब आप किसी चौराहे पर पहुँचें और आप मुख्य सड़क पर हों जहाँ न ट्रैफिक लाइट है, न पुलिसकर्मी, न यातायात चिह्न, तो आपको चाहिए कि",
         "options": [
-          "गति धीमी करें और चौराहा पार करने में सावधान रहें",
           "पूरी तरह रुकें और सावधानी से आगे बढ़ें",
-          "रास्ता साफ़ हो तो गति न बदलें"
+          "रास्ता साफ़ हो तो गति न बदलें",
+          "गति धीमी करें और चौराहा पार करने में सावधान रहें"
         ],
         "explanation": "हर चौराहे पर गति धीमी करें और रास्ता देने के लिए तैयार रहें (Reg. 9)।"
       },
       "mr": {
         "question": "तुम्ही मुख्य रस्त्यावर आहात आणि चौकाजवळ येताना वाहतूक दिवे, पोलीस किंवा वाहतूक चिन्हे नाहीत, तेव्हा तुम्ही काय करावे",
         "options": [
-          "वेग कमी करून सावधपणे चौक ओलांडावा",
           "पूर्ण थांबून काळजीपूर्वक पुढे जावे",
-          "रस्ता मोकळा असेल तर वेग बदलू नये"
+          "रस्ता मोकळा असेल तर वेग बदलू नये",
+          "वेग कमी करून सावधपणे चौक ओलांडावा"
         ],
         "explanation": "प्रत्येक चौकात वेग कमी करा आणि मार्ग देण्यास तयार राहा (Reg. 9)."
       },
       "te": {
         "question": "మీరు ప్రధాన రోడ్డులో ఉండి, ట్రాఫిక్ లైట్లు, పోలీసు, ట్రాఫిక్ సంకేతాలు లేని కూడలి దగ్గరకు వచ్చినప్పుడు, మీరు",
         "options": [
-          "వేగం తగ్గించి, జాగ్రత్తగా కూడలిని దాటాలి",
           "పూర్తిగా ఆగి, జాగ్రత్తగా ముందుకు వెళ్లాలి",
-          "దారి ఖాళీగా ఉంటే వేగం మార్చకూడదు"
+          "దారి ఖాళీగా ఉంటే వేగం మార్చకూడదు",
+          "వేగం తగ్గించి, జాగ్రత్తగా కూడలిని దాటాలి"
         ],
         "explanation": "ప్రతి కూడలి వద్ద వేగం తగ్గించి, దారి ఇవ్వడానికి సిద్ధంగా ఉండండి (Reg. 9)."
       },
       "ta": {
         "question": "சிக்னல் விளக்குகள், போக்குவரத்துக் காவலர், போக்குவரத்துக் குறியீடுகள் இல்லாத சந்திப்பை நீங்கள் முக்கியச் சாலையில் நெருங்கும்போது, நீங்கள்",
         "options": [
-          "வேகத்தைக் குறைத்து, எச்சரிக்கையுடன் சந்திப்பைக் கடக்க வேண்டும்",
           "முழுமையாக நிறுத்தி, எச்சரிக்கையுடன் தொடர்ந்து செல்ல வேண்டும்",
-          "வழி தெளிவாக இருந்தால் வேகத்தை மாற்றக் கூடாது"
+          "வழி தெளிவாக இருந்தால் வேகத்தை மாற்றக் கூடாது",
+          "வேகத்தைக் குறைத்து, எச்சரிக்கையுடன் சந்திப்பைக் கடக்க வேண்டும்"
         ],
         "explanation": "ஒவ்வொரு சந்திப்பிலும் வேகத்தைக் குறைத்து, வழிவிடத் தயாராக இருங்கள் (Reg. 9)."
       }
@@ -2620,18 +2620,18 @@
     "difficulty": 1,
     "question": "If permitted, a free turn can be taken in a junction",
     "options": [
-      "while taking a left turn",
       "while travelling straight",
+      "while taking a left turn",
       "while taking a right turn"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "A free left turn is allowed only where it is permitted by a sign or signal.",
     "languages": {
       "en": {
         "question": "If permitted, a free turn can be taken in a junction",
         "options": [
-          "while taking a left turn",
           "while travelling straight",
+          "while taking a left turn",
           "while taking a right turn"
         ],
         "explanation": "A free left turn is allowed only where it is permitted by a sign or signal."
@@ -2639,8 +2639,8 @@
       "hi": {
         "question": "अनुमति हो तो चौराहे पर फ्री टर्न लिया जा सकता है",
         "options": [
-          "बाएँ मुड़ते समय",
           "सीधे जाते समय",
+          "बाएँ मुड़ते समय",
           "दाएँ मुड़ते समय"
         ],
         "explanation": "फ्री लेफ्ट टर्न केवल वहीं लिया जा सकता है जहाँ चिह्न या सिग्नल से उसकी अनुमति हो।"
@@ -2648,8 +2648,8 @@
       "mr": {
         "question": "परवानगी असेल तर चौकात फ्री टर्न घेता येतो",
         "options": [
-          "डावीकडे वळताना",
           "सरळ जाताना",
+          "डावीकडे वळताना",
           "उजवीकडे वळताना"
         ],
         "explanation": "चिन्ह किंवा सिग्नलने परवानगी असेल तेव्हाच फ्री लेफ्ट टर्न घेता येतो."
@@ -2657,8 +2657,8 @@
       "te": {
         "question": "అనుమతి ఉంటే, జంక్షన్‌లో ఫ్రీ టర్న్ తీసుకోవచ్చు",
         "options": [
-          "ఎడమ మలుపు తీసుకునేటప్పుడు",
           "నేరుగా వెళ్తున్నప్పుడు",
+          "ఎడమ మలుపు తీసుకునేటప్పుడు",
           "కుడి మలుపు తీసుకునేటప్పుడు"
         ],
         "explanation": "సంకేతం లేదా సిగ్నల్ అనుమతించిన చోట మాత్రమే ఫ్రీ లెఫ్ట్ టర్న్ అనుమతించబడుతుంది."
@@ -2666,8 +2666,8 @@
       "ta": {
         "question": "அனுமதிக்கப்பட்டிருந்தால், சந்திப்பில் ஃப்ரீ டர்ன் எடுக்கக்கூடியது",
         "options": [
-          "இடதுபுறம் திரும்பும்போது",
           "நேராகச் செல்லும்போது",
+          "இடதுபுறம் திரும்பும்போது",
           "வலதுபுறம் திரும்பும்போது"
         ],
         "explanation": "குறியீடு அல்லது சிக்னலால் அனுமதிக்கப்பட்ட இடத்தில் மட்டுமே ஃப்ரீ லெஃப்ட் டர்ன் செய்யலாம்."
@@ -2695,55 +2695,55 @@
     "difficulty": 1,
     "question": "Near a pedestrian crossing, when the pedestrians are waiting to cross the road, you should",
     "options": [
+      "Stop the vehicle and wait till the pedestrians cross the road and then proceed",
       "Sound horn and proceed",
-      "Slow down, sound horn and pass",
-      "Stop the vehicle and wait till the pedestrians cross the road and then proceed"
+      "Slow down, sound horn and pass"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "At a pedestrian crossing, slow down, stop and give way to pedestrians (Reg. 39).",
     "languages": {
       "en": {
         "question": "Near a pedestrian crossing, when the pedestrians are waiting to cross the road, you should",
         "options": [
+          "Stop the vehicle and wait till the pedestrians cross the road and then proceed",
           "Sound horn and proceed",
-          "Slow down, sound horn and pass",
-          "Stop the vehicle and wait till the pedestrians cross the road and then proceed"
+          "Slow down, sound horn and pass"
         ],
         "explanation": "At a pedestrian crossing, slow down, stop and give way to pedestrians (Reg. 39)."
       },
       "hi": {
         "question": "पैदल पारपथ के पास, जब पैदल यात्री सड़क पार करने के लिए इंतज़ार कर रहे हों, तो आपको चाहिए कि",
         "options": [
+          "वाहन रोकें और पैदल यात्रियों के सड़क पार कर लेने तक रुकें, फिर आगे बढ़ें",
           "हॉर्न बजाएँ और आगे बढ़ें",
-          "गति धीमी करें, हॉर्न बजाएँ और निकल जाएँ",
-          "वाहन रोकें और पैदल यात्रियों के सड़क पार कर लेने तक रुकें, फिर आगे बढ़ें"
+          "गति धीमी करें, हॉर्न बजाएँ और निकल जाएँ"
         ],
         "explanation": "पैदल पारपथ पर गति धीमी करें, रुकें और पैदल यात्रियों को रास्ता दें (Reg. 39)।"
       },
       "mr": {
         "question": "पादचारी क्रॉसिंगजवळ, पादचारी रस्ता ओलांडण्यासाठी थांबलेले असताना तुम्ही काय करावे",
         "options": [
+          "वाहन थांबवून पादचारी रस्ता ओलांडेपर्यंत थांबावे आणि मग पुढे जावे",
           "हॉर्न वाजवून पुढे जावे",
-          "वेग कमी करून, हॉर्न वाजवून पुढे जावे",
-          "वाहन थांबवून पादचारी रस्ता ओलांडेपर्यंत थांबावे आणि मग पुढे जावे"
+          "वेग कमी करून, हॉर्न वाजवून पुढे जावे"
         ],
         "explanation": "पादचारी क्रॉसिंगवर वेग कमी करा, थांबा आणि पादचाऱ्यांना मार्ग द्या (Reg. 39)."
       },
       "te": {
         "question": "పాదచారుల క్రాసింగ్ దగ్గర, పాదచారులు రోడ్డు దాటడానికి వేచి ఉన్నప్పుడు, మీరు",
         "options": [
+          "వాహనాన్ని ఆపి, పాదచారులు రోడ్డు దాటే వరకు ఆగి, తర్వాత ముందుకు వెళ్లాలి",
           "హారన్ కొట్టి ముందుకు వెళ్లాలి",
-          "వేగం తగ్గించి, హారన్ కొట్టి దాటి వెళ్లాలి",
-          "వాహనాన్ని ఆపి, పాదచారులు రోడ్డు దాటే వరకు ఆగి, తర్వాత ముందుకు వెళ్లాలి"
+          "వేగం తగ్గించి, హారన్ కొట్టి దాటి వెళ్లాలి"
         ],
         "explanation": "పాదచారుల క్రాసింగ్ వద్ద, వేగం తగ్గించి, ఆగి, పాదచారులకు దారి ఇవ్వండి (Reg. 39)."
       },
       "ta": {
         "question": "பாதசாரிகள் கடக்கும் இடத்துக்கு அருகில், பாதசாரிகள் சாலையைக் கடக்கக் காத்திருக்கும்போது, நீங்கள்",
         "options": [
+          "வாகனத்தை நிறுத்தி, பாதசாரிகள் சாலையைக் கடக்கும் வரை காத்திருந்து, பின்னர் செல்ல வேண்டும்",
           "ஹாரன் அடித்துத் தொடர்ந்து செல்ல வேண்டும்",
-          "வேகத்தைக் குறைத்து, ஹாரன் அடித்துக் கடந்து செல்ல வேண்டும்",
-          "வாகனத்தை நிறுத்தி, பாதசாரிகள் சாலையைக் கடக்கும் வரை காத்திருந்து, பின்னர் செல்ல வேண்டும்"
+          "வேகத்தைக் குறைத்து, ஹாரன் அடித்துக் கடந்து செல்ல வேண்டும்"
         ],
         "explanation": "பாதசாரிகள் கடக்கும் இடத்தில், வேகத்தைக் குறைத்து, நிறுத்தி, பாதசாரிகளுக்கு வழிவிடுங்கள் (Reg. 39)."
       }
@@ -2772,18 +2772,18 @@
     "question": "In a road without footpath, the pedestrians",
     "options": [
       "Should walk on the left side of the road",
-      "Should walk on the right side of the road",
-      "May walk on either side of the road"
+      "May walk on either side of the road",
+      "Should walk on the right side of the road"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "Where there is no footpath, pedestrians should walk on the right side so they face oncoming traffic.",
     "languages": {
       "en": {
         "question": "In a road without footpath, the pedestrians",
         "options": [
           "Should walk on the left side of the road",
-          "Should walk on the right side of the road",
-          "May walk on either side of the road"
+          "May walk on either side of the road",
+          "Should walk on the right side of the road"
         ],
         "explanation": "Where there is no footpath, pedestrians should walk on the right side so they face oncoming traffic."
       },
@@ -2791,8 +2791,8 @@
         "question": "जिस सड़क पर फुटपाथ नहीं है, वहाँ पैदल यात्रियों को",
         "options": [
           "सड़क की बाईं ओर चलना चाहिए",
-          "सड़क की दाईं ओर चलना चाहिए",
-          "सड़क की किसी भी ओर चल सकते हैं"
+          "सड़क की किसी भी ओर चल सकते हैं",
+          "सड़क की दाईं ओर चलना चाहिए"
         ],
         "explanation": "जहाँ फुटपाथ न हो, वहाँ पैदल यात्रियों को दाईं ओर चलना चाहिए ताकि वे सामने से आते यातायात को देख सकें।"
       },
@@ -2800,8 +2800,8 @@
         "question": "पदपथ नसलेल्या रस्त्यावर पादचाऱ्यांनी",
         "options": [
           "रस्त्याच्या डाव्या बाजूने चालावे",
-          "रस्त्याच्या उजव्या बाजूने चालावे",
-          "रस्त्याच्या कोणत्याही बाजूने चालले तरी चालते"
+          "रस्त्याच्या कोणत्याही बाजूने चालले तरी चालते",
+          "रस्त्याच्या उजव्या बाजूने चालावे"
         ],
         "explanation": "पदपथ नसेल तर पादचाऱ्यांनी उजव्या बाजूने चालावे, म्हणजे ते समोरून येणाऱ्या वाहतुकीकडे तोंड करून चालतील."
       },
@@ -2809,8 +2809,8 @@
         "question": "ఫుట్‌పాత్ లేని రోడ్డులో, పాదచారులు",
         "options": [
           "రోడ్డుకు ఎడమ వైపున నడవాలి",
-          "రోడ్డుకు కుడి వైపున నడవాలి",
-          "రోడ్డుకు ఏ వైపునైనా నడవవచ్చు"
+          "రోడ్డుకు ఏ వైపునైనా నడవవచ్చు",
+          "రోడ్డుకు కుడి వైపున నడవాలి"
         ],
         "explanation": "ఫుట్‌పాత్ లేని చోట, ఎదురుగా వచ్చే వాహనాలకు ఎదురుగా ఉండేలా పాదచారులు కుడి వైపున నడవాలి."
       },
@@ -2818,8 +2818,8 @@
         "question": "நடைபாதை இல்லாத சாலையில், பாதசாரிகள்",
         "options": [
           "சாலையின் இடது பக்கத்தில் நடக்க வேண்டும்",
-          "சாலையின் வலது பக்கத்தில் நடக்க வேண்டும்",
-          "சாலையின் எந்தப் பக்கத்திலும் நடக்கலாம்"
+          "சாலையின் எந்தப் பக்கத்திலும் நடக்கலாம்",
+          "சாலையின் வலது பக்கத்தில் நடக்க வேண்டும்"
         ],
         "explanation": "நடைபாதை இல்லாத இடத்தில், எதிரே வரும் வாகனங்களை நேராகப் பார்க்கும்படி பாதசாரிகள் வலது பக்கத்தில் நடக்க வேண்டும்."
       }
@@ -2846,55 +2846,55 @@
     "difficulty": 1,
     "question": "The pedestrians shall not cross the road at sharp bends or very near to a stopped vehicle. Why?",
     "options": [
+      "Drivers of other vehicles coming at a distance may not see persons crossing the road.",
       "Inconvenience to other vehicles.",
-      "Inconvenience to other road users.",
-      "Drivers of other vehicles coming at a distance may not see persons crossing the road."
+      "Inconvenience to other road users."
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "Drivers coming at a distance may not see people crossing at sharp bends or next to a stopped vehicle.",
     "languages": {
       "en": {
         "question": "The pedestrians shall not cross the road at sharp bends or very near to a stopped vehicle. Why?",
         "options": [
+          "Drivers of other vehicles coming at a distance may not see persons crossing the road.",
           "Inconvenience to other vehicles.",
-          "Inconvenience to other road users.",
-          "Drivers of other vehicles coming at a distance may not see persons crossing the road."
+          "Inconvenience to other road users."
         ],
         "explanation": "Drivers coming at a distance may not see people crossing at sharp bends or next to a stopped vehicle."
       },
       "hi": {
         "question": "पैदल यात्रियों को तीखे मोड़ पर या रुके हुए वाहन के बहुत पास सड़क पार नहीं करनी चाहिए। क्यों?",
         "options": [
+          "दूर से आ रहे दूसरे वाहनों के चालक सड़क पार करते लोगों को देख नहीं पाते।",
           "दूसरे वाहनों को असुविधा होती है।",
-          "दूसरे सड़क उपयोगकर्ताओं को असुविधा होती है।",
-          "दूर से आ रहे दूसरे वाहनों के चालक सड़क पार करते लोगों को देख नहीं पाते।"
+          "दूसरे सड़क उपयोगकर्ताओं को असुविधा होती है।"
         ],
         "explanation": "तीखे मोड़ पर या रुके हुए वाहन के पास सड़क पार करते लोगों को दूर से आ रहे चालक देख नहीं पाते।"
       },
       "mr": {
         "question": "पादचाऱ्यांनी तीव्र वळणावर किंवा थांबलेल्या वाहनाच्या अगदी जवळ रस्ता ओलांडू नये. का?",
         "options": [
+          "लांबून येणाऱ्या इतर वाहनांच्या चालकांना रस्ता ओलांडणाऱ्या व्यक्ती दिसत नाहीत.",
           "इतर वाहनांची गैरसोय होते.",
-          "इतर रस्ता वापरकर्त्यांची गैरसोय होते.",
-          "लांबून येणाऱ्या इतर वाहनांच्या चालकांना रस्ता ओलांडणाऱ्या व्यक्ती दिसत नाहीत."
+          "इतर रस्ता वापरकर्त्यांची गैरसोय होते."
         ],
         "explanation": "तीव्र वळणावर किंवा थांबलेल्या वाहनाजवळ रस्ता ओलांडणाऱ्या लोकांना लांबून येणाऱ्या चालकांना पाहता येत नाही."
       },
       "te": {
         "question": "పాదచారులు తీవ్రమైన మలుపుల వద్ద లేదా ఆగి ఉన్న వాహనానికి చాలా దగ్గరగా రోడ్డు దాటకూడదు. ఎందుకు?",
         "options": [
+          "దూరం నుంచి వచ్చే ఇతర వాహనాల డ్రైవర్లకు రోడ్డు దాటుతున్న వ్యక్తులు కనిపించకపోవచ్చు.",
           "ఇతర వాహనాలకు అసౌకర్యం.",
-          "ఇతర రోడ్డు వినియోగదారులకు అసౌకర్యం.",
-          "దూరం నుంచి వచ్చే ఇతర వాహనాల డ్రైవర్లకు రోడ్డు దాటుతున్న వ్యక్తులు కనిపించకపోవచ్చు."
+          "ఇతర రోడ్డు వినియోగదారులకు అసౌకర్యం."
         ],
         "explanation": "తీవ్రమైన మలుపుల వద్ద లేదా ఆగి ఉన్న వాహనం పక్కన రోడ్డు దాటే వ్యక్తులు, దూరం నుంచి వచ్చే డ్రైవర్లకు కనిపించకపోవచ్చు."
       },
       "ta": {
         "question": "கூர்மையான வளைவுகளிலோ நின்றிருக்கும் வாகனத்துக்கு மிக அருகிலோ பாதசாரிகள் சாலையைக் கடக்கக் கூடாது. ஏன்?",
         "options": [
+          "தொலைவில் வரும் மற்ற வாகன ஓட்டுநர்கள் சாலையைக் கடப்பவர்களைப் பார்க்க முடியாமல் போகலாம்.",
           "மற்ற வாகனங்களுக்கு சிரமம்.",
-          "மற்ற சாலைப் பயனாளர்களுக்கு சிரமம்.",
-          "தொலைவில் வரும் மற்ற வாகன ஓட்டுநர்கள் சாலையைக் கடப்பவர்களைப் பார்க்க முடியாமல் போகலாம்."
+          "மற்ற சாலைப் பயனாளர்களுக்கு சிரமம்."
         ],
         "explanation": "கூர்மையான வளைவுகளிலும் நின்றிருக்கும் வாகனத்துக்கு அருகிலும் சாலையைக் கடப்பவர்களைத் தொலைவில் வரும் ஓட்டுநர்கள் பார்க்க முடியாமல் போகலாம்."
       }
@@ -2921,18 +2921,18 @@
     "difficulty": 1,
     "question": "When school buses are stopped for picking up or setting down students….",
     "options": [
-      "Blow horn and proceed",
       "proceed slowly and cautiously since there is chance of students suddenly crossing the road",
+      "Blow horn and proceed",
       "No special care is required"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Children may cross suddenly near a stopped school bus; slow down and be careful (Reg. 5(4)).",
     "languages": {
       "en": {
         "question": "When school buses are stopped for picking up or setting down students….",
         "options": [
-          "Blow horn and proceed",
           "proceed slowly and cautiously since there is chance of students suddenly crossing the road",
+          "Blow horn and proceed",
           "No special care is required"
         ],
         "explanation": "Children may cross suddenly near a stopped school bus; slow down and be careful (Reg. 5(4))."
@@ -2940,8 +2940,8 @@
       "hi": {
         "question": "जब स्कूल बसें बच्चों को चढ़ाने या उतारने के लिए रुकी हों….",
         "options": [
-          "हॉर्न बजाएँ और आगे बढ़ें",
           "धीरे और सावधानी से आगे बढ़ें क्योंकि बच्चे अचानक सड़क पार कर सकते हैं",
+          "हॉर्न बजाएँ और आगे बढ़ें",
           "किसी विशेष सावधानी की ज़रूरत नहीं है"
         ],
         "explanation": "रुकी हुई स्कूल बस के पास बच्चे अचानक सड़क पार कर सकते हैं; गति धीमी करें और सावधान रहें (Reg. 5(4))।"
@@ -2949,8 +2949,8 @@
       "mr": {
         "question": "शाळेच्या बस विद्यार्थ्यांना घेण्यासाठी किंवा सोडण्यासाठी थांबलेल्या असताना….",
         "options": [
-          "हॉर्न वाजवून पुढे जावे",
           "विद्यार्थी अचानक रस्ता ओलांडण्याची शक्यता असल्याने हळू आणि काळजीपूर्वक पुढे जावे",
+          "हॉर्न वाजवून पुढे जावे",
           "विशेष काळजी घेण्याची गरज नाही"
         ],
         "explanation": "थांबलेल्या शाळेच्या बसजवळ मुले अचानक रस्ता ओलांडू शकतात; वेग कमी करा आणि काळजी घ्या (Reg. 5(4))."
@@ -2958,8 +2958,8 @@
       "te": {
         "question": "పాఠశాల బస్సులు విద్యార్థులను ఎక్కించుకోవడానికి లేదా దింపడానికి ఆగి ఉన్నప్పుడు….",
         "options": [
-          "హారన్ కొట్టి ముందుకు వెళ్లాలి",
           "విద్యార్థులు అకస్మాత్తుగా రోడ్డు దాటే అవకాశం ఉంది కాబట్టి నెమ్మదిగా, జాగ్రత్తగా ముందుకు వెళ్లాలి",
+          "హారన్ కొట్టి ముందుకు వెళ్లాలి",
           "ప్రత్యేక జాగ్రత్త అవసరం లేదు"
         ],
         "explanation": "ఆగి ఉన్న పాఠశాల బస్సు దగ్గర పిల్లలు అకస్మాత్తుగా రోడ్డు దాటవచ్చు; వేగం తగ్గించి జాగ్రత్తగా ఉండండి (Reg. 5(4))."
@@ -2967,8 +2967,8 @@
       "ta": {
         "question": "பள்ளிப் பேருந்துகள் மாணவர்களை ஏற்ற அல்லது இறக்க நின்றிருக்கும்போது….",
         "options": [
-          "ஹாரன் அடித்துத் தொடர்ந்து செல்ல வேண்டும்",
           "மாணவர்கள் திடீரெனச் சாலையைக் கடக்க வாய்ப்பு உள்ளதால் மெதுவாகவும் எச்சரிக்கையுடனும் செல்ல வேண்டும்",
+          "ஹாரன் அடித்துத் தொடர்ந்து செல்ல வேண்டும்",
           "சிறப்புக் கவனம் தேவையில்லை"
         ],
         "explanation": "நின்றிருக்கும் பள்ளிப் பேருந்தின் அருகில் குழந்தைகள் திடீரெனக் கடக்கக்கூடும்; வேகத்தைக் குறைத்துக் கவனமாக இருங்கள் (Reg. 5(4))."
@@ -2997,18 +2997,18 @@
     "difficulty": 1,
     "question": "When a blind person crosses the road holding White Cane….",
     "options": [
-      "The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle",
       "Blow the horn and proceed",
+      "The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle",
       "Slow down and proceed with caution"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "A person holding a white cane is blind; treat the cane as a stop signal and let them cross (Reg. 5(4)).",
     "languages": {
       "en": {
         "question": "When a blind person crosses the road holding White Cane….",
         "options": [
-          "The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle",
           "Blow the horn and proceed",
+          "The driver of a vehicle shall consider the white cane as a traffic sign to stop the vehicle",
           "Slow down and proceed with caution"
         ],
         "explanation": "A person holding a white cane is blind; treat the cane as a stop signal and let them cross (Reg. 5(4))."
@@ -3016,8 +3016,8 @@
       "hi": {
         "question": "जब कोई नेत्रहीन व्यक्ति सफ़ेद छड़ी (White Cane) पकड़कर सड़क पार करे….",
         "options": [
-          "वाहन चालक को सफ़ेद छड़ी को वाहन रोकने का यातायात संकेत मानना चाहिए",
           "हॉर्न बजाएँ और आगे बढ़ें",
+          "वाहन चालक को सफ़ेद छड़ी को वाहन रोकने का यातायात संकेत मानना चाहिए",
           "गति धीमी करें और सावधानी से आगे बढ़ें"
         ],
         "explanation": "सफ़ेद छड़ी पकड़े व्यक्ति नेत्रहीन होता है; छड़ी को रुकने का संकेत मानें और उसे सड़क पार करने दें (Reg. 5(4))।"
@@ -3025,8 +3025,8 @@
       "mr": {
         "question": "एखादी अंध व्यक्ती पांढरी काठी घेऊन रस्ता ओलांडत असताना….",
         "options": [
-          "वाहनचालकाने पांढऱ्या काठीला वाहन थांबवण्याचे वाहतूक चिन्ह मानावे",
           "हॉर्न वाजवून पुढे जावे",
+          "वाहनचालकाने पांढऱ्या काठीला वाहन थांबवण्याचे वाहतूक चिन्ह मानावे",
           "वेग कमी करून काळजीपूर्वक पुढे जावे"
         ],
         "explanation": "पांढरी काठी घेतलेली व्यक्ती अंध असते; त्या काठीला थांबण्याचा संकेत माना आणि त्यांना रस्ता ओलांडू द्या (Reg. 5(4))."
@@ -3034,8 +3034,8 @@
       "te": {
         "question": "అంధుడైన వ్యక్తి తెల్ల కర్ర పట్టుకుని రోడ్డు దాటుతున్నప్పుడు….",
         "options": [
-          "వాహన డ్రైవర్ ఆ తెల్ల కర్రను వాహనాన్ని ఆపమని చెప్పే ట్రాఫిక్ సంకేతంగా భావించాలి",
           "హారన్ కొట్టి ముందుకు వెళ్లాలి",
+          "వాహన డ్రైవర్ ఆ తెల్ల కర్రను వాహనాన్ని ఆపమని చెప్పే ట్రాఫిక్ సంకేతంగా భావించాలి",
           "వేగం తగ్గించి జాగ్రత్తగా ముందుకు వెళ్లాలి"
         ],
         "explanation": "తెల్ల కర్ర పట్టుకున్న వ్యక్తి అంధుడు; ఆ కర్రను ఆగమనే సంకేతంగా భావించి, వారిని దాటనివ్వండి (Reg. 5(4))."
@@ -3043,8 +3043,8 @@
       "ta": {
         "question": "பார்வையற்ற ஒருவர் வெள்ளைப் பிரம்பைப் பிடித்தபடி சாலையைக் கடக்கும்போது….",
         "options": [
-          "வாகன ஓட்டி வெள்ளைப் பிரம்பை வாகனத்தை நிறுத்தச் சொல்லும் போக்குவரத்துக் குறியீடாகக் கருத வேண்டும்",
           "ஹாரன் அடித்துத் தொடர்ந்து செல்ல வேண்டும்",
+          "வாகன ஓட்டி வெள்ளைப் பிரம்பை வாகனத்தை நிறுத்தச் சொல்லும் போக்குவரத்துக் குறியீடாகக் கருத வேண்டும்",
           "வேகத்தைக் குறைத்து எச்சரிக்கையுடன் செல்ல வேண்டும்"
         ],
         "explanation": "வெள்ளைப் பிரம்பைப் பிடித்திருப்பவர் பார்வையற்றவர்; பிரம்பை நிற்பதற்கான சைகையாகக் கருதி, அவர் கடக்க விடுங்கள் (Reg. 5(4))."
@@ -3149,18 +3149,18 @@
     "question": "You stop for pedestrians waiting to cross at a zebra crossing. They do not start to cross. What should you do ?",
     "options": [
       "sound your horn",
-      "be patient and wait",
-      "drive on"
+      "drive on",
+      "be patient and wait"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "Be patient and wait; do not hurry or hoot at pedestrians (Reg. 39).",
     "languages": {
       "en": {
         "question": "You stop for pedestrians waiting to cross at a zebra crossing. They do not start to cross. What should you do ?",
         "options": [
           "sound your horn",
-          "be patient and wait",
-          "drive on"
+          "drive on",
+          "be patient and wait"
         ],
         "explanation": "Be patient and wait; do not hurry or hoot at pedestrians (Reg. 39)."
       },
@@ -3168,8 +3168,8 @@
         "question": "आप ज़ेबरा क्रॉसिंग पर सड़क पार करने के लिए खड़े पैदल यात्रियों के लिए रुके हैं। वे सड़क पार करना शुरू नहीं करते। आपको क्या करना चाहिए?",
         "options": [
           "हॉर्न बजाएँ",
-          "धैर्य रखें और इंतज़ार करें",
-          "आगे बढ़ जाएँ"
+          "आगे बढ़ जाएँ",
+          "धैर्य रखें और इंतज़ार करें"
         ],
         "explanation": "धैर्य रखें और इंतज़ार करें; जल्दबाज़ी न करें और पैदल यात्रियों पर हॉर्न न बजाएँ (Reg. 39)।"
       },
@@ -3177,8 +3177,8 @@
         "question": "झेब्रा क्रॉसिंगवर रस्ता ओलांडण्यासाठी थांबलेल्या पादचाऱ्यांसाठी तुम्ही थांबला आहात. ते रस्ता ओलांडायला सुरुवात करत नाहीत. तुम्ही काय करावे?",
         "options": [
           "हॉर्न वाजवावा",
-          "संयम ठेवून थांबावे",
-          "पुढे निघून जावे"
+          "पुढे निघून जावे",
+          "संयम ठेवून थांबावे"
         ],
         "explanation": "संयम ठेवून थांबा; पादचाऱ्यांना घाई करू नका किंवा त्यांच्यावर हॉर्न वाजवू नका (Reg. 39)."
       },
@@ -3186,8 +3186,8 @@
         "question": "జీబ్రా క్రాసింగ్ వద్ద రోడ్డు దాటడానికి వేచి ఉన్న పాదచారుల కోసం మీరు ఆగారు. వారు దాటడం మొదలుపెట్టలేదు. మీరు ఏమి చేయాలి?",
         "options": [
           "హారన్ కొట్టాలి",
-          "ఓపికగా వేచి ఉండాలి",
-          "ముందుకు వెళ్లిపోవాలి"
+          "ముందుకు వెళ్లిపోవాలి",
+          "ఓపికగా వేచి ఉండాలి"
         ],
         "explanation": "ఓపికగా వేచి ఉండండి; పాదచారులను తొందర పెట్టకండి, వారిపై హారన్ కొట్టకండి (Reg. 39)."
       },
@@ -3195,8 +3195,8 @@
         "question": "ஜீப்ரா கிராசிங்கில் கடக்கக் காத்திருக்கும் பாதசாரிகளுக்காக நீங்கள் நிறுத்துகிறீர்கள். அவர்கள் கடக்கத் தொடங்கவில்லை. என்ன செய்ய வேண்டும்?",
         "options": [
           "ஹாரன் அடிக்க வேண்டும்",
-          "பொறுமையாகக் காத்திருக்க வேண்டும்",
-          "தொடர்ந்து ஓட்டிச் செல்ல வேண்டும்"
+          "தொடர்ந்து ஓட்டிச் செல்ல வேண்டும்",
+          "பொறுமையாகக் காத்திருக்க வேண்டும்"
         ],
         "explanation": "பொறுமையாகக் காத்திருங்கள்; பாதசாரிகளை அவசரப்படுத்தவோ ஹாரன் அடிக்கவோ வேண்டாம் (Reg. 39)."
       }
@@ -3224,18 +3224,18 @@
     "difficulty": 1,
     "question": "When a pedastrian Steps in to a zebra line in front of you to cross the road",
     "options": [
-      "stop befor the stop line and treat it as a stop signal",
       "you have to proceed before him",
+      "stop befor the stop line and treat it as a stop signal",
       "sound horn and speed up your vehicle to cross before him"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "When a pedestrian steps onto a zebra crossing, stop before the stop line and let them cross (Reg. 39).",
     "languages": {
       "en": {
         "question": "When a pedastrian Steps in to a zebra line in front of you to cross the road",
         "options": [
-          "stop befor the stop line and treat it as a stop signal",
           "you have to proceed before him",
+          "stop befor the stop line and treat it as a stop signal",
           "sound horn and speed up your vehicle to cross before him"
         ],
         "explanation": "When a pedestrian steps onto a zebra crossing, stop before the stop line and let them cross (Reg. 39)."
@@ -3243,8 +3243,8 @@
       "hi": {
         "question": "जब कोई पैदल यात्री सड़क पार करने के लिए आपके सामने ज़ेबरा रेखा पर कदम रखे",
         "options": [
-          "स्टॉप लाइन से पहले रुकें और इसे रुकने का संकेत मानें",
           "आपको उससे पहले निकल जाना चाहिए",
+          "स्टॉप लाइन से पहले रुकें और इसे रुकने का संकेत मानें",
           "हॉर्न बजाएँ और उससे पहले निकलने के लिए गति बढ़ाएँ"
         ],
         "explanation": "जब पैदल यात्री ज़ेबरा क्रॉसिंग पर कदम रखे, तो स्टॉप लाइन से पहले रुकें और उसे सड़क पार करने दें (Reg. 39)।"
@@ -3252,8 +3252,8 @@
       "mr": {
         "question": "समोर एखादा पादचारी रस्ता ओलांडण्यासाठी झेब्रा पट्ट्यावर पाऊल ठेवतो तेव्हा",
         "options": [
-          "स्टॉप लाइनच्या आधी थांबावे आणि तो थांबण्याचा सिग्नल मानावा",
           "तुम्ही त्याच्या आधी पुढे गेले पाहिजे",
+          "स्टॉप लाइनच्या आधी थांबावे आणि तो थांबण्याचा सिग्नल मानावा",
           "हॉर्न वाजवून आणि वेग वाढवून त्याच्या आधी निघून जावे"
         ],
         "explanation": "पादचारी झेब्रा क्रॉसिंगवर पाऊल ठेवतो तेव्हा स्टॉप लाइनच्या आधी थांबा आणि त्याला रस्ता ओलांडू द्या (Reg. 39)."
@@ -3261,8 +3261,8 @@
       "te": {
         "question": "రోడ్డు దాటడానికి ఒక పాదచారి మీ ముందు జీబ్రా గీతపై అడుగు పెట్టినప్పుడు",
         "options": [
-          "స్టాప్ లైన్ ముందు ఆగి, దానిని ఆగమనే సిగ్నల్‌గా భావించాలి",
           "మీరు అతని కంటే ముందు వెళ్లాలి",
+          "స్టాప్ లైన్ ముందు ఆగి, దానిని ఆగమనే సిగ్నల్‌గా భావించాలి",
           "అతని కంటే ముందు దాటడానికి హారన్ కొట్టి వాహన వేగం పెంచాలి"
         ],
         "explanation": "పాదచారి జీబ్రా క్రాసింగ్‌పై అడుగు పెట్టినప్పుడు, స్టాప్ లైన్ ముందు ఆగి, వారిని దాటనివ్వండి (Reg. 39)."
@@ -3270,8 +3270,8 @@
       "ta": {
         "question": "சாலையைக் கடக்க ஒரு பாதசாரி உங்களுக்கு முன்னால் ஜீப்ரா கோட்டில் காலடி வைக்கும்போது",
         "options": [
-          "நிறுத்தக் கோட்டுக்கு முன் நிறுத்தி, அதை நிற்பதற்கான சைகையாகக் கருத வேண்டும்",
           "நீங்கள் அவருக்கு முன் செல்ல வேண்டும்",
+          "நிறுத்தக் கோட்டுக்கு முன் நிறுத்தி, அதை நிற்பதற்கான சைகையாகக் கருத வேண்டும்",
           "ஹாரன் அடித்து, வேகத்தைக் கூட்டி அவருக்கு முன் கடக்க வேண்டும்"
         ],
         "explanation": "ஒரு பாதசாரி ஜீப்ரா கிராசிங்கில் காலடி வைத்தால், நிறுத்தக் கோட்டுக்கு முன் நின்று, அவர் கடக்க விடுங்கள் (Reg. 39)."
@@ -3377,18 +3377,18 @@
     "question": "Free passage should be given to the following types of vehicles",
     "options": [
       "Police vehicles.",
-      "Ambulance and fire service vehicles",
-      "Express, Super Express buses"
+      "Express, Super Express buses",
+      "Ambulance and fire service vehicles"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "Give free passage to ambulances and fire-service vehicles (Reg. 27).",
     "languages": {
       "en": {
         "question": "Free passage should be given to the following types of vehicles",
         "options": [
           "Police vehicles.",
-          "Ambulance and fire service vehicles",
-          "Express, Super Express buses"
+          "Express, Super Express buses",
+          "Ambulance and fire service vehicles"
         ],
         "explanation": "Give free passage to ambulances and fire-service vehicles (Reg. 27)."
       },
@@ -3396,8 +3396,8 @@
         "question": "इन प्रकार के वाहनों को निर्बाध रास्ता दिया जाना चाहिए",
         "options": [
           "पुलिस वाहन।",
-          "एम्बुलेंस और दमकल सेवा के वाहन",
-          "एक्सप्रेस, सुपर एक्सप्रेस बसें"
+          "एक्सप्रेस, सुपर एक्सप्रेस बसें",
+          "एम्बुलेंस और दमकल सेवा के वाहन"
         ],
         "explanation": "एम्बुलेंस और दमकल सेवा के वाहनों को निर्बाध रास्ता दें (Reg. 27)।"
       },
@@ -3405,8 +3405,8 @@
         "question": "खालील प्रकारच्या वाहनांना मोकळा मार्ग द्यावा",
         "options": [
           "पोलीस वाहने.",
-          "रुग्णवाहिका आणि अग्निशमन सेवेची वाहने",
-          "एक्सप्रेस, सुपर एक्सप्रेस बस"
+          "एक्सप्रेस, सुपर एक्सप्रेस बस",
+          "रुग्णवाहिका आणि अग्निशमन सेवेची वाहने"
         ],
         "explanation": "रुग्णवाहिका आणि अग्निशमन सेवेच्या वाहनांना मोकळा मार्ग द्या (Reg. 27)."
       },
@@ -3414,8 +3414,8 @@
         "question": "ఈ క్రింది రకాల వాహనాలకు స్వేచ్ఛగా దారి ఇవ్వాలి",
         "options": [
           "పోలీసు వాహనాలు.",
-          "అంబులెన్స్ మరియు అగ్నిమాపక సేవా వాహనాలు",
-          "ఎక్స్‌ప్రెస్, సూపర్ ఎక్స్‌ప్రెస్ బస్సులు"
+          "ఎక్స్‌ప్రెస్, సూపర్ ఎక్స్‌ప్రెస్ బస్సులు",
+          "అంబులెన్స్ మరియు అగ్నిమాపక సేవా వాహనాలు"
         ],
         "explanation": "అంబులెన్స్‌లకు మరియు అగ్నిమాపక సేవా వాహనాలకు స్వేచ్ఛగా దారి ఇవ్వండి (Reg. 27)."
       },
@@ -3423,8 +3423,8 @@
         "question": "பின்வரும் வகை வாகனங்களுக்குத் தடையின்றிச் செல்ல வழிவிட வேண்டும்",
         "options": [
           "காவல்துறை வாகனங்கள்.",
-          "ஆம்புலன்ஸ் மற்றும் தீயணைப்பு சேவை வாகனங்கள்",
-          "எக்ஸ்பிரஸ், சூப்பர் எக்ஸ்பிரஸ் பேருந்துகள்"
+          "எக்ஸ்பிரஸ், சூப்பர் எக்ஸ்பிரஸ் பேருந்துகள்",
+          "ஆம்புலன்ஸ் மற்றும் தீயணைப்பு சேவை வாகனங்கள்"
         ],
         "explanation": "ஆம்புலன்ஸ் மற்றும் தீயணைப்பு சேவை வாகனங்களுக்குத் தடையின்றிச் செல்ல வழிவிடுங்கள் (Reg. 27)."
       }
@@ -3528,18 +3528,18 @@
     "difficulty": 1,
     "question": "Before overtaking a vehicle, it should be ensured that …..",
     "options": [
-      "No vehicle is approaching from behind",
       "The road ahead is clearly visible and it is safe to overtake",
+      "No vehicle is approaching from behind",
       "The vehicle in front is turning left."
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Overtake only when the road ahead is clearly visible and it is safe (Reg. 14).",
     "languages": {
       "en": {
         "question": "Before overtaking a vehicle, it should be ensured that …..",
         "options": [
-          "No vehicle is approaching from behind",
           "The road ahead is clearly visible and it is safe to overtake",
+          "No vehicle is approaching from behind",
           "The vehicle in front is turning left."
         ],
         "explanation": "Overtake only when the road ahead is clearly visible and it is safe (Reg. 14)."
@@ -3547,8 +3547,8 @@
       "hi": {
         "question": "किसी वाहन को ओवरटेक करने से पहले यह सुनिश्चित करना चाहिए कि …..",
         "options": [
-          "पीछे से कोई वाहन नहीं आ रहा है",
           "आगे की सड़क साफ़ दिख रही है और ओवरटेक करना सुरक्षित है",
+          "पीछे से कोई वाहन नहीं आ रहा है",
           "सामने का वाहन बाएँ मुड़ रहा है।"
         ],
         "explanation": "ओवरटेक तभी करें जब आगे की सड़क साफ़ दिख रही हो और ऐसा करना सुरक्षित हो (Reg. 14)।"
@@ -3556,8 +3556,8 @@
       "mr": {
         "question": "वाहनाला ओव्हरटेक करण्यापूर्वी हे खात्री करावी की …..",
         "options": [
-          "मागून कोणतेही वाहन येत नाही",
           "पुढचा रस्ता स्पष्ट दिसत आहे आणि ओव्हरटेक करणे सुरक्षित आहे",
+          "मागून कोणतेही वाहन येत नाही",
           "पुढचे वाहन डावीकडे वळत आहे."
         ],
         "explanation": "पुढचा रस्ता स्पष्ट दिसत असेल आणि ते सुरक्षित असेल तेव्हाच ओव्हरटेक करा (Reg. 14)."
@@ -3565,8 +3565,8 @@
       "te": {
         "question": "వాహనాన్ని ఓవర్‌టేక్ చేసే ముందు, ఇది నిర్ధారించుకోవాలి …..",
         "options": [
-          "వెనుక నుంచి ఏ వాహనమూ రావడం లేదు",
           "ముందున్న రోడ్డు స్పష్టంగా కనిపిస్తోంది మరియు ఓవర్‌టేక్ చేయడం సురక్షితం",
+          "వెనుక నుంచి ఏ వాహనమూ రావడం లేదు",
           "ముందున్న వాహనం ఎడమకు తిరుగుతోంది."
         ],
         "explanation": "ముందున్న రోడ్డు స్పష్టంగా కనిపిస్తూ, సురక్షితంగా ఉన్నప్పుడు మాత్రమే ఓవర్‌టేక్ చేయండి (Reg. 14)."
@@ -3574,8 +3574,8 @@
       "ta": {
         "question": "ஒரு வாகனத்தை முந்திச் செல்லும் முன், உறுதி செய்ய வேண்டியது …..",
         "options": [
-          "பின்னாலிருந்து எந்த வாகனமும் வரவில்லை",
           "முன்னால் உள்ள சாலை தெளிவாகத் தெரிகிறது, முந்திச் செல்வது பாதுகாப்பானது",
+          "பின்னாலிருந்து எந்த வாகனமும் வரவில்லை",
           "முன்னால் உள்ள வாகனம் இடதுபுறம் திரும்புகிறது."
         ],
         "explanation": "முன்னால் உள்ள சாலை தெளிவாகத் தெரிந்து, பாதுகாப்பாக இருக்கும்போது மட்டுமே முந்திச் செல்லுங்கள் (Reg. 14)."
@@ -3605,18 +3605,18 @@
     "question": "When your vehicle is being overtaken, you should",
     "options": [
       "Stop your vehicle and let the vehicle to overtake",
-      "Increase the speed of your vehicle",
-      "Not obstruct the other vehicle from overtaking"
+      "Not obstruct the other vehicle from overtaking",
+      "Increase the speed of your vehicle"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation": "If you are being overtaken, do not speed up or block the other vehicle (Reg. 14(9)).",
     "languages": {
       "en": {
         "question": "When your vehicle is being overtaken, you should",
         "options": [
           "Stop your vehicle and let the vehicle to overtake",
-          "Increase the speed of your vehicle",
-          "Not obstruct the other vehicle from overtaking"
+          "Not obstruct the other vehicle from overtaking",
+          "Increase the speed of your vehicle"
         ],
         "explanation": "If you are being overtaken, do not speed up or block the other vehicle (Reg. 14(9))."
       },
@@ -3624,8 +3624,8 @@
         "question": "जब आपके वाहन को ओवरटेक किया जा रहा हो, तो आपको चाहिए कि",
         "options": [
           "अपना वाहन रोक दें और दूसरे वाहन को ओवरटेक करने दें",
-          "अपने वाहन की गति बढ़ा दें",
-          "दूसरे वाहन को ओवरटेक करने से न रोकें"
+          "दूसरे वाहन को ओवरटेक करने से न रोकें",
+          "अपने वाहन की गति बढ़ा दें"
         ],
         "explanation": "अगर आपको ओवरटेक किया जा रहा हो, तो गति न बढ़ाएँ और दूसरे वाहन का रास्ता न रोकें (Reg. 14(9))।"
       },
@@ -3633,8 +3633,8 @@
         "question": "तुमचे वाहन ओव्हरटेक केले जात असताना, तुम्ही",
         "options": [
           "तुमचे वाहन थांबवून दुसऱ्या वाहनाला ओव्हरटेक करू द्यावे",
-          "तुमच्या वाहनाचा वेग वाढवावा",
-          "दुसऱ्या वाहनाला ओव्हरटेक करण्यात अडथळा करू नये"
+          "दुसऱ्या वाहनाला ओव्हरटेक करण्यात अडथळा करू नये",
+          "तुमच्या वाहनाचा वेग वाढवावा"
         ],
         "explanation": "तुम्हाला ओव्हरटेक केले जात असेल तर वेग वाढवू नका किंवा दुसऱ्या वाहनाला अडवू नका (Reg. 14(9))."
       },
@@ -3642,8 +3642,8 @@
         "question": "మీ వాహనాన్ని ఎవరైనా ఓవర్‌టేక్ చేస్తున్నప్పుడు, మీరు",
         "options": [
           "మీ వాహనాన్ని ఆపి, ఓవర్‌టేక్ చేయనివ్వాలి",
-          "మీ వాహన వేగం పెంచాలి",
-          "ఓవర్‌టేక్ చేస్తున్న వాహనానికి అడ్డుపడకూడదు"
+          "ఓవర్‌టేక్ చేస్తున్న వాహనానికి అడ్డుపడకూడదు",
+          "మీ వాహన వేగం పెంచాలి"
         ],
         "explanation": "మిమ్మల్ని ఓవర్‌టేక్ చేస్తున్నప్పుడు, వేగం పెంచకండి, ఆ వాహనానికి అడ్డుపడకండి (Reg. 14(9))."
       },
@@ -3651,8 +3651,8 @@
         "question": "உங்கள் வாகனம் முந்திச் செல்லப்படும்போது, நீங்கள்",
         "options": [
           "உங்கள் வாகனத்தை நிறுத்தி, மற்ற வாகனம் முந்திச் செல்ல விட வேண்டும்",
-          "உங்கள் வாகனத்தின் வேகத்தைக் கூட்ட வேண்டும்",
-          "மற்ற வாகனம் முந்திச் செல்வதைத் தடுக்கக் கூடாது"
+          "மற்ற வாகனம் முந்திச் செல்வதைத் தடுக்கக் கூடாது",
+          "உங்கள் வாகனத்தின் வேகத்தைக் கூட்ட வேண்டும்"
         ],
         "explanation": "நீங்கள் முந்திச் செல்லப்பட்டால், வேகத்தைக் கூட்டவோ மற்ற வாகனத்தைத் தடுக்கவோ வேண்டாம் (Reg. 14(9))."
       }
@@ -3680,55 +3680,55 @@
     "difficulty": 1,
     "question": "Overtaking is prohibited in the following case",
     "options": [
+      "Narrow bridge.",
       "State highway",
-      "Panchayath roads.",
-      "Narrow bridge."
+      "Panchayath roads."
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "Overtaking is barred at narrow bridges and culverts (Reg. 14(5)).",
     "languages": {
       "en": {
         "question": "Overtaking is prohibited in the following case",
         "options": [
+          "Narrow bridge.",
           "State highway",
-          "Panchayath roads.",
-          "Narrow bridge."
+          "Panchayath roads."
         ],
         "explanation": "Overtaking is barred at narrow bridges and culverts (Reg. 14(5))."
       },
       "hi": {
         "question": "इस स्थिति में ओवरटेक करना मना है",
         "options": [
+          "संकरा पुल।",
           "राज्य राजमार्ग",
-          "पंचायत सड़कें।",
-          "संकरा पुल।"
+          "पंचायत सड़कें।"
         ],
         "explanation": "संकरे पुलों और पुलियों पर ओवरटेक करना मना है (Reg. 14(5))।"
       },
       "mr": {
         "question": "खालील प्रकरणात ओव्हरटेक करणे निषिद्ध आहे",
         "options": [
+          "अरुंद पूल.",
           "राज्य महामार्ग",
-          "पंचायत रस्ते.",
-          "अरुंद पूल."
+          "पंचायत रस्ते."
         ],
         "explanation": "अरुंद पूल आणि मोऱ्यांवर ओव्हरटेक करण्यास मनाई आहे (Reg. 14(5))."
       },
       "te": {
         "question": "ఈ క్రింది సందర్భంలో ఓవర్‌టేక్ చేయడం నిషేధం",
         "options": [
+          "ఇరుకైన వంతెన.",
           "రాష్ట్ర రహదారి",
-          "పంచాయతీ రోడ్లు.",
-          "ఇరుకైన వంతెన."
+          "పంచాయతీ రోడ్లు."
         ],
         "explanation": "ఇరుకైన వంతెనలు మరియు కల్వర్టుల వద్ద ఓవర్‌టేక్ చేయడం నిషేధం (Reg. 14(5))."
       },
       "ta": {
         "question": "பின்வரும் இடத்தில் முந்திச் செல்வது தடை",
         "options": [
+          "குறுகிய பாலம்.",
           "மாநில நெடுஞ்சாலை",
-          "பஞ்சாயத்துச் சாலைகள்.",
-          "குறுகிய பாலம்."
+          "பஞ்சாயத்துச் சாலைகள்."
         ],
         "explanation": "குறுகிய பாலங்களிலும் கல்வெட்டுகளிலும் முந்திச் செல்வது தடை (Reg. 14(5))."
       }
@@ -3756,55 +3756,55 @@
     "difficulty": 1,
     "question": "When the vehicle behind has begun to over take our vehicle….",
     "options": [
-      "We shall not overtake another vehicle.",
       "we can over take another vehicle.",
-      "we can overtake another vehicle blowing horn"
+      "we can overtake another vehicle blowing horn",
+      "We shall not overtake another vehicle."
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation": "Once the vehicle behind has begun overtaking you, do not start to overtake another vehicle.",
     "languages": {
       "en": {
         "question": "When the vehicle behind has begun to over take our vehicle….",
         "options": [
-          "We shall not overtake another vehicle.",
           "we can over take another vehicle.",
-          "we can overtake another vehicle blowing horn"
+          "we can overtake another vehicle blowing horn",
+          "We shall not overtake another vehicle."
         ],
         "explanation": "Once the vehicle behind has begun overtaking you, do not start to overtake another vehicle."
       },
       "hi": {
         "question": "जब पीछे का वाहन हमारे वाहन को ओवरटेक करना शुरू कर चुका हो….",
         "options": [
-          "हमें किसी दूसरे वाहन को ओवरटेक नहीं करना चाहिए।",
           "हम किसी दूसरे वाहन को ओवरटेक कर सकते हैं।",
-          "हम हॉर्न बजाकर किसी दूसरे वाहन को ओवरटेक कर सकते हैं"
+          "हम हॉर्न बजाकर किसी दूसरे वाहन को ओवरटेक कर सकते हैं",
+          "हमें किसी दूसरे वाहन को ओवरटेक नहीं करना चाहिए।"
         ],
         "explanation": "जब पीछे का वाहन आपको ओवरटेक करना शुरू कर दे, तो आप किसी दूसरे वाहन को ओवरटेक करना शुरू न करें।"
       },
       "mr": {
         "question": "मागचे वाहन आपल्या वाहनाला ओव्हरटेक करू लागले असताना….",
         "options": [
-          "आपण दुसऱ्या वाहनाला ओव्हरटेक करू नये.",
           "आपण दुसऱ्या वाहनाला ओव्हरटेक करू शकतो.",
-          "आपण हॉर्न वाजवून दुसऱ्या वाहनाला ओव्हरटेक करू शकतो"
+          "आपण हॉर्न वाजवून दुसऱ्या वाहनाला ओव्हरटेक करू शकतो",
+          "आपण दुसऱ्या वाहनाला ओव्हरटेक करू नये."
         ],
         "explanation": "मागचे वाहन तुम्हाला ओव्हरटेक करू लागले की तुम्ही दुसऱ्या वाहनाला ओव्हरटेक करायला सुरुवात करू नका."
       },
       "te": {
         "question": "వెనుక ఉన్న వాహనం మన వాహనాన్ని ఓవర్‌టేక్ చేయడం మొదలుపెట్టినప్పుడు….",
         "options": [
-          "మనం మరో వాహనాన్ని ఓవర్‌టేక్ చేయకూడదు.",
           "మనం మరో వాహనాన్ని ఓవర్‌టేక్ చేయవచ్చు.",
-          "మనం హారన్ కొడుతూ మరో వాహనాన్ని ఓవర్‌టేక్ చేయవచ్చు"
+          "మనం హారన్ కొడుతూ మరో వాహనాన్ని ఓవర్‌టేక్ చేయవచ్చు",
+          "మనం మరో వాహనాన్ని ఓవర్‌టేక్ చేయకూడదు."
         ],
         "explanation": "వెనుక ఉన్న వాహనం మిమ్మల్ని ఓవర్‌టేక్ చేయడం మొదలుపెట్టిన తర్వాత, మీరు మరో వాహనాన్ని ఓవర్‌టేక్ చేయడం మొదలుపెట్టకండి."
       },
       "ta": {
         "question": "பின்னால் உள்ள வாகனம் நம் வாகனத்தை முந்திச் செல்லத் தொடங்கிவிட்டால்….",
         "options": [
-          "நாம் மற்றொரு வாகனத்தை முந்திச் செல்லக் கூடாது.",
           "நாம் மற்றொரு வாகனத்தை முந்திச் செல்லலாம்.",
-          "ஹாரன் அடித்துக்கொண்டு மற்றொரு வாகனத்தை முந்திச் செல்லலாம்"
+          "ஹாரன் அடித்துக்கொண்டு மற்றொரு வாகனத்தை முந்திச் செல்லலாம்",
+          "நாம் மற்றொரு வாகனத்தை முந்திச் செல்லக் கூடாது."
         ],
         "explanation": "பின்னால் உள்ள வாகனம் உங்களை முந்திச் செல்லத் தொடங்கிவிட்டால், நீங்கள் மற்றொரு வாகனத்தை முந்திச் செல்லத் தொடங்காதீர்கள்."
       }
@@ -3831,18 +3831,18 @@
     "difficulty": 1,
     "question": "You can overtake a vehicle through the left side if…",
     "options": [
-      "The driver of that vehicle indicates his intention to turn right and proceeds to the center of the road",
       "There is sufficient space on the left side",
+      "The driver of that vehicle indicates his intention to turn right and proceeds to the center of the road",
       "That vehicle moves slowly"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "You may pass on the left only if the vehicle ahead signals a right turn and moves towards the centre (Reg. 14(2)).",
     "languages": {
       "en": {
         "question": "You can overtake a vehicle through the left side if…",
         "options": [
-          "The driver of that vehicle indicates his intention to turn right and proceeds to the center of the road",
           "There is sufficient space on the left side",
+          "The driver of that vehicle indicates his intention to turn right and proceeds to the center of the road",
           "That vehicle moves slowly"
         ],
         "explanation": "You may pass on the left only if the vehicle ahead signals a right turn and moves towards the centre (Reg. 14(2))."
@@ -3850,8 +3850,8 @@
       "hi": {
         "question": "आप किसी वाहन को बाईं ओर से ओवरटेक कर सकते हैं अगर…",
         "options": [
-          "उस वाहन का चालक दाएँ मुड़ने का इरादा दिखाए और सड़क के बीच की ओर चला जाए",
           "बाईं ओर पर्याप्त जगह हो",
+          "उस वाहन का चालक दाएँ मुड़ने का इरादा दिखाए और सड़क के बीच की ओर चला जाए",
           "वह वाहन धीमे चल रहा हो"
         ],
         "explanation": "आप बाईं ओर से तभी निकल सकते हैं जब आगे का वाहन दाएँ मुड़ने का संकेत दे और बीच की ओर चला जाए (Reg. 14(2))।"
@@ -3859,8 +3859,8 @@
       "mr": {
         "question": "तुम्ही वाहनाला डाव्या बाजूने ओव्हरटेक करू शकता जर…",
         "options": [
-          "त्या वाहनाच्या चालकाने उजवीकडे वळण्याचा इरादा दर्शवला असेल आणि तो रस्त्याच्या मध्यावर जात असेल",
           "डाव्या बाजूला पुरेशी जागा असेल",
+          "त्या वाहनाच्या चालकाने उजवीकडे वळण्याचा इरादा दर्शवला असेल आणि तो रस्त्याच्या मध्यावर जात असेल",
           "ते वाहन हळू चालत असेल"
         ],
         "explanation": "पुढचे वाहन उजवीकडे वळण्याचा सिग्नल देऊन मध्याकडे जात असेल तरच तुम्ही डाव्या बाजूने पुढे जाऊ शकता (Reg. 14(2))."
@@ -3868,8 +3868,8 @@
       "te": {
         "question": "మీరు వాహనాన్ని ఎడమ వైపు నుంచి ఓవర్‌టేక్ చేయవచ్చు, ఒకవేళ…",
         "options": [
-          "ఆ వాహన డ్రైవర్ కుడివైపునకు తిరిగే ఉద్దేశాన్ని సూచించి, రోడ్డు మధ్యకు వెళ్తుంటే",
           "ఎడమ వైపు తగినంత స్థలం ఉంటే",
+          "ఆ వాహన డ్రైవర్ కుడివైపునకు తిరిగే ఉద్దేశాన్ని సూచించి, రోడ్డు మధ్యకు వెళ్తుంటే",
           "ఆ వాహనం నెమ్మదిగా వెళ్తుంటే"
         ],
         "explanation": "ముందున్న వాహనం కుడి మలుపు సిగ్నల్ ఇచ్చి, మధ్య వైపునకు వెళ్తేనే మీరు ఎడమ వైపు నుంచి దాటవచ్చు (Reg. 14(2))."
@@ -3877,8 +3877,8 @@
       "ta": {
         "question": "நீங்கள் ஒரு வாகனத்தை இடது பக்கத்தில் முந்திச் செல்லக்கூடிய சூழல்…",
         "options": [
-          "அந்த வாகனத்தின் ஓட்டுநர் வலதுபுறம் திரும்பும் எண்ணத்தைக் காட்டி, சாலையின் நடுவுக்குச் செல்லும்போது",
           "இடது பக்கத்தில் போதுமான இடம் இருக்கும்போது",
+          "அந்த வாகனத்தின் ஓட்டுநர் வலதுபுறம் திரும்பும் எண்ணத்தைக் காட்டி, சாலையின் நடுவுக்குச் செல்லும்போது",
           "அந்த வாகனம் மெதுவாகச் செல்லும்போது"
         ],
         "explanation": "முன்னால் உள்ள வாகனம் வலது திருப்ப சைகை காட்டி, நடுவை நோக்கிச் சென்றால் மட்டுமே இடது பக்கத்தில் கடந்து செல்லலாம் (Reg. 14(2))."
@@ -4211,18 +4211,18 @@
     "difficulty": 1,
     "question": "Basic rule on a two lane high way is",
     "options": [
-      "keep to the left lane unless overtaking",
       "keep the lane with the least traffic",
+      "keep to the left lane unless overtaking",
       "always keep to the right lane at high speed"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "On a two-lane highway keep to the left lane unless you are overtaking.",
     "languages": {
       "en": {
         "question": "Basic rule on a two lane high way is",
         "options": [
-          "keep to the left lane unless overtaking",
           "keep the lane with the least traffic",
+          "keep to the left lane unless overtaking",
           "always keep to the right lane at high speed"
         ],
         "explanation": "On a two-lane highway keep to the left lane unless you are overtaking."
@@ -4230,8 +4230,8 @@
       "hi": {
         "question": "दो लेन वाले राजमार्ग पर मूल नियम है",
         "options": [
-          "ओवरटेक करने के अलावा बाईं लेन में रहें",
           "जिस लेन में सबसे कम यातायात हो उसमें रहें",
+          "ओवरटेक करने के अलावा बाईं लेन में रहें",
           "तेज़ गति पर हमेशा दाईं लेन में रहें"
         ],
         "explanation": "दो लेन वाले राजमार्ग पर ओवरटेक करने के अलावा बाईं लेन में रहें।"
@@ -4239,8 +4239,8 @@
       "mr": {
         "question": "दोन लेनच्या महामार्गावरील मूलभूत नियम आहे",
         "options": [
-          "ओव्हरटेक करत नसाल तर डाव्या लेनमध्ये राहा",
           "सर्वात कमी वाहतूक असलेली लेन निवडा",
+          "ओव्हरटेक करत नसाल तर डाव्या लेनमध्ये राहा",
           "जास्त वेगात नेहमी उजव्या लेनमध्ये राहा"
         ],
         "explanation": "दोन लेनच्या महामार्गावर ओव्हरटेक करत नसाल तर डाव्या लेनमध्ये राहा."
@@ -4248,8 +4248,8 @@
       "te": {
         "question": "రెండు లేన్ల హైవేలో ప్రాథమిక నియమం",
         "options": [
-          "ఓవర్‌టేక్ చేస్తున్నప్పుడు తప్ప ఎడమ లేన్‌లోనే ఉండాలి",
           "తక్కువ ట్రాఫిక్ ఉన్న లేన్‌లో ఉండాలి",
+          "ఓవర్‌టేక్ చేస్తున్నప్పుడు తప్ప ఎడమ లేన్‌లోనే ఉండాలి",
           "అధిక వేగంతో ఎప్పుడూ కుడి లేన్‌లోనే ఉండాలి"
         ],
         "explanation": "రెండు లేన్ల హైవేలో, ఓవర్‌టేక్ చేస్తున్నప్పుడు తప్ప ఎడమ లేన్‌లోనే ఉండండి."
@@ -4257,8 +4257,8 @@
       "ta": {
         "question": "இரு வழிப் பாதை கொண்ட நெடுஞ்சாலையில் அடிப்படை விதி",
         "options": [
-          "முந்திச் செல்லும்போது தவிர இடது வரிசையில் செல்ல வேண்டும்",
           "போக்குவரத்து குறைவாக உள்ள வரிசையில் செல்ல வேண்டும்",
+          "முந்திச் செல்லும்போது தவிர இடது வரிசையில் செல்ல வேண்டும்",
           "அதிக வேகத்தில் எப்போதும் வலது வரிசையில் செல்ல வேண்டும்"
         ],
         "explanation": "இரு வழிப் பாதை கொண்ட நெடுஞ்சாலையில், முந்திச் செல்லும்போது தவிர இடது வரிசையிலேயே செல்லுங்கள்."

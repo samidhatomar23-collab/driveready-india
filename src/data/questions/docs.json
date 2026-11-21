@@ -8,19 +8,19 @@
     "difficulty": 1,
     "question": "Which of these must the driver of a private (non-transport) vehicle carry?",
     "options": [
-      "Driving licence and pollution under control certificate, with registration and insurance certificates (or photocopies)",
       "Only the driving licence",
+      "Driving licence and pollution under control certificate, with registration and insurance certificates (or photocopies)",
       "Only the registration certificate",
       "Trip sheet and permit"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 1,
     "explanation": "A private vehicle driver must carry the driving licence and PUC certificate, plus the registration and insurance certificates (photocopies are accepted).",
     "languages": {
       "en": {
         "question": "Which of these must the driver of a private (non-transport) vehicle carry?",
         "options": [
-          "Driving licence and pollution under control certificate, with registration and insurance certificates (or photocopies)",
           "Only the driving licence",
+          "Driving licence and pollution under control certificate, with registration and insurance certificates (or photocopies)",
           "Only the registration certificate",
           "Trip sheet and permit"
         ],
@@ -29,8 +29,8 @@
       "hi": {
         "question": "निजी (गैर-परिवहन) वाहन के चालक को इनमें से क्या साथ रखना चाहिए?",
         "options": [
-          "ड्राइविंग लाइसेंस और प्रदूषण नियंत्रण प्रमाणपत्र, साथ में पंजीकरण और बीमा प्रमाणपत्र (या उनकी फ़ोटोकॉपी)",
           "केवल ड्राइविंग लाइसेंस",
+          "ड्राइविंग लाइसेंस और प्रदूषण नियंत्रण प्रमाणपत्र, साथ में पंजीकरण और बीमा प्रमाणपत्र (या उनकी फ़ोटोकॉपी)",
           "केवल पंजीकरण प्रमाणपत्र",
           "ट्रिप शीट और परमिट"
         ],
@@ -107,20 +107,20 @@
     "question": "A uniformed police officer asks for your licence. Your licence has been seized earlier. What can you show?",
     "options": [
       "Nothing",
-      "The receipt given when it was seized",
       "A photograph of yourself",
-      "Your Aadhaar card"
+      "Your Aadhaar card",
+      "The receipt given when it was seized"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 3,
     "explanation": "If a document has been seized, the receipt is enough.",
     "languages": {
       "en": {
         "question": "A uniformed police officer asks for your licence. Your licence has been seized earlier. What can you show?",
         "options": [
           "Nothing",
-          "The receipt given when it was seized",
           "A photograph of yourself",
-          "Your Aadhaar card"
+          "Your Aadhaar card",
+          "The receipt given when it was seized"
         ],
         "explanation": "If a document has been seized, the receipt is enough."
       },
@@ -128,9 +128,9 @@
         "question": "वर्दी में एक पुलिस अधिकारी आपका लाइसेंस माँगता है। आपका लाइसेंस पहले ज़ब्त हो चुका है। आप क्या दिखा सकते हैं?",
         "options": [
           "कुछ नहीं",
-          "ज़ब्त करते समय मिली रसीद",
           "अपनी फ़ोटो",
-          "अपना Aadhaar कार्ड"
+          "अपना Aadhaar कार्ड",
+          "ज़ब्त करते समय मिली रसीद"
         ],
         "explanation": "अगर कोई दस्तावेज़ ज़ब्त हो गया है, तो रसीद काफ़ी है।"
       }
@@ -210,19 +210,19 @@
     "difficulty": 1,
     "question": "A uniformed police officer asks you to show your driving licence. You should:",
     "options": [
-      "Refuse",
       "Show it",
+      "Refuse",
       "Drive away",
       "Show it only in the police station"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "A driver must produce the licence to a uniformed police officer on demand (Section 130).",
     "languages": {
       "en": {
         "question": "A uniformed police officer asks you to show your driving licence. You should:",
         "options": [
-          "Refuse",
           "Show it",
+          "Refuse",
           "Drive away",
           "Show it only in the police station"
         ],
@@ -231,12 +231,12 @@
       "hi": {
         "question": "वर्दी में एक पुलिस अधिकारी आपसे आपका ड्राइविंग लाइसेंस दिखाने को कहता है। आपको:",
         "options": [
-          "मना कर देना चाहिए",
           "दिखाना चाहिए",
+          "मना कर देना चाहिए",
           "गाड़ी लेकर चले जाना चाहिए",
           "केवल थाने में दिखाना चाहिए"
         ],
-        "explanation": "मांगे जाने पर चालक को वर्दी वाले पुलिस अधिकारी को लाइसेंस दिखाना ज़रूरी है (धारा 130)।"
+        "explanation": "मांगे जाने पर चालक को वर्दी वाले पुलिस अधिकारी को लाइसेंस दिखाना ज़रूरी है (धारा 130) (Section 130)।"
       }
     },
     "applicableVehicleClasses": [
@@ -262,31 +262,31 @@
     "difficulty": 1,
     "question": "Which section of the Motor Vehicles Act says a driver must obey mandatory traffic signs?",
     "options": [
-      "Section 119",
       "Section 129",
       "Section 185",
-      "Section 196"
+      "Section 196",
+      "Section 119"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 3,
     "explanation": "Section 119 requires drivers to follow mandatory traffic signs.",
     "languages": {
       "en": {
         "question": "Which section of the Motor Vehicles Act says a driver must obey mandatory traffic signs?",
         "options": [
-          "Section 119",
           "Section 129",
           "Section 185",
-          "Section 196"
+          "Section 196",
+          "Section 119"
         ],
         "explanation": "Section 119 requires drivers to follow mandatory traffic signs."
       },
       "hi": {
         "question": "मोटर वाहन अधिनियम की कौन-सी धारा कहती है कि चालक को अनिवार्य यातायात चिह्नों का पालन करना चाहिए?",
         "options": [
-          "धारा 119",
           "धारा 129",
           "धारा 185",
-          "धारा 196"
+          "धारा 196",
+          "धारा 119"
         ],
         "explanation": "धारा 119 के अनुसार चालकों को अनिवार्य यातायात चिह्नों का पालन करना ज़रूरी है।"
       }
@@ -386,7 +386,7 @@
           "सही",
           "गलत"
         ],
-        "explanation": "चालक को किसी भी व्यक्ति या वस्तु को वाहन के नियंत्रण में बाधा नहीं बनने देना चाहिए (धारा 125)।"
+        "explanation": "चालक को किसी भी व्यक्ति या वस्तु को वाहन के नियंत्रण में बाधा नहीं बनने देना चाहिए (धारा 125) (Section 125)।"
       }
     },
     "applicableVehicleClasses": [
@@ -412,19 +412,19 @@
     "difficulty": 2,
     "question": "Where a police officer in uniform (Sub-Inspector or above) asks you to stop after an accident, you must:",
     "options": [
-      "Drive on",
       "Stop and give your name, address and the owner’s details",
+      "Drive on",
       "Hide the vehicle",
       "Stop only if you are at fault"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "After an accident the driver must stop when required and give his name and address, and the owner’s.",
     "languages": {
       "en": {
         "question": "Where a police officer in uniform (Sub-Inspector or above) asks you to stop after an accident, you must:",
         "options": [
-          "Drive on",
           "Stop and give your name, address and the owner’s details",
+          "Drive on",
           "Hide the vehicle",
           "Stop only if you are at fault"
         ],
@@ -433,8 +433,8 @@
       "hi": {
         "question": "दुर्घटना के बाद वर्दी में पुलिस अधिकारी (सब-इंस्पेक्टर या उससे ऊपर) आपको रुकने को कहे, तो आपको:",
         "options": [
-          "आगे बढ़ जाना चाहिए",
           "रुककर अपना नाम, पता और मालिक का विवरण देना चाहिए",
+          "आगे बढ़ जाना चाहिए",
           "वाहन को छिपा देना चाहिए",
           "केवल तभी रुकना चाहिए जब आपकी गलती हो"
         ],
@@ -465,18 +465,18 @@
     "question": "What is the validity of a learner's licence?",
     "options": [
       "Until the driving licence is obtained",
-      "6 months",
-      "30 days"
+      "30 days",
+      "6 months"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "A learner's licence is valid for 6 months from the date of issue.",
     "languages": {
       "en": {
         "question": "What is the validity of a learner's licence?",
         "options": [
           "Until the driving licence is obtained",
-          "6 months",
-          "30 days"
+          "30 days",
+          "6 months"
         ],
         "explanation": "A learner's licence is valid for 6 months from the date of issue."
       },
@@ -484,8 +484,8 @@
         "question": "लर्नर लाइसेंस की वैधता कितनी होती है?",
         "options": [
           "ड्राइविंग लाइसेंस मिलने तक",
-          "6 महीने",
-          "30 दिन"
+          "30 दिन",
+          "6 महीने"
         ],
         "explanation": "लर्नर लाइसेंस जारी होने की तारीख से 6 महीने तक वैध होता है।"
       }
@@ -513,18 +513,18 @@
     "question": "What is the minimum age to get a licence for a motorcycle without gear (engine up to 50 cc)?",
     "options": [
       "18 years",
-      "21 years",
-      "16 years"
+      "16 years",
+      "21 years"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 1,
     "explanation": "A person aged 16 can get a licence for a gearless motor cycle of low engine capacity (up to 50 cc).",
     "languages": {
       "en": {
         "question": "What is the minimum age to get a licence for a motorcycle without gear (engine up to 50 cc)?",
         "options": [
           "18 years",
-          "21 years",
-          "16 years"
+          "16 years",
+          "21 years"
         ],
         "explanation": "A person aged 16 can get a licence for a gearless motor cycle of low engine capacity (up to 50 cc)."
       },
@@ -532,8 +532,8 @@
         "question": "बिना गियर वाली मोटरसाइकिल (इंजन 50 cc तक) का लाइसेंस पाने की न्यूनतम आयु क्या है?",
         "options": [
           "18 वर्ष",
-          "21 वर्ष",
-          "16 वर्ष"
+          "16 वर्ष",
+          "21 वर्ष"
         ],
         "explanation": "16 वर्ष की आयु का व्यक्ति कम इंजन क्षमता (50 cc तक) की बिना गियर वाली मोटरसाइकिल का लाइसेंस पा सकता है।"
       }
@@ -608,28 +608,28 @@
     "difficulty": 1,
     "question": "A driving licence issued in one State is valid",
     "options": [
-      "Throughout India",
       "Throughout the world",
-      "Only in the State of issue"
+      "Only in the State of issue",
+      "Throughout India"
     ],
-    "correctAnswer": 0,
+    "correctAnswer": 2,
     "explanation": "A driving licence issued in any State is valid across the whole of India.",
     "languages": {
       "en": {
         "question": "A driving licence issued in one State is valid",
         "options": [
-          "Throughout India",
           "Throughout the world",
-          "Only in the State of issue"
+          "Only in the State of issue",
+          "Throughout India"
         ],
         "explanation": "A driving licence issued in any State is valid across the whole of India."
       },
       "hi": {
         "question": "किसी एक राज्य में जारी ड्राइविंग लाइसेंस मान्य होता है",
         "options": [
-          "पूरे भारत में",
           "पूरी दुनिया में",
-          "केवल जारी करने वाले राज्य में"
+          "केवल जारी करने वाले राज्य में",
+          "पूरे भारत में"
         ],
         "explanation": "किसी भी राज्य में जारी ड्राइविंग लाइसेंस पूरे भारत में मान्य होता है।"
       }
@@ -656,18 +656,18 @@
     "difficulty": 1,
     "question": "Can you give your vehicle to a person who does not have a valid licence to drive?",
     "options": [
-      "Yes, because only the driver is responsible",
       "No, because it is a serious offence",
+      "Yes, because only the driver is responsible",
       "It is an offence only if the vehicle is involved in an accident"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Letting an unlicensed person drive is an offence by itself, whether or not an accident happens.",
     "languages": {
       "en": {
         "question": "Can you give your vehicle to a person who does not have a valid licence to drive?",
         "options": [
-          "Yes, because only the driver is responsible",
           "No, because it is a serious offence",
+          "Yes, because only the driver is responsible",
           "It is an offence only if the vehicle is involved in an accident"
         ],
         "explanation": "Letting an unlicensed person drive is an offence by itself, whether or not an accident happens."
@@ -675,8 +675,8 @@
       "hi": {
         "question": "क्या आप अपना वाहन ऐसे व्यक्ति को दे सकते हैं जिसके पास चलाने का वैध लाइसेंस नहीं है?",
         "options": [
-          "हाँ, क्योंकि केवल चालक जिम्मेदार होता है",
           "नहीं, क्योंकि यह गंभीर अपराध है",
+          "हाँ, क्योंकि केवल चालक जिम्मेदार होता है",
           "यह अपराध तभी है जब वाहन दुर्घटना में शामिल हो"
         ],
         "explanation": "बिना लाइसेंस वाले व्यक्ति को वाहन चलाने देना अपने आप में अपराध है, चाहे दुर्घटना हो या न हो।"
@@ -704,18 +704,18 @@
     "difficulty": 2,
     "question": "A driver who drives in a public place without a licence is liable for",
     "options": [
-      "A penalty only",
       "A penalty for the driver and the owner, and/or seizure of the vehicle",
+      "A penalty only",
       "A warning"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Both the driver and the owner can be punished, and the vehicle can be seized.",
     "languages": {
       "en": {
         "question": "A driver who drives in a public place without a licence is liable for",
         "options": [
-          "A penalty only",
           "A penalty for the driver and the owner, and/or seizure of the vehicle",
+          "A penalty only",
           "A warning"
         ],
         "explanation": "Both the driver and the owner can be punished, and the vehicle can be seized."
@@ -723,8 +723,8 @@
       "hi": {
         "question": "सार्वजनिक स्थान पर बिना लाइसेंस वाहन चलाने वाला चालक किसके लिए उत्तरदायी है?",
         "options": [
-          "केवल जुर्माना",
           "चालक और मालिक दोनों पर जुर्माना, और/या वाहन की जब्ती",
+          "केवल जुर्माना",
           "एक चेतावनी"
         ],
         "explanation": "चालक और मालिक दोनों को सज़ा हो सकती है, और वाहन जब्त किया जा सकता है।"
@@ -800,18 +800,18 @@
     "difficulty": 1,
     "question": "What should a person do about driving a vehicle whose insurance has expired?",
     "options": [
-      "Drive carefully to avoid any accident or loss to a third party",
       "Not drive it",
+      "Drive carefully to avoid any accident or loss to a third party",
       "Drive it if the driver has a valid personal life insurance policy"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 0,
     "explanation": "Valid insurance is compulsory, so a vehicle with expired insurance must not be driven.",
     "languages": {
       "en": {
         "question": "What should a person do about driving a vehicle whose insurance has expired?",
         "options": [
-          "Drive carefully to avoid any accident or loss to a third party",
           "Not drive it",
+          "Drive carefully to avoid any accident or loss to a third party",
           "Drive it if the driver has a valid personal life insurance policy"
         ],
         "explanation": "Valid insurance is compulsory, so a vehicle with expired insurance must not be driven."
@@ -819,8 +819,8 @@
       "hi": {
         "question": "जिस वाहन का बीमा समाप्त हो चुका है, उसे चलाने के बारे में व्यक्ति को क्या करना चाहिए?",
         "options": [
-          "सावधानी से चलाएँ ताकि किसी तीसरे पक्ष को कोई दुर्घटना या नुकसान न हो",
           "उसे न चलाएँ",
+          "सावधानी से चलाएँ ताकि किसी तीसरे पक्ष को कोई दुर्घटना या नुकसान न हो",
           "अगर चालक के पास वैध निजी जीवन बीमा पॉलिसी हो तो चलाएँ"
         ],
         "explanation": "वैध बीमा अनिवार्य है, इसलिए जिस वाहन का बीमा समाप्त हो चुका हो उसे नहीं चलाना चाहिए।"
@@ -849,18 +849,18 @@
     "question": "Where can a person affected by a motor vehicle accident apply for compensation?",
     "options": [
       "RTO",
-      "Motor Accident Claims Tribunal",
-      "The driver's or owner's banker"
+      "The driver's or owner's banker",
+      "Motor Accident Claims Tribunal"
     ],
-    "correctAnswer": 1,
+    "correctAnswer": 2,
     "explanation": "The Motor Accident Claims Tribunal is the body that handles compensation claims for road accidents.",
     "languages": {
       "en": {
         "question": "Where can a person affected by a motor vehicle accident apply for compensation?",
         "options": [
           "RTO",
-          "Motor Accident Claims Tribunal",
-          "The driver's or owner's banker"
+          "The driver's or owner's banker",
+          "Motor Accident Claims Tribunal"
         ],
         "explanation": "The Motor Accident Claims Tribunal is the body that handles compensation claims for road accidents."
       },
@@ -868,8 +868,8 @@
         "question": "मोटर वाहन दुर्घटना से प्रभावित व्यक्ति मुआवज़े के लिए कहाँ आवेदन कर सकता है?",
         "options": [
           "RTO",
-          "मोटर दुर्घटना दावा अधिकरण",
-          "चालक या मालिक का बैंकर"
+          "चालक या मालिक का बैंकर",
+          "मोटर दुर्घटना दावा अधिकरण"
         ],
         "explanation": "मोटर दुर्घटना दावा अधिकरण वह संस्था है जो सड़क दुर्घटनाओं में मुआवज़े के दावों को देखती है।"
       }
@@ -944,28 +944,28 @@
     "difficulty": 3,
     "question": "Section 131 of the Motor Vehicles Act 1988 lays down the duties of the driver",
     "options": [
+      "Regarding precautions at an unguarded railway level crossing",
       "Regarding limits of weight",
-      "Regarding signals and signalling devices",
-      "Regarding precautions at an unguarded railway level crossing"
+      "Regarding signals and signalling devices"
     ],
-    "correctAnswer": 2,
+    "correctAnswer": 0,
     "explanation": "Section 131 sets the driver's duties at an unguarded level crossing.",
     "languages": {
       "en": {
         "question": "Section 131 of the Motor Vehicles Act 1988 lays down the duties of the driver",
         "options": [
+          "Regarding precautions at an unguarded railway level crossing",
           "Regarding limits of weight",
-          "Regarding signals and signalling devices",
-          "Regarding precautions at an unguarded railway level crossing"
+          "Regarding signals and signalling devices"
         ],
         "explanation": "Section 131 sets the driver's duties at an unguarded level crossing."
       },
       "hi": {
         "question": "मोटर वाहन अधिनियम 1988 की धारा 131 चालक के कर्तव्य बताती है",
         "options": [
+          "बिना गार्ड वाले रेलवे लेवल क्रॉसिंग पर सावधानियों के बारे में",
           "वज़न की सीमा के बारे में",
-          "संकेतों और संकेत देने वाले उपकरणों के बारे में",
-          "बिना गार्ड वाले रेलवे लेवल क्रॉसिंग पर सावधानियों के बारे में"
+          "संकेतों और संकेत देने वाले उपकरणों के बारे में"
         ],
         "explanation": "धारा 131 बिना गार्ड वाले लेवल क्रॉसिंग पर चालक के कर्तव्य तय करती है।"
       }
