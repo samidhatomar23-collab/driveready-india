@@ -1,0 +1,1140 @@
+[
+  {
+    "id": "q-parking-001",
+    "topic": "Stopping",
+    "unit": "parking",
+    "lessonId": "park-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Parking means waiting that goes beyond quickly picking up or dropping off. A stop of more than how long counts as parking?",
+    "options": [
+      "1 minute",
+      "10 minutes",
+      "30 minutes",
+      "3 minutes"
+    ],
+    "correctAnswer": 3,
+    "explanation": "A halt for more than 3 minutes (or any wait longer than quick loading or unloading) counts as parking.",
+    "languages": {
+      "en": {
+        "question": "Parking means waiting that goes beyond quickly picking up or dropping off. A stop of more than how long counts as parking?",
+        "options": [
+          "1 minute",
+          "10 minutes",
+          "30 minutes",
+          "3 minutes"
+        ],
+        "explanation": "A halt for more than 3 minutes (or any wait longer than quick loading or unloading) counts as parking."
+      },
+      "hi": {
+        "question": "पार्किंग का मतलब है सवारी या सामान को जल्दी चढ़ाने-उतारने से अधिक देर रुकना। कितने समय से अधिक रुकना पार्किंग माना जाता है?",
+        "options": [
+          "1 मिनट",
+          "10 मिनट",
+          "30 मिनट",
+          "3 मिनट"
+        ],
+        "explanation": "3 मिनट से अधिक रुकना (या जल्दी चढ़ाने-उतारने से अधिक कोई भी इंतज़ार) पार्किंग माना जाता है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 2",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 2",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-parking-002",
+    "topic": "Stopping",
+    "unit": "parking",
+    "lessonId": "park-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "You must not stop on or within how many metres before a pedestrian crossing?",
+    "options": [
+      "1 metre",
+      "5 metres",
+      "20 metres",
+      "50 metres"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Do not stop on a pedestrian crossing or within 5 metres before it.",
+    "languages": {
+      "en": {
+        "question": "You must not stop on or within how many metres before a pedestrian crossing?",
+        "options": [
+          "1 metre",
+          "5 metres",
+          "20 metres",
+          "50 metres"
+        ],
+        "explanation": "Do not stop on a pedestrian crossing or within 5 metres before it."
+      },
+      "hi": {
+        "question": "पैदल पार पथ पर, या उससे पहले कितने मीटर के भीतर, आपको वाहन नहीं रोकना चाहिए?",
+        "options": [
+          "1 मीटर",
+          "5 मीटर",
+          "20 मीटर",
+          "50 मीटर"
+        ],
+        "explanation": "पैदल पार पथ पर या उससे 5 मीटर पहले तक वाहन न रोकें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 22",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 22",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-parking-003",
+    "topic": "Stopping",
+    "unit": "parking",
+    "lessonId": "park-1",
+    "type": "true-false",
+    "difficulty": 1,
+    "question": "You may stop your vehicle on a railway level crossing.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Stopping on a level crossing is prohibited.",
+    "languages": {
+      "en": {
+        "question": "You may stop your vehicle on a railway level crossing.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "explanation": "Stopping on a level crossing is prohibited."
+      },
+      "hi": {
+        "question": "आप अपना वाहन रेलवे लेवल क्रॉसिंग पर रोक सकते हैं।",
+        "options": [
+          "सही",
+          "गलत"
+        ],
+        "explanation": "लेवल क्रॉसिंग पर वाहन रोकना मना है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 22",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 22",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-parking-004",
+    "topic": "Stopping",
+    "unit": "parking",
+    "lessonId": "park-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Where must you NOT stop?",
+    "options": [
+      "On a sharp bend or where the road is narrow and view is blocked",
+      "At the left edge of a wide road for a moment",
+      "At a bus stop, if you drive a bus",
+      "Near a shop on a wide road"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Do not stop on narrow roads, near sharp bends or where the view is blocked.",
+    "languages": {
+      "en": {
+        "question": "Where must you NOT stop?",
+        "options": [
+          "On a sharp bend or where the road is narrow and view is blocked",
+          "At the left edge of a wide road for a moment",
+          "At a bus stop, if you drive a bus",
+          "Near a shop on a wide road"
+        ],
+        "explanation": "Do not stop on narrow roads, near sharp bends or where the view is blocked."
+      },
+      "hi": {
+        "question": "आपको कहाँ नहीं रुकना चाहिए?",
+        "options": [
+          "तीखे मोड़ पर या जहाँ सड़क संकरी हो और दिखाई न दे",
+          "चौड़ी सड़क के बाएँ किनारे पर थोड़ी देर के लिए",
+          "बस स्टॉप पर, अगर आप बस चलाते हैं",
+          "चौड़ी सड़क पर दुकान के पास"
+        ],
+        "explanation": "संकरी सड़कों पर, तीखे मोड़ के पास या जहाँ दिखाई न देता हो, वहाँ न रुकें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 22",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 22",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-parking-005",
+    "topic": "Stopping",
+    "unit": "parking",
+    "lessonId": "park-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "What does a yellow box marking on a junction mean for stopping?",
+    "options": [
+      "You may wait there for a friend",
+      "It is a parking bay",
+      "You must not stop inside it",
+      "It is for two-wheelers only"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Stopping on a yellow box is not allowed.",
+    "languages": {
+      "en": {
+        "question": "What does a yellow box marking on a junction mean for stopping?",
+        "options": [
+          "You may wait there for a friend",
+          "It is a parking bay",
+          "You must not stop inside it",
+          "It is for two-wheelers only"
+        ],
+        "explanation": "Stopping on a yellow box is not allowed."
+      },
+      "hi": {
+        "question": "चौराहे पर पीले बॉक्स के निशान का रुकने के लिए क्या मतलब है?",
+        "options": [
+          "आप वहाँ दोस्त का इंतज़ार कर सकते हैं",
+          "यह पार्किंग की जगह है",
+          "आपको उसके अंदर नहीं रुकना चाहिए",
+          "यह केवल दोपहिया वाहनों के लिए है"
+        ],
+        "explanation": "पीले बॉक्स पर रुकना मना है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 22",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 22",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-parking-006",
+    "topic": "Stopping",
+    "unit": "parking",
+    "lessonId": "park-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "You must not stop within 5 metres before:",
+    "options": [
+      "A lamp post",
+      "A traffic signal, Give Way sign or STOP sign",
+      "A tree",
+      "A milestone"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A stopped vehicle there blocks the signal or sign from other drivers, so do not stop within 5 metres before it.",
+    "languages": {
+      "en": {
+        "question": "You must not stop within 5 metres before:",
+        "options": [
+          "A lamp post",
+          "A traffic signal, Give Way sign or STOP sign",
+          "A tree",
+          "A milestone"
+        ],
+        "explanation": "A stopped vehicle there blocks the signal or sign from other drivers, so do not stop within 5 metres before it."
+      },
+      "hi": {
+        "question": "आपको इनसे 5 मीटर पहले तक नहीं रुकना चाहिए:",
+        "options": [
+          "बिजली का खंभा",
+          "ट्रैफ़िक सिग्नल, Give Way चिह्न या STOP चिह्न",
+          "पेड़",
+          "मील का पत्थर"
+        ],
+        "explanation": "वहाँ खड़ा वाहन दूसरे चालकों से सिग्नल या चिह्न को छिपा देता है, इसलिए उससे 5 मीटर पहले तक न रुकें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 22",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 22",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-parking-007",
+    "topic": "Parking",
+    "unit": "parking",
+    "lessonId": "park-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Which of these places is a NO PARKING place?",
+    "options": [
+      "A marked parking bay",
+      "A side street where parking is allowed",
+      "A parking lot",
+      "A footpath"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Do not park on footpaths, cycle tracks or pedestrian crossings.",
+    "languages": {
+      "en": {
+        "question": "Which of these places is a NO PARKING place?",
+        "options": [
+          "A marked parking bay",
+          "A side street where parking is allowed",
+          "A parking lot",
+          "A footpath"
+        ],
+        "explanation": "Do not park on footpaths, cycle tracks or pedestrian crossings."
+      },
+      "hi": {
+        "question": "इनमें से कौन-सी जगह पार्किंग निषिद्ध है?",
+        "options": [
+          "निशान लगी पार्किंग की जगह",
+          "साइड वाली गली जहाँ पार्किंग की अनुमति है",
+          "पार्किंग स्थल",
+          "फुटपाथ"
+        ],
+        "explanation": "फुटपाथ, साइकिल ट्रैक या पैदल पार पथ पर पार्किंग न करें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 22",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 22",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-parking-008",
+    "topic": "Parking",
+    "unit": "parking",
+    "lessonId": "park-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Parking is prohibited:",
+    "options": [
+      "In a marked parking bay",
+      "In a paid parking lot",
+      "In front of a gate or entrance of a property",
+      "Where a PARKING sign is shown"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Do not park in front of the entrance or exit of a property.",
+    "languages": {
+      "en": {
+        "question": "Parking is prohibited:",
+        "options": [
+          "In a marked parking bay",
+          "In a paid parking lot",
+          "In front of a gate or entrance of a property",
+          "Where a PARKING sign is shown"
+        ],
+        "explanation": "Do not park in front of the entrance or exit of a property."
+      },
+      "hi": {
+        "question": "पार्किंग मना है:",
+        "options": [
+          "निशान लगी पार्किंग की जगह में",
+          "शुल्क वाले पार्किंग स्थल में",
+          "किसी संपत्ति के गेट या प्रवेश के सामने",
+          "जहाँ PARKING का चिह्न लगा हो"
+        ],
+        "explanation": "किसी संपत्ति के प्रवेश या निकास के सामने पार्किंग न करें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 22",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 22",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-parking-009",
+    "topic": "Parking",
+    "unit": "parking",
+    "lessonId": "park-2",
+    "type": "true-false",
+    "difficulty": 1,
+    "question": "You may park next to a fire hydrant.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Parking that blocks a fire hydrant is prohibited.",
+    "languages": {
+      "en": {
+        "question": "You may park next to a fire hydrant.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "explanation": "Parking that blocks a fire hydrant is prohibited."
+      },
+      "hi": {
+        "question": "आप फ़ायर हाइड्रेंट के पास पार्किंग कर सकते हैं।",
+        "options": [
+          "सही",
+          "गलत"
+        ],
+        "explanation": "फ़ायर हाइड्रेंट को रोकने वाली पार्किंग मना है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 22",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 22",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-parking-010",
+    "topic": "Parking",
+    "unit": "parking",
+    "lessonId": "park-2",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Parking next to or opposite another parked vehicle, so that the road becomes narrow, is:",
+    "options": [
+      "Not allowed (double parking)",
+      "Allowed on wide roads only",
+      "Allowed for 3 minutes",
+      "Allowed at night"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Do not park alongside or opposite another parked vehicle when it blocks other traffic.",
+    "languages": {
+      "en": {
+        "question": "Parking next to or opposite another parked vehicle, so that the road becomes narrow, is:",
+        "options": [
+          "Not allowed (double parking)",
+          "Allowed on wide roads only",
+          "Allowed for 3 minutes",
+          "Allowed at night"
+        ],
+        "explanation": "Do not park alongside or opposite another parked vehicle when it blocks other traffic."
+      },
+      "hi": {
+        "question": "किसी खड़े वाहन के बगल में या उसके सामने पार्किंग करना, जिससे सड़क संकरी हो जाए:",
+        "options": [
+          "मना है (दोहरी पार्किंग)",
+          "केवल चौड़ी सड़कों पर अनुमत है",
+          "3 मिनट के लिए अनुमत है",
+          "रात में अनुमत है"
+        ],
+        "explanation": "जब दूसरे यातायात में रुकावट हो, तब किसी खड़े वाहन के बगल में या उसके सामने पार्किंग न करें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 22",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 22",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-parking-011",
+    "topic": "Parking",
+    "unit": "parking",
+    "lessonId": "park-2",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "A parking space is marked for differently abled drivers. You may park there:",
+    "options": [
+      "If you are in a hurry",
+      "If the car park is full",
+      "For up to 10 minutes",
+      "Only if you are a differently abled person"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Spaces reserved for differently abled drivers are only for them.",
+    "languages": {
+      "en": {
+        "question": "A parking space is marked for differently abled drivers. You may park there:",
+        "options": [
+          "If you are in a hurry",
+          "If the car park is full",
+          "For up to 10 minutes",
+          "Only if you are a differently abled person"
+        ],
+        "explanation": "Spaces reserved for differently abled drivers are only for them."
+      },
+      "hi": {
+        "question": "दिव्यांग चालकों के लिए पार्किंग की जगह निशान लगाकर रखी गई है। आप वहाँ पार्क कर सकते हैं:",
+        "options": [
+          "अगर आपको जल्दी हो",
+          "अगर पार्किंग भरी हो",
+          "10 मिनट तक",
+          "केवल अगर आप दिव्यांग व्यक्ति हैं"
+        ],
+        "explanation": "दिव्यांग चालकों के लिए आरक्षित जगहें केवल उन्हीं के लिए हैं।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 22",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 22",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-parking-012",
+    "topic": "Parking",
+    "unit": "parking",
+    "lessonId": "park-2",
+    "type": "true-false",
+    "difficulty": 2,
+    "question": "Parking inside a tunnel or in a bus lane is prohibited.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Parking in tunnels and bus lanes is not allowed.",
+    "languages": {
+      "en": {
+        "question": "Parking inside a tunnel or in a bus lane is prohibited.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "explanation": "Parking in tunnels and bus lanes is not allowed."
+      },
+      "hi": {
+        "question": "सुरंग के अंदर या बस लेन में पार्किंग मना है।",
+        "options": [
+          "सही",
+          "गलत"
+        ],
+        "explanation": "सुरंगों और बस लेन में पार्किंग मना है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 22",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 22",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-parking-013",
+    "topic": "Parking",
+    "unit": "parking",
+    "lessonId": "park-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "A vehicle left in a dangerous position where it blocks other traffic can lead to action under:",
+    "options": [
+      "Section 129",
+      "Section 122 of the Motor Vehicles Act",
+      "Section 181",
+      "Section 194F"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Section 122 says no one may leave a vehicle where it may cause danger or obstruction to other road users.",
+    "languages": {
+      "en": {
+        "question": "A vehicle left in a dangerous position where it blocks other traffic can lead to action under:",
+        "options": [
+          "Section 129",
+          "Section 122 of the Motor Vehicles Act",
+          "Section 181",
+          "Section 194F"
+        ],
+        "explanation": "Section 122 says no one may leave a vehicle where it may cause danger or obstruction to other road users."
+      },
+      "hi": {
+        "question": "ऐसी खतरनाक जगह पर छोड़ा गया वाहन जहाँ वह दूसरे यातायात को रोकता हो, इसके तहत कार्रवाई का कारण बन सकता है:",
+        "options": [
+          "Section 129",
+          "मोटर वाहन अधिनियम की Section 122",
+          "Section 181",
+          "Section 194F"
+        ],
+        "explanation": "Section 122 कहती है कि कोई भी वाहन ऐसी जगह नहीं छोड़ेगा जहाँ दूसरे सड़क उपयोगकर्ताओं के लिए खतरा या रुकावट हो।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "s. 122",
+    "sourceUrl": "https://indiacode.nic.in/bitstream/123456789/1798/1/A1988-59.pdf",
+    "sourceDoc": "Motor Vehicles Act, 1988 (as amended; India Code text) - s. 122",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the Motor Vehicles Act text on India Code (consolidated). Fine amounts are central-Act amounts; states can vary them."
+  },
+  {
+    "id": "q-pqb-027",
+    "topic": "Parking",
+    "unit": "parking",
+    "lessonId": "park-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "When a vehicle is parked at the side of the road at night, what must you do?",
+    "options": [
+      "Keep the parking light on",
+      "Lock the vehicle",
+      "Keep a licensed driver in the driver's seat"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A parked vehicle must stay visible to other drivers in the dark, so its parking light should remain on.",
+    "languages": {
+      "en": {
+        "question": "When a vehicle is parked at the side of the road at night, what must you do?",
+        "options": [
+          "Keep the parking light on",
+          "Lock the vehicle",
+          "Keep a licensed driver in the driver's seat"
+        ],
+        "explanation": "A parked vehicle must stay visible to other drivers in the dark, so its parking light should remain on."
+      },
+      "hi": {
+        "question": "रात में सड़क के किनारे वाहन खड़ा हो, तो आपको क्या करना चाहिए?",
+        "options": [
+          "पार्किंग लाइट जलाए रखें",
+          "वाहन में ताला लगाएँ",
+          "चालक की सीट पर लाइसेंस वाला चालक बैठाएँ"
+        ],
+        "explanation": "खड़ा वाहन अंधेरे में दूसरे चालकों को दिखता रहना चाहिए, इसलिए उसकी पार्किंग लाइट जलती रहनी चाहिए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q27",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-037",
+    "topic": "Parking",
+    "unit": "parking",
+    "lessonId": "park-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Is it correct to park a vehicle in front of the entrance to a hospital?",
+    "options": [
+      "Correct",
+      "Correct if there is no NO PARKING sign",
+      "Incorrect"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Parking at a hospital entrance can block ambulances and patients, so it is never proper, with or without a sign.",
+    "languages": {
+      "en": {
+        "question": "Is it correct to park a vehicle in front of the entrance to a hospital?",
+        "options": [
+          "Correct",
+          "Correct if there is no NO PARKING sign",
+          "Incorrect"
+        ],
+        "explanation": "Parking at a hospital entrance can block ambulances and patients, so it is never proper, with or without a sign."
+      },
+      "hi": {
+        "question": "क्या अस्पताल के प्रवेश के सामने वाहन खड़ा करना सही है?",
+        "options": [
+          "सही",
+          "सही, अगर NO PARKING का चिह्न न हो",
+          "गलत"
+        ],
+        "explanation": "अस्पताल के प्रवेश पर पार्किंग से एम्बुलेंस और मरीज़ रुक सकते हैं, इसलिए चिह्न हो या न हो, यह कभी सही नहीं है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q37",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-053",
+    "topic": "Parking",
+    "unit": "parking",
+    "lessonId": "park-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Where is parking permitted?",
+    "options": [
+      "At turnings",
+      "Where parking is not prohibited",
+      "On footpaths"
+    ],
+    "correctAnswer": 1,
+    "explanation": "You may park only in places where parking is not prohibited and where you do not block others.",
+    "languages": {
+      "en": {
+        "question": "Where is parking permitted?",
+        "options": [
+          "At turnings",
+          "Where parking is not prohibited",
+          "On footpaths"
+        ],
+        "explanation": "You may park only in places where parking is not prohibited and where you do not block others."
+      },
+      "hi": {
+        "question": "पार्किंग कहाँ की अनुमति है?",
+        "options": [
+          "मोड़ों पर",
+          "जहाँ पार्किंग मना नहीं है",
+          "फुटपाथ पर"
+        ],
+        "explanation": "आप केवल उन जगहों पर पार्क कर सकते हैं जहाँ पार्किंग मना नहीं है और जहाँ आप दूसरों को नहीं रोकते।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q53",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-091",
+    "topic": "Parking",
+    "unit": "parking",
+    "lessonId": "park-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Which of these is a place where parking is prohibited?",
+    "options": [
+      "On a footpath",
+      "Behind a parked vehicle",
+      "On a one-way road"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A footpath is for pedestrians, and a parked vehicle forces them to walk on the road.",
+    "languages": {
+      "en": {
+        "question": "Which of these is a place where parking is prohibited?",
+        "options": [
+          "On a footpath",
+          "Behind a parked vehicle",
+          "On a one-way road"
+        ],
+        "explanation": "A footpath is for pedestrians, and a parked vehicle forces them to walk on the road."
+      },
+      "hi": {
+        "question": "इनमें से कौन-सी जगह पार्किंग निषिद्ध है?",
+        "options": [
+          "फुटपाथ पर",
+          "खड़े वाहन के पीछे",
+          "एकतरफ़ा सड़क पर"
+        ],
+        "explanation": "फुटपाथ पैदल चलने वालों के लिए है, और खड़ा वाहन उन्हें सड़क पर चलने के लिए मजबूर करता है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q91",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-107",
+    "topic": "Parking",
+    "unit": "parking",
+    "lessonId": "park-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "In which of these places is parking prohibited?",
+    "options": [
+      "At the side of the road",
+      "Where parking is permitted",
+      "Near a traffic light"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A parked vehicle near a traffic light blocks the view of the signal and the flow of traffic.",
+    "languages": {
+      "en": {
+        "question": "In which of these places is parking prohibited?",
+        "options": [
+          "At the side of the road",
+          "Where parking is permitted",
+          "Near a traffic light"
+        ],
+        "explanation": "A parked vehicle near a traffic light blocks the view of the signal and the flow of traffic."
+      },
+      "hi": {
+        "question": "इनमें से किस जगह पार्किंग निषिद्ध है?",
+        "options": [
+          "सड़क के किनारे",
+          "जहाँ पार्किंग की अनुमति है",
+          "ट्रैफ़िक लाइट के पास"
+        ],
+        "explanation": "ट्रैफ़िक लाइट के पास खड़ा वाहन सिग्नल का दृश्य और यातायात का बहाव रोकता है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q107",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-125",
+    "topic": "Parking",
+    "unit": "parking",
+    "lessonId": "park-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Parking is prohibited at which of these places?",
+    "options": [
+      "Entrance of a hospital",
+      "Left side of the road",
+      "Market area"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Parking at a hospital entrance can block ambulances and emergency access.",
+    "languages": {
+      "en": {
+        "question": "Parking is prohibited at which of these places?",
+        "options": [
+          "Entrance of a hospital",
+          "Left side of the road",
+          "Market area"
+        ],
+        "explanation": "Parking at a hospital entrance can block ambulances and emergency access."
+      },
+      "hi": {
+        "question": "इनमें से किस स्थान पर पार्किंग वर्जित है?",
+        "options": [
+          "अस्पताल का प्रवेश",
+          "सड़क का बायाँ किनारा",
+          "बाज़ार क्षेत्र"
+        ],
+        "explanation": "अस्पताल के प्रवेश पर पार्किंग से एम्बुलेंस और आपातकालीन रास्ता रुक सकता है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q125",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-127",
+    "topic": "Parking",
+    "unit": "parking",
+    "lessonId": "park-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Which of these is a place where you must never park?",
+    "options": [
+      "Blocking a fire hydrant",
+      "Near a public well",
+      "Left side of the road"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Fire services need quick access to a hydrant in an emergency, so it must never be blocked.",
+    "languages": {
+      "en": {
+        "question": "Which of these is a place where you must never park?",
+        "options": [
+          "Blocking a fire hydrant",
+          "Near a public well",
+          "Left side of the road"
+        ],
+        "explanation": "Fire services need quick access to a hydrant in an emergency, so it must never be blocked."
+      },
+      "hi": {
+        "question": "इनमें से कौन-सी ऐसी जगह है जहाँ कभी पार्क नहीं करना चाहिए?",
+        "options": [
+          "फ़ायर हाइड्रेंट को रोकना",
+          "सार्वजनिक कुएँ के पास",
+          "सड़क का बायाँ किनारा"
+        ],
+        "explanation": "आपात स्थिति में दमकल को हाइड्रेंट तक जल्दी पहुँचना होता है, इसलिए उसे कभी नहीं रोकना चाहिए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q127",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-224",
+    "topic": "Parking",
+    "unit": "parking",
+    "lessonId": "park-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Where are you allowed to park?",
+    "options": [
+      "On a footpath",
+      "At the top of a hill",
+      "Only where parking is not prohibited and you do not block others"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Never park on a footpath or where it is unsafe, such as the top of a hill; park only where it is permitted and causes no obstruction.",
+    "languages": {
+      "en": {
+        "question": "Where are you allowed to park?",
+        "options": [
+          "On a footpath",
+          "At the top of a hill",
+          "Only where parking is not prohibited and you do not block others"
+        ],
+        "explanation": "Never park on a footpath or where it is unsafe, such as the top of a hill; park only where it is permitted and causes no obstruction."
+      },
+      "hi": {
+        "question": "आप कहाँ पार्क कर सकते हैं?",
+        "options": [
+          "फ़ुटपाथ पर",
+          "पहाड़ी की चोटी पर",
+          "केवल वहाँ जहाँ पार्किंग वर्जित नहीं है और दूसरों को रुकावट नहीं होती"
+        ],
+        "explanation": "फ़ुटपाथ पर या पहाड़ी की चोटी जैसी असुरक्षित जगह पर कभी पार्क न करें; केवल अनुमत स्थान पर पार्क करें जहाँ रुकावट न हो।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q224",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-327",
+    "topic": "Parking",
+    "unit": "parking",
+    "lessonId": "park-2",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "What precautions should you take when parking at night?",
+    "options": [
+      "Park outside the carriageway and use the parking light and hand brake",
+      "Park on the footpath away from traffic",
+      "Use a tyre jack to stop the vehicle from rolling"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Parking off the carriageway with the parking light on keeps the vehicle visible and out of the way, and the hand brake stops it from rolling.",
+    "languages": {
+      "en": {
+        "question": "What precautions should you take when parking at night?",
+        "options": [
+          "Park outside the carriageway and use the parking light and hand brake",
+          "Park on the footpath away from traffic",
+          "Use a tyre jack to stop the vehicle from rolling"
+        ],
+        "explanation": "Parking off the carriageway with the parking light on keeps the vehicle visible and out of the way, and the hand brake stops it from rolling."
+      },
+      "hi": {
+        "question": "रात में पार्क करते समय आपको क्या सावधानियाँ रखनी चाहिए?",
+        "options": [
+          "कैरिजवे के बाहर पार्क करें और पार्किंग लाइट व हैंड ब्रेक का उपयोग करें",
+          "यातायात से दूर फुटपाथ पर पार्क करें",
+          "वाहन को लुढ़कने से रोकने के लिए टायर जैक लगाएँ"
+        ],
+        "explanation": "कैरिजवे के बाहर पार्क करके पार्किंग लाइट जलाने से वाहन दिखता रहता है और रास्ते से हटा रहता है, और हैंड ब्रेक उसे लुढ़कने से रोकता है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q327",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-344",
+    "topic": "Parking",
+    "unit": "parking",
+    "lessonId": "park-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "When parking your vehicle, you should",
+    "options": [
+      "Park parallel to the kerb",
+      "Park at a right angle to the kerb",
+      "Park so that you do not block or inconvenience other road users"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The main rule of parking is not to obstruct or trouble other road users.",
+    "languages": {
+      "en": {
+        "question": "When parking your vehicle, you should",
+        "options": [
+          "Park parallel to the kerb",
+          "Park at a right angle to the kerb",
+          "Park so that you do not block or inconvenience other road users"
+        ],
+        "explanation": "The main rule of parking is not to obstruct or trouble other road users."
+      },
+      "hi": {
+        "question": "वाहन पार्क करते समय आपको:",
+        "options": [
+          "कर्ब के समानांतर पार्क करना चाहिए",
+          "कर्ब से समकोण पर पार्क करना चाहिए",
+          "इस तरह पार्क करना चाहिए कि दूसरे सड़क उपयोगकर्ताओं को रुकावट या परेशानी न हो"
+        ],
+        "explanation": "पार्किंग का मुख्य नियम है कि दूसरे सड़क उपयोगकर्ताओं को रुकावट या परेशानी न दें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q344",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  }
+]

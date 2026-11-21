@@ -1,0 +1,3370 @@
+[
+  {
+    "id": "q-signals-001",
+    "topic": "Hand signals",
+    "unit": "signals",
+    "lessonId": "sig-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "To signal a right turn by hand, you extend your right arm:",
+    "options": [
+      "Straight down",
+      "Horizontally, outside and to the right of the vehicle",
+      "Pointing upward",
+      "Rotating anti-clockwise"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hand signals are for when no indicator is fitted or working. To turn right, extend the right arm horizontally outside and to the right of the vehicle (Reg. 11(2)(ii)).",
+    "languages": {
+      "en": {
+        "question": "To signal a right turn by hand, you extend your right arm:",
+        "options": [
+          "Straight down",
+          "Horizontally, outside and to the right of the vehicle",
+          "Pointing upward",
+          "Rotating anti-clockwise"
+        ],
+        "explanation": "Hand signals are for when no indicator is fitted or working. To turn right, extend the right arm horizontally outside and to the right of the vehicle (Reg. 11(2)(ii))."
+      },
+      "hi": {
+        "question": "हाथ से दाएँ मुड़ने का संकेत देने के लिए आप दायाँ हाथ कैसे फैलाते हैं?",
+        "options": [
+          "सीधा नीचे",
+          "वाहन के बाहर दाईं ओर क्षैतिज (सीधा)",
+          "ऊपर की ओर",
+          "वामावर्त घुमाते हुए"
+        ],
+        "explanation": "जब इंडिकेटर न हो या काम न करे, दाएँ मुड़ने के लिए दायाँ हाथ वाहन के बाहर दाईं ओर क्षैतिज फैलाएँ (Reg. 11(2)।"
+      },
+      "mr": {
+        "question": "हाताने उजवीकडे वळण्याचा संकेत देण्यासाठी तुम्ही तुमचा उजवा हात कसा पसरता:",
+        "options": [
+          "सरळ खाली",
+          "आडवा, वाहनाच्या बाहेर आणि उजवीकडे",
+          "वरच्या दिशेने",
+          "घड्याळाच्या उलट दिशेने फिरवून"
+        ],
+        "explanation": "हाताचे संकेत इंडिकेटर बसवलेला नसेल किंवा चालत नसेल तेव्हा वापरतात. उजवीकडे वळण्यासाठी उजवा हात वाहनाच्या बाहेर आणि उजवीकडे आडवा पसरा (Reg. 11(2)(ii))."
+      },
+      "te": {
+        "question": "చేతి సంజ్ఞతో కుడివైపు తిరగడాన్ని సూచించడానికి, మీ కుడి చేతిని ఇలా చాపాలి:",
+        "options": [
+          "నేరుగా కిందికి",
+          "అడ్డంగా, వాహనం బయట కుడివైపునకు",
+          "పైకి చూపిస్తూ",
+          "గడియారం ముల్లుకు వ్యతిరేక దిశలో తిప్పుతూ"
+        ],
+        "explanation": "ఇండికేటర్ లేనప్పుడు లేదా పని చేయనప్పుడు చేతి సంజ్ఞలు వాడతారు. కుడివైపు తిరగడానికి కుడి చేతిని వాహనం బయట కుడివైపునకు అడ్డంగా చాపండి (Reg. 11(2)(ii))."
+      },
+      "ta": {
+        "question": "கையால் வலதுபுறம் திரும்பும் சைகை காட்ட, உங்கள் வலது கையை இப்படி நீட்ட வேண்டும்:",
+        "options": [
+          "நேராகக் கீழ்நோக்கி",
+          "வாகனத்துக்கு வெளியே, வலதுபுறம் கிடைமட்டமாக",
+          "மேல்நோக்கிச் சுட்டியபடி",
+          "இடஞ்சுழியாகச் சுழற்றியபடி"
+        ],
+        "explanation": "இண்டிகேட்டர் பொருத்தப்படாதபோது அல்லது வேலை செய்யாதபோது கை சைகைகளைப் பயன்படுத்துங்கள். வலதுபுறம் திரும்ப, வலது கையை வாகனத்துக்கு வெளியே வலதுபுறம் கிடைமட்டமாக நீட்டவும் (Reg. 11(2)(ii))."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 11(2)(ii)",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 11(2)(ii)",
+    "retrievedOn": "2026-10-22",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Audited: stem, options, key, explanation and Hindi checked against Motor Vehicles (Driving) Regulations 2017 / IRC:67-2012 text; no change needed."
+  },
+  {
+    "id": "q-signals-002",
+    "topic": "Hand signals",
+    "unit": "signals",
+    "lessonId": "sig-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Raising your right forearm vertically outside the vehicle, palm to the right, signals that you intend to:",
+    "options": [
+      "Turn left",
+      "Turn right",
+      "Overtake",
+      "Stop"
+    ],
+    "correctAnswer": 3,
+    "explanation": "To signal a stop by hand, raise the right forearm vertically outside and to the right of the vehicle (Reg. 11(2)(i)). The regulation has no separate hand signal for slowing down.",
+    "languages": {
+      "en": {
+        "question": "Raising your right forearm vertically outside the vehicle, palm to the right, signals that you intend to:",
+        "options": [
+          "Turn left",
+          "Turn right",
+          "Overtake",
+          "Stop"
+        ],
+        "explanation": "To signal a stop by hand, raise the right forearm vertically outside and to the right of the vehicle (Reg. 11(2)(i)). The regulation has no separate hand signal for slowing down."
+      },
+      "hi": {
+        "question": "अपनी दाईं अग्रबाहु को वाहन के बाहर ऊर्ध्वाधर ऊपर उठाना, हथेली दाईं ओर, किस इरादे का संकेत है?",
+        "options": [
+          "बाएँ मुड़ना",
+          "दाएँ मुड़ना",
+          "ओवरटेक करना",
+          "रुकना"
+        ],
+        "explanation": "रुकने का हाथ-संकेत देने के लिए दाईं अग्रबाहु को वाहन के बाहर और दाईं ओर सीधा ऊपर उठाएँ (Reg. 11(2)(i))। नियमन में धीमे होने का कोई अलग हाथ-संकेत नहीं है।"
+      },
+      "mr": {
+        "question": "तुमचा उजवा हात कोपरापासून वाहनाच्या बाहेर उभा करून, तळहात उजवीकडे ठेवणे हा कोणता संकेत आहे:",
+        "options": [
+          "डावीकडे वळणे",
+          "उजवीकडे वळणे",
+          "ओव्हरटेक करणे",
+          "थांबणे"
+        ],
+        "explanation": "हाताने थांबण्याचा संकेत देण्यासाठी उजवा हात कोपरापासून वाहनाच्या बाहेर आणि उजवीकडे उभा करा (Reg. 11(2)(i)). नियमात वेग कमी करण्यासाठी वेगळा हाताचा संकेत नाही."
+      },
+      "te": {
+        "question": "మీ కుడి ముంజేతిని వాహనం బయట నిటారుగా పైకెత్తి, అరచేయి కుడివైపు ఉంచడం దేన్ని సూచిస్తుంది:",
+        "options": [
+          "ఎడమకు తిరగడం",
+          "కుడికి తిరగడం",
+          "ఓవర్‌టేక్ చేయడం",
+          "ఆగడం"
+        ],
+        "explanation": "చేతితో ఆగడాన్ని సూచించడానికి, కుడి ముంజేతిని వాహనం బయట కుడివైపున నిటారుగా పైకెత్తండి (Reg. 11(2)(i)). వేగం తగ్గించడానికి నిబంధనలో ప్రత్యేక చేతి సంజ్ఞ లేదు."
+      },
+      "ta": {
+        "question": "வலது முன்கையை வாகனத்துக்கு வெளியே செங்குத்தாக உயர்த்தி, உள்ளங்கை வலதுபுறம் இருக்குமாறு காட்டினால், அது எதைக் குறிக்கிறது:",
+        "options": [
+          "இடதுபுறம் திரும்புவது",
+          "வலதுபுறம் திரும்புவது",
+          "முந்திச் செல்வது",
+          "நிறுத்துவது"
+        ],
+        "explanation": "கையால் நிறுத்தும் சைகை காட்ட, வலது முன்கையை வாகனத்துக்கு வெளியே வலதுபுறம் செங்குத்தாக உயர்த்தவும் (Reg. 11(2)(i)). வேகத்தைக் குறைப்பதற்கு விதியில் தனியான கை சைகை இல்லை."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 11(2)(i)",
+    "retrievedOn": "2026-10-22",
+    "verified": true,
+    "ruleRef": "Reg. 11(2)(i)",
+    "auditedOn": "2026-11-16",
+    "auditNote": "Audited: correct per Reg. 11(2)(i). Note: the 2015 official bank (Q71, Q150) still teaches an up-and-down \"slow down\" hand signal; Regulation 11 of the 2017 Regulations lists no such signal, so the app follows the 2017 text."
+  },
+  {
+    "id": "q-signals-003",
+    "topic": "Indicators",
+    "unit": "signals",
+    "lessonId": "sig-1",
+    "type": "true-false",
+    "difficulty": 1,
+    "question": "You should signal your intention in good time before turning or changing lanes.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Signal clearly and in good time before changing course or turning (Reg. 11(1), Reg. 8).",
+    "languages": {
+      "en": {
+        "question": "You should signal your intention in good time before turning or changing lanes.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "explanation": "Signal clearly and in good time before changing course or turning (Reg. 11(1), Reg. 8)."
+      },
+      "hi": {
+        "question": "मुड़ने या लेन बदलने से पहले आपको समय रहते अपने इरादे का संकेत देना चाहिए।",
+        "options": [
+          "सही",
+          "गलत"
+        ],
+        "explanation": "दिशा बदलने या मुड़ने से पहले स्पष्ट और समय पर संकेत दें (Reg. 11(1), Reg. 8)।"
+      },
+      "mr": {
+        "question": "वळण्यापूर्वी किंवा लेन बदलण्यापूर्वी तुम्ही तुमचा इरादा वेळेत दर्शवला पाहिजे.",
+        "options": [
+          "बरोबर",
+          "चूक"
+        ],
+        "explanation": "दिशा बदलण्यापूर्वी किंवा वळण्यापूर्वी स्पष्ट आणि वेळेत संकेत द्या (Reg. 11(1), Reg. 8)."
+      },
+      "te": {
+        "question": "తిరగడానికి లేదా లేన్ మారడానికి ముందు తగిన సమయంలో మీ ఉద్దేశాన్ని సంకేతం ద్వారా తెలియజేయాలి.",
+        "options": [
+          "ఒప్పు",
+          "తప్పు"
+        ],
+        "explanation": "దిశ మార్చడానికి లేదా తిరగడానికి ముందు స్పష్టంగా, తగిన సమయంలో సంకేతం ఇవ్వండి (Reg. 11(1), Reg. 8)."
+      },
+      "ta": {
+        "question": "திரும்புவதற்கு அல்லது பாதை மாறுவதற்கு முன் உரிய நேரத்தில் உங்கள் எண்ணத்தைச் சைகை மூலம் தெரிவிக்க வேண்டும்.",
+        "options": [
+          "சரி",
+          "தவறு"
+        ],
+        "explanation": "திசை மாறுவதற்கு அல்லது திரும்புவதற்கு முன் தெளிவாகவும் உரிய நேரத்திலும் சைகை காட்டுங்கள் (Reg. 11(1), Reg. 8)."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 11(1)",
+    "retrievedOn": "2026-10-22",
+    "verified": true,
+    "ruleRef": "Reg. 11(1)",
+    "auditedOn": "2026-11-16",
+    "auditNote": "Audited: corrected (bad translation (Hindi missing)). Hindi added"
+  },
+  {
+    "id": "q-signals-004",
+    "topic": "Indicators",
+    "unit": "signals",
+    "lessonId": "sig-1",
+    "type": "true-false",
+    "difficulty": 1,
+    "question": "Once you have turned, you can leave your indicator on for the rest of the journey.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cancel the indicator after the manoeuvre so you do not mislead other road users.",
+    "languages": {
+      "en": {
+        "question": "Once you have turned, you can leave your indicator on for the rest of the journey.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "explanation": "Cancel the indicator after the manoeuvre so you do not mislead other road users."
+      },
+      "hi": {
+        "question": "एक बार मुड़ने के बाद आप पूरे सफ़र में इंडिकेटर चालू छोड़ सकते हैं।",
+        "options": [
+          "सही",
+          "गलत"
+        ],
+        "explanation": "मोड़ पूरा होने के बाद इंडिकेटर बंद करें ताकि दूसरे सड़क उपयोगकर्ता भ्रमित न हों।"
+      },
+      "mr": {
+        "question": "एकदा वळल्यानंतर तुम्ही उरलेल्या प्रवासभर इंडिकेटर चालू ठेवू शकता.",
+        "options": [
+          "बरोबर",
+          "चूक"
+        ],
+        "explanation": "वळण झाल्यावर इंडिकेटर बंद करा, म्हणजे इतर रस्ता वापरकर्त्यांची दिशाभूल होणार नाही."
+      },
+      "te": {
+        "question": "ఒకసారి తిరిగిన తర్వాత, మిగిలిన ప్రయాణమంతా ఇండికేటర్‌ను ఆన్‌లో ఉంచవచ్చు.",
+        "options": [
+          "ఒప్పు",
+          "తప్పు"
+        ],
+        "explanation": "ఇతర రోడ్డు వినియోగదారులను తప్పుదోవ పట్టించకుండా ఉండటానికి, మలుపు పూర్తయ్యాక ఇండికేటర్‌ను ఆపివేయండి."
+      },
+      "ta": {
+        "question": "திரும்பிய பிறகு, பயணம் முழுவதும் இண்டிகேட்டரை ஆன் செய்தபடியே வைத்திருக்கலாம்.",
+        "options": [
+          "சரி",
+          "தவறு"
+        ],
+        "explanation": "திரும்பிய பிறகு இண்டிகேட்டரை அணைத்துவிடுங்கள்; இல்லையெனில் மற்ற சாலைப் பயனாளர்கள் தவறாகப் புரிந்துகொள்வார்கள்."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in",
+    "sourceDoc": "Not yet confirmed against an official source",
+    "retrievedOn": null,
+    "verified": false,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Audited: NOT confirmed against an official source. Hindi added; fact still unverified Check before treating as verified."
+  },
+  {
+    "id": "q-signals-005",
+    "topic": "Hand signals",
+    "unit": "signals",
+    "lessonId": "sig-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "An anticlockwise circular motion of the right arm signals that you intend to:",
+    "options": [
+      "Turn right",
+      "Stop",
+      "Turn left",
+      "Reverse"
+    ],
+    "correctAnswer": 2,
+    "explanation": "To signal a left turn by hand, extend the right arm and rotate it anti-clockwise (Reg. 11(2)(iii)).",
+    "languages": {
+      "en": {
+        "question": "An anticlockwise circular motion of the right arm signals that you intend to:",
+        "options": [
+          "Turn right",
+          "Stop",
+          "Turn left",
+          "Reverse"
+        ],
+        "explanation": "To signal a left turn by hand, extend the right arm and rotate it anti-clockwise (Reg. 11(2)(iii))."
+      },
+      "hi": {
+        "question": "दाईं भुजा का वामावर्त (एंटीक्लॉकवाइज़) गोलाकार घुमाव किस इरादे का संकेत है?",
+        "options": [
+          "दाएँ मुड़ना",
+          "रुकना",
+          "बाएँ मुड़ना",
+          "पीछे लेना"
+        ],
+        "explanation": "बाएँ मुड़ने का हाथ-संकेत देने के लिए दाईं भुजा फैलाकर उसे वामावर्त घुमाएँ (Reg. 11(2)(iii))।"
+      },
+      "mr": {
+        "question": "उजव्या हाताची घड्याळाच्या उलट दिशेने गोलाकार हालचाल हा कोणता संकेत आहे:",
+        "options": [
+          "उजवीकडे वळणे",
+          "थांबणे",
+          "डावीकडे वळणे",
+          "मागे घेणे"
+        ],
+        "explanation": "हाताने डावीकडे वळण्याचा संकेत देण्यासाठी उजवा हात पसरून घड्याळाच्या उलट दिशेने फिरवा (Reg. 11(2)(iii))."
+      },
+      "te": {
+        "question": "కుడి చేతిని గడియారం ముల్లుకు వ్యతిరేక దిశలో వృత్తాకారంగా తిప్పడం దేన్ని సూచిస్తుంది:",
+        "options": [
+          "కుడికి తిరగడం",
+          "ఆగడం",
+          "ఎడమకు తిరగడం",
+          "రివర్స్ చేయడం"
+        ],
+        "explanation": "చేతితో ఎడమకు తిరగడాన్ని సూచించడానికి, కుడి చేతిని చాపి గడియారం ముల్లుకు వ్యతిరేక దిశలో తిప్పండి (Reg. 11(2)(iii))."
+      },
+      "ta": {
+        "question": "வலது கையை இடஞ்சுழியாக வட்டமாகச் சுழற்றினால், அது எதைக் குறிக்கிறது:",
+        "options": [
+          "வலதுபுறம் திரும்புவது",
+          "நிறுத்துவது",
+          "இடதுபுறம் திரும்புவது",
+          "பின்னோக்கிச் செல்வது"
+        ],
+        "explanation": "கையால் இடதுபுறம் திரும்பும் சைகை காட்ட, வலது கையை நீட்டி இடஞ்சுழியாகச் சுழற்றவும் (Reg. 11(2)(iii))."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 11(2)(iii)",
+    "retrievedOn": "2026-10-22",
+    "verified": true,
+    "ruleRef": "Reg. 11(2)(iii)",
+    "auditedOn": "2026-11-16",
+    "auditNote": "Audited: corrected (bad translation (Hindi missing)). Hindi added"
+  },
+  {
+    "id": "q-signals-006",
+    "topic": "Indicators",
+    "unit": "signals",
+    "lessonId": "sig-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Hazard (four-way) lamps should be used:",
+    "options": [
+      "When your vehicle is a temporary hazard, e.g. breakdown",
+      "While overtaking",
+      "At all junctions",
+      "In heavy rain only"
+    ],
+    "correctAnswer": 0,
+    "explanation": "When a vehicle breaks down, switch on the hazard warning lights immediately (Reg. 28).",
+    "languages": {
+      "en": {
+        "question": "Hazard (four-way) lamps should be used:",
+        "options": [
+          "When your vehicle is a temporary hazard, e.g. breakdown",
+          "While overtaking",
+          "At all junctions",
+          "In heavy rain only"
+        ],
+        "explanation": "When a vehicle breaks down, switch on the hazard warning lights immediately (Reg. 28)."
+      },
+      "hi": {
+        "question": "हैज़र्ड (चारों) लाइटें कब इस्तेमाल करनी चाहिए?",
+        "options": [
+          "जब आपका वाहन अस्थायी बाधा हो, जैसे ख़राब हो जाए",
+          "ओवरटेक करते समय",
+          "हर चौराहे पर",
+          "केवल भारी बारिश में"
+        ],
+        "explanation": "वाहन ख़राब होने पर तुरंत हैज़र्ड वार्निंग लाइटें चालू करें (Reg. 28)।"
+      },
+      "mr": {
+        "question": "हॅझार्ड (चारही) दिवे कधी वापरावेत:",
+        "options": [
+          "तुमचे वाहन तात्पुरता धोका असेल तेव्हा, उदा. बिघाड",
+          "ओव्हरटेक करताना",
+          "सर्व चौकांत",
+          "फक्त जोरदार पावसात"
+        ],
+        "explanation": "वाहन बंद पडले की लगेच हॅझार्ड वॉर्निंग दिवे लावा (Reg. 28)."
+      },
+      "te": {
+        "question": "హజార్డ్ (నాలుగు వైపుల) లైట్లను ఎప్పుడు వాడాలి:",
+        "options": [
+          "మీ వాహనం తాత్కాలికంగా ప్రమాదంగా మారినప్పుడు, ఉదా. వాహనం చెడిపోయినప్పుడు",
+          "ఓవర్‌టేక్ చేస్తున్నప్పుడు",
+          "అన్ని జంక్షన్ల వద్ద",
+          "భారీ వర్షంలో మాత్రమే"
+        ],
+        "explanation": "వాహనం చెడిపోయినప్పుడు వెంటనే హజార్డ్ హెచ్చరిక లైట్లను ఆన్ చేయండి (Reg. 28)."
+      },
+      "ta": {
+        "question": "அபாய எச்சரிக்கை விளக்குகளை (ஹசார்டு விளக்குகள்) பயன்படுத்த வேண்டிய சந்தர்ப்பம்:",
+        "options": [
+          "உங்கள் வாகனமே தற்காலிக ஆபத்தாக இருக்கும்போது, எ.கா. பழுதாகி நிற்கும்போது",
+          "முந்திச் செல்லும்போது",
+          "எல்லாச் சந்திப்புகளிலும்",
+          "கனமழையில் மட்டும்"
+        ],
+        "explanation": "வாகனம் பழுதாகி நின்றால், உடனே அபாய எச்சரிக்கை விளக்குகளை ஆன் செய்யுங்கள் (Reg. 28)."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 28",
+    "retrievedOn": "2026-10-22",
+    "verified": true,
+    "ruleRef": "Reg. 28",
+    "auditedOn": "2026-11-16",
+    "auditNote": "Audited: corrected (wrong explanation (unconfirmed citation)). Removed \"Reg. 29, 30\" claim that was not confirmed; Hindi added"
+  },
+  {
+    "id": "q-signals-007",
+    "topic": "Markings",
+    "unit": "signals",
+    "lessonId": "sig-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "A solid white line along the centre of the road means:",
+    "options": [
+      "You may cross freely",
+      "Parking allowed",
+      "Speed limit ends",
+      "Do not cross it"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Do not drive on or over a single or double solid longitudinal line, except when there is an obstruction (Reg. 6(6)).",
+    "languages": {
+      "en": {
+        "question": "A solid white line along the centre of the road means:",
+        "options": [
+          "You may cross freely",
+          "Parking allowed",
+          "Speed limit ends",
+          "Do not cross it"
+        ],
+        "explanation": "Do not drive on or over a single or double solid longitudinal line, except when there is an obstruction (Reg. 6(6))."
+      },
+      "hi": {
+        "question": "सड़क के बीच में ठोस सफेद रेखा का अर्थ है:",
+        "options": [
+          "इसे आराम से पार कर सकते हैं",
+          "पार्किंग की अनुमति",
+          "गति सीमा समाप्त",
+          "इसे पार न करें"
+        ],
+        "explanation": "ठोस केंद्र रेखा को पार नहीं करना चाहिए, सिवाय किसी बाधा की स्थिति में (Reg. 6(6))।"
+      },
+      "mr": {
+        "question": "रस्त्याच्या मधोमध असलेली घन पांढरी रेषा म्हणजे:",
+        "options": [
+          "तुम्ही ती मोकळेपणाने ओलांडू शकता",
+          "पार्किंगला परवानगी आहे",
+          "वेग मर्यादा संपते",
+          "ती ओलांडू नका"
+        ],
+        "explanation": "अडथळा असेल तेव्हा वगळता, एकेरी किंवा दुहेरी घन लांबीच्या रेषेवरून किंवा ती ओलांडून वाहन चालवू नका (Reg. 6(6))."
+      },
+      "te": {
+        "question": "రోడ్డు మధ్యలో ఉన్న ఒకే గట్టి తెల్ల గీత అర్థం:",
+        "options": [
+          "మీ ఇష్టం వచ్చినట్లు దాటవచ్చు",
+          "పార్కింగ్‌కు అనుమతి",
+          "వేగ పరిమితి ముగిసింది",
+          "దాన్ని దాటకూడదు"
+        ],
+        "explanation": "ఒకే లేదా రెండు గట్టి (విరామం లేని) పొడవు గీతలపై లేదా వాటిని దాటి నడపకూడదు, అడ్డంకి ఉన్నప్పుడు తప్ప (Reg. 6(6))."
+      },
+      "ta": {
+        "question": "சாலையின் நடுவில் செல்லும் தொடர்ச்சியான வெள்ளைக் கோடு என்பதன் பொருள்:",
+        "options": [
+          "அதைத் தாராளமாகக் கடக்கலாம்",
+          "வாகனம் நிறுத்த அனுமதி",
+          "வேக வரம்பு முடிகிறது",
+          "அதைக் கடக்கக் கூடாது"
+        ],
+        "explanation": "தடையாக ஏதேனும் இருக்கும்போது தவிர, ஒற்றை அல்லது இரட்டைத் தொடர்ச்சியான நீளவாட்டுக் கோட்டின் மீதோ அதைத் தாண்டியோ வாகனத்தை ஓட்டக் கூடாது (Reg. 6(6))."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 6(6)",
+    "retrievedOn": "2026-10-22",
+    "verified": true,
+    "ruleRef": "Reg. 6(6)",
+    "auditedOn": "2026-11-16",
+    "auditNote": "Audited: corrected (bad translation). Hindi explanation omitted the \"except when there is an obstruction\" exception"
+  },
+  {
+    "id": "q-signals-008",
+    "topic": "Markings",
+    "unit": "signals",
+    "lessonId": "sig-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "A broken (dashed) white centre line means:",
+    "options": [
+      "Never cross",
+      "You may cross it when safe",
+      "Road is closed",
+      "Stop"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A broken line may be crossed to overtake when it is safe.",
+    "languages": {
+      "en": {
+        "question": "A broken (dashed) white centre line means:",
+        "options": [
+          "Never cross",
+          "You may cross it when safe",
+          "Road is closed",
+          "Stop"
+        ],
+        "explanation": "A broken line may be crossed to overtake when it is safe."
+      },
+      "hi": {
+        "question": "टूटी (बिंदीदार) सफ़ेद केंद्र रेखा का क्या अर्थ है?",
+        "options": [
+          "इसे कभी पार न करें",
+          "सुरक्षित होने पर आप इसे पार कर सकते हैं",
+          "सड़क बंद है",
+          "रुकें"
+        ],
+        "explanation": "टूटी रेखा को सुरक्षित होने पर ओवरटेक के लिए पार किया जा सकता है।"
+      },
+      "mr": {
+        "question": "तुटक (ठिपक्यांची) पांढरी मधली रेषा म्हणजे:",
+        "options": [
+          "कधीही ओलांडू नका",
+          "सुरक्षित असेल तेव्हा तुम्ही ती ओलांडू शकता",
+          "रस्ता बंद आहे",
+          "थांबा"
+        ],
+        "explanation": "सुरक्षित असेल तेव्हा ओव्हरटेक करण्यासाठी तुटक रेषा ओलांडता येते."
+      },
+      "te": {
+        "question": "విరిగిన (చుక్కల) తెల్ల మధ్య గీత అర్థం:",
+        "options": [
+          "ఎప్పుడూ దాటకూడదు",
+          "సురక్షితంగా ఉన్నప్పుడు దాన్ని దాటవచ్చు",
+          "రోడ్డు మూసివేయబడింది",
+          "ఆగండి"
+        ],
+        "explanation": "సురక్షితంగా ఉన్నప్పుడు ఓవర్‌టేక్ చేయడానికి విరిగిన గీతను దాటవచ్చు."
+      },
+      "ta": {
+        "question": "இடைவெளி விட்டு வரையப்பட்ட (உடைந்த) வெள்ளை நடுக்கோடு என்பதன் பொருள்:",
+        "options": [
+          "ஒருபோதும் கடக்கக் கூடாது",
+          "பாதுகாப்பாக இருக்கும்போது அதைக் கடக்கலாம்",
+          "சாலை மூடப்பட்டுள்ளது",
+          "நிறுத்துங்கள்"
+        ],
+        "explanation": "பாதுகாப்பாக இருக்கும்போது, முந்திச் செல்வதற்காக இடைவெளிக் கோட்டைக் கடக்கலாம்."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q168",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Audited: confirmed by the official Parivahan question bank (Q168). Hindi added (draft). No change to the answer."
+  },
+  {
+    "id": "q-signals-009",
+    "topic": "Markings",
+    "unit": "signals",
+    "lessonId": "sig-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Where should you stop at a signal or stop sign with a stop line marked?",
+    "options": [
+      "Behind the stop line",
+      "On the line",
+      "Past the line",
+      "Anywhere"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Stop before the stop line at a red signal (Reg. 12(1)(a)) and before the STOP line at a STOP sign (Reg. 7).",
+    "languages": {
+      "en": {
+        "question": "Where should you stop at a signal or stop sign with a stop line marked?",
+        "options": [
+          "Behind the stop line",
+          "On the line",
+          "Past the line",
+          "Anywhere"
+        ],
+        "explanation": "Stop before the stop line at a red signal (Reg. 12(1)(a)) and before the STOP line at a STOP sign (Reg. 7)."
+      },
+      "hi": {
+        "question": "सिग्नल या स्टॉप चिह्न पर, जहाँ स्टॉप लाइन बनी हो, आपको कहाँ रुकना चाहिए?",
+        "options": [
+          "स्टॉप लाइन के पीछे",
+          "लाइन पर",
+          "लाइन के आगे",
+          "कहीं भी"
+        ],
+        "explanation": "लाल सिग्नल पर स्टॉप लाइन से पहले रुकें (Reg. 12(1)(a)) और STOP चिह्न पर STOP लाइन से पहले रुकें (Reg. 7)।"
+      },
+      "mr": {
+        "question": "स्टॉप लाइन आखलेली असलेल्या सिग्नलवर किंवा स्टॉप चिन्हावर तुम्ही कुठे थांबावे?",
+        "options": [
+          "स्टॉप लाइनच्या मागे",
+          "रेषेवर",
+          "रेषेच्या पुढे",
+          "कुठेही"
+        ],
+        "explanation": "लाल सिग्नलवर स्टॉप लाइनच्या आधी थांबा (Reg. 12(1)(a)) आणि STOP चिन्हावर STOP रेषेच्या आधी थांबा (Reg. 7)."
+      },
+      "te": {
+        "question": "స్టాప్ లైన్ గుర్తించి ఉన్న సిగ్నల్ లేదా STOP సంకేతం వద్ద ఎక్కడ ఆగాలి?",
+        "options": [
+          "స్టాప్ లైన్ వెనుక",
+          "గీతపై",
+          "గీతను దాటి",
+          "ఎక్కడైనా"
+        ],
+        "explanation": "ఎరుపు సిగ్నల్ వద్ద స్టాప్ లైన్ ముందు ఆగండి (Reg. 12(1)(a)), STOP సంకేతం వద్ద STOP గీత ముందు ఆగండి (Reg. 7)."
+      },
+      "ta": {
+        "question": "நிறுத்தக் கோடு வரையப்பட்டுள்ள சிக்னலில் அல்லது STOP குறியீட்டில் எங்கே நிறுத்த வேண்டும்?",
+        "options": [
+          "நிறுத்தக் கோட்டுக்குப் பின்னால்",
+          "கோட்டின் மீது",
+          "கோட்டைத் தாண்டி",
+          "எங்கு வேண்டுமானாலும்"
+        ],
+        "explanation": "சிவப்பு சிக்னலில் நிறுத்தக் கோட்டுக்கு முன்பும் (Reg. 12(1)(a)), STOP குறியீட்டில் STOP கோட்டுக்கு முன்பும் (Reg. 7) நிறுத்துங்கள்."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 12(1)(a)",
+    "retrievedOn": "2026-10-22",
+    "verified": true,
+    "ruleRef": "Reg. 12(1)(a)",
+    "auditedOn": "2026-11-16",
+    "auditNote": "Audited: corrected (wrong explanation (unconfirmed sub-clause)). Cited Reg. 7(1)(a); only Reg. 7 confirmed. Hindi added"
+  },
+  {
+    "id": "q-signals-010",
+    "topic": "Markings",
+    "unit": "signals",
+    "lessonId": "sig-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Wide white stripes across the road parallel to traffic mark a:",
+    "options": [
+      "Parking area",
+      "Speed breaker only",
+      "Pedestrian (zebra) crossing",
+      "Overtaking zone"
+    ],
+    "correctAnswer": 2,
+    "explanation": "This is a zebra crossing; pedestrians have priority.",
+    "languages": {
+      "en": {
+        "question": "Wide white stripes across the road parallel to traffic mark a:",
+        "options": [
+          "Parking area",
+          "Speed breaker only",
+          "Pedestrian (zebra) crossing",
+          "Overtaking zone"
+        ],
+        "explanation": "This is a zebra crossing; pedestrians have priority."
+      },
+      "hi": {
+        "question": "सड़क पर यातायात के समानांतर चौड़ी सफ़ेद पट्टियाँ किसे दर्शाती हैं?",
+        "options": [
+          "पार्किंग क्षेत्र",
+          "केवल स्पीड ब्रेकर",
+          "पैदल (ज़ेब्रा) क्रॉसिंग",
+          "ओवरटेकिंग क्षेत्र"
+        ],
+        "explanation": "यह ज़ेब्रा क्रॉसिंग है; पैदल यात्रियों को प्राथमिकता होती है।"
+      },
+      "mr": {
+        "question": "वाहतुकीला समांतर, रस्त्यावर आडवे रुंद पांढरे पट्टे कशाची खूण आहेत:",
+        "options": [
+          "पार्किंग क्षेत्र",
+          "फक्त गतिरोधक",
+          "पादचारी (झेब्रा) क्रॉसिंग",
+          "ओव्हरटेकिंग क्षेत्र"
+        ],
+        "explanation": "हे झेब्रा क्रॉसिंग आहे; पादचाऱ्यांना प्राधान्य असते."
+      },
+      "te": {
+        "question": "ట్రాఫిక్ దిశకు సమాంతరంగా రోడ్డు అడ్డంగా ఉన్న వెడల్పాటి తెల్ల చారలు దేన్ని సూచిస్తాయి:",
+        "options": [
+          "పార్కింగ్ స్థలం",
+          "కేవలం స్పీడ్ బ్రేకర్",
+          "పాదచారుల (జీబ్రా) క్రాసింగ్",
+          "ఓవర్‌టేకింగ్ ప్రాంతం"
+        ],
+        "explanation": "ఇది జీబ్రా క్రాసింగ్; పాదచారులకు ముందుగా వెళ్లే హక్కు ఉంటుంది."
+      },
+      "ta": {
+        "question": "சாலையின் குறுக்கே, போக்குவரத்துக்கு இணையாக வரையப்பட்ட அகலமான வெள்ளைப் பட்டைகள் குறிப்பது:",
+        "options": [
+          "வாகன நிறுத்தப் பகுதி",
+          "வேகத்தடை மட்டும்",
+          "பாதசாரிகள் கடக்கும் இடம் (ஜீப்ரா கிராசிங்)",
+          "முந்திச் செல்லும் பகுதி"
+        ],
+        "explanation": "இது ஜீப்ரா கிராசிங்; பாதசாரிகளுக்கே முன்னுரிமை."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q31",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Audited: confirmed by the official Parivahan question bank (Q31). Hindi added (draft). No change to the answer."
+  },
+  {
+    "id": "q-signals-011",
+    "topic": "Markings",
+    "unit": "signals",
+    "lessonId": "sig-2",
+    "type": "true-false",
+    "difficulty": 1,
+    "question": "You may stop on a zebra crossing if the signal ahead is red and the queue is long.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Do not block a pedestrian crossing even when traffic is stopped (Reg. 39); stop before the stop line (Reg. 12(1)(a)).",
+    "languages": {
+      "en": {
+        "question": "You may stop on a zebra crossing if the signal ahead is red and the queue is long.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "explanation": "Do not block a pedestrian crossing even when traffic is stopped (Reg. 39); stop before the stop line (Reg. 12(1)(a))."
+      },
+      "hi": {
+        "question": "यदि आगे सिग्नल लाल हो और कतार लंबी हो, तो आप ज़ेब्रा क्रॉसिंग पर रुक सकते हैं।",
+        "options": [
+          "सही",
+          "गलत"
+        ],
+        "explanation": "यातायात रुका हो तब भी पैदल क्रॉसिंग को अवरुद्ध न करें (Reg. 39); स्टॉप लाइन से पहले रुकें (Reg. 12(1)(a))।"
+      },
+      "mr": {
+        "question": "पुढचा सिग्नल लाल असेल आणि रांग लांब असेल तर तुम्ही झेब्रा क्रॉसिंगवर थांबू शकता.",
+        "options": [
+          "बरोबर",
+          "चूक"
+        ],
+        "explanation": "वाहतूक थांबलेली असतानाही पादचारी क्रॉसिंग अडवू नका (Reg. 39); स्टॉप लाइनच्या आधी थांबा (Reg. 12(1)(a))."
+      },
+      "te": {
+        "question": "ముందున్న సిగ్నల్ ఎరుపుగా ఉండి, వాహనాల వరుస పొడవుగా ఉంటే జీబ్రా క్రాసింగ్‌పై ఆగవచ్చు.",
+        "options": [
+          "ఒప్పు",
+          "తప్పు"
+        ],
+        "explanation": "ట్రాఫిక్ ఆగి ఉన్నా పాదచారుల క్రాసింగ్‌ను అడ్డుకోకండి (Reg. 39); స్టాప్ లైన్ ముందు ఆగండి (Reg. 12(1)(a))."
+      },
+      "ta": {
+        "question": "முன்னால் உள்ள சிக்னல் சிவப்பாக இருந்து, வரிசை நீளமாக இருந்தால், ஜீப்ரா கிராசிங்கில் வாகனத்தை நிறுத்தலாம்.",
+        "options": [
+          "சரி",
+          "தவறு"
+        ],
+        "explanation": "போக்குவரத்து நின்றிருந்தாலும் பாதசாரிகள் கடக்கும் இடத்தை அடைக்காதீர்கள் (Reg. 39); நிறுத்தக் கோட்டுக்கு முன் நிறுத்துங்கள் (Reg. 12(1)(a))."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 39",
+    "retrievedOn": "2026-10-22",
+    "verified": true,
+    "ruleRef": "Reg. 39",
+    "auditedOn": "2026-11-16",
+    "auditNote": "Audited: corrected (bad translation (Hindi missing)). Hindi added"
+  },
+  {
+    "id": "q-signals-012",
+    "topic": "Traffic lights",
+    "unit": "signals",
+    "lessonId": "sig-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "A steady red traffic light means:",
+    "options": [
+      "Slow down",
+      "Stop behind the stop line",
+      "Proceed with caution",
+      "Go straight if the road looks empty"
+    ],
+    "correctAnswer": 1,
+    "explanation": "At red, stop before the stop line preceding the pedestrian crossing (Reg. 12(1)(a)).",
+    "languages": {
+      "en": {
+        "question": "A steady red traffic light means:",
+        "options": [
+          "Slow down",
+          "Stop behind the stop line",
+          "Proceed with caution",
+          "Go straight if the road looks empty"
+        ],
+        "explanation": "At red, stop before the stop line preceding the pedestrian crossing (Reg. 12(1)(a))."
+      },
+      "hi": {
+        "question": "ट्रैफिक लाइट में स्थिर लाल बत्ती का अर्थ है:",
+        "options": [
+          "धीमे हों",
+          "स्टॉप लाइन के पीछे रुकें",
+          "सावधानी से आगे बढ़ें",
+          "सड़क खाली दिखे तो सीधे निकल जाएँ"
+        ],
+        "explanation": "लाल का अर्थ है रुकें और लाइन के पीछे प्रतीक्षा करें (Reg. 12(1)।"
+      },
+      "mr": {
+        "question": "स्थिर लाल वाहतूक दिवा म्हणजे:",
+        "options": [
+          "वेग कमी करा",
+          "स्टॉप लाइनच्या मागे थांबा",
+          "काळजीपूर्वक पुढे जा",
+          "रस्ता रिकामा दिसत असेल तर सरळ जा"
+        ],
+        "explanation": "लाल दिव्यावर पादचारी क्रॉसिंगच्या आधी असलेल्या स्टॉप लाइनच्या आधी थांबा (Reg. 12(1)(a))."
+      },
+      "te": {
+        "question": "స్థిరంగా వెలిగే ఎరుపు ట్రాఫిక్ లైట్ అర్థం:",
+        "options": [
+          "వేగం తగ్గించండి",
+          "స్టాప్ లైన్ వెనుక ఆగండి",
+          "జాగ్రత్తగా ముందుకు వెళ్లండి",
+          "రోడ్డు ఖాళీగా కనిపిస్తే నేరుగా వెళ్లండి"
+        ],
+        "explanation": "ఎరుపు వద్ద, పాదచారుల క్రాసింగ్ ముందున్న స్టాప్ లైన్ ముందు ఆగండి (Reg. 12(1)(a))."
+      },
+      "ta": {
+        "question": "தொடர்ந்து எரியும் சிவப்பு போக்குவரத்து விளக்கு என்பதன் பொருள்:",
+        "options": [
+          "வேகத்தைக் குறையுங்கள்",
+          "நிறுத்தக் கோட்டுக்குப் பின்னால் நிறுத்துங்கள்",
+          "எச்சரிக்கையுடன் செல்லுங்கள்",
+          "சாலை காலியாகத் தெரிந்தால் நேராகச் செல்லுங்கள்"
+        ],
+        "explanation": "சிவப்பு விளக்கில், பாதசாரிகள் கடக்கும் இடத்துக்கு முன்னால் உள்ள நிறுத்தக் கோட்டுக்கு முன் நிறுத்துங்கள் (Reg. 12(1)(a))."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 12(1)(a)",
+    "retrievedOn": "2026-10-22",
+    "verified": true,
+    "ruleRef": "Reg. 12(1)(a)",
+    "auditedOn": "2026-11-16",
+    "auditNote": "Audited: corrected (wrong option (defensible)). Option \"Turn left freely\" is partly defensible: Reg. 12 allows a left turn at red after giving way unless a sign prohibits it. Replaced with a clearly wrong option"
+  },
+  {
+    "id": "q-signals-013",
+    "topic": "Traffic lights",
+    "unit": "signals",
+    "lessonId": "sig-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "A steady amber (yellow) light means:",
+    "options": [
+      "Speed up to cross",
+      "Go",
+      "Reverse",
+      "Stop before the stop line, unless you are too close to stop safely"
+    ],
+    "correctAnswer": 3,
+    "explanation": "At amber, stop before the stop line or crossing, unless you have already crossed it or are too close to stop safely (Reg. 12).",
+    "languages": {
+      "en": {
+        "question": "A steady amber (yellow) light means:",
+        "options": [
+          "Speed up to cross",
+          "Go",
+          "Reverse",
+          "Stop before the stop line, unless you are too close to stop safely"
+        ],
+        "explanation": "At amber, stop before the stop line or crossing, unless you have already crossed it or are too close to stop safely (Reg. 12)."
+      },
+      "hi": {
+        "question": "स्थिर पीली (एम्बर) बत्ती का क्या अर्थ है?",
+        "options": [
+          "पार करने के लिए गति बढ़ाएँ",
+          "चलें",
+          "पीछे लें",
+          "स्टॉप लाइन से पहले रुकें, जब तक कि रुकना सुरक्षित रूप से संभव न हो"
+        ],
+        "explanation": "पीली बत्ती पर स्टॉप लाइन या क्रॉसिंग से पहले रुकें, जब तक कि आप उसे पार न कर चुके हों या सुरक्षित रूप से रुकने के लिए बहुत पास न हों (Reg. 12)।"
+      },
+      "mr": {
+        "question": "स्थिर अंबर (पिवळा) दिवा म्हणजे:",
+        "options": [
+          "ओलांडण्यासाठी वेग वाढवा",
+          "चला",
+          "मागे घ्या",
+          "स्टॉप लाइनच्या आधी थांबा, मात्र सुरक्षितपणे थांबता येण्यासारखे नसेल इतके जवळ असाल तर थांबू नका"
+        ],
+        "explanation": "अंबर दिव्यावर स्टॉप लाइन किंवा क्रॉसिंगच्या आधी थांबा, मात्र तुम्ही ती आधीच ओलांडली असेल किंवा सुरक्षितपणे थांबता येणार नाही इतके जवळ असाल तर थांबू नका (Reg. 12)."
+      },
+      "te": {
+        "question": "స్థిరంగా వెలిగే అంబర్ (పసుపు) లైట్ అర్థం:",
+        "options": [
+          "దాటడానికి వేగం పెంచండి",
+          "వెళ్లండి",
+          "రివర్స్ చేయండి",
+          "స్టాప్ లైన్ ముందు ఆగండి, సురక్షితంగా ఆగలేనంత దగ్గరగా ఉంటే తప్ప"
+        ],
+        "explanation": "అంబర్ వద్ద, స్టాప్ లైన్ లేదా క్రాసింగ్ ముందు ఆగండి; ఇప్పటికే దాటి ఉంటే లేదా సురక్షితంగా ఆగలేనంత దగ్గరగా ఉంటే తప్ప (Reg. 12)."
+      },
+      "ta": {
+        "question": "தொடர்ந்து எரியும் ஆம்பர் (மஞ்சள்) விளக்கு என்பதன் பொருள்:",
+        "options": [
+          "கடப்பதற்காக வேகத்தைக் கூட்டுங்கள்",
+          "செல்லுங்கள்",
+          "பின்னோக்கிச் செல்லுங்கள்",
+          "பாதுகாப்பாக நிறுத்த முடியாத அளவுக்கு மிக அருகில் இருந்தால் தவிர, நிறுத்தக் கோட்டுக்கு முன் நிறுத்துங்கள்"
+        ],
+        "explanation": "ஆம்பர் விளக்கில், நிறுத்தக் கோட்டை அல்லது கடக்கும் இடத்தை ஏற்கெனவே தாண்டிவிட்டிருந்தாலோ பாதுகாப்பாக நிறுத்த முடியாத அளவுக்கு மிக அருகில் இருந்தாலோ தவிர, அதற்கு முன் நிறுத்துங்கள் (Reg. 12)."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 12",
+    "retrievedOn": "2026-10-22",
+    "verified": true,
+    "ruleRef": "Reg. 12",
+    "auditedOn": "2026-11-16",
+    "auditNote": "Audited: correct per Reg. 12. Note: the official 2015 bank is inconsistent here (Q374 says proceed with caution at amber; Q163 says slow down to stop). Reg. 12 (2017) was followed."
+  },
+  {
+    "id": "q-signals-014",
+    "topic": "Traffic lights",
+    "unit": "signals",
+    "lessonId": "sig-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "A flashing amber light means:",
+    "options": [
+      "Stop",
+      "Speed up",
+      "Proceed with caution",
+      "Road closed"
+    ],
+    "correctAnswer": 2,
+    "explanation": "At flashing amber, slow down and proceed with caution, giving way to pedestrians and vehicles already in the intersection (Reg. 12(3)(c)).",
+    "languages": {
+      "en": {
+        "question": "A flashing amber light means:",
+        "options": [
+          "Stop",
+          "Speed up",
+          "Proceed with caution",
+          "Road closed"
+        ],
+        "explanation": "At flashing amber, slow down and proceed with caution, giving way to pedestrians and vehicles already in the intersection (Reg. 12(3)(c))."
+      },
+      "hi": {
+        "question": "टिमटिमाती (फ़्लैशिंग) पीली बत्ती का क्या अर्थ है?",
+        "options": [
+          "रुकें",
+          "गति बढ़ाएँ",
+          "सावधानी से आगे बढ़ें",
+          "सड़क बंद है"
+        ],
+        "explanation": "टिमटिमाती पीली बत्ती पर धीमे हों और चौराहे में पहले से मौजूद पैदल यात्रियों व वाहनों को रास्ता देते हुए सावधानी से आगे बढ़ें (Reg. 12(3)(c))।"
+      },
+      "mr": {
+        "question": "लुकलुकणारा अंबर दिवा म्हणजे:",
+        "options": [
+          "थांबा",
+          "वेग वाढवा",
+          "काळजीपूर्वक पुढे जा",
+          "रस्ता बंद आहे"
+        ],
+        "explanation": "लुकलुकणाऱ्या अंबर दिव्यावर वेग कमी करा आणि काळजीपूर्वक पुढे जा; पादचाऱ्यांना आणि आधीच चौकात असलेल्या वाहनांना मार्ग द्या (Reg. 12(3)(c))."
+      },
+      "te": {
+        "question": "మెరిసే అంబర్ లైట్ అర్థం:",
+        "options": [
+          "ఆగండి",
+          "వేగం పెంచండి",
+          "జాగ్రత్తగా ముందుకు వెళ్లండి",
+          "రోడ్డు మూసివేయబడింది"
+        ],
+        "explanation": "మెరిసే అంబర్ వద్ద, వేగం తగ్గించి జాగ్రత్తగా వెళ్లండి; కూడలిలో ఇప్పటికే ఉన్న పాదచారులకు, వాహనాలకు దారి ఇవ్వండి (Reg. 12(3)(c))."
+      },
+      "ta": {
+        "question": "ஒளிரும் (மின்னும்) ஆம்பர் விளக்கு என்பதன் பொருள்:",
+        "options": [
+          "நிறுத்துங்கள்",
+          "வேகத்தைக் கூட்டுங்கள்",
+          "எச்சரிக்கையுடன் செல்லுங்கள்",
+          "சாலை மூடப்பட்டுள்ளது"
+        ],
+        "explanation": "ஒளிரும் ஆம்பர் விளக்கில், வேகத்தைக் குறைத்து எச்சரிக்கையுடன் செல்லுங்கள்; பாதசாரிகளுக்கும், சந்திப்பில் ஏற்கெனவே உள்ள வாகனங்களுக்கும் வழிவிடுங்கள் (Reg. 12(3)(c))."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 12(3)(c)",
+    "retrievedOn": "2026-10-22",
+    "verified": true,
+    "ruleRef": "Reg. 12(3)(c)",
+    "auditedOn": "2026-11-16",
+    "auditNote": "Audited: corrected (bad translation (Hindi missing)). Hindi added"
+  },
+  {
+    "id": "q-signals-015",
+    "topic": "Lights",
+    "unit": "signals",
+    "lessonId": "sig-3",
+    "type": "true-false",
+    "difficulty": 1,
+    "question": "You should dip your headlights when meeting oncoming traffic at night.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The high beam must be dipped in good time when an oncoming vehicle approaches (Reg. 31(4)).",
+    "languages": {
+      "en": {
+        "question": "You should dip your headlights when meeting oncoming traffic at night.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "explanation": "The high beam must be dipped in good time when an oncoming vehicle approaches (Reg. 31(4))."
+      },
+      "hi": {
+        "question": "रात में सामने से आते यातायात से मिलते समय आपको अपनी हेडलाइट डिप करनी चाहिए।",
+        "options": [
+          "सही",
+          "गलत"
+        ],
+        "explanation": "सामने से वाहन आने पर हाई बीम समय रहते डिप करनी चाहिए (Reg. 31(4))।"
+      },
+      "mr": {
+        "question": "रात्री समोरून येणाऱ्या वाहतुकीला भेटताना तुम्ही तुमचे हेडलाइट डिप केले पाहिजेत.",
+        "options": [
+          "बरोबर",
+          "चूक"
+        ],
+        "explanation": "समोरून वाहन येत असताना हाय बीम वेळेत डिप करणे आवश्यक आहे (Reg. 31(4))."
+      },
+      "te": {
+        "question": "రాత్రిపూట ఎదురుగా వచ్చే వాహనాలను కలిసేటప్పుడు మీ హెడ్‌లైట్లను డిప్ చేయాలి.",
+        "options": [
+          "ఒప్పు",
+          "తప్పు"
+        ],
+        "explanation": "ఎదురుగా వాహనం వస్తున్నప్పుడు హై బీమ్‌ను తగిన సమయంలో డిప్ చేయాలి (Reg. 31(4))."
+      },
+      "ta": {
+        "question": "இரவில் எதிரே வாகனங்கள் வரும்போது ஹெட்லைட்டை டிம் செய்ய வேண்டும்.",
+        "options": [
+          "சரி",
+          "தவறு"
+        ],
+        "explanation": "எதிரே வாகனம் நெருங்கும்போது, உரிய நேரத்தில் ஹை பீமை டிம் செய்ய வேண்டும் (Reg. 31(4))."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 31(4)",
+    "retrievedOn": "2026-10-22",
+    "verified": true,
+    "ruleRef": "Reg. 31(4)",
+    "auditedOn": "2026-11-16",
+    "auditNote": "Audited: corrected (bad translation (Hindi missing)). Hindi added"
+  },
+  {
+    "id": "q-signals-016",
+    "topic": "Horn",
+    "unit": "signals",
+    "lessonId": "sig-3",
+    "type": "true-false",
+    "difficulty": 1,
+    "question": "Using the horn is permitted in silence zones near hospitals.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Unnecessary use of the horn is prohibited, and the horn must not be sounded in silence zones marked by mandatory signs (Reg. 23).",
+    "languages": {
+      "en": {
+        "question": "Using the horn is permitted in silence zones near hospitals.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "explanation": "Unnecessary use of the horn is prohibited, and the horn must not be sounded in silence zones marked by mandatory signs (Reg. 23)."
+      },
+      "hi": {
+        "question": "अस्पतालों के पास साइलेंस ज़ोन में हॉर्न का उपयोग अनुमत है।",
+        "options": [
+          "सही",
+          "गलत"
+        ],
+        "explanation": "हॉर्न का अनावश्यक उपयोग मना है, और अनिवार्य चिह्नों से चिह्नित साइलेंस ज़ोन में हॉर्न नहीं बजाना चाहिए (Reg. 23)।"
+      },
+      "mr": {
+        "question": "रुग्णालयांजवळच्या शांतता क्षेत्रांत हॉर्न वापरण्यास परवानगी आहे.",
+        "options": [
+          "बरोबर",
+          "चूक"
+        ],
+        "explanation": "हॉर्नचा अनावश्यक वापर निषिद्ध आहे, आणि सक्तीच्या चिन्हांनी दर्शवलेल्या शांतता क्षेत्रांत हॉर्न वाजवू नये (Reg. 23)."
+      },
+      "te": {
+        "question": "ఆసుపత్రుల దగ్గర ఉన్న నిశ్శబ్ద ప్రాంతాల్లో హారన్ వాడటానికి అనుమతి ఉంది.",
+        "options": [
+          "ఒప్పు",
+          "తప్పు"
+        ],
+        "explanation": "అనవసరంగా హారన్ వాడటం నిషేధం, తప్పనిసరి సంకేతాలతో గుర్తించిన నిశ్శబ్ద ప్రాంతాల్లో హారన్ మోగించకూడదు (Reg. 23)."
+      },
+      "ta": {
+        "question": "மருத்துவமனைகளுக்கு அருகில் உள்ள அமைதி மண்டலங்களில் ஹாரன் பயன்படுத்த அனுமதி உண்டு.",
+        "options": [
+          "சரி",
+          "தவறு"
+        ],
+        "explanation": "தேவையில்லாமல் ஹாரன் ஒலிப்பது தடை செய்யப்பட்டுள்ளது; கட்டாயக் குறியீடுகளால் குறிக்கப்பட்ட அமைதி மண்டலங்களில் ஹாரன் ஒலிக்கக் கூடாது (Reg. 23)."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 23",
+    "retrievedOn": "2026-10-22",
+    "verified": true,
+    "ruleRef": "Reg. 23",
+    "auditedOn": "2026-11-16",
+    "auditNote": "Audited: corrected (wrong explanation (unconfirmed citation)). Removed \"Reg. 2(1)(p)\" (not confirmed); cited Reg. 23 instead; Hindi added"
+  },
+  {
+    "id": "q-signals-017",
+    "topic": "Lights",
+    "unit": "signals",
+    "lessonId": "sig-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "At night, you should switch on:",
+    "options": [
+      "Headlamps and tail lamps",
+      "Only the indicator",
+      "Only hazard lamps",
+      "No lamps if road is lit"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Use the required lights at nightfall, at night, at dawn and in poor visibility (Reg. 31).",
+    "languages": {
+      "en": {
+        "question": "At night, you should switch on:",
+        "options": [
+          "Headlamps and tail lamps",
+          "Only the indicator",
+          "Only hazard lamps",
+          "No lamps if road is lit"
+        ],
+        "explanation": "Use the required lights at nightfall, at night, at dawn and in poor visibility (Reg. 31)."
+      },
+      "hi": {
+        "question": "रात में आपको कौन-सी लाइटें चालू करनी चाहिए?",
+        "options": [
+          "हेडलैम्प और टेल लैम्प",
+          "केवल इंडिकेटर",
+          "केवल हैज़र्ड लैम्प",
+          "सड़क रोशन हो तो कोई नहीं"
+        ],
+        "explanation": "सूर्यास्त के बाद, रात में, भोर में और कम दृश्यता में आवश्यक लाइटें चालू करें (Reg. 31)।"
+      },
+      "mr": {
+        "question": "रात्री तुम्ही काय चालू केले पाहिजे:",
+        "options": [
+          "हेडलॅम्प आणि टेल लॅम्प",
+          "फक्त इंडिकेटर",
+          "फक्त हॅझार्ड दिवे",
+          "रस्त्यावर उजेड असेल तर कोणतेही दिवे नाही"
+        ],
+        "explanation": "सायंकाळी, रात्री, पहाटे आणि कमी दृश्यमानतेत आवश्यक दिवे वापरा (Reg. 31)."
+      },
+      "te": {
+        "question": "రాత్రిపూట మీరు ఆన్ చేయాల్సినవి:",
+        "options": [
+          "హెడ్‌ల్యాంప్‌లు మరియు టెయిల్ ల్యాంప్‌లు",
+          "ఇండికేటర్ మాత్రమే",
+          "హజార్డ్ ల్యాంప్‌లు మాత్రమే",
+          "రోడ్డుపై వెలుగు ఉంటే ఏ లైట్లు వద్దు"
+        ],
+        "explanation": "సాయంత్రం చీకటి పడినప్పుడు, రాత్రి, తెల్లవారుజామున, మరియు దృశ్యమానత తక్కువగా ఉన్నప్పుడు అవసరమైన లైట్లు వాడండి (Reg. 31)."
+      },
+      "ta": {
+        "question": "இரவில் நீங்கள் ஆன் செய்ய வேண்டியவை:",
+        "options": [
+          "ஹெட்லாம்ப்களும் டெயில் லாம்ப்களும்",
+          "இண்டிகேட்டர் மட்டும்",
+          "அபாய விளக்குகள் மட்டும்",
+          "சாலையில் வெளிச்சம் இருந்தால் எந்த விளக்கும் தேவையில்லை"
+        ],
+        "explanation": "அந்தி நேரத்திலும், இரவிலும், விடியற்காலையிலும், பார்வை மோசமாக இருக்கும்போதும் தேவையான விளக்குகளைப் பயன்படுத்துங்கள் (Reg. 31)."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 31",
+    "retrievedOn": "2026-10-22",
+    "verified": true,
+    "ruleRef": "Reg. 31",
+    "auditedOn": "2026-11-16",
+    "auditNote": "Audited: corrected (bad translation (Hindi missing)). Hindi added"
+  },
+  {
+    "id": "q-pqb-146",
+    "topic": "Hand signals",
+    "unit": "signals",
+    "lessonId": "sig-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "What does this hand signal from the driver mean?",
+    "options": [
+      "Intends to turn right",
+      "Request to stop the vehicle coming behind",
+      "Request to stop the vehicle from opposite direction"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The driver extends the right arm horizontally to show a right turn.",
+    "languages": {
+      "en": {
+        "question": "What does this hand signal from the driver mean?",
+        "options": [
+          "Intends to turn right",
+          "Request to stop the vehicle coming behind",
+          "Request to stop the vehicle from opposite direction"
+        ],
+        "explanation": "The driver extends the right arm horizontally to show a right turn."
+      },
+      "hi": {
+        "question": "चालक के इस हाथ के संकेत का क्या अर्थ है?",
+        "options": [
+          "दाएँ मुड़ने का इरादा",
+          "पीछे आ रहे वाहन को रुकने का अनुरोध",
+          "सामने से आ रहे वाहन को रुकने का अनुरोध"
+        ],
+        "explanation": "चालक दाएँ मुड़ने के लिए अपना दायाँ हाथ सीधा क्षैतिज फैलाता है।"
+      },
+      "mr": {
+        "question": "चालकाच्या या हाताच्या संकेताचा अर्थ काय?",
+        "options": [
+          "उजवीकडे वळण्याचा इरादा",
+          "मागून येणाऱ्या वाहनाला थांबण्याची विनंती",
+          "विरुद्ध दिशेने येणाऱ्या वाहनाला थांबण्याची विनंती"
+        ],
+        "explanation": "उजवीकडे वळण दर्शवण्यासाठी चालक उजवा हात आडवा पसरतो."
+      },
+      "te": {
+        "question": "డ్రైవర్ చూపిస్తున్న ఈ చేతి సంజ్ఞ అర్థం ఏమిటి?",
+        "options": [
+          "కుడికి తిరగాలనుకుంటున్నాడు",
+          "వెనుక వస్తున్న వాహనాన్ని ఆగమని కోరడం",
+          "ఎదురు దిశ నుండి వచ్చే వాహనాన్ని ఆగమని కోరడం"
+        ],
+        "explanation": "కుడివైపు తిరగడాన్ని చూపడానికి డ్రైవర్ కుడి చేతిని అడ్డంగా చాపుతాడు."
+      },
+      "ta": {
+        "question": "ஓட்டுநரின் இந்தக் கை சைகையின் பொருள் என்ன?",
+        "options": [
+          "வலதுபுறம் திரும்ப எண்ணுகிறார்",
+          "பின்னால் வரும் வாகனத்தை நிறுத்தக் கோருதல்",
+          "எதிர்த் திசையிலிருந்து வரும் வாகனத்தை நிறுத்தக் கோருதல்"
+        ],
+        "explanation": "வலது கையைக் கிடைமட்டமாக நீட்டுவது வலதுபுறத் திருப்பத்தைக் காட்டும்."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q146; consistent with Motor Vehicles (Driving) Regulations 2017, Reg. 11(2)",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only.",
+    "ruleRef": "Reg. 11(2)",
+    "imageRef": "img:q146.png"
+  },
+  {
+    "id": "q-pqb-148",
+    "topic": "Hand signals",
+    "unit": "signals",
+    "lessonId": "sig-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "What does this hand signal from the driver mean?",
+    "options": [
+      "Intends to turn right",
+      "Intends to turn left",
+      "Request to stop all other vehicles"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Turning the right arm anti-clockwise shows a left turn.",
+    "languages": {
+      "en": {
+        "question": "What does this hand signal from the driver mean?",
+        "options": [
+          "Intends to turn right",
+          "Intends to turn left",
+          "Request to stop all other vehicles"
+        ],
+        "explanation": "Turning the right arm anti-clockwise shows a left turn."
+      },
+      "hi": {
+        "question": "चालक के इस हाथ के संकेत का क्या अर्थ है?",
+        "options": [
+          "दाएँ मुड़ने का इरादा",
+          "बाएँ मुड़ने का इरादा",
+          "अन्य सभी वाहनों को रुकने का अनुरोध"
+        ],
+        "explanation": "दाएँ हाथ को वामावर्त (घड़ी की उलटी दिशा में) घुमाने का अर्थ बाएँ मुड़ना है।"
+      },
+      "mr": {
+        "question": "चालकाच्या या हाताच्या संकेताचा अर्थ काय?",
+        "options": [
+          "उजवीकडे वळण्याचा इरादा",
+          "डावीकडे वळण्याचा इरादा",
+          "इतर सर्व वाहनांना थांबण्याची विनंती"
+        ],
+        "explanation": "उजवा हात घड्याळाच्या उलट दिशेने फिरवणे म्हणजे डावीकडे वळणे."
+      },
+      "te": {
+        "question": "డ్రైవర్ చూపిస్తున్న ఈ చేతి సంజ్ఞ అర్థం ఏమిటి?",
+        "options": [
+          "కుడికి తిరగాలనుకుంటున్నాడు",
+          "ఎడమకు తిరగాలనుకుంటున్నాడు",
+          "ఇతర వాహనాలన్నింటినీ ఆగమని కోరడం"
+        ],
+        "explanation": "కుడి చేతిని గడియారం ముల్లుకు వ్యతిరేక దిశలో తిప్పడం ఎడమ మలుపును సూచిస్తుంది."
+      },
+      "ta": {
+        "question": "ஓட்டுநரின் இந்தக் கை சைகையின் பொருள் என்ன?",
+        "options": [
+          "வலதுபுறம் திரும்ப எண்ணுகிறார்",
+          "இடதுபுறம் திரும்ப எண்ணுகிறார்",
+          "மற்ற எல்லா வாகனங்களையும் நிறுத்தக் கோருதல்"
+        ],
+        "explanation": "வலது கையை இடஞ்சுழியாகச் சுழற்றுவது இடதுபுறத் திருப்பத்தைக் காட்டும்."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q148; consistent with Motor Vehicles (Driving) Regulations 2017, Reg. 11(2)",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only.",
+    "ruleRef": "Reg. 11(2)",
+    "imageRef": "img:q148.png"
+  },
+  {
+    "id": "q-pqb-152",
+    "topic": "Hand signals",
+    "unit": "signals",
+    "lessonId": "sig-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "What does this hand signal from the driver mean?",
+    "options": [
+      "Intends to stop the vehicle",
+      "Intends to go straight",
+      "Intends to turn right"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A raised right forearm means the driver intends to stop.",
+    "languages": {
+      "en": {
+        "question": "What does this hand signal from the driver mean?",
+        "options": [
+          "Intends to stop the vehicle",
+          "Intends to go straight",
+          "Intends to turn right"
+        ],
+        "explanation": "A raised right forearm means the driver intends to stop."
+      },
+      "hi": {
+        "question": "चालक के इस हाथ के संकेत का क्या अर्थ है?",
+        "options": [
+          "वाहन रोकने का इरादा",
+          "सीधे जाने का इरादा",
+          "दाएँ मुड़ने का इरादा"
+        ],
+        "explanation": "दाएँ हाथ की ऊपर उठी हुई बाँह का अर्थ है कि चालक रुकना चाहता है।"
+      },
+      "mr": {
+        "question": "चालकाच्या या हाताच्या संकेताचा अर्थ काय?",
+        "options": [
+          "वाहन थांबवण्याचा इरादा",
+          "सरळ जाण्याचा इरादा",
+          "उजवीकडे वळण्याचा इरादा"
+        ],
+        "explanation": "उजवा हात कोपरापासून उभा करणे म्हणजे चालक वाहन थांबवणार आहे."
+      },
+      "te": {
+        "question": "డ్రైవర్ చూపిస్తున్న ఈ చేతి సంజ్ఞ అర్థం ఏమిటి?",
+        "options": [
+          "వాహనాన్ని ఆపాలనుకుంటున్నాడు",
+          "నేరుగా వెళ్లాలనుకుంటున్నాడు",
+          "కుడికి తిరగాలనుకుంటున్నాడు"
+        ],
+        "explanation": "పైకెత్తిన కుడి ముంజేయి అంటే డ్రైవర్ ఆగాలనుకుంటున్నాడు."
+      },
+      "ta": {
+        "question": "ஓட்டுநரின் இந்தக் கை சைகையின் பொருள் என்ன?",
+        "options": [
+          "வாகனத்தை நிறுத்த எண்ணுகிறார்",
+          "நேராகச் செல்ல எண்ணுகிறார்",
+          "வலதுபுறம் திரும்ப எண்ணுகிறார்"
+        ],
+        "explanation": "வலது முன்கையை உயர்த்திக் காட்டினால், ஓட்டுநர் நிறுத்த எண்ணுகிறார் என்று பொருள்."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q152; consistent with Motor Vehicles (Driving) Regulations 2017, Reg. 11(2)",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only.",
+    "ruleRef": "Reg. 11(2)",
+    "imageRef": "img:q152.png"
+  },
+  {
+    "id": "q-pqb-255",
+    "topic": "Markings",
+    "unit": "signals",
+    "lessonId": "sig-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "What does this broken yellow centre line allow?",
+    "options": [
+      "Cross it whenever you feel like it",
+      "Not cross it under any circumstances",
+      "Cross it when it is safe and come back after overtaking"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A broken line may be crossed to overtake when it is safe, returning to your side afterwards.",
+    "languages": {
+      "en": {
+        "question": "What does this broken yellow centre line allow?",
+        "options": [
+          "Cross it whenever you feel like it",
+          "Not cross it under any circumstances",
+          "Cross it when it is safe and come back after overtaking"
+        ],
+        "explanation": "A broken line may be crossed to overtake when it is safe, returning to your side afterwards."
+      },
+      "hi": {
+        "question": "यह टूटी पीली बीच की रेखा क्या अनुमति देती है?",
+        "options": [
+          "जब मन करे तब पार करना",
+          "किसी भी हाल में पार न करना",
+          "सुरक्षित होने पर पार करना और ओवरटेक के बाद वापस आ जाना"
+        ],
+        "explanation": "टूटी रेखा को सुरक्षित होने पर ओवरटेक करने के लिए पार किया जा सकता है, और बाद में अपनी ओर लौट आना चाहिए।"
+      },
+      "mr": {
+        "question": "ही तुटक पिवळी मधली रेषा काय करण्यास परवानगी देते?",
+        "options": [
+          "वाटेल तेव्हा ती ओलांडणे",
+          "कोणत्याही परिस्थितीत ती न ओलांडणे",
+          "सुरक्षित असेल तेव्हा ती ओलांडणे आणि ओव्हरटेक केल्यानंतर परत येणे"
+        ],
+        "explanation": "सुरक्षित असेल तेव्हा ओव्हरटेक करण्यासाठी तुटक रेषा ओलांडता येते, आणि नंतर आपल्या बाजूला परत यावे."
+      },
+      "te": {
+        "question": "ఈ విరిగిన పసుపు మధ్య గీత దేనికి అనుమతిస్తుంది?",
+        "options": [
+          "మీకు ఇష్టం వచ్చినప్పుడల్లా దాన్ని దాటవచ్చు",
+          "ఏ పరిస్థితిలోనూ దాన్ని దాటకూడదు",
+          "సురక్షితంగా ఉన్నప్పుడు దాన్ని దాటి, ఓవర్‌టేక్ చేశాక తిరిగి వెనక్కి రావచ్చు"
+        ],
+        "explanation": "సురక్షితంగా ఉన్నప్పుడు ఓవర్‌టేక్ చేయడానికి విరిగిన గీతను దాటవచ్చు, తర్వాత మీ వైపునకు తిరిగి రావాలి."
+      },
+      "ta": {
+        "question": "இந்த இடைவெளி விட்ட மஞ்சள் நடுக்கோடு எதை அனுமதிக்கிறது?",
+        "options": [
+          "தோன்றும்போதெல்லாம் அதைக் கடக்கலாம்",
+          "எந்தச் சூழ்நிலையிலும் அதைக் கடக்கக் கூடாது",
+          "பாதுகாப்பாக இருக்கும்போது அதைக் கடந்து, முந்திய பின் திரும்ப வந்துவிடலாம்"
+        ],
+        "explanation": "பாதுகாப்பாக இருக்கும்போது, முந்திச் செல்வதற்காக இடைவெளிக் கோட்டைக் கடக்கலாம்; பிறகு உங்கள் பக்கத்துக்குத் திரும்பிவிட வேண்டும்."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q255",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only.",
+    "imageRef": "img:q255.png"
+  },
+  {
+    "id": "q-pqb-077",
+    "topic": "Hand signals",
+    "unit": "signals",
+    "lessonId": "sig-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "While turning to the left, the driver of a two wheeler shall",
+    "options": [
+      "Extend his left hand towards left",
+      "Show left turn signal with his right hand",
+      "Not show hand signal"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A two-wheeler rider shows a left turn with the right arm rotated anti-clockwise (Reg. 11(2)).",
+    "languages": {
+      "en": {
+        "question": "While turning to the left, the driver of a two wheeler shall",
+        "options": [
+          "Extend his left hand towards left",
+          "Show left turn signal with his right hand",
+          "Not show hand signal"
+        ],
+        "explanation": "A two-wheeler rider shows a left turn with the right arm rotated anti-clockwise (Reg. 11(2))."
+      },
+      "hi": {
+        "question": "बाएँ मुड़ते समय दोपहिया वाहन के चालक को चाहिए कि",
+        "options": [
+          "अपना बायाँ हाथ बाईं ओर फैलाए",
+          "अपने दाएँ हाथ से बाएँ मुड़ने का संकेत दे",
+          "हाथ का संकेत न दे"
+        ],
+        "explanation": "दोपहिया चालक दाएँ हाथ को वामावर्त (घड़ी की उलटी दिशा में) घुमाकर बाएँ मुड़ने का संकेत देता है (Reg. 11(2))।"
+      },
+      "mr": {
+        "question": "डावीकडे वळताना दुचाकी चालकाने",
+        "options": [
+          "आपला डावा हात डावीकडे पसरावा",
+          "उजव्या हाताने डावीकडे वळण्याचा संकेत द्यावा",
+          "हाताचा संकेत देऊ नये"
+        ],
+        "explanation": "दुचाकी चालक उजवा हात घड्याळाच्या उलट दिशेने फिरवून डावीकडे वळण्याचा संकेत देतो (Reg. 11(2))."
+      },
+      "te": {
+        "question": "ఎడమకు తిరుగుతున్నప్పుడు, టూ-వీలర్ డ్రైవర్",
+        "options": [
+          "తన ఎడమ చేతిని ఎడమవైపునకు చాపాలి",
+          "తన కుడి చేతితో ఎడమ మలుపు సంజ్ఞ చూపాలి",
+          "చేతి సంజ్ఞ చూపకూడదు"
+        ],
+        "explanation": "టూ-వీలర్ నడిపేవారు కుడి చేతిని గడియారం ముల్లుకు వ్యతిరేక దిశలో తిప్పి ఎడమ మలుపును సూచిస్తారు (Reg. 11(2))."
+      },
+      "ta": {
+        "question": "இடதுபுறம் திரும்பும்போது, இருசக்கர வாகன ஓட்டி",
+        "options": [
+          "தன் இடது கையை இடதுபுறமாக நீட்ட வேண்டும்",
+          "தன் வலது கையால் இடது திருப்ப சைகை காட்ட வேண்டும்",
+          "கை சைகை காட்டக் கூடாது"
+        ],
+        "explanation": "இருசக்கர வாகன ஓட்டி, வலது கையை இடஞ்சுழியாகச் சுழற்றி இடதுபுறத் திருப்பத்தைக் காட்ட வேண்டும் (Reg. 11(2))."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q77; consistent with Motor Vehicles (Driving) Regulations 2017, Reg. 11(2)",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only.",
+    "ruleRef": "Reg. 11(2)"
+  },
+  {
+    "id": "q-pqb-079",
+    "topic": "Hand signals",
+    "unit": "signals",
+    "lessonId": "sig-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "The Signal while taking U- turn",
+    "options": [
+      "Right turn signal",
+      "Left turn signal",
+      "Slow down signal"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Use the right-turn signal when taking a U-turn.",
+    "languages": {
+      "en": {
+        "question": "The Signal while taking U- turn",
+        "options": [
+          "Right turn signal",
+          "Left turn signal",
+          "Slow down signal"
+        ],
+        "explanation": "Use the right-turn signal when taking a U-turn."
+      },
+      "hi": {
+        "question": "यू-टर्न लेते समय का संकेत",
+        "options": [
+          "दाएँ मुड़ने का संकेत",
+          "बाएँ मुड़ने का संकेत",
+          "गति धीमी करने का संकेत"
+        ],
+        "explanation": "यू-टर्न लेते समय दाएँ मुड़ने का संकेत दें।"
+      },
+      "mr": {
+        "question": "यू-टर्न घेताना द्यावयाचा संकेत",
+        "options": [
+          "उजवीकडे वळण्याचा संकेत",
+          "डावीकडे वळण्याचा संकेत",
+          "वेग कमी करण्याचा संकेत"
+        ],
+        "explanation": "यू-टर्न घेताना उजवीकडे वळण्याचा संकेत वापरा."
+      },
+      "te": {
+        "question": "యు-టర్న్ తీసుకునేటప్పుడు ఇవ్వాల్సిన సంకేతం",
+        "options": [
+          "కుడి మలుపు సంకేతం",
+          "ఎడమ మలుపు సంకేతం",
+          "వేగం తగ్గించే సంకేతం"
+        ],
+        "explanation": "యు-టర్న్ తీసుకునేటప్పుడు కుడి మలుపు సంకేతం ఇవ్వండి."
+      },
+      "ta": {
+        "question": "யு-டர்ன் எடுக்கும்போது காட்ட வேண்டிய சைகை",
+        "options": [
+          "வலது திருப்ப சைகை",
+          "இடது திருப்ப சைகை",
+          "வேகம் குறைக்கும் சைகை"
+        ],
+        "explanation": "யு-டர்ன் எடுக்கும்போது வலது திருப்ப சைகையைப் பயன்படுத்துங்கள்."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q79",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only."
+  },
+  {
+    "id": "q-pqb-343",
+    "topic": "Hand signals",
+    "unit": "signals",
+    "lessonId": "sig-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "While driving a motor cycle or an auto rickshaw hand signals can be shown by using",
+    "options": [
+      "both hands",
+      "right hand only",
+      "left hand only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Hand signals are given with the right hand (Reg. 11(2)).",
+    "languages": {
+      "en": {
+        "question": "While driving a motor cycle or an auto rickshaw hand signals can be shown by using",
+        "options": [
+          "both hands",
+          "right hand only",
+          "left hand only"
+        ],
+        "explanation": "Hand signals are given with the right hand (Reg. 11(2))."
+      },
+      "hi": {
+        "question": "मोटरसाइकिल या ऑटो रिक्शा चलाते समय हाथ के संकेत इनसे दिए जा सकते हैं",
+        "options": [
+          "दोनों हाथों से",
+          "केवल दाएँ हाथ से",
+          "केवल बाएँ हाथ से"
+        ],
+        "explanation": "हाथ के संकेत दाएँ हाथ से दिए जाते हैं (Reg. 11(2))।"
+      },
+      "mr": {
+        "question": "मोटारसायकल किंवा ऑटोरिक्षा चालवताना हाताचे संकेत कशाने दाखवता येतात",
+        "options": [
+          "दोन्ही हातांनी",
+          "फक्त उजव्या हाताने",
+          "फक्त डाव्या हाताने"
+        ],
+        "explanation": "हाताचे संकेत उजव्या हाताने दिले जातात (Reg. 11(2))."
+      },
+      "te": {
+        "question": "మోటార్ సైకిల్ లేదా ఆటో రిక్షా నడిపేటప్పుడు చేతి సంజ్ఞలను వీటితో చూపవచ్చు",
+        "options": [
+          "రెండు చేతులు",
+          "కుడి చేయి మాత్రమే",
+          "ఎడమ చేయి మాత్రమే"
+        ],
+        "explanation": "చేతి సంజ్ఞలను కుడి చేతితో ఇస్తారు (Reg. 11(2))."
+      },
+      "ta": {
+        "question": "மோட்டார் சைக்கிள் அல்லது ஆட்டோ ரிக்ஷா ஓட்டும்போது, கை சைகைகளைக் காட்டலாம்",
+        "options": [
+          "இரு கைகளாலும்",
+          "வலது கையால் மட்டும்",
+          "இடது கையால் மட்டும்"
+        ],
+        "explanation": "கை சைகைகள் வலது கையால் காட்டப்படுகின்றன (Reg. 11(2))."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q343; consistent with Motor Vehicles (Driving) Regulations 2017, Reg. 11(2)",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only.",
+    "ruleRef": "Reg. 11(2)"
+  },
+  {
+    "id": "q-pqb-297",
+    "topic": "Hand signals",
+    "unit": "signals",
+    "lessonId": "sig-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Hazard warning lamps may only be used at certain times",
+    "options": [
+      "for going ahead at a junction",
+      "For slowing down the rear vehicle",
+      "for emergency parking especially on high ways and busy roads"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Hazard warning lamps are for emergency stops, for example on highways and busy roads (Reg. 28).",
+    "languages": {
+      "en": {
+        "question": "Hazard warning lamps may only be used at certain times",
+        "options": [
+          "for going ahead at a junction",
+          "For slowing down the rear vehicle",
+          "for emergency parking especially on high ways and busy roads"
+        ],
+        "explanation": "Hazard warning lamps are for emergency stops, for example on highways and busy roads (Reg. 28)."
+      },
+      "hi": {
+        "question": "खतरे की चेतावनी वाली बत्तियाँ (हैज़र्ड लैंप) केवल कुछ खास समय पर ही इस्तेमाल करनी चाहिए",
+        "options": [
+          "चौराहे पर सीधे जाने के लिए",
+          "पीछे के वाहन की गति धीमी कराने के लिए",
+          "आपातकालीन पार्किंग के लिए, खासकर राजमार्गों और व्यस्त सड़कों पर"
+        ],
+        "explanation": "खतरे की चेतावनी वाली बत्तियाँ आपातकालीन रुकने के लिए हैं, जैसे राजमार्गों और व्यस्त सड़कों पर (Reg. 28)।"
+      },
+      "mr": {
+        "question": "हॅझार्ड वॉर्निंग दिवे फक्त काही वेळीच वापरता येतात",
+        "options": [
+          "चौकात पुढे जाण्यासाठी",
+          "मागच्या वाहनाचा वेग कमी करण्यासाठी",
+          "आणीबाणीच्या वेळी, विशेषतः महामार्गांवर आणि गर्दीच्या रस्त्यांवर, पार्किंगसाठी"
+        ],
+        "explanation": "हॅझार्ड वॉर्निंग दिवे आणीबाणीच्या थांब्यासाठी असतात, उदाहरणार्थ महामार्गांवर आणि गर्दीच्या रस्त्यांवर (Reg. 28)."
+      },
+      "te": {
+        "question": "హజార్డ్ హెచ్చరిక లైట్లను కొన్ని సమయాల్లో మాత్రమే వాడవచ్చు",
+        "options": [
+          "జంక్షన్ వద్ద ముందుకు వెళ్లడానికి",
+          "వెనుక వాహనం వేగం తగ్గించడానికి",
+          "అత్యవసర పార్కింగ్ కోసం, ముఖ్యంగా హైవేలపై మరియు రద్దీ రోడ్లపై"
+        ],
+        "explanation": "హజార్డ్ హెచ్చరిక లైట్లు అత్యవసరంగా ఆగినప్పుడు, ఉదాహరణకు హైవేలపై మరియు రద్దీ రోడ్లపై వాడతారు (Reg. 28)."
+      },
+      "ta": {
+        "question": "அபாய எச்சரிக்கை விளக்குகளை சில நேரங்களில் மட்டுமே பயன்படுத்தலாம்",
+        "options": [
+          "சந்திப்பில் முன்னால் செல்வதற்கு",
+          "பின்னால் வரும் வாகனத்தை வேகம் குறைக்கச் செய்வதற்கு",
+          "அவசர நிறுத்தத்துக்கு, குறிப்பாக நெடுஞ்சாலைகளிலும் நெரிசலான சாலைகளிலும்"
+        ],
+        "explanation": "அபாய எச்சரிக்கை விளக்குகள் அவசர நிறுத்தத்துக்கானவை, எடுத்துக்காட்டாக நெடுஞ்சாலைகளிலும் நெரிசலான சாலைகளிலும் (Reg. 28)."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q297; consistent with Motor Vehicles (Driving) Regulations 2017, Reg. 28",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only.",
+    "ruleRef": "Reg. 28"
+  },
+  {
+    "id": "q-pqb-031",
+    "topic": "Markings",
+    "unit": "signals",
+    "lessonId": "sig-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Zebra lines are meant for..",
+    "options": [
+      "pedestrians crossing",
+      "stopping vehicle.",
+      "for giving preference to vehicle"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Zebra markings are for pedestrians crossing.",
+    "languages": {
+      "en": {
+        "question": "Zebra lines are meant for..",
+        "options": [
+          "pedestrians crossing",
+          "stopping vehicle.",
+          "for giving preference to vehicle"
+        ],
+        "explanation": "Zebra markings are for pedestrians crossing."
+      },
+      "hi": {
+        "question": "ज़ेबरा रेखाएँ इसके लिए हैं..",
+        "options": [
+          "पैदल यात्रियों के सड़क पार करने के लिए",
+          "वाहन रोकने के लिए।",
+          "वाहन को प्राथमिकता देने के लिए"
+        ],
+        "explanation": "ज़ेबरा निशान पैदल यात्रियों के सड़क पार करने के लिए हैं।"
+      },
+      "mr": {
+        "question": "झेब्रा पट्टे कशासाठी असतात..",
+        "options": [
+          "पादचाऱ्यांना रस्ता ओलांडण्यासाठी",
+          "वाहन थांबवण्यासाठी.",
+          "वाहनाला प्राधान्य देण्यासाठी"
+        ],
+        "explanation": "झेब्रा खुणा पादचाऱ्यांना रस्ता ओलांडण्यासाठी असतात."
+      },
+      "te": {
+        "question": "జీబ్రా గీతలు దేని కోసం ఉద్దేశించినవి..",
+        "options": [
+          "పాదచారులు రోడ్డు దాటడానికి",
+          "వాహనాన్ని ఆపడానికి.",
+          "వాహనానికి ప్రాధాన్యం ఇవ్వడానికి"
+        ],
+        "explanation": "జీబ్రా గుర్తులు పాదచారులు రోడ్డు దాటడానికి ఉద్దేశించినవి."
+      },
+      "ta": {
+        "question": "ஜீப்ரா கோடுகள் எதற்காக..",
+        "options": [
+          "பாதசாரிகள் கடப்பதற்கு",
+          "வாகனத்தை நிறுத்துவதற்கு.",
+          "வாகனத்துக்கு முன்னுரிமை கொடுப்பதற்கு"
+        ],
+        "explanation": "ஜீப்ரா குறிகள் பாதசாரிகள் கடப்பதற்கானவை."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q31",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only."
+  },
+  {
+    "id": "q-pqb-145",
+    "topic": "Markings",
+    "unit": "signals",
+    "lessonId": "sig-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Where the road is marked with continuous yellow line the vehicle should…",
+    "options": [
+      "Not touch or cross the yellow line",
+      "Allow to overtake only through the right side of yellow line",
+      "Cross the line only when overtaking a vehicle in front"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Do not touch or cross a continuous yellow line (Reg. 6(6): do not drive over a solid line except for an obstruction).",
+    "languages": {
+      "en": {
+        "question": "Where the road is marked with continuous yellow line the vehicle should…",
+        "options": [
+          "Not touch or cross the yellow line",
+          "Allow to overtake only through the right side of yellow line",
+          "Cross the line only when overtaking a vehicle in front"
+        ],
+        "explanation": "Do not touch or cross a continuous yellow line (Reg. 6(6): do not drive over a solid line except for an obstruction)."
+      },
+      "hi": {
+        "question": "जहाँ सड़क पर लगातार (सीधी) पीली रेखा बनी हो, वहाँ वाहन को…",
+        "options": [
+          "पीली रेखा को छूना या पार नहीं करना चाहिए",
+          "केवल पीली रेखा के दाईं ओर से ओवरटेक करने की अनुमति है",
+          "रेखा को केवल तभी पार करना चाहिए जब सामने के वाहन को ओवरटेक कर रहे हों"
+        ],
+        "explanation": "लगातार पीली रेखा को न छूएँ, न पार करें (Reg. 6(6): रुकावट के अलावा सीधी रेखा के ऊपर से वाहन न चलाएँ)।"
+      },
+      "mr": {
+        "question": "रस्त्यावर सलग पिवळी रेषा आखलेली असेल तर वाहनाने…",
+        "options": [
+          "पिवळ्या रेषेला स्पर्श करू नये किंवा ती ओलांडू नये",
+          "फक्त पिवळ्या रेषेच्या उजव्या बाजूने ओव्हरटेक करू द्यावे",
+          "पुढच्या वाहनाला ओव्हरटेक करतानाच ती रेषा ओलांडावी"
+        ],
+        "explanation": "सलग पिवळ्या रेषेला स्पर्श करू नका किंवा ती ओलांडू नका (Reg. 6(6): अडथळा असेल तेव्हा वगळता घन रेषेवरून वाहन चालवू नका)."
+      },
+      "te": {
+        "question": "రోడ్డుపై విరామం లేని పసుపు గీత గుర్తించి ఉంటే వాహనం…",
+        "options": [
+          "పసుపు గీతను తాకకూడదు, దాటకూడదు",
+          "పసుపు గీతకు కుడివైపు నుండి మాత్రమే ఓవర్‌టేక్ చేయడానికి అనుమతించాలి",
+          "ముందున్న వాహనాన్ని ఓవర్‌టేక్ చేసేటప్పుడు మాత్రమే గీతను దాటాలి"
+        ],
+        "explanation": "విరామం లేని పసుపు గీతను తాకకూడదు, దాటకూడదు (Reg. 6(6): అడ్డంకి ఉన్నప్పుడు తప్ప గట్టి గీతపై నడపకూడదు)."
+      },
+      "ta": {
+        "question": "சாலையில் தொடர்ச்சியான மஞ்சள் கோடு வரையப்பட்டிருந்தால், வாகனம்…",
+        "options": [
+          "மஞ்சள் கோட்டைத் தொடவோ கடக்கவோ கூடாது",
+          "மஞ்சள் கோட்டின் வலது பக்கமாக மட்டுமே முந்திச் செல்ல அனுமதிக்கப்படுகிறது",
+          "முன்னால் உள்ள வாகனத்தை முந்தும்போது மட்டுமே கோட்டைக் கடக்கலாம்"
+        ],
+        "explanation": "தொடர்ச்சியான மஞ்சள் கோட்டைத் தொடவோ கடக்கவோ கூடாது (Reg. 6(6): தடையாக ஏதேனும் இருக்கும்போது தவிர, தொடர்ச்சியான கோட்டின் மீது வாகனத்தை ஓட்டக் கூடாது)."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q145; consistent with Motor Vehicles (Driving) Regulations 2017, Reg. 6(6)",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only.",
+    "ruleRef": "Reg. 6(6)"
+  },
+  {
+    "id": "q-pqb-168",
+    "topic": "Markings",
+    "unit": "signals",
+    "lessonId": "sig-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "If the road is marked with broken white lines, you …",
+    "options": [
+      "shall not change track.",
+      "can change track if required.",
+      "shall stop the vehicle."
+    ],
+    "correctAnswer": 1,
+    "explanation": "A broken white line may be crossed to change lane when it is safe.",
+    "languages": {
+      "en": {
+        "question": "If the road is marked with broken white lines, you …",
+        "options": [
+          "shall not change track.",
+          "can change track if required.",
+          "shall stop the vehicle."
+        ],
+        "explanation": "A broken white line may be crossed to change lane when it is safe."
+      },
+      "hi": {
+        "question": "अगर सड़क पर टूटी सफ़ेद रेखाएँ बनी हों, तो आप …",
+        "options": [
+          "लेन नहीं बदल सकते।",
+          "ज़रूरत हो तो लेन बदल सकते हैं।",
+          "वाहन को रोकना चाहिए।"
+        ],
+        "explanation": "टूटी सफ़ेद रेखा को सुरक्षित होने पर लेन बदलने के लिए पार किया जा सकता है।"
+      },
+      "mr": {
+        "question": "रस्त्यावर तुटक पांढऱ्या रेषा आखलेल्या असतील तर तुम्ही …",
+        "options": [
+          "मार्गिका बदलू नये.",
+          "गरज असल्यास मार्गिका बदलू शकता.",
+          "वाहन थांबवावे."
+        ],
+        "explanation": "सुरक्षित असेल तेव्हा लेन बदलण्यासाठी तुटक पांढरी रेषा ओलांडता येते."
+      },
+      "te": {
+        "question": "రోడ్డుపై విరిగిన తెల్ల గీతలు ఉంటే, మీరు …",
+        "options": [
+          "లేన్ మారకూడదు.",
+          "అవసరమైతే లేన్ మారవచ్చు.",
+          "వాహనాన్ని ఆపాలి."
+        ],
+        "explanation": "సురక్షితంగా ఉన్నప్పుడు లేన్ మారడానికి విరిగిన తెల్ల గీతను దాటవచ్చు."
+      },
+      "ta": {
+        "question": "சாலையில் இடைவெளி விட்ட வெள்ளைக் கோடுகள் வரையப்பட்டிருந்தால், நீங்கள் …",
+        "options": [
+          "பாதையை மாற்றக் கூடாது.",
+          "தேவைப்பட்டால் பாதையை மாற்றலாம்.",
+          "வாகனத்தை நிறுத்த வேண்டும்."
+        ],
+        "explanation": "பாதுகாப்பாக இருக்கும்போது, பாதை மாறுவதற்காக இடைவெளி விட்ட வெள்ளைக் கோட்டைக் கடக்கலாம்."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q168",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only."
+  },
+  {
+    "id": "q-pqb-242",
+    "topic": "Markings",
+    "unit": "signals",
+    "lessonId": "sig-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "The continuous yellow line in the centre of the road means",
+    "options": [
+      "do not over take",
+      "no parking",
+      "stop"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A continuous yellow line in the centre means do not overtake.",
+    "languages": {
+      "en": {
+        "question": "The continuous yellow line in the centre of the road means",
+        "options": [
+          "do not over take",
+          "no parking",
+          "stop"
+        ],
+        "explanation": "A continuous yellow line in the centre means do not overtake."
+      },
+      "hi": {
+        "question": "सड़क के बीच में लगातार (सीधी) पीली रेखा का अर्थ है",
+        "options": [
+          "ओवरटेक न करें",
+          "पार्किंग निषेध",
+          "रुकें"
+        ],
+        "explanation": "बीच में लगातार पीली रेखा का अर्थ है ओवरटेक न करें।"
+      },
+      "mr": {
+        "question": "रस्त्याच्या मधोमध असलेली सलग पिवळी रेषा म्हणजे",
+        "options": [
+          "ओव्हरटेक करू नका",
+          "पार्किंग नाही",
+          "थांबा"
+        ],
+        "explanation": "मधोमध असलेली सलग पिवळी रेषा म्हणजे ओव्हरटेक करू नका."
+      },
+      "te": {
+        "question": "రోడ్డు మధ్యలో ఉన్న విరామం లేని పసుపు గీత అర్థం",
+        "options": [
+          "ఓవర్‌టేక్ చేయకూడదు",
+          "పార్కింగ్ నిషేధం",
+          "ఆగండి"
+        ],
+        "explanation": "మధ్యలో ఉన్న విరామం లేని పసుపు గీత అంటే ఓవర్‌టేక్ చేయకూడదు."
+      },
+      "ta": {
+        "question": "சாலையின் நடுவில் உள்ள தொடர்ச்சியான மஞ்சள் கோடு என்பதன் பொருள்",
+        "options": [
+          "முந்திச் செல்லக் கூடாது",
+          "வாகன நிறுத்தம் தடை",
+          "நிறுத்துங்கள்"
+        ],
+        "explanation": "நடுவில் உள்ள தொடர்ச்சியான மஞ்சள் கோடு என்றால் முந்திச் செல்லக் கூடாது."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q242",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only."
+  },
+  {
+    "id": "q-pqb-253",
+    "topic": "Markings",
+    "unit": "signals",
+    "lessonId": "sig-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "The white line along the side of the road",
+    "options": [
+      "means no parking",
+      "means no overtaking",
+      "edge of carriage way"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The white line along the side marks the edge of the carriageway.",
+    "languages": {
+      "en": {
+        "question": "The white line along the side of the road",
+        "options": [
+          "means no parking",
+          "means no overtaking",
+          "edge of carriage way"
+        ],
+        "explanation": "The white line along the side marks the edge of the carriageway."
+      },
+      "hi": {
+        "question": "सड़क के किनारे-किनारे बनी सफ़ेद रेखा",
+        "options": [
+          "का अर्थ है पार्किंग निषेध",
+          "का अर्थ है ओवरटेक करना मना",
+          "सड़क के चलने वाले हिस्से (कैरेजवे) का किनारा है"
+        ],
+        "explanation": "किनारे पर बनी सफ़ेद रेखा सड़क के चलने वाले हिस्से (कैरेजवे) का किनारा दिखाती है।"
+      },
+      "mr": {
+        "question": "रस्त्याच्या कडेला असलेली पांढरी रेषा",
+        "options": [
+          "म्हणजे पार्किंग नाही",
+          "म्हणजे ओव्हरटेक करू नका",
+          "वाहनमार्गाची कडा"
+        ],
+        "explanation": "कडेची पांढरी रेषा वाहनमार्गाची कडा दर्शवते."
+      },
+      "te": {
+        "question": "రోడ్డు పక్కన ఉన్న తెల్ల గీత",
+        "options": [
+          "అంటే పార్కింగ్ నిషేధం",
+          "అంటే ఓవర్‌టేకింగ్ నిషేధం",
+          "క్యారేజ్‌వే అంచు"
+        ],
+        "explanation": "పక్కన ఉన్న తెల్ల గీత క్యారేజ్‌వే (రోడ్డు) అంచును సూచిస్తుంది."
+      },
+      "ta": {
+        "question": "சாலையின் ஓரத்தில் உள்ள வெள்ளைக் கோடு",
+        "options": [
+          "வாகன நிறுத்தம் தடை என்று பொருள்",
+          "முந்திச் செல்லத் தடை என்று பொருள்",
+          "சாலைப் பாதையின் ஓரம்"
+        ],
+        "explanation": "ஓரத்தில் உள்ள வெள்ளைக் கோடு சாலைப் பாதையின் ஓரத்தைக் குறிக்கிறது."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q253",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only."
+  },
+  {
+    "id": "q-pqb-029",
+    "topic": "Lights",
+    "unit": "signals",
+    "lessonId": "sig-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Fog lamps are used",
+    "options": [
+      "During night.",
+      "When there is mist.",
+      "When the opposite vehicle is not using dim light"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Use fog lamps only when visibility is badly reduced, such as in mist (Reg. 31).",
+    "languages": {
+      "en": {
+        "question": "Fog lamps are used",
+        "options": [
+          "During night.",
+          "When there is mist.",
+          "When the opposite vehicle is not using dim light"
+        ],
+        "explanation": "Use fog lamps only when visibility is badly reduced, such as in mist (Reg. 31)."
+      },
+      "hi": {
+        "question": "फॉग लैंप का उपयोग किया जाता है",
+        "options": [
+          "रात के समय।",
+          "जब धुंध हो।",
+          "जब सामने का वाहन डिम लाइट का उपयोग न कर रहा हो"
+        ],
+        "explanation": "फॉग लैंप केवल तभी जलाएँ जब दिखाई बहुत कम हो गया हो, जैसे धुंध में (Reg. 31)।"
+      },
+      "mr": {
+        "question": "फॉग लॅम्प वापरले जातात",
+        "options": [
+          "रात्रीच्या वेळी.",
+          "धुके असताना.",
+          "समोरचे वाहन डिम लाइट वापरत नसताना"
+        ],
+        "explanation": "धुक्यासारख्या परिस्थितीत दृश्यमानता खूप कमी झाली असेल तेव्हाच फॉग लॅम्प वापरा (Reg. 31)."
+      },
+      "te": {
+        "question": "ఫాగ్ లైట్లను వాడేది",
+        "options": [
+          "రాత్రి సమయంలో.",
+          "మంచు పొగమంచు ఉన్నప్పుడు.",
+          "ఎదురు వాహనం డిమ్ లైట్ వాడనప్పుడు"
+        ],
+        "explanation": "దృశ్యమానత బాగా తగ్గినప్పుడు, ఉదాహరణకు మంచు పొగమంచులో మాత్రమే ఫాగ్ లైట్లు వాడండి (Reg. 31)."
+      },
+      "ta": {
+        "question": "பனி விளக்குகள் (ஃபாக் லாம்ப்) பயன்படுத்தப்படுவது",
+        "options": [
+          "இரவில்.",
+          "பனிமூட்டம் இருக்கும்போது.",
+          "எதிரே வரும் வாகனம் டிம் ஒளியைப் பயன்படுத்தாதபோது"
+        ],
+        "explanation": "பனிமூட்டம் போன்று பார்வை மிகவும் குறையும்போது மட்டுமே பனி விளக்குகளைப் பயன்படுத்துங்கள் (Reg. 31)."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q29; consistent with Motor Vehicles (Driving) Regulations 2017, Reg. 31",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only.",
+    "ruleRef": "Reg. 31"
+  },
+  {
+    "id": "q-pqb-047",
+    "topic": "Lights",
+    "unit": "signals",
+    "lessonId": "sig-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Use of horn prohibited",
+    "options": [
+      "Near Hospital, Courts of Law",
+      "Mosque, Church and Temple",
+      "Near Police Station"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Horns are prohibited near hospitals and courts of law (silence zones, Reg. 23).",
+    "languages": {
+      "en": {
+        "question": "Use of horn prohibited",
+        "options": [
+          "Near Hospital, Courts of Law",
+          "Mosque, Church and Temple",
+          "Near Police Station"
+        ],
+        "explanation": "Horns are prohibited near hospitals and courts of law (silence zones, Reg. 23)."
+      },
+      "hi": {
+        "question": "हॉर्न बजाना मना है",
+        "options": [
+          "अस्पताल, न्यायालय के पास",
+          "मस्जिद, चर्च और मंदिर",
+          "पुलिस स्टेशन के पास"
+        ],
+        "explanation": "अस्पतालों और न्यायालयों के पास हॉर्न बजाना मना है (शांत क्षेत्र, Reg. 23)।"
+      },
+      "mr": {
+        "question": "हॉर्न वापरण्यास मनाई",
+        "options": [
+          "रुग्णालय, न्यायालयाजवळ",
+          "मशीद, चर्च आणि मंदिर",
+          "पोलीस ठाण्याजवळ"
+        ],
+        "explanation": "रुग्णालये आणि न्यायालयांजवळ हॉर्न वाजवण्यास मनाई आहे (शांतता क्षेत्रे, Reg. 23)."
+      },
+      "te": {
+        "question": "హారన్ వాడటం నిషేధం",
+        "options": [
+          "ఆసుపత్రి, న్యాయస్థానాల దగ్గర",
+          "మసీదు, చర్చి మరియు దేవాలయం",
+          "పోలీస్ స్టేషన్ దగ్గర"
+        ],
+        "explanation": "ఆసుపత్రులు మరియు న్యాయస్థానాల దగ్గర హారన్ నిషేధం (నిశ్శబ్ద ప్రాంతాలు, Reg. 23)."
+      },
+      "ta": {
+        "question": "ஹாரன் பயன்படுத்தத் தடை உள்ள இடம்",
+        "options": [
+          "மருத்துவமனை, நீதிமன்றங்கள் அருகில்",
+          "மசூதி, தேவாலயம், கோயில்",
+          "காவல் நிலையம் அருகில்"
+        ],
+        "explanation": "மருத்துவமனைகள், நீதிமன்றங்கள் அருகில் ஹாரன் தடை செய்யப்பட்டுள்ளது (அமைதி மண்டலங்கள், Reg. 23)."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q47; consistent with Motor Vehicles (Driving) Regulations 2017, Reg. 23",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only.",
+    "ruleRef": "Reg. 23"
+  },
+  {
+    "id": "q-pqb-097",
+    "topic": "Lights",
+    "unit": "signals",
+    "lessonId": "sig-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "You want to overtake a vehicle near a hospital. You will",
+    "options": [
+      "Blow the horn continuously.",
+      "Blow the horn only intermittently.",
+      "Not blow horn."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Do not sound the horn near a hospital (Reg. 23).",
+    "languages": {
+      "en": {
+        "question": "You want to overtake a vehicle near a hospital. You will",
+        "options": [
+          "Blow the horn continuously.",
+          "Blow the horn only intermittently.",
+          "Not blow horn."
+        ],
+        "explanation": "Do not sound the horn near a hospital (Reg. 23)."
+      },
+      "hi": {
+        "question": "आप अस्पताल के पास किसी वाहन को ओवरटेक करना चाहते हैं। आप",
+        "options": [
+          "लगातार हॉर्न बजाएँगे।",
+          "केवल बीच-बीच में हॉर्न बजाएँगे।",
+          "हॉर्न नहीं बजाएँगे।"
+        ],
+        "explanation": "अस्पताल के पास हॉर्न न बजाएँ (Reg. 23)।"
+      },
+      "mr": {
+        "question": "तुम्हाला रुग्णालयाजवळ एखाद्या वाहनाला ओव्हरटेक करायचे आहे. तुम्ही",
+        "options": [
+          "सतत हॉर्न वाजवाल.",
+          "फक्त थोड्या थोड्या वेळाने हॉर्न वाजवाल.",
+          "हॉर्न वाजवणार नाही."
+        ],
+        "explanation": "रुग्णालयाजवळ हॉर्न वाजवू नका (Reg. 23)."
+      },
+      "te": {
+        "question": "మీరు ఆసుపత్రి దగ్గర ఒక వాహనాన్ని ఓవర్‌టేక్ చేయాలనుకుంటున్నారు. మీరు",
+        "options": [
+          "హారన్ ఆపకుండా మోగిస్తారు.",
+          "హారన్‌ను అప్పుడప్పుడు మాత్రమే మోగిస్తారు.",
+          "హారన్ మోగించరు."
+        ],
+        "explanation": "ఆసుపత్రి దగ్గర హారన్ మోగించకండి (Reg. 23)."
+      },
+      "ta": {
+        "question": "மருத்துவமனை அருகில் ஒரு வாகனத்தை முந்திச் செல்ல விரும்புகிறீர்கள். நீங்கள்",
+        "options": [
+          "தொடர்ந்து ஹாரன் அடிப்பீர்கள்.",
+          "அவ்வப்போது மட்டும் ஹாரன் அடிப்பீர்கள்.",
+          "ஹாரன் அடிக்க மாட்டீர்கள்."
+        ],
+        "explanation": "மருத்துவமனை அருகில் ஹாரன் ஒலிக்காதீர்கள் (Reg. 23)."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q97; consistent with Motor Vehicles (Driving) Regulations 2017, Reg. 23",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only.",
+    "ruleRef": "Reg. 23"
+  },
+  {
+    "id": "q-pqb-169",
+    "topic": "Lights",
+    "unit": "signals",
+    "lessonId": "sig-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Blinking red traffic light means…",
+    "options": [
+      "stop the vehicle and proceed if safe.",
+      "stop the vehicle till green light glows.",
+      "reduce speed and proceed."
+    ],
+    "correctAnswer": 0,
+    "explanation": "At a flashing red light stop, then proceed only when it is safe (Reg. 12).",
+    "languages": {
+      "en": {
+        "question": "Blinking red traffic light means…",
+        "options": [
+          "stop the vehicle and proceed if safe.",
+          "stop the vehicle till green light glows.",
+          "reduce speed and proceed."
+        ],
+        "explanation": "At a flashing red light stop, then proceed only when it is safe (Reg. 12)."
+      },
+      "hi": {
+        "question": "टिमटिमाती (ब्लिंक करती) लाल ट्रैफिक बत्ती का अर्थ है…",
+        "options": [
+          "वाहन रोकें और सुरक्षित हो तो आगे बढ़ें।",
+          "हरी बत्ती जलने तक वाहन रोकें।",
+          "गति कम करें और आगे बढ़ें।"
+        ],
+        "explanation": "टिमटिमाती लाल बत्ती पर रुकें, और फिर सुरक्षित होने पर ही आगे बढ़ें (Reg. 12)।"
+      },
+      "mr": {
+        "question": "लुकलुकणारा लाल वाहतूक दिवा म्हणजे…",
+        "options": [
+          "वाहन थांबवा आणि सुरक्षित असेल तर पुढे जा.",
+          "हिरवा दिवा लागेपर्यंत वाहन थांबवा.",
+          "वेग कमी करा आणि पुढे जा."
+        ],
+        "explanation": "लुकलुकणाऱ्या लाल दिव्यावर थांबा, आणि सुरक्षित असेल तेव्हाच पुढे जा (Reg. 12)."
+      },
+      "te": {
+        "question": "మెరిసే ఎరుపు ట్రాఫిక్ లైట్ అర్థం…",
+        "options": [
+          "వాహనాన్ని ఆపి, సురక్షితంగా ఉంటే ముందుకు వెళ్లండి.",
+          "ఆకుపచ్చ లైట్ వెలిగే వరకు వాహనాన్ని ఆపండి.",
+          "వేగం తగ్గించి ముందుకు వెళ్లండి."
+        ],
+        "explanation": "మెరిసే ఎరుపు లైట్ వద్ద ఆగండి, ఆ తర్వాత సురక్షితంగా ఉన్నప్పుడు మాత్రమే ముందుకు వెళ్లండి (Reg. 12)."
+      },
+      "ta": {
+        "question": "மின்னும் சிவப்பு போக்குவரத்து விளக்கு என்பதன் பொருள்…",
+        "options": [
+          "வாகனத்தை நிறுத்தி, பாதுகாப்பாக இருந்தால் செல்ல வேண்டும்.",
+          "பச்சை விளக்கு எரியும் வரை வாகனத்தை நிறுத்த வேண்டும்.",
+          "வேகத்தைக் குறைத்துச் செல்ல வேண்டும்."
+        ],
+        "explanation": "மின்னும் சிவப்பு விளக்கில் நிறுத்துங்கள்; பாதுகாப்பாக இருக்கும்போது மட்டுமே செல்லுங்கள் (Reg. 12)."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q169; consistent with Motor Vehicles (Driving) Regulations 2017, Reg. 12",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only.",
+    "ruleRef": "Reg. 12"
+  },
+  {
+    "id": "q-pqb-225",
+    "topic": "Lights",
+    "unit": "signals",
+    "lessonId": "sig-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "A high beam in foggy conditions….",
+    "options": [
+      "is bad because it reflects back and can dazzle",
+      "is good because you can see more",
+      "make sure others can see you"
+    ],
+    "correctAnswer": 0,
+    "explanation": "High beam in fog reflects back off the fog and dazzles you; use low beam.",
+    "languages": {
+      "en": {
+        "question": "A high beam in foggy conditions….",
+        "options": [
+          "is bad because it reflects back and can dazzle",
+          "is good because you can see more",
+          "make sure others can see you"
+        ],
+        "explanation": "High beam in fog reflects back off the fog and dazzles you; use low beam."
+      },
+      "hi": {
+        "question": "कोहरे में हाई बीम का उपयोग….",
+        "options": [
+          "बुरा है क्योंकि रोशनी वापस लौटकर आँखों को चौंधिया सकती है",
+          "अच्छा है क्योंकि आप ज़्यादा देख सकते हैं",
+          "यह सुनिश्चित करता है कि दूसरे आपको देख सकें"
+        ],
+        "explanation": "कोहरे में हाई बीम कोहरे से टकराकर वापस लौटती है और आँखों को चौंधिया देती है; लो बीम का उपयोग करें।"
+      },
+      "mr": {
+        "question": "धुक्याच्या परिस्थितीत हाय बीम….",
+        "options": [
+          "वाईट आहे कारण तो परावर्तित होऊन डोळे दिपवू शकतो",
+          "चांगला आहे कारण जास्त दिसते",
+          "इतरांना तुम्ही दिसाल याची खात्री करतो"
+        ],
+        "explanation": "धुक्यात हाय बीम धुक्यावरून परावर्तित होऊन तुमचेच डोळे दिपवतो; लो बीम वापरा."
+      },
+      "te": {
+        "question": "పొగమంచు పరిస్థితుల్లో హై బీమ్….",
+        "options": [
+          "చెడ్డది, ఎందుకంటే అది వెనక్కి ప్రతిబింబించి కళ్లు మెరిపిస్తుంది",
+          "మంచిది, ఎందుకంటే ఎక్కువ కనిపిస్తుంది",
+          "ఇతరులకు మీరు కనిపించేలా చేస్తుంది"
+        ],
+        "explanation": "పొగమంచులో హై బీమ్ మంచుపై పడి వెనక్కి ప్రతిబింబించి మీ కళ్లను మెరిపిస్తుంది; లో బీమ్ వాడండి."
+      },
+      "ta": {
+        "question": "மூடுபனி நிலையில் ஹை பீம் ஒளி….",
+        "options": [
+          "மோசமானது, ஏனெனில் அது பிரதிபலித்துத் திரும்பி வந்து கண்ணைக் கூசச் செய்யும்",
+          "நல்லது, ஏனெனில் அதிகமாகப் பார்க்க முடியும்",
+          "மற்றவர்கள் உங்களைப் பார்ப்பதை உறுதி செய்யும்"
+        ],
+        "explanation": "மூடுபனியில் ஹை பீம் ஒளி பனியில் பட்டுத் திரும்பி வந்து உங்கள் கண்ணையே கூசச் செய்யும்; லோ பீமைப் பயன்படுத்துங்கள்."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q225",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only."
+  },
+  {
+    "id": "q-pqb-236",
+    "topic": "Lights",
+    "unit": "signals",
+    "lessonId": "sig-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "You are driving on a well-lit motor way at night, you must",
+    "options": [
+      "use your head light on high beam",
+      "always use your head lights in low beam",
+      "always use hazard light"
+    ],
+    "correctAnswer": 1,
+    "explanation": "On a well-lit road at night use low beam.",
+    "languages": {
+      "en": {
+        "question": "You are driving on a well-lit motor way at night, you must",
+        "options": [
+          "use your head light on high beam",
+          "always use your head lights in low beam",
+          "always use hazard light"
+        ],
+        "explanation": "On a well-lit road at night use low beam."
+      },
+      "hi": {
+        "question": "आप रात में अच्छी रोशनी वाली मोटर सड़क पर चल रहे हैं, आपको",
+        "options": [
+          "अपनी हेडलाइट हाई बीम पर रखनी चाहिए",
+          "हमेशा अपनी हेडलाइट लो बीम पर रखनी चाहिए",
+          "हमेशा हैज़र्ड लाइट जलानी चाहिए"
+        ],
+        "explanation": "रात में अच्छी रोशनी वाली सड़क पर लो बीम का उपयोग करें।"
+      },
+      "mr": {
+        "question": "तुम्ही रात्री उजेड असलेल्या मोटार मार्गावरून चालवत आहात, तुम्ही",
+        "options": [
+          "तुमचे हेडलाइट हाय बीमवर वापरावेत",
+          "नेहमी तुमचे हेडलाइट लो बीमवर वापरावेत",
+          "नेहमी हॅझार्ड दिवा वापरावा"
+        ],
+        "explanation": "रात्री उजेड असलेल्या रस्त्यावर लो बीम वापरा."
+      },
+      "te": {
+        "question": "మీరు రాత్రి బాగా వెలుతురు ఉన్న మోటార్‌వేపై నడుపుతున్నారు, మీరు తప్పనిసరిగా",
+        "options": [
+          "హెడ్‌లైట్‌ను హై బీమ్‌లో వాడాలి",
+          "ఎల్లప్పుడూ హెడ్‌లైట్లను లో బీమ్‌లో వాడాలి",
+          "ఎల్లప్పుడూ హజార్డ్ లైట్ వాడాలి"
+        ],
+        "explanation": "రాత్రి బాగా వెలుతురు ఉన్న రోడ్డుపై లో బీమ్ వాడండి."
+      },
+      "ta": {
+        "question": "நன்கு ஒளியூட்டப்பட்ட நெடுஞ்சாலையில் இரவில் ஓட்டுகிறீர்கள்; நீங்கள் கட்டாயம்",
+        "options": [
+          "ஹெட்லைட்டை ஹை பீமில் பயன்படுத்த வேண்டும்",
+          "எப்போதும் ஹெட்லைட்டை லோ பீமில் பயன்படுத்த வேண்டும்",
+          "எப்போதும் அபாய விளக்கைப் பயன்படுத்த வேண்டும்"
+        ],
+        "explanation": "இரவில் நன்கு ஒளியூட்டப்பட்ட சாலையில் லோ பீமைப் பயன்படுத்துங்கள்."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q236",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only."
+  },
+  {
+    "id": "q-pqb-238",
+    "topic": "Lights",
+    "unit": "signals",
+    "lessonId": "sig-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "While travelling over motor way at night with other vehicles just ahead, better the switched on lights should be",
+    "options": [
+      "low beam head light",
+      "hazard warning light",
+      "high beam head light"
+    ],
+    "correctAnswer": 0,
+    "explanation": "With vehicles just ahead at night use low beam (Reg. 31).",
+    "languages": {
+      "en": {
+        "question": "While travelling over motor way at night with other vehicles just ahead, better the switched on lights should be",
+        "options": [
+          "low beam head light",
+          "hazard warning light",
+          "high beam head light"
+        ],
+        "explanation": "With vehicles just ahead at night use low beam (Reg. 31)."
+      },
+      "hi": {
+        "question": "रात में मोटर सड़क पर चलते समय जब दूसरे वाहन ठीक आगे हों, तो जलाई जाने वाली बेहतर बत्ती होनी चाहिए",
+        "options": [
+          "लो बीम हेडलाइट",
+          "खतरे की चेतावनी वाली बत्ती",
+          "हाई बीम हेडलाइट"
+        ],
+        "explanation": "रात में जब दूसरे वाहन ठीक आगे हों, तो लो बीम का उपयोग करें (Reg. 31)।"
+      },
+      "mr": {
+        "question": "रात्री मोटार मार्गावरून जाताना, इतर वाहने अगदी पुढे असताना, कोणते दिवे चालू ठेवणे चांगले",
+        "options": [
+          "लो बीम हेडलाइट",
+          "हॅझार्ड वॉर्निंग दिवा",
+          "हाय बीम हेडलाइट"
+        ],
+        "explanation": "रात्री अगदी पुढे वाहने असताना लो बीम वापरा (Reg. 31)."
+      },
+      "te": {
+        "question": "రాత్రి మోటార్‌వేపై ప్రయాణిస్తున్నప్పుడు, ముందు ఇతర వాహనాలు దగ్గరగా ఉంటే, ఆన్ చేయడానికి మంచి లైట్లు",
+        "options": [
+          "లో బీమ్ హెడ్‌లైట్",
+          "హజార్డ్ హెచ్చరిక లైట్",
+          "హై బీమ్ హెడ్‌లైట్"
+        ],
+        "explanation": "రాత్రి ముందు వాహనాలు దగ్గరగా ఉంటే లో బీమ్ వాడండి (Reg. 31)."
+      },
+      "ta": {
+        "question": "இரவில் நெடுஞ்சாலையில் செல்லும்போது, மற்ற வாகனங்கள் சற்று முன்னால் இருந்தால், எரிய விட வேண்டிய சிறந்த விளக்கு",
+        "options": [
+          "லோ பீம் ஹெட்லைட்",
+          "அபாய எச்சரிக்கை விளக்கு",
+          "ஹை பீம் ஹெட்லைட்"
+        ],
+        "explanation": "இரவில் சற்று முன்னால் வாகனங்கள் இருக்கும்போது லோ பீமைப் பயன்படுத்துங்கள் (Reg. 31)."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q238; consistent with Motor Vehicles (Driving) Regulations 2017, Reg. 31",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only.",
+    "ruleRef": "Reg. 31"
+  },
+  {
+    "id": "q-pqb-273",
+    "topic": "Lights",
+    "unit": "signals",
+    "lessonId": "sig-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "While travelling you are dazzled by head lights of on coming vehicle, you should",
+    "options": [
+      "pull down your sun visor",
+      "switch on your main beam",
+      "slow down and stop"
+    ],
+    "correctAnswer": 2,
+    "explanation": "If you are dazzled, slow down and stop rather than driving blind.",
+    "languages": {
+      "en": {
+        "question": "While travelling you are dazzled by head lights of on coming vehicle, you should",
+        "options": [
+          "pull down your sun visor",
+          "switch on your main beam",
+          "slow down and stop"
+        ],
+        "explanation": "If you are dazzled, slow down and stop rather than driving blind."
+      },
+      "hi": {
+        "question": "चलते समय सामने से आ रहे वाहन की हेडलाइट से आपकी आँखें चौंधिया जाएँ, तो आपको चाहिए कि",
+        "options": [
+          "अपना सन वाइज़र नीचे कर लें",
+          "अपनी मेन बीम जला लें",
+          "गति धीमी करें और रुक जाएँ"
+        ],
+        "explanation": "अगर आँखें चौंधिया जाएँ, तो अंधे होकर चलाने के बजाय गति धीमी करें और रुक जाएँ।"
+      },
+      "mr": {
+        "question": "प्रवासात समोरून येणाऱ्या वाहनाच्या हेडलाइटमुळे तुमचे डोळे दिपले आहेत, तुम्ही",
+        "options": [
+          "तुमचा सन व्हायझर खाली ओढावा",
+          "तुमचा मेन बीम चालू करावा",
+          "वेग कमी करून थांबावे"
+        ],
+        "explanation": "डोळे दिपले असतील तर आंधळेपणाने चालवण्याऐवजी वेग कमी करून थांबा."
+      },
+      "te": {
+        "question": "ప్రయాణిస్తున్నప్పుడు ఎదురుగా వచ్చే వాహనం హెడ్‌లైట్ల వెలుతురుకు మీ కళ్లు మెరిస్తే, మీరు",
+        "options": [
+          "సన్ వైజర్‌ను కిందికి దించాలి",
+          "మెయిన్ బీమ్ ఆన్ చేయాలి",
+          "వేగం తగ్గించి ఆగాలి"
+        ],
+        "explanation": "కళ్లు మెరిస్తే, కనిపించకుండా నడపడం కంటే వేగం తగ్గించి ఆగండి."
+      },
+      "ta": {
+        "question": "பயணத்தின்போது எதிரே வரும் வாகனத்தின் ஹெட்லைட் ஒளி உங்கள் கண்ணைக் கூசச் செய்கிறது; நீங்கள்",
+        "options": [
+          "சன் வைசரைக் கீழே இழுக்க வேண்டும்",
+          "மெயின் பீமை ஆன் செய்ய வேண்டும்",
+          "வேகத்தைக் குறைத்து நிறுத்த வேண்டும்"
+        ],
+        "explanation": "கண் கூசினால், பார்வையில்லாமல் ஓட்டாமல், வேகத்தைக் குறைத்து நிறுத்துங்கள்."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q273",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only."
+  },
+  {
+    "id": "q-pqb-332",
+    "topic": "Lights",
+    "unit": "signals",
+    "lessonId": "sig-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "During night, a car driving towards you with high beam on, the driver of that car is",
+    "options": [
+      "a safe driver since high beam lights up the road",
+      "driving with bad manners since high beams blind others",
+      "not obeying law"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Driving with high beam towards other drivers dazzles them; it is bad manners and unsafe (Reg. 31).",
+    "languages": {
+      "en": {
+        "question": "During night, a car driving towards you with high beam on, the driver of that car is",
+        "options": [
+          "a safe driver since high beam lights up the road",
+          "driving with bad manners since high beams blind others",
+          "not obeying law"
+        ],
+        "explanation": "Driving with high beam towards other drivers dazzles them; it is bad manners and unsafe (Reg. 31)."
+      },
+      "hi": {
+        "question": "रात में, एक कार हाई बीम जलाकर आपकी ओर आ रही है, उस कार का चालक",
+        "options": [
+          "सुरक्षित चालक है क्योंकि हाई बीम से सड़क रोशन होती है",
+          "बुरे व्यवहार से चला रहा है क्योंकि हाई बीम दूसरों को अंधा कर देती है",
+          "कानून का पालन नहीं कर रहा है"
+        ],
+        "explanation": "सामने से आते चालकों की ओर हाई बीम रखने से उनकी आँखें चौंधिया जाती हैं; यह बुरा व्यवहार और असुरक्षित है (Reg. 31)।"
+      },
+      "mr": {
+        "question": "रात्री, हाय बीम चालू ठेवून तुमच्या दिशेने येणाऱ्या कारचा चालक",
+        "options": [
+          "सुरक्षित चालक आहे कारण हाय बीमने रस्ता उजळतो",
+          "वाईट सवयीने चालवत आहे कारण हाय बीमने इतरांचे डोळे दिपतात",
+          "कायद्याचे पालन करत नाही"
+        ],
+        "explanation": "इतर चालकांच्या दिशेने हाय बीम ठेवून चालवल्याने त्यांचे डोळे दिपतात; हे गैरवर्तन आणि असुरक्षित आहे (Reg. 31)."
+      },
+      "te": {
+        "question": "రాత్రి సమయంలో, హై బీమ్ ఆన్‌లో ఉన్న కారు మీ వైపు వస్తోంది, ఆ కారు డ్రైవర్",
+        "options": [
+          "సురక్షిత డ్రైవర్, ఎందుకంటే హై బీమ్ రోడ్డును వెలిగిస్తుంది",
+          "చెడు మర్యాదతో నడుపుతున్నాడు, ఎందుకంటే హై బీమ్ ఇతరుల కళ్లను మెరిపిస్తుంది",
+          "చట్టాన్ని పాటించడం లేదు"
+        ],
+        "explanation": "ఇతర డ్రైవర్ల వైపు హై బీమ్‌తో నడపడం వారి కళ్లను మెరిపిస్తుంది; ఇది చెడు మర్యాద మరియు ప్రమాదకరం (Reg. 31)."
+      },
+      "ta": {
+        "question": "இரவில், ஒரு கார் ஹை பீம் ஒளியுடன் உங்களை நோக்கி வருகிறது; அந்தக் காரின் ஓட்டுநர்",
+        "options": [
+          "பாதுகாப்பான ஓட்டுநர், ஏனெனில் ஹை பீம் சாலையை ஒளிரச் செய்யும்",
+          "மோசமான நடத்தையுடன் ஓட்டுகிறார், ஏனெனில் ஹை பீம் மற்றவர்களின் பார்வையைப் பறிக்கும்",
+          "சட்டத்துக்குக் கீழ்ப்படியவில்லை"
+        ],
+        "explanation": "மற்ற ஓட்டுநர்களை நோக்கி ஹை பீமுடன் ஓட்டினால் அவர்களின் கண் கூசும்; அது மோசமான நடத்தை, பாதுகாப்பற்றதும் ஆகும் (Reg. 31)."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q332; consistent with Motor Vehicles (Driving) Regulations 2017, Reg. 31",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only.",
+    "ruleRef": "Reg. 31"
+  },
+  {
+    "id": "q-pqb-379",
+    "topic": "Lights",
+    "unit": "signals",
+    "lessonId": "sig-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Drivers should not sound horn",
+    "options": [
+      "at silent zone",
+      "in one way",
+      "on main road"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Do not sound the horn in silence zones (Reg. 23).",
+    "languages": {
+      "en": {
+        "question": "Drivers should not sound horn",
+        "options": [
+          "at silent zone",
+          "in one way",
+          "on main road"
+        ],
+        "explanation": "Do not sound the horn in silence zones (Reg. 23)."
+      },
+      "hi": {
+        "question": "चालकों को हॉर्न नहीं बजाना चाहिए",
+        "options": [
+          "शांत क्षेत्र में",
+          "एकतरफा सड़क पर",
+          "मुख्य सड़क पर"
+        ],
+        "explanation": "शांत क्षेत्रों में हॉर्न न बजाएँ (Reg. 23)।"
+      },
+      "mr": {
+        "question": "चालकांनी हॉर्न वाजवू नये",
+        "options": [
+          "शांतता क्षेत्रात",
+          "एकेरी मार्गावर",
+          "मुख्य रस्त्यावर"
+        ],
+        "explanation": "शांतता क्षेत्रांत हॉर्न वाजवू नका (Reg. 23)."
+      },
+      "te": {
+        "question": "డ్రైవర్లు హారన్ మోగించకూడదు",
+        "options": [
+          "నిశ్శబ్ద ప్రాంతంలో",
+          "వన్ వేలో",
+          "ప్రధాన రోడ్డుపై"
+        ],
+        "explanation": "నిశ్శబ్ద ప్రాంతాల్లో హారన్ మోగించకండి (Reg. 23)."
+      },
+      "ta": {
+        "question": "ஓட்டுநர்கள் ஹாரன் ஒலிக்கக் கூடாது",
+        "options": [
+          "அமைதி மண்டலத்தில்",
+          "ஒருவழிப் பாதையில்",
+          "முக்கியச் சாலையில்"
+        ],
+        "explanation": "அமைதி மண்டலங்களில் ஹாரன் ஒலிக்காதீர்கள் (Reg. 23)."
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q379; consistent with Motor Vehicles (Driving) Regulations 2017, Reg. 23",
+    "retrievedOn": "2026-11-16",
+    "verified": true,
+    "auditedOn": "2026-11-16",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition); screened against the 2017 Regulations and current law; English only.",
+    "ruleRef": "Reg. 23"
+  },
+  {
+    "id": "q-pqb-256",
+    "topic": "Markings",
+    "unit": "signals",
+    "lessonId": "sig-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "A solid yellow line is next to a broken line. Vehicles on the solid-line side:",
+    "options": [
+      "can cross the line to overtake",
+      "cannot stop",
+      "cannot cross the line to overtake"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A driver next to the solid line must not cross it to overtake. Only the driver on the broken-line side may cross, when it is safe (Reg. 6).",
+    "languages": {
+      "en": {
+        "question": "A solid yellow line is next to a broken line. Vehicles on the solid-line side:",
+        "options": [
+          "can cross the line to overtake",
+          "cannot stop",
+          "cannot cross the line to overtake"
+        ],
+        "explanation": "A driver next to the solid line must not cross it to overtake. Only the driver on the broken-line side may cross, when it is safe (Reg. 6)."
+      },
+      "hi": {
+        "question": "एक ठोस (लगातार) पीली रेखा के बगल में टूटी रेखा है। ठोस रेखा की तरफ़ के वाहन:",
+        "options": [
+          "ओवरटेक करने के लिए रेखा पार कर सकते हैं",
+          "रुक नहीं सकते",
+          "ओवरटेक करने के लिए रेखा पार नहीं कर सकते"
+        ],
+        "explanation": "ठोस रेखा की तरफ़ वाला चालक ओवरटेक के लिए उसे पार नहीं कर सकता। केवल टूटी रेखा की तरफ़ वाला चालक सुरक्षित होने पर पार कर सकता है (Reg. 6)।"
+      }
+    },
+    "imageRef": "img:q256.png",
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q256",
+    "retrievedOn": "2026-11-21",
+    "verified": true,
+    "auditedOn": "2026-11-21",
+    "auditNote": "Picture from the official Parivahan question bank; question cleaned and answer checked against Driving Regulations 2017 on 2026-11-21. Hindi added by Claude."
+  },
+  {
+    "id": "q-pqb-430",
+    "topic": "Markings",
+    "unit": "signals",
+    "lessonId": "sig-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "What does a solid yellow centre line mean?",
+    "options": [
+      "Do not overtake (do not cross it)",
+      "No parking",
+      "Stop line"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A continuous yellow line along the centre must not be crossed to overtake (Reg. 6).",
+    "languages": {
+      "en": {
+        "question": "What does a solid yellow centre line mean?",
+        "options": [
+          "Do not overtake (do not cross it)",
+          "No parking",
+          "Stop line"
+        ],
+        "explanation": "A continuous yellow line along the centre must not be crossed to overtake (Reg. 6)."
+      },
+      "hi": {
+        "question": "सड़क के बीच की ठोस पीली रेखा का क्या अर्थ है?",
+        "options": [
+          "ओवरटेक न करें (रेखा पार न करें)",
+          "पार्किंग मना",
+          "रुकने की रेखा"
+        ],
+        "explanation": "बीच की लगातार पीली रेखा को ओवरटेक करने के लिए पार नहीं करना चाहिए (Reg. 6)।"
+      }
+    },
+    "imageRef": "img:q430.png",
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q430",
+    "retrievedOn": "2026-11-21",
+    "verified": true,
+    "auditedOn": "2026-11-21",
+    "auditNote": "Picture from the official Parivahan question bank; question cleaned and answer checked against Driving Regulations 2017 on 2026-11-21. Hindi added by Claude."
+  },
+  {
+    "id": "q-pqb-432",
+    "topic": "Traffic lights",
+    "unit": "signals",
+    "lessonId": "sig-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "What does a flashing yellow (amber) light at an intersection mean?",
+    "options": [
+      "Slow down and proceed with caution",
+      "Stop and wait for green",
+      "Proceed fast"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A flashing amber light means slow down and go ahead with care, giving way to pedestrians and vehicles already in the intersection (Reg. 12).",
+    "languages": {
+      "en": {
+        "question": "What does a flashing yellow (amber) light at an intersection mean?",
+        "options": [
+          "Slow down and proceed with caution",
+          "Stop and wait for green",
+          "Proceed fast"
+        ],
+        "explanation": "A flashing amber light means slow down and go ahead with care, giving way to pedestrians and vehicles already in the intersection (Reg. 12)."
+      },
+      "hi": {
+        "question": "चौराहे पर पीली बत्ती टिमटिमाए तो इसका क्या अर्थ है?",
+        "options": [
+          "गति धीमी करें और सावधानी से आगे बढ़ें",
+          "रुकें और हरी बत्ती की प्रतीक्षा करें",
+          "तेज़ी से निकल जाएँ"
+        ],
+        "explanation": "टिमटिमाती पीली बत्ती का अर्थ है गति धीमी करें और सावधानी से आगे बढ़ें; पैदल यात्रियों और चौराहे में पहले से मौजूद वाहनों को रास्ता दें (Reg. 12)।"
+      }
+    },
+    "imageRef": "img:q432.png",
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q432",
+    "retrievedOn": "2026-11-21",
+    "verified": true,
+    "auditedOn": "2026-11-21",
+    "auditNote": "Picture from the official Parivahan question bank; question cleaned and answer checked against Driving Regulations 2017 on 2026-11-21. Hindi added by Claude."
+  },
+  {
+    "id": "q-pqb-375",
+    "topic": "Traffic lights",
+    "unit": "signals",
+    "lessonId": "sig-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "What does a flashing red light mean?",
+    "options": [
+      "Slow down only",
+      "Stop, then proceed with caution after giving way",
+      "Give way only, no need to stop"
+    ],
+    "correctAnswer": 1,
+    "explanation": "At a flashing red light, stop at the stop line, then go on only after giving way to pedestrians and traffic on the major road (Reg. 12).",
+    "languages": {
+      "en": {
+        "question": "What does a flashing red light mean?",
+        "options": [
+          "Slow down only",
+          "Stop, then proceed with caution after giving way",
+          "Give way only, no need to stop"
+        ],
+        "explanation": "At a flashing red light, stop at the stop line, then go on only after giving way to pedestrians and traffic on the major road (Reg. 12)."
+      },
+      "hi": {
+        "question": "टिमटिमाती लाल बत्ती का क्या अर्थ है?",
+        "options": [
+          "केवल गति धीमी करें",
+          "रुकें, फिर रास्ता देकर सावधानी से आगे बढ़ें",
+          "केवल रास्ता दें, रुकना ज़रूरी नहीं"
+        ],
+        "explanation": "टिमटिमाती लाल बत्ती पर स्टॉप लाइन पर रुकें और पैदल यात्रियों व मुख्य सड़क के यातायात को रास्ता देकर ही आगे बढ़ें (Reg. 12)।"
+      }
+    },
+    "imageRef": "img:q375.png",
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q375",
+    "retrievedOn": "2026-11-21",
+    "verified": true,
+    "auditedOn": "2026-11-21",
+    "auditNote": "Picture from the official Parivahan question bank; question cleaned and answer checked against Driving Regulations 2017 on 2026-11-21. Hindi added by Claude."
+  },
+  {
+    "id": "q-pqb-436",
+    "topic": "Warning lamps",
+    "unit": "signals",
+    "lessonId": "sig-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "What is shown on the instrument panel in the picture?",
+    "options": [
+      "A warning lamp (here: brake system warning)",
+      "A road sign",
+      "A hazard lamp"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The symbols on the instrument panel are warning lamps. A circle with an exclamation mark warns of a problem in the brake system.",
+    "languages": {
+      "en": {
+        "question": "What is shown on the instrument panel in the picture?",
+        "options": [
+          "A warning lamp (here: brake system warning)",
+          "A road sign",
+          "A hazard lamp"
+        ],
+        "explanation": "The symbols on the instrument panel are warning lamps. A circle with an exclamation mark warns of a problem in the brake system."
+      },
+      "hi": {
+        "question": "चित्र में इंस्ट्रूमेंट पैनल पर क्या दिख रहा है?",
+        "options": [
+          "चेतावनी लैंप (यहाँ: ब्रेक सिस्टम की चेतावनी)",
+          "सड़क चिह्न",
+          "हैज़र्ड लैंप"
+        ],
+        "explanation": "इंस्ट्रूमेंट पैनल के प्रतीक चेतावनी लैंप होते हैं। विस्मयादिबोधक चिह्न वाला गोला ब्रेक सिस्टम में खराबी की चेतावनी देता है।"
+      }
+    },
+    "imageRef": "img:q436.png",
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q436",
+    "retrievedOn": "2026-11-21",
+    "verified": true,
+    "auditedOn": "2026-11-21",
+    "auditNote": "Picture from the official Parivahan question bank; question cleaned and answer checked against Driving Regulations 2017 on 2026-11-21. Hindi added by Claude."
+  },
+  {
+    "id": "q-pqb-333",
+    "topic": "Indicators",
+    "unit": "signals",
+    "lessonId": "sig-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "When you want to change from one lane to another you should:",
+    "options": [
+      "give the proper turn signal",
+      "look in the rear-view mirror and change lane only if it is safe",
+      "do both of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Signal in good time and check the mirror first. Change lane only when it is safe (Reg. 6 and Reg. 8).",
+    "languages": {
+      "en": {
+        "question": "When you want to change from one lane to another you should:",
+        "options": [
+          "give the proper turn signal",
+          "look in the rear-view mirror and change lane only if it is safe",
+          "do both of the above"
+        ],
+        "explanation": "Signal in good time and check the mirror first. Change lane only when it is safe (Reg. 6 and Reg. 8)."
+      },
+      "hi": {
+        "question": "एक लेन से दूसरी लेन में जाना हो तो आपको:",
+        "options": [
+          "सही मुड़ने का संकेत देना चाहिए",
+          "रियर-व्यू मिरर में देखकर, सुरक्षित होने पर ही लेन बदलनी चाहिए",
+          "दोनों काम करने चाहिए"
+        ],
+        "explanation": "समय पर संकेत दें और पहले मिरर देखें। लेन तभी बदलें जब सुरक्षित हो (Reg. 6 और Reg. 8) (Reg. 6 and Reg. 8)।"
+      }
+    },
+    "imageRef": "img:q333.png",
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q333",
+    "retrievedOn": "2026-11-21",
+    "verified": true,
+    "auditedOn": "2026-11-21",
+    "auditNote": "Picture from the official Parivahan question bank; question cleaned and answer checked against Driving Regulations 2017 on 2026-11-21. Hindi added by Claude."
+  }
+]

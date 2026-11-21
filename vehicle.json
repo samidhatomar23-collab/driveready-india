@@ -1,0 +1,2178 @@
+[
+  {
+    "id": "q-vehicle-001",
+    "topic": "Towing",
+    "unit": "vehicle",
+    "lessonId": "veh-3",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "What is the maximum speed when towing a vehicle?",
+    "options": [
+      "15 km/h",
+      "25 km/h",
+      "40 km/h",
+      "60 km/h"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The towing speed must not be more than 25 km/h.",
+    "languages": {
+      "en": {
+        "question": "What is the maximum speed when towing a vehicle?",
+        "options": [
+          "15 km/h",
+          "25 km/h",
+          "40 km/h",
+          "60 km/h"
+        ],
+        "explanation": "The towing speed must not be more than 25 km/h."
+      },
+      "hi": {
+        "question": "किसी वाहन को खींचते समय अधिकतम गति कितनी होती है?",
+        "options": [
+          "15 km/h",
+          "25 km/h",
+          "40 km/h",
+          "60 km/h"
+        ],
+        "explanation": "खींचने की गति 25 km/h से अधिक नहीं होनी चाहिए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 30",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 30",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-vehicle-002",
+    "topic": "Towing",
+    "unit": "vehicle",
+    "lessonId": "veh-3",
+    "type": "true-false",
+    "difficulty": 1,
+    "question": "A two-wheeler may be towed by a car.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Two-wheelers must not be towed.",
+    "languages": {
+      "en": {
+        "question": "A two-wheeler may be towed by a car.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "explanation": "Two-wheelers must not be towed."
+      },
+      "hi": {
+        "question": "दोपहिया वाहन को कार से खींचा जा सकता है।",
+        "options": [
+          "सही",
+          "गलत"
+        ],
+        "explanation": "दोपहिया वाहनों को खींचना मना है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 30",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 30",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-vehicle-003",
+    "topic": "Towing",
+    "unit": "vehicle",
+    "lessonId": "veh-3",
+    "type": "mcq",
+    "difficulty": 3,
+    "question": "The gap between the towing and the towed vehicle must not be more than:",
+    "options": [
+      "2 metres",
+      "10 metres",
+      "20 metres",
+      "5 metres"
+    ],
+    "correctAnswer": 3,
+    "explanation": "The gap must not exceed 5 metres, and the tow rope or chain must be clearly visible. A reflective ON TOW sign must be shown.",
+    "languages": {
+      "en": {
+        "question": "The gap between the towing and the towed vehicle must not be more than:",
+        "options": [
+          "2 metres",
+          "10 metres",
+          "20 metres",
+          "5 metres"
+        ],
+        "explanation": "The gap must not exceed 5 metres, and the tow rope or chain must be clearly visible. A reflective ON TOW sign must be shown."
+      },
+      "hi": {
+        "question": "खींचने वाले और खींचे जाने वाले वाहन के बीच की दूरी इससे अधिक नहीं होनी चाहिए:",
+        "options": [
+          "2 मीटर",
+          "10 मीटर",
+          "20 मीटर",
+          "5 मीटर"
+        ],
+        "explanation": "दूरी 5 मीटर से अधिक नहीं होनी चाहिए, और खींचने वाली रस्सी या चेन साफ़ दिखनी चाहिए। रिफ्लेक्टिव ON TOW चिह्न लगाना ज़रूरी है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 30",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 30",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-vehicle-004",
+    "topic": "Loads",
+    "unit": "vehicle",
+    "lessonId": "veh-3",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "A load carried on a vehicle must be:",
+    "options": [
+      "Hanging as far out as possible",
+      "Left loose to keep the vehicle balanced",
+      "Secured so that it cannot slip, fall or roll, even on sudden braking",
+      "Hiding the number plate"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Loads must be secured and must not extend beyond the body or hide the registration plate.",
+    "languages": {
+      "en": {
+        "question": "A load carried on a vehicle must be:",
+        "options": [
+          "Hanging as far out as possible",
+          "Left loose to keep the vehicle balanced",
+          "Secured so that it cannot slip, fall or roll, even on sudden braking",
+          "Hiding the number plate"
+        ],
+        "explanation": "Loads must be secured and must not extend beyond the body or hide the registration plate."
+      },
+      "hi": {
+        "question": "वाहन पर ले जाया जाने वाला माल:",
+        "options": [
+          "जितना हो सके बाहर लटका होना चाहिए",
+          "वाहन का संतुलन बनाए रखने के लिए ढीला छोड़ा जाना चाहिए",
+          "इस तरह बँधा होना चाहिए कि अचानक ब्रेक लगाने पर भी वह खिसके, गिरे या लुढ़के नहीं",
+          "नंबर प्लेट को ढकता हुआ होना चाहिए"
+        ],
+        "explanation": "माल अच्छी तरह बँधा होना चाहिए और वाहन की बॉडी से बाहर नहीं निकलना चाहिए, न ही रजिस्ट्रेशन प्लेट को ढकना चाहिए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 35",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 35",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-vehicle-005",
+    "topic": "Number plate",
+    "unit": "vehicle",
+    "lessonId": "veh-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "The registration number plate must:",
+    "options": [
+      "Be clear, readable and show only the registration number",
+      "Be hidden by a cover in rain",
+      "Show your name and slogans",
+      "Be removed when the vehicle is parked"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Plates must be visible, legible, free of dirt or objects, and show only the registration number.",
+    "languages": {
+      "en": {
+        "question": "The registration number plate must:",
+        "options": [
+          "Be clear, readable and show only the registration number",
+          "Be hidden by a cover in rain",
+          "Show your name and slogans",
+          "Be removed when the vehicle is parked"
+        ],
+        "explanation": "Plates must be visible, legible, free of dirt or objects, and show only the registration number."
+      },
+      "hi": {
+        "question": "रजिस्ट्रेशन नंबर प्लेट:",
+        "options": [
+          "साफ़, पढ़ने योग्य होनी चाहिए और उस पर केवल रजिस्ट्रेशन नंबर होना चाहिए",
+          "बारिश में कवर से ढकी होनी चाहिए",
+          "उस पर आपका नाम और नारे होने चाहिए",
+          "वाहन खड़ा होने पर हटा दी जानी चाहिए"
+        ],
+        "explanation": "प्लेट दिखाई देने वाली, पढ़ने योग्य, गंदगी या वस्तुओं से मुक्त होनी चाहिए और उस पर केवल रजिस्ट्रेशन नंबर होना चाहिए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 36",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 36",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-vehicle-006",
+    "topic": "Tractor",
+    "unit": "vehicle",
+    "lessonId": "veh-3",
+    "type": "true-false",
+    "difficulty": 2,
+    "question": "Persons may be carried on a tractor.",
+    "options": [
+      "True",
+      "False"
+    ],
+    "correctAnswer": 1,
+    "explanation": "No one may be carried on a tractor.",
+    "languages": {
+      "en": {
+        "question": "Persons may be carried on a tractor.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "explanation": "No one may be carried on a tractor."
+      },
+      "hi": {
+        "question": "ट्रैक्टर पर लोगों को ले जाया जा सकता है।",
+        "options": [
+          "सही",
+          "गलत"
+        ],
+        "explanation": "ट्रैक्टर पर किसी को भी ले जाना मना है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 32",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 32",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-vehicle-007",
+    "topic": "Dangerous goods",
+    "unit": "vehicle",
+    "lessonId": "veh-3",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "A public service vehicle (like a bus) may carry explosives or highly flammable goods:",
+    "options": [
+      "If the passengers agree",
+      "If the goods are small",
+      "During the day",
+      "Never, except its own fuel and lubricants"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Public service vehicles must not carry explosives or dangerous goods, except the vehicle’s own fuel and lubricants.",
+    "languages": {
+      "en": {
+        "question": "A public service vehicle (like a bus) may carry explosives or highly flammable goods:",
+        "options": [
+          "If the passengers agree",
+          "If the goods are small",
+          "During the day",
+          "Never, except its own fuel and lubricants"
+        ],
+        "explanation": "Public service vehicles must not carry explosives or dangerous goods, except the vehicle’s own fuel and lubricants."
+      },
+      "hi": {
+        "question": "सार्वजनिक सेवा वाहन (जैसे बस) विस्फोटक या अत्यधिक ज्वलनशील सामान ले जा सकता है:",
+        "options": [
+          "यदि यात्री सहमत हों",
+          "यदि सामान थोड़ा हो",
+          "दिन के समय",
+          "कभी नहीं, सिवाय अपने ईंधन और स्नेहक के"
+        ],
+        "explanation": "सार्वजनिक सेवा वाहन विस्फोटक या खतरनाक सामान नहीं ले जा सकते, सिवाय वाहन के अपने ईंधन और स्नेहक के।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "ruleRef": "Reg. 34",
+    "sourceUrl": "https://indiankanoon.org/doc/164893636/",
+    "sourceDoc": "Motor Vehicles (Driving) Regulations, 2017 - Reg. 34",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Written by Claude from the cited text (Regulations text from a public copy that says it is unverified against the Gazette; Act text from India Code). Check against the Gazette before relying on it."
+  },
+  {
+    "id": "q-pqb-049",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "What is the rear view mirror used for?",
+    "options": [
+      "To see your own face",
+      "To watch the traffic approaching from behind",
+      "To see the passengers on the back seat"
+    ],
+    "correctAnswer": 1,
+    "explanation": "The rear view mirror shows you the traffic coming up behind your vehicle, so you can drive and change lanes safely.",
+    "languages": {
+      "en": {
+        "question": "What is the rear view mirror used for?",
+        "options": [
+          "To see your own face",
+          "To watch the traffic approaching from behind",
+          "To see the passengers on the back seat"
+        ],
+        "explanation": "The rear view mirror shows you the traffic coming up behind your vehicle, so you can drive and change lanes safely."
+      },
+      "hi": {
+        "question": "रियर व्यू मिरर का उपयोग किसलिए होता है?",
+        "options": [
+          "अपना चेहरा देखने के लिए",
+          "पीछे से आते यातायात को देखने के लिए",
+          "पिछली सीट की सवारियों को देखने के लिए"
+        ],
+        "explanation": "रियर व्यू मिरर आपको वाहन के पीछे से आते यातायात को दिखाता है, ताकि आप सुरक्षित रूप से गाड़ी चला सकें और लेन बदल सकें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q49",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-093",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "When should the hand brake be used?",
+    "options": [
+      "To park the vehicle",
+      "To reduce speed",
+      "To stop suddenly"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The hand brake holds a stopped vehicle in place, so it is meant for parking. Use the foot brake to slow down or stop.",
+    "languages": {
+      "en": {
+        "question": "When should the hand brake be used?",
+        "options": [
+          "To park the vehicle",
+          "To reduce speed",
+          "To stop suddenly"
+        ],
+        "explanation": "The hand brake holds a stopped vehicle in place, so it is meant for parking. Use the foot brake to slow down or stop."
+      },
+      "hi": {
+        "question": "हैंड ब्रेक का उपयोग कब करना चाहिए?",
+        "options": [
+          "वाहन को पार्क करने के लिए",
+          "गति कम करने के लिए",
+          "अचानक रुकने के लिए"
+        ],
+        "explanation": "हैंड ब्रेक रुके हुए वाहन को अपनी जगह पर थामे रखता है, इसलिए यह पार्किंग के लिए है। गति कम करने या रुकने के लिए फुट ब्रेक का उपयोग करें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q93",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-173",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "What should you check before starting the engine of a vehicle?",
+    "options": [
+      "The headlights",
+      "The brakes",
+      "The radiator water level and the engine oil level"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Running an engine with too little coolant or oil can damage it badly, so check both levels before you start.",
+    "languages": {
+      "en": {
+        "question": "What should you check before starting the engine of a vehicle?",
+        "options": [
+          "The headlights",
+          "The brakes",
+          "The radiator water level and the engine oil level"
+        ],
+        "explanation": "Running an engine with too little coolant or oil can damage it badly, so check both levels before you start."
+      },
+      "hi": {
+        "question": "वाहन का इंजन चालू करने से पहले आपको क्या जाँचना चाहिए?",
+        "options": [
+          "हेडलाइट",
+          "ब्रेक",
+          "रेडिएटर में पानी का स्तर और इंजन ऑयल का स्तर"
+        ],
+        "explanation": "कूलेंट या ऑयल बहुत कम होने पर इंजन चलाने से उसे भारी नुकसान हो सकता है, इसलिए चालू करने से पहले दोनों का स्तर जाँचें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q173",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19. Reviewer note: Other pre-start checks (lights, brakes) are also good practice; this item expects the fluid levels."
+  },
+  {
+    "id": "q-pqb-231",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "What can cause hard steering?",
+    "options": [
+      "A badly worn tyre",
+      "An under-inflated tyre",
+      "An over-inflated tyre"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A tyre with too little air has a bigger area touching the road, which makes the steering feel heavy and hard to turn.",
+    "languages": {
+      "en": {
+        "question": "What can cause hard steering?",
+        "options": [
+          "A badly worn tyre",
+          "An under-inflated tyre",
+          "An over-inflated tyre"
+        ],
+        "explanation": "A tyre with too little air has a bigger area touching the road, which makes the steering feel heavy and hard to turn."
+      },
+      "hi": {
+        "question": "स्टीयरिंग भारी होने का कारण क्या हो सकता है?",
+        "options": [
+          "बहुत घिसा हुआ टायर",
+          "कम हवा वाला टायर",
+          "ज़रूरत से ज़्यादा हवा भरा टायर"
+        ],
+        "explanation": "कम हवा वाले टायर का सड़क से छूने वाला हिस्सा बड़ा हो जाता है, जिससे स्टीयरिंग भारी लगता है और मोड़ना कठिन हो जाता है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q231",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-237",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "An anti-lock braking system (ABS) stops the wheels from locking. What does this help the tyres to avoid?",
+    "options": [
+      "A skid",
+      "A puncture",
+      "Wear"
+    ],
+    "correctAnswer": 0,
+    "explanation": "When wheels lock during hard braking the vehicle skids. ABS keeps the wheels turning so you can still steer.",
+    "languages": {
+      "en": {
+        "question": "An anti-lock braking system (ABS) stops the wheels from locking. What does this help the tyres to avoid?",
+        "options": [
+          "A skid",
+          "A puncture",
+          "Wear"
+        ],
+        "explanation": "When wheels lock during hard braking the vehicle skids. ABS keeps the wheels turning so you can still steer."
+      },
+      "hi": {
+        "question": "एंटी-लॉक ब्रेकिंग सिस्टम (ABS) पहियों को लॉक होने से रोकता है। इससे टायरों को किससे बचने में मदद मिलती है?",
+        "options": [
+          "फिसलने से",
+          "पंक्चर से",
+          "घिसाव से"
+        ],
+        "explanation": "ज़ोर से ब्रेक लगाने पर जब पहिए लॉक हो जाते हैं तो वाहन फिसलता है। ABS पहियों को घूमते रखता है, ताकि आप फिर भी स्टीयरिंग घुमा सकें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q237",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-267",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Why is the rear view mirror slightly curved?",
+    "options": [
+      "To cover the blind spot completely",
+      "To judge the speed of the vehicle behind",
+      "To give a wider field of vision"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A slightly curved mirror shows a wider area behind you than a flat one would.",
+    "languages": {
+      "en": {
+        "question": "Why is the rear view mirror slightly curved?",
+        "options": [
+          "To cover the blind spot completely",
+          "To judge the speed of the vehicle behind",
+          "To give a wider field of vision"
+        ],
+        "explanation": "A slightly curved mirror shows a wider area behind you than a flat one would."
+      },
+      "hi": {
+        "question": "रियर व्यू मिरर थोड़ा उभरा (घुमावदार) क्यों होता है?",
+        "options": [
+          "ताकि ब्लाइंड स्पॉट पूरी तरह दिख जाए",
+          "ताकि पीछे के वाहन की गति का अंदाज़ा लगे",
+          "ताकि ज़्यादा चौड़ा दृश्य दिखे"
+        ],
+        "explanation": "थोड़ा घुमावदार शीशा सपाट शीशे से पीछे का ज़्यादा बड़ा हिस्सा दिखाता है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q267",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19. Reviewer note: Note: a curved mirror does not remove blind spots."
+  },
+  {
+    "id": "q-pqb-274",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "What is a blind spot?",
+    "options": [
+      "An area that you cannot see in your mirrors",
+      "An area not lit by the headlights",
+      "An area not covered by the inside rear view mirror"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A blind spot is a part of the road around your vehicle that your mirrors do not show, so you must turn your head to check it.",
+    "languages": {
+      "en": {
+        "question": "What is a blind spot?",
+        "options": [
+          "An area that you cannot see in your mirrors",
+          "An area not lit by the headlights",
+          "An area not covered by the inside rear view mirror"
+        ],
+        "explanation": "A blind spot is a part of the road around your vehicle that your mirrors do not show, so you must turn your head to check it."
+      },
+      "hi": {
+        "question": "ब्लाइंड स्पॉट क्या है?",
+        "options": [
+          "वह जगह जो आपको अपने शीशों में नहीं दिखती",
+          "वह जगह जहाँ हेडलाइट की रोशनी नहीं पड़ती",
+          "वह जगह जो अंदर के रियर व्यू मिरर में नहीं दिखती"
+        ],
+        "explanation": "ब्लाइंड स्पॉट आपके वाहन के आसपास की सड़क का वह हिस्सा है जो शीशों में नहीं दिखता, इसलिए आपको सिर घुमाकर देखना चाहिए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q274",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19. Reviewer note: Options 0 and 2 are close in meaning; key kept as given."
+  },
+  {
+    "id": "q-pqb-286",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "What is an anti-lock braking system (ABS) designed to do?",
+    "options": [
+      "Stop the wheels from locking up when braking and avoid skidding",
+      "Stop the driving wheels from spinning",
+      "Stop moisture building up inside the braking system"
+    ],
+    "correctAnswer": 0,
+    "explanation": "ABS releases and applies the brakes very quickly so the wheels do not lock, and the vehicle does not skid.",
+    "languages": {
+      "en": {
+        "question": "What is an anti-lock braking system (ABS) designed to do?",
+        "options": [
+          "Stop the wheels from locking up when braking and avoid skidding",
+          "Stop the driving wheels from spinning",
+          "Stop moisture building up inside the braking system"
+        ],
+        "explanation": "ABS releases and applies the brakes very quickly so the wheels do not lock, and the vehicle does not skid."
+      },
+      "hi": {
+        "question": "एंटी-लॉक ब्रेकिंग सिस्टम (ABS) किस लिए बना होता है?",
+        "options": [
+          "ब्रेक लगाते समय पहियों को लॉक होने से रोकने और फिसलने से बचाने के लिए",
+          "चलाने वाले पहियों को घूमने से रोकने के लिए",
+          "ब्रेक सिस्टम के अंदर नमी जमने से रोकने के लिए"
+        ],
+        "explanation": "ABS ब्रेक को बहुत तेज़ी से छोड़ता और लगाता है, ताकि पहिये लॉक न हों और वाहन फिसले नहीं।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q286",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-287",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "What is brake fade?",
+    "options": [
+      "A drop in air pressure",
+      "A reduction in braking effectiveness",
+      "Smooth, gradual braking"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Brakes that get very hot, for example on a long descent, lose their grip and stop the vehicle less well. This is brake fade.",
+    "languages": {
+      "en": {
+        "question": "What is brake fade?",
+        "options": [
+          "A drop in air pressure",
+          "A reduction in braking effectiveness",
+          "Smooth, gradual braking"
+        ],
+        "explanation": "Brakes that get very hot, for example on a long descent, lose their grip and stop the vehicle less well. This is brake fade."
+      },
+      "hi": {
+        "question": "ब्रेक फ़ेड क्या है?",
+        "options": [
+          "हवा के दबाव में कमी",
+          "ब्रेक के असर में कमी",
+          "आसान, धीरे-धीरे ब्रेक लगाना"
+        ],
+        "explanation": "बहुत गर्म हो गए ब्रेक, जैसे लंबी ढलान पर, पकड़ खो देते हैं और वाहन को कम अच्छी तरह रोकते हैं। इसे ब्रेक फ़ेड कहते हैं।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q287",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-288",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "How can you prevent brake fade while going downhill?",
+    "options": [
+      "Select a suitable low gear and use the brakes only when necessary",
+      "Select neutral for a short distance",
+      "Pump the brake pedal again and again"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A low gear lets the engine control your speed, so the brakes stay cool and keep working well.",
+    "languages": {
+      "en": {
+        "question": "How can you prevent brake fade while going downhill?",
+        "options": [
+          "Select a suitable low gear and use the brakes only when necessary",
+          "Select neutral for a short distance",
+          "Pump the brake pedal again and again"
+        ],
+        "explanation": "A low gear lets the engine control your speed, so the brakes stay cool and keep working well."
+      },
+      "hi": {
+        "question": "ढलान पर उतरते समय ब्रेक फ़ेड से कैसे बच सकते हैं?",
+        "options": [
+          "सही नीचे का गियर लगाएँ और ब्रेक केवल ज़रूरत होने पर लगाएँ",
+          "थोड़ी दूरी के लिए न्यूट्रल में डालें",
+          "ब्रेक पेडल को बार-बार पंप करें"
+        ],
+        "explanation": "नीचे का गियर इंजन से गति को काबू में रखता है, इसलिए ब्रेक ठंडे रहते हैं और ठीक से काम करते रहते हैं।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q288",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19. Reviewer note: Original option said 'higher power gear'; changed to low gear as instructed (original wording was misleading)."
+  },
+  {
+    "id": "q-pqb-289",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "What should you do when stopping on an uphill slope?",
+    "options": [
+      "Hold the vehicle on the clutch",
+      "Hold the vehicle on the foot brake",
+      "Apply the parking brake once you have stopped"
+    ],
+    "correctAnswer": 2,
+    "explanation": "The parking brake holds the vehicle firmly so it cannot roll back, and the clutch is not worn by slipping.",
+    "languages": {
+      "en": {
+        "question": "What should you do when stopping on an uphill slope?",
+        "options": [
+          "Hold the vehicle on the clutch",
+          "Hold the vehicle on the foot brake",
+          "Apply the parking brake once you have stopped"
+        ],
+        "explanation": "The parking brake holds the vehicle firmly so it cannot roll back, and the clutch is not worn by slipping."
+      },
+      "hi": {
+        "question": "चढ़ाई पर रुकते समय आपको क्या करना चाहिए?",
+        "options": [
+          "वाहन को क्लच से रोके रखें",
+          "वाहन को फ़ुट ब्रेक से रोके रखें",
+          "रुकने के बाद पार्किंग ब्रेक लगा दें"
+        ],
+        "explanation": "पार्किंग ब्रेक वाहन को मज़बूती से पकड़ता है ताकि वह पीछे न लुढ़के, और क्लच फिसलने से घिसता नहीं।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q289",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-293",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "What is the benefit of power-assisted steering?",
+    "options": [
+      "It reduces tyre wear",
+      "It reduces the effort needed to steer",
+      "It helps with braking"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Power assistance makes the steering wheel lighter and easier to turn, especially at low speed.",
+    "languages": {
+      "en": {
+        "question": "What is the benefit of power-assisted steering?",
+        "options": [
+          "It reduces tyre wear",
+          "It reduces the effort needed to steer",
+          "It helps with braking"
+        ],
+        "explanation": "Power assistance makes the steering wheel lighter and easier to turn, especially at low speed."
+      },
+      "hi": {
+        "question": "पावर स्टीयरिंग का क्या फ़ायदा है?",
+        "options": [
+          "इससे टायर कम घिसते हैं",
+          "इससे स्टीयरिंग घुमाने में कम ज़ोर लगता है",
+          "इससे ब्रेक लगाने में मदद मिलती है"
+        ],
+        "explanation": "पावर असिस्ट से स्टीयरिंग व्हील हल्का हो जाता है और खासकर धीमी गति पर घुमाना आसान होता है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q293",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-310",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "What is the turning circle of a vehicle?",
+    "options": [
+      "The amount of space the vehicle needs to turn",
+      "The number of turns of the steering wheel from one lock to the other",
+      "The amount by which the vehicle cuts corners"
+    ],
+    "correctAnswer": 0,
+    "explanation": "The turning circle is the space a vehicle needs to make its tightest turn.",
+    "languages": {
+      "en": {
+        "question": "What is the turning circle of a vehicle?",
+        "options": [
+          "The amount of space the vehicle needs to turn",
+          "The number of turns of the steering wheel from one lock to the other",
+          "The amount by which the vehicle cuts corners"
+        ],
+        "explanation": "The turning circle is the space a vehicle needs to make its tightest turn."
+      },
+      "hi": {
+        "question": "वाहन का टर्निंग सर्कल क्या होता है?",
+        "options": [
+          "वाहन को मुड़ने के लिए कितनी जगह चाहिए",
+          "स्टीयरिंग व्हील के एक छोर से दूसरे छोर तक घुमाव की संख्या",
+          "वाहन मोड़ पर कितना कोना काटता है"
+        ],
+        "explanation": "टर्निंग सर्कल वह जगह है जो वाहन को अपना सबसे तंग मोड़ लेने के लिए चाहिए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q310",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-313",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "What is the wiper on the windscreen of a vehicle for?",
+    "options": [
+      "For the rainy season only",
+      "To signal to oncoming vehicles to stop",
+      "For cleaning the windscreen in any season"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Wipers clear rain, dust and dirt from the windscreen in any season, so you can see the road clearly.",
+    "languages": {
+      "en": {
+        "question": "What is the wiper on the windscreen of a vehicle for?",
+        "options": [
+          "For the rainy season only",
+          "To signal to oncoming vehicles to stop",
+          "For cleaning the windscreen in any season"
+        ],
+        "explanation": "Wipers clear rain, dust and dirt from the windscreen in any season, so you can see the road clearly."
+      },
+      "hi": {
+        "question": "वाहन की विंडस्क्रीन पर वाइपर किसलिए होता है?",
+        "options": [
+          "केवल बरसात के मौसम के लिए",
+          "सामने से आते वाहनों को रुकने का इशारा देने के लिए",
+          "किसी भी मौसम में विंडस्क्रीन साफ़ करने के लिए"
+        ],
+        "explanation": "वाइपर किसी भी मौसम में विंडस्क्रीन से बारिश, धूल और गंदगी हटाते हैं, ताकि आपको सड़क साफ़ दिखे।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q313",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-322",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Which safety device fitted in a light motor vehicle protects the driver from injury?",
+    "options": [
+      "Helmet",
+      "Seat belt",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A seat belt holds the driver in the seat and reduces injury in a crash or sudden stop.",
+    "languages": {
+      "en": {
+        "question": "Which safety device fitted in a light motor vehicle protects the driver from injury?",
+        "options": [
+          "Helmet",
+          "Seat belt",
+          "None of the above"
+        ],
+        "explanation": "A seat belt holds the driver in the seat and reduces injury in a crash or sudden stop."
+      },
+      "hi": {
+        "question": "हल्के मोटर वाहन में लगा कौन-सा सुरक्षा उपकरण चालक को चोट से बचाता है?",
+        "options": [
+          "हेलमेट",
+          "सीट बेल्ट",
+          "ऊपर में से कोई नहीं"
+        ],
+        "explanation": "सीट बेल्ट चालक को सीट पर रोके रखती है और टक्कर या अचानक रुकने पर चोट कम करती है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q322",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-325",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "What should be checked before a long drive?",
+    "options": [
+      "Fuel, oil, brake fluid, coolant and the condition of the tyres",
+      "Spare wheel, tools and the tension of all drive belts",
+      "All of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": "All of these checks help prevent a breakdown or accident on a long journey.",
+    "languages": {
+      "en": {
+        "question": "What should be checked before a long drive?",
+        "options": [
+          "Fuel, oil, brake fluid, coolant and the condition of the tyres",
+          "Spare wheel, tools and the tension of all drive belts",
+          "All of the above"
+        ],
+        "explanation": "All of these checks help prevent a breakdown or accident on a long journey."
+      },
+      "hi": {
+        "question": "लंबी यात्रा से पहले क्या जाँचना चाहिए?",
+        "options": [
+          "ईंधन, तेल, ब्रेक फ़्लूइड, कूलेंट और टायरों की हालत",
+          "स्पेयर व्हील, औज़ार और सभी ड्राइव बेल्ट का तनाव",
+          "ऊपर के सभी"
+        ],
+        "explanation": "ये सभी जाँचें लंबी यात्रा में वाहन खराब होने या दुर्घटना से बचाने में मदद करती हैं।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q325",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-271",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-1",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Your vehicle pulls to one side when braking. What should you do?",
+    "options": [
+      "Consult your mechanic",
+      "Swap the tyres around",
+      "Pump the pedal when braking"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Pulling to one side means a brake or related fault, so a mechanic should check it.",
+    "languages": {
+      "en": {
+        "question": "Your vehicle pulls to one side when braking. What should you do?",
+        "options": [
+          "Consult your mechanic",
+          "Swap the tyres around",
+          "Pump the pedal when braking"
+        ],
+        "explanation": "Pulling to one side means a brake or related fault, so a mechanic should check it."
+      },
+      "hi": {
+        "question": "ब्रेक लगाने पर आपका वाहन एक तरफ़ खिंचता है। आपको क्या करना चाहिए?",
+        "options": [
+          "अपने मैकेनिक से सलाह लें",
+          "टायरों की अदला-बदली करें",
+          "ब्रेक लगाते समय पेडल को पंप करें"
+        ],
+        "explanation": "एक तरफ़ खिंचने का मतलब ब्रेक या उससे जुड़ी खराबी है, इसलिए मैकेनिक को जाँच करनी चाहिए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q271",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-422",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-1",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "How can you restore braking after the vehicle has been washed or driven through water?",
+    "options": [
+      "Apply the brakes several times while driving slowly",
+      "Have the brakes adjusted by a mechanic",
+      "Take the vehicle off the road at once"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Wet brakes grip poorly. Applying them gently a few times at low speed dries them and restores braking.",
+    "languages": {
+      "en": {
+        "question": "How can you restore braking after the vehicle has been washed or driven through water?",
+        "options": [
+          "Apply the brakes several times while driving slowly",
+          "Have the brakes adjusted by a mechanic",
+          "Take the vehicle off the road at once"
+        ],
+        "explanation": "Wet brakes grip poorly. Applying them gently a few times at low speed dries them and restores braking."
+      },
+      "hi": {
+        "question": "वाहन धोने या पानी में से चलाने के बाद ब्रेक का असर वापस कैसे लाएँ?",
+        "options": [
+          "धीरे चलते हुए ब्रेक कई बार लगाएँ",
+          "मैकेनिक से ब्रेक ठीक करवाएँ",
+          "वाहन को तुरंत सड़क से हटा लें"
+        ],
+        "explanation": "गीले ब्रेक की पकड़ कमज़ोर होती है। धीमी गति पर उन्हें हल्के से कई बार लगाने से वे सूख जाते हैं और असर लौट आता है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q422",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-214",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "You are on a long downhill slope. What should you do to help control the speed of your vehicle?",
+    "options": [
+      "Switch off the engine",
+      "Change to a low gear",
+      "Select neutral"
+    ],
+    "correctAnswer": 1,
+    "explanation": "A low gear lets the engine hold back the vehicle, so you do not have to keep using the brakes.",
+    "languages": {
+      "en": {
+        "question": "You are on a long downhill slope. What should you do to help control the speed of your vehicle?",
+        "options": [
+          "Switch off the engine",
+          "Change to a low gear",
+          "Select neutral"
+        ],
+        "explanation": "A low gear lets the engine hold back the vehicle, so you do not have to keep using the brakes."
+      },
+      "hi": {
+        "question": "आप लंबी ढलान पर हैं। वाहन की गति काबू में रखने के लिए आपको क्या करना चाहिए?",
+        "options": [
+          "इंजन बंद कर दें",
+          "नीचे के गियर में बदलें",
+          "न्यूट्रल में डालें"
+        ],
+        "explanation": "नीचे का गियर इंजन से वाहन को रोके रखता है, इसलिए बार-बार ब्रेक नहीं लगाने पड़ते।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q214",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-290",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "You are driving behind a large vehicle. How can you improve your view ahead?",
+    "options": [
+      "Stay further back",
+      "Overtake as soon as you can",
+      "Move over to the left"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Staying further back lets you see more of the road around the large vehicle and gives you more time to react.",
+    "languages": {
+      "en": {
+        "question": "You are driving behind a large vehicle. How can you improve your view ahead?",
+        "options": [
+          "Stay further back",
+          "Overtake as soon as you can",
+          "Move over to the left"
+        ],
+        "explanation": "Staying further back lets you see more of the road around the large vehicle and gives you more time to react."
+      },
+      "hi": {
+        "question": "आप बड़े वाहन के पीछे चल रहे हैं। आगे का दृश्य बेहतर कैसे करें?",
+        "options": [
+          "और पीछे रहें",
+          "जितनी जल्दी हो सके ओवरटेक करें",
+          "बाईं ओर हट जाएँ"
+        ],
+        "explanation": "और पीछे रहने से बड़े वाहन के आसपास की सड़क ज़्यादा दिखती है और प्रतिक्रिया के लिए ज़्यादा समय मिलता है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q290",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-292",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-2",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Why is it dangerous to drive downhill in neutral gear?",
+    "options": [
+      "It affects the cooling system",
+      "It affects the speed governor",
+      "It affects the brake system"
+    ],
+    "correctAnswer": 2,
+    "explanation": "In neutral the engine cannot help to slow the vehicle, so the brakes do all the work, overheat and may fail.",
+    "languages": {
+      "en": {
+        "question": "Why is it dangerous to drive downhill in neutral gear?",
+        "options": [
+          "It affects the cooling system",
+          "It affects the speed governor",
+          "It affects the brake system"
+        ],
+        "explanation": "In neutral the engine cannot help to slow the vehicle, so the brakes do all the work, overheat and may fail."
+      },
+      "hi": {
+        "question": "न्यूट्रल गियर में ढलान पर उतरना खतरनाक क्यों है?",
+        "options": [
+          "इससे कूलिंग सिस्टम पर असर पड़ता है",
+          "इससे स्पीड गवर्नर पर असर पड़ता है",
+          "इससे ब्रेक सिस्टम पर असर पड़ता है"
+        ],
+        "explanation": "न्यूट्रल में इंजन वाहन को धीमा करने में मदद नहीं कर सकता, इसलिए सारा काम ब्रेक करते हैं, वे ज़्यादा गर्म होकर फेल हो सकते हैं।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q292",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-294",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "How can you avoid harsh driving?",
+    "options": [
+      "Apply the parking brake gently",
+      "Plan ahead and begin braking early",
+      "Slow down using the gears only"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Looking ahead and braking early lets you slow down smoothly instead of braking hard at the last moment.",
+    "languages": {
+      "en": {
+        "question": "How can you avoid harsh driving?",
+        "options": [
+          "Apply the parking brake gently",
+          "Plan ahead and begin braking early",
+          "Slow down using the gears only"
+        ],
+        "explanation": "Looking ahead and braking early lets you slow down smoothly instead of braking hard at the last moment."
+      },
+      "hi": {
+        "question": "झटके वाली ड्राइविंग से कैसे बच सकते हैं?",
+        "options": [
+          "पार्किंग ब्रेक धीरे से लगाएँ",
+          "पहले से योजना बनाएँ और जल्दी ब्रेक लगाना शुरू करें",
+          "केवल गियर से गति कम करें"
+        ],
+        "explanation": "आगे देखकर और जल्दी ब्रेक लगाकर आप आख़िरी पल में ज़ोर से ब्रेक लगाने की जगह आराम से गति कम कर सकते हैं।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q294",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-295",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-2",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "On which occasions are passengers most likely to notice weight transfer?",
+    "options": [
+      "Braking",
+      "Cornering",
+      "Both of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Weight shifts forward when you brake and sideways when you turn a corner, so passengers feel it in both cases.",
+    "languages": {
+      "en": {
+        "question": "On which occasions are passengers most likely to notice weight transfer?",
+        "options": [
+          "Braking",
+          "Cornering",
+          "Both of the above"
+        ],
+        "explanation": "Weight shifts forward when you brake and sideways when you turn a corner, so passengers feel it in both cases."
+      },
+      "hi": {
+        "question": "यात्रियों को वज़न का खिसकना किन मौकों पर सबसे ज़्यादा महसूस होता है?",
+        "options": [
+          "ब्रेक लगाते समय",
+          "मोड़ काटते समय",
+          "ऊपर के दोनों"
+        ],
+        "explanation": "ब्रेक लगाने पर वज़न आगे की ओर और मोड़ पर बगल की ओर खिसकता है, इसलिए यात्री दोनों में इसे महसूस करते हैं।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q295",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-296",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "What should you do before a bend, roundabout or corner?",
+    "options": [
+      "Select the appropriate gear",
+      "Adjust your speed",
+      "Both of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Slow down and choose the right gear before the turn, so you can go through it smoothly and in control.",
+    "languages": {
+      "en": {
+        "question": "What should you do before a bend, roundabout or corner?",
+        "options": [
+          "Select the appropriate gear",
+          "Adjust your speed",
+          "Both of the above"
+        ],
+        "explanation": "Slow down and choose the right gear before the turn, so you can go through it smoothly and in control."
+      },
+      "hi": {
+        "question": "मोड़, गोल चक्कर या कोने से पहले आपको क्या करना चाहिए?",
+        "options": [
+          "सही गियर चुनें",
+          "अपनी गति ठीक करें",
+          "ऊपर के दोनों"
+        ],
+        "explanation": "मोड़ से पहले गति धीमी करें और सही गियर चुनें, ताकि आप उसे आराम से और काबू में रहकर पार कर सकें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q296",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-301",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-2",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "While you are driving on an expressway, a front tyre bursts. What should you do?",
+    "options": [
+      "Hold the steering wheel firmly and stop safely using the brakes",
+      "Loosen your grip on the steering wheel",
+      "Brake hard to stop"
+    ],
+    "correctAnswer": 0,
+    "explanation": "A burst tyre pulls the vehicle sideways, so grip the wheel firmly and slow down in a controlled way.",
+    "languages": {
+      "en": {
+        "question": "While you are driving on an expressway, a front tyre bursts. What should you do?",
+        "options": [
+          "Hold the steering wheel firmly and stop safely using the brakes",
+          "Loosen your grip on the steering wheel",
+          "Brake hard to stop"
+        ],
+        "explanation": "A burst tyre pulls the vehicle sideways, so grip the wheel firmly and slow down in a controlled way."
+      },
+      "hi": {
+        "question": "एक्सप्रेसवे पर चलते समय आगे का टायर फट जाता है। आपको क्या करना चाहिए?",
+        "options": [
+          "स्टीयरिंग व्हील को मज़बूती से पकड़ें और ब्रेक से सुरक्षित रूप से रुकें",
+          "स्टीयरिंग व्हील पर पकड़ ढीली करें",
+          "ज़ोर से ब्रेक लगाकर रुकें"
+        ],
+        "explanation": "फटा टायर वाहन को बगल में खींचता है, इसलिए पहिया मज़बूती से पकड़ें और काबू में रहकर गति कम करें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q301",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-307",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-2",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "What should you check first before turning left?",
+    "options": [
+      "The right side mirror",
+      "Look behind over your right shoulder",
+      "The left side mirror"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Before turning left, check the left mirror to see whether any vehicle or rider is on your left side.",
+    "languages": {
+      "en": {
+        "question": "What should you check first before turning left?",
+        "options": [
+          "The right side mirror",
+          "Look behind over your right shoulder",
+          "The left side mirror"
+        ],
+        "explanation": "Before turning left, check the left mirror to see whether any vehicle or rider is on your left side."
+      },
+      "hi": {
+        "question": "बाएँ मुड़ने से पहले आपको सबसे पहले क्या जाँचना चाहिए?",
+        "options": [
+          "दाईं ओर का शीशा",
+          "दाएँ कंधे के ऊपर से पीछे देखें",
+          "बाईं ओर का शीशा"
+        ],
+        "explanation": "बाएँ मुड़ने से पहले बाएँ शीशे में देखें कि आपकी बाईं ओर कोई वाहन या सवार तो नहीं है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q307",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-308",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "What should you always do before moving off?",
+    "options": [
+      "Check behind using your mirrors and give the proper signal",
+      "Signal left with the indicator and move",
+      "Use only the right side mirror and move away quickly"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Checking the mirrors and signalling lets other road users know what you plan to do, so you move off safely.",
+    "languages": {
+      "en": {
+        "question": "What should you always do before moving off?",
+        "options": [
+          "Check behind using your mirrors and give the proper signal",
+          "Signal left with the indicator and move",
+          "Use only the right side mirror and move away quickly"
+        ],
+        "explanation": "Checking the mirrors and signalling lets other road users know what you plan to do, so you move off safely."
+      },
+      "hi": {
+        "question": "चलना शुरू करने से पहले आपको हमेशा क्या करना चाहिए?",
+        "options": [
+          "शीशों से पीछे देखें और सही सिग्नल दें",
+          "इंडिकेटर से बाएँ का सिग्नल दें और चल पड़ें",
+          "केवल दाईं ओर का शीशा देखें और तेज़ी से निकल जाएँ"
+        ],
+        "explanation": "शीशे देखने और सिग्नल देने से दूसरे सड़क उपयोगकर्ताओं को पता चल जाता है कि आप क्या करने वाले हैं, इसलिए आप सुरक्षित रूप से चल पाते हैं।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q308",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-311",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-2",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "Before braking in wet conditions, what should you make sure of as far as possible?",
+    "options": [
+      "Your vehicle is travelling slowly in a straight line",
+      "The gear lever is in neutral",
+      "There is no mist or water on your rear view mirror"
+    ],
+    "correctAnswer": 0,
+    "explanation": "On wet roads, braking while turning or going fast can cause a skid. Slow down and brake while going straight.",
+    "languages": {
+      "en": {
+        "question": "Before braking in wet conditions, what should you make sure of as far as possible?",
+        "options": [
+          "Your vehicle is travelling slowly in a straight line",
+          "The gear lever is in neutral",
+          "There is no mist or water on your rear view mirror"
+        ],
+        "explanation": "On wet roads, braking while turning or going fast can cause a skid. Slow down and brake while going straight."
+      },
+      "hi": {
+        "question": "गीले मौसम में ब्रेक लगाने से पहले जहाँ तक हो सके आपको किस बात का ध्यान रखना चाहिए?",
+        "options": [
+          "आपका वाहन सीधी लाइन में धीरे चल रहा है",
+          "गियर लीवर न्यूट्रल में है",
+          "आपके रियर व्यू मिरर पर धुंध या पानी नहीं है"
+        ],
+        "explanation": "गीली सड़क पर मुड़ते समय या तेज़ गति में ब्रेक लगाने से वाहन फिसल सकता है। गति धीमी करें और सीधे चलते हुए ब्रेक लगाएँ।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q311",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-272",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-2",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "What is a common cause of skidding?",
+    "options": [
+      "Bad condition of the tyres and road",
+      "Driver error",
+      "Both of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Worn tyres, slippery roads and mistakes like braking or turning too hard can all cause a skid.",
+    "languages": {
+      "en": {
+        "question": "What is a common cause of skidding?",
+        "options": [
+          "Bad condition of the tyres and road",
+          "Driver error",
+          "Both of the above"
+        ],
+        "explanation": "Worn tyres, slippery roads and mistakes like braking or turning too hard can all cause a skid."
+      },
+      "hi": {
+        "question": "फिसलने का एक आम कारण क्या है?",
+        "options": [
+          "टायरों और सड़क की खराब हालत",
+          "चालक की गलती",
+          "ऊपर के दोनों"
+        ],
+        "explanation": "घिसे टायर, फिसलन भरी सड़कें और बहुत ज़ोर से ब्रेक लगाने या मोड़ने जैसी गलतियाँ, सब वाहन को फिसला सकती हैं।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q272",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-304",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "What is the most important thing when loading a vehicle?",
+    "options": [
+      "Loading it towards the rear",
+      "Spreading the load evenly",
+      "Loading it towards the front"
+    ],
+    "correctAnswer": 1,
+    "explanation": "An evenly spread load keeps the vehicle balanced and stable, and easier to steer and brake.",
+    "languages": {
+      "en": {
+        "question": "What is the most important thing when loading a vehicle?",
+        "options": [
+          "Loading it towards the rear",
+          "Spreading the load evenly",
+          "Loading it towards the front"
+        ],
+        "explanation": "An evenly spread load keeps the vehicle balanced and stable, and easier to steer and brake."
+      },
+      "hi": {
+        "question": "वाहन में सामान लादते समय सबसे ज़रूरी बात क्या है?",
+        "options": [
+          "उसे पीछे की ओर ज़्यादा लादना",
+          "सामान को बराबर फैलाकर लादना",
+          "उसे आगे की ओर ज़्यादा लादना"
+        ],
+        "explanation": "बराबर फैला हुआ सामान वाहन को संतुलित और स्थिर रखता है, और स्टीयरिंग व ब्रेक आसान रहते हैं।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q304",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-305",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "You are driving a tipper carrying loose dry sand. Why should you cover the load properly?",
+    "options": [
+      "To stop sand blowing into the eyes of other road users",
+      "To stop the handling being affected",
+      "To improve your rear vision"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Loose sand can blow out and blind other drivers and riders, which can cause accidents.",
+    "languages": {
+      "en": {
+        "question": "You are driving a tipper carrying loose dry sand. Why should you cover the load properly?",
+        "options": [
+          "To stop sand blowing into the eyes of other road users",
+          "To stop the handling being affected",
+          "To improve your rear vision"
+        ],
+        "explanation": "Loose sand can blow out and blind other drivers and riders, which can cause accidents."
+      },
+      "hi": {
+        "question": "आप खुली सूखी रेत ले जा रहे टिपर चला रहे हैं। आपको सामान ठीक से ढकना क्यों चाहिए?",
+        "options": [
+          "ताकि रेत उड़कर दूसरे सड़क उपयोगकर्ताओं की आँखों में न जाए",
+          "ताकि वाहन चलाने पर असर न पड़े",
+          "ताकि आपको पीछे का दृश्य बेहतर दिखे"
+        ],
+        "explanation": "खुली रेत उड़कर दूसरे चालकों और सवारों की आँखों में जा सकती है, जिससे दुर्घटना हो सकती है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q305",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-326",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-3",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "When is reversing permitted?",
+    "options": [
+      "During night driving",
+      "When driving on ghat roads",
+      "Only for the minimum distance needed to change direction"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Reversing is risky, so it should only be done for the shortest distance needed, for example to turn around.",
+    "languages": {
+      "en": {
+        "question": "When is reversing permitted?",
+        "options": [
+          "During night driving",
+          "When driving on ghat roads",
+          "Only for the minimum distance needed to change direction"
+        ],
+        "explanation": "Reversing is risky, so it should only be done for the shortest distance needed, for example to turn around."
+      },
+      "hi": {
+        "question": "पीछे चलना (रिवर्स करना) कब अनुमत है?",
+        "options": [
+          "रात में गाड़ी चलाते समय",
+          "घाट वाली सड़कों पर चलते समय",
+          "केवल दिशा बदलने के लिए ज़रूरी न्यूनतम दूरी तक"
+        ],
+        "explanation": "रिवर्स करना जोखिम भरा है, इसलिए यह केवल ज़रूरी सबसे कम दूरी तक करना चाहिए, जैसे गाड़ी घुमाने के लिए।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q326",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-331",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-3",
+    "type": "mcq",
+    "difficulty": 2,
+    "question": "What may be towed?",
+    "options": [
+      "Mechanically disabled or incompletely assembled motor vehicles",
+      "Registered travellers and sidecars",
+      "All of the above"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Towing is allowed only for a vehicle that has broken down or is not fully assembled.",
+    "languages": {
+      "en": {
+        "question": "What may be towed?",
+        "options": [
+          "Mechanically disabled or incompletely assembled motor vehicles",
+          "Registered travellers and sidecars",
+          "All of the above"
+        ],
+        "explanation": "Towing is allowed only for a vehicle that has broken down or is not fully assembled."
+      },
+      "hi": {
+        "question": "क्या खींचा (टो किया) जा सकता है?",
+        "options": [
+          "यांत्रिक रूप से खराब या अधूरे जुड़े मोटर वाहन",
+          "पंजीकृत ट्रैवलर और साइडकार",
+          "ऊपर के सभी"
+        ],
+        "explanation": "खींचने की अनुमति केवल उस वाहन के लिए है जो खराब हो गया हो या पूरी तरह जुड़ा न हो।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q331",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19. Reviewer note: Option 1 wording ('registered travellers and side cars') is unclear in the source; key kept as given."
+  },
+  {
+    "id": "q-pqb-363",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Which poisonous gas is emitted from the exhaust of a petrol vehicle?",
+    "options": [
+      "Ammonia",
+      "Carbon monoxide",
+      "Chlorine"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Petrol engines give out carbon monoxide, a colourless poisonous gas, so never run an engine in a closed space.",
+    "languages": {
+      "en": {
+        "question": "Which poisonous gas is emitted from the exhaust of a petrol vehicle?",
+        "options": [
+          "Ammonia",
+          "Carbon monoxide",
+          "Chlorine"
+        ],
+        "explanation": "Petrol engines give out carbon monoxide, a colourless poisonous gas, so never run an engine in a closed space."
+      },
+      "hi": {
+        "question": "पेट्रोल वाहन के साइलेंसर से कौन-सी ज़हरीली गैस निकलती है?",
+        "options": [
+          "अमोनिया",
+          "कार्बन मोनोऑक्साइड",
+          "क्लोरीन"
+        ],
+        "explanation": "पेट्रोल इंजन कार्बन मोनोऑक्साइड छोड़ते हैं, जो रंगहीन ज़हरीली गैस है, इसलिए बंद जगह में इंजन कभी चालू न रखें।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q363",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-268",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "What can noise pollution cause?",
+    "options": [
+      "Disturbance of mental balance",
+      "Loss of the driver's concentration",
+      "All of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Loud noise can upset a person's mind and distract a driver, so both effects are possible.",
+    "languages": {
+      "en": {
+        "question": "What can noise pollution cause?",
+        "options": [
+          "Disturbance of mental balance",
+          "Loss of the driver's concentration",
+          "All of the above"
+        ],
+        "explanation": "Loud noise can upset a person's mind and distract a driver, so both effects are possible."
+      },
+      "hi": {
+        "question": "ध्वनि प्रदूषण से क्या हो सकता है?",
+        "options": [
+          "मानसिक संतुलन बिगड़ना",
+          "चालक का ध्यान भटकना",
+          "ऊपर के सभी"
+        ],
+        "explanation": "तेज़ शोर से व्यक्ति का मन परेशान हो सकता है और चालक का ध्यान भटक सकता है, इसलिए दोनों असर संभव हैं।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q268",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-269",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Who or what is affected by air pollution?",
+    "options": [
+      "Human beings only",
+      "Plants and animals only",
+      "All of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Polluted air harms people, plants and animals alike.",
+    "languages": {
+      "en": {
+        "question": "Who or what is affected by air pollution?",
+        "options": [
+          "Human beings only",
+          "Plants and animals only",
+          "All of the above"
+        ],
+        "explanation": "Polluted air harms people, plants and animals alike."
+      },
+      "hi": {
+        "question": "वायु प्रदूषण से कौन या क्या प्रभावित होता है?",
+        "options": [
+          "केवल इंसान",
+          "केवल पेड़-पौधे और जानवर",
+          "ऊपर के सभी"
+        ],
+        "explanation": "प्रदूषित हवा इंसानों, पेड़-पौधों और जानवरों, सभी को नुकसान पहुँचाती है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q269",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-302",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "Which type of clothing are motorcyclists advised to wear at night so that other road users can see them?",
+    "options": [
+      "Bright clothing",
+      "Dark clothing",
+      "None of these"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Bright or reflective clothing stands out in the dark, so other drivers can see you earlier.",
+    "languages": {
+      "en": {
+        "question": "Which type of clothing are motorcyclists advised to wear at night so that other road users can see them?",
+        "options": [
+          "Bright clothing",
+          "Dark clothing",
+          "None of these"
+        ],
+        "explanation": "Bright or reflective clothing stands out in the dark, so other drivers can see you earlier."
+      },
+      "hi": {
+        "question": "मोटरसाइकिल सवारों को रात में किस तरह के कपड़े पहनने की सलाह दी जाती है ताकि दूसरे सड़क उपयोगकर्ता उन्हें देख सकें?",
+        "options": [
+          "चमकीले कपड़े",
+          "गहरे रंग के कपड़े",
+          "इनमें से कोई नहीं"
+        ],
+        "explanation": "चमकीले या रिफ़्लेक्टिव कपड़े अंधेरे में अलग दिखते हैं, इसलिए दूसरे चालक आपको जल्दी देख लेते हैं।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q302",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  },
+  {
+    "id": "q-pqb-428",
+    "topic": "Vehicle Basics",
+    "unit": "vehicle",
+    "lessonId": "veh-3",
+    "type": "mcq",
+    "difficulty": 1,
+    "question": "When visibility becomes very low during the day in the rainy season, what should the driver do?",
+    "options": [
+      "Use the headlights",
+      "Make sure the wiper blades are not old",
+      "None of the above"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Headlights make your vehicle easier for others to see when rain or mist cuts visibility.",
+    "languages": {
+      "en": {
+        "question": "When visibility becomes very low during the day in the rainy season, what should the driver do?",
+        "options": [
+          "Use the headlights",
+          "Make sure the wiper blades are not old",
+          "None of the above"
+        ],
+        "explanation": "Headlights make your vehicle easier for others to see when rain or mist cuts visibility."
+      },
+      "hi": {
+        "question": "बरसात के मौसम में दिन में जब दिखाई देना बहुत कम हो जाए, तब चालक को क्या करना चाहिए?",
+        "options": [
+          "हेडलाइट जलाएँ",
+          "देख लें कि वाइपर ब्लेड पुराने न हों",
+          "ऊपर में से कोई नहीं"
+        ],
+        "explanation": "जब बारिश या धुंध से दिखाई कम देता है, तो हेडलाइट से दूसरों को आपका वाहन आसानी से दिख जाता है।"
+      }
+    },
+    "applicableVehicleClasses": [
+      "all"
+    ],
+    "statesApplicable": [
+      "all"
+    ],
+    "sourceUrl": "https://parivahan.gov.in/sites/default/files/DownloadForm/STALL_QB_ENGLISH_NEW.pdf",
+    "sourceDoc": "Parivahan learner-licence question bank, STALL_QB_ENGLISH_NEW.pdf (2015 edition), Q428",
+    "retrievedOn": "2026-11-19",
+    "verified": true,
+    "auditedOn": "2026-11-19",
+    "auditNote": "Imported from the official Parivahan question bank (2015 edition) and reviewed against current law on 2026-11-19."
+  }
+]
