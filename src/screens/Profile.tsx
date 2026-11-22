@@ -65,6 +65,9 @@ export default function Profile() {
         <label className="mb-1 mt-3 block text-sm font-bold">{t('onb.goal')}</label>
         <select className={select} style={{ background: 'var(--card)', borderColor: 'var(--line)' }} value={settings.dailyGoalXp} onChange={e => setSettings({ dailyGoalXp: +e.target.value })}>
           {[10, 20, 30, 50].map(g => <option key={g} value={g}>{g} XP</option>)}</select>
+        <label className="mb-1 mt-3 block text-sm font-bold">{t('profile.mascot')}</label>
+        <select className={select} style={{ background: 'var(--card)', borderColor: 'var(--line)' }} value={settings.mascot ?? 'on'} onChange={e => setSettings({ mascot: e.target.value as 'on' | 'reduced' | 'off' })}>
+          {(['on', 'reduced', 'off'] as const).map(m => <option key={m} value={m}>{t('profile.mascot.' + m)}</option>)}</select>
         <div className="mt-2">
           <Toggle label={t('profile.sound')} on={settings.sound} onChange={v => setSettings({ sound: v })} />
           <Toggle label={t('profile.dark')} on={settings.dark} onChange={v => setSettings({ dark: v })} />
