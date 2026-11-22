@@ -9,7 +9,7 @@ export default {
         amber: { 50:'#fff8e6',100:'#ffecb8',200:'#ffdc80',300:'#ffc94d',400:'#ffb81f',500:'#f5a000',600:'#c98100',700:'#9a6200' },
         ink: { 900:'#14232b', 700:'#33464f', 500:'#5d717b', 300:'#a9b8bf', 100:'#e6edf0', 50:'#f4f8f9' }
       },
-      fontFamily: { sans: ['"Nunito"', '"Noto Sans Devanagari Variable"', '"Noto Sans Telugu Variable"', '"Noto Sans Tamil Variable"', 'system-ui', 'sans-serif'] },
+      fontFamily: { sans: ['"Nunito"', '"Noto Sans Devanagari Variable"', 'system-ui', 'sans-serif'] },
       boxShadow: {
         chunk: '0 4px 0 0 var(--chunk, #09645f)',
         chunkAmber: '0 4px 0 0 #9a6200'
