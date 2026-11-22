@@ -7,6 +7,8 @@ import { play } from '../lib/sound';
 import { Sheet } from './Sheet';
 import SignGraphic from './SignGraphic';
 import Mascot from './Mascot';
+import Pup from './Pup';
+import { useMascot } from '../lib/mascot';
 
 export interface RunResult { total: number; firstTryCorrect: number; wrongIds: string[]; outOfHearts: boolean }
 
@@ -23,6 +25,7 @@ export default function QuestionRunner({ questions, useHearts, onFinish, onQuit 
   const [confirmQuit, setConfirmQuit] = useState(false);
   const [reported, setReported] = useState<Set<string>>(new Set());
   const stats = useRef({ firstTryCorrect: 0, wrong: new Set<string>(), seen: new Set<string>(), requeued: new Set<string>() });
+  const mascot = useMascot(settings.mascot ?? 'on');
   const q = queue[idx];
 
   const finish = (outOfHearts: boolean) => onFinish({
@@ -41,6 +44,7 @@ export default function QuestionRunner({ questions, useHearts, onFinish, onQuit 
     }
     if (first) recordAnswer(q.id, correct);
     play(correct ? 'right' : 'wrong', settings.sound);
+    mascot.onAnswer(correct);
     setChecked(correct);
   };
 
@@ -58,6 +62,7 @@ export default function QuestionRunner({ questions, useHearts, onFinish, onQuit 
     <div className="mx-auto flex h-full max-w-md flex-col">
       <header className="flex items-center gap-3 p-4">
         <button aria-label="Close" onClick={() => setConfirmQuit(true)} className="text-2xl muted">✕</button>
+        {(settings.mascot ?? 'on') !== 'off' && <div className="mascot-slot"><Pup state={mascot.state} size={44} blink={settings.mascot === 'on' || settings.mascot === undefined} /></div>}
         <div className="h-4 flex-1 overflow-hidden rounded-full" style={{ background: 'var(--line)' }} role="progressbar" aria-valuenow={pct} aria-valuemin={0} aria-valuemax={100}>
           <motion.div className="h-full rounded-full bg-teal-500" animate={{ width: `${Math.max(pct, 4)}%` }} />
         </div>
