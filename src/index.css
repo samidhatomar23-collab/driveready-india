@@ -25,3 +25,39 @@ body { background: var(--bg); color: var(--fg); font-family: 'Nunito', 'Noto San
 .safe-b { padding-bottom: max(env(safe-area-inset-bottom), 0px); }
 :focus-visible { outline: 3px solid #f5a000; outline-offset: 2px; }
 @media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }
+
+/* ---- Pup mascot: transform-only, one-shot, event-driven. Nothing animates in IDLE. ---- */
+.pup { overflow: visible; }
+.pup * { transform-box: fill-box; }
+.pup-ear-l { transform-origin: 90% 10%; } .pup-ear-r { transform-origin: 10% 10%; }
+.pup-head { transform-origin: 50% 90%; }
+.pup-tail { transform-origin: 0% 100%; }
+.pup-paw, .pup-spark, .pup-q { opacity: 0; transition: opacity .15s; }
+.pup[data-state="EXCITED"] .pup-paw, .pup[data-state="ENCOURAGING"] .pup-paw, .pup[data-state="STREAK_CELEBRATION"] .pup-paw { opacity: 1; }
+.pup[data-state="STREAK_CELEBRATION"] .pup-spark, .pup[data-state="CONFUSED"] .pup-q { opacity: 1; }
+.pup-static .pup-paw { opacity: 0 !important; }
+.pup[data-state="DISAPPOINTED"] .pup-ear-l { transform: rotate(14deg); } .pup[data-state="DISAPPOINTED"] .pup-ear-r { transform: rotate(-14deg); }
+.pup[data-state="DISAPPOINTED"] .pup-head { transform: translateY(2px) rotate(-3deg); }
+.pup[data-state="CONFUSED"] .pup-head { transform: rotate(10deg); }
+
+@keyframes pup-hop { 0%,100% { transform: translateY(0) } 40% { transform: translateY(-7px) } 70% { transform: translateY(0) } }
+@keyframes pup-jump { 0%,100% { transform: translateY(0) } 35% { transform: translateY(-11px) } 60% { transform: translateY(0) } 78% { transform: translateY(-4px) } }
+@keyframes pup-bigjump { 0%,100% { transform: translateY(0) } 20% { transform: translateY(-13px) } 40% { transform: translateY(0) } 60% { transform: translateY(-13px) } 80% { transform: translateY(0) } }
+@keyframes pup-wag { 0%,100% { transform: rotate(0) } 25% { transform: rotate(22deg) } 75% { transform: rotate(-18deg) } }
+@keyframes pup-dip { 0% { transform: translateY(0) } 35% { transform: translateY(3px) rotate(-4deg) } 100% { transform: translateY(2px) rotate(-3deg) } }
+@keyframes pup-tilt { 0% { transform: rotate(0) } 40% { transform: rotate(12deg) } 100% { transform: rotate(10deg) } }
+@keyframes pup-nod { 0%,100% { transform: translateY(0) } 40% { transform: translateY(2px) } }
+@keyframes pup-twinkle { 0% { opacity: 0; transform: scale(.4) } 40% { opacity: 1; transform: scale(1.1) } 100% { opacity: 0; transform: scale(.8) } }
+
+.pup[data-state="HAPPY"] .pup-all { animation: pup-hop .7s ease-out 1; }
+.pup[data-state="EXCITED"] .pup-all { animation: pup-jump 1s ease-out 1; }
+.pup[data-state="EXCITED"] .pup-tail, .pup[data-state="STREAK_CELEBRATION"] .pup-tail { animation: pup-wag .5s ease-in-out 2; }
+.pup[data-state="STREAK_CELEBRATION"] .pup-all { animation: pup-bigjump 1.8s ease-out 1; }
+.pup[data-state="STREAK_CELEBRATION"] .pup-spark { animation: pup-twinkle 1.4s ease-out 1; }
+.pup[data-state="DISAPPOINTED"] .pup-head { animation: pup-dip .9s ease-out 1 forwards; }
+.pup[data-state="CONFUSED"] .pup-head { animation: pup-tilt .9s ease-out 1 forwards; }
+.pup[data-state="ENCOURAGING"] .pup-all { animation: pup-nod .8s ease-in-out 1; }
+
+/* the quiz-header slot: hidden on very small screens so nothing is squeezed */
+.mascot-slot { flex: none; }
+@media (max-width: 299px), (max-height: 519px) { .mascot-slot { display: none; } }
