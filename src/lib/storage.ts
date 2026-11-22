@@ -6,7 +6,7 @@ const K_PROGRESS = 'dri:progress:v1';
 
 export const defaultSettings: Settings = {
   stateCode: 'default', vehicleClass: 'car', lang: 'en', dailyGoalXp: 20,
-  sound: true, largeText: false, dark: false, onboarded: false
+  sound: true, largeText: false, dark: false, mascot: 'on', onboarded: false
 };
 
 export const defaultProgress = (): Progress => ({
