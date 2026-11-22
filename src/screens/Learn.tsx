@@ -5,6 +5,7 @@ import { dayKey, levelOf, useStore } from '../lib/store';
 import { pick, tr, units } from '../lib/content';
 import { Sheet } from '../components/Sheet';
 import Footer from '../components/Footer';
+import Logo from '../components/Logo';
 import type { Lesson, Unit } from '../types';
 
 export default function Learn() {
@@ -25,10 +26,10 @@ export default function Learn() {
 
   return (
     <div className="mx-auto max-w-md pb-28">
+      <div className="px-4 pt-3"><Logo /></div>
       <header className="sticky top-0 z-10 flex items-center justify-between gap-2 border-b-2 px-4 py-3" style={{ background: 'var(--bg)', borderColor: 'var(--line)' }}>
         <span className="font-black text-amber-500" aria-label={`${progress.streak} day streak`}>🔥 {progress.streak}</span>
         <span className="font-black text-teal-600" aria-label={`Level ${levelOf(progress.xp)}`}>⭐ {t('stat.level')} {levelOf(progress.xp)}</span>
-        <span className="font-black text-rose-500" aria-label={`${progress.hearts} hearts`}>❤ {progress.hearts}</span>
       </header>
 
       <div className="card mx-4 mt-4">

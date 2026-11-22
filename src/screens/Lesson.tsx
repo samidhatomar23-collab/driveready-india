@@ -12,7 +12,7 @@ import type { Question } from '../types';
 export default function Lesson() {
   const { lessonId = '' } = useParams();
   const nav = useNavigate();
-  const { settings, completeLesson, refreshHearts } = useStore();
+  const { settings, completeLesson } = useStore();
   const lang = settings.lang; const t = (k: string) => tr(lang, k);
   const unit = units.find(u => u.lessons.some(l => l.id === lessonId));
   const lesson = unit?.lessons.find(l => l.id === lessonId);
@@ -21,8 +21,7 @@ export default function Lesson() {
   const [result, setResult] = useState<(RunResult & { xp: number; stars: number }) | null>(null);
 
   useEffect(() => {
-    refreshHearts();
-    setBlocked(useStore.getState().progress.hearts <= 0);
+    setBlocked(false);
     if (!unit || !lesson) return;
     loadUnitQuestions(unit.id).then(all => {
       const pool = eligible(lesson.checkpoint ? all : all.filter(q => q.lessonId === lesson.id), settings);
@@ -33,11 +32,9 @@ export default function Lesson() {
 
   if (!unit || !lesson) return <div className="p-6">{t('lesson.nf')}</div>;
 
-  if (blocked) return <OutOfHearts onBack={() => nav('/')} />;
   if (!qs || blocked === null) return <div className="flex h-full items-center justify-center"><Mascot size={80} /></div>;
 
   if (result) {
-    if (result.outOfHearts) return <OutOfHearts onBack={() => nav('/')} />;
     return (
       <div className="mx-auto flex h-full max-w-md flex-col items-center justify-center p-6 text-center">
         <motion.div initial={{ scale: 0.4, rotate: -10 }} animate={{ scale: 1, rotate: 0 }} transition={{ type: 'spring', stiffness: 260, damping: 12 }}><Mascot mood="cheer" size={140} /></motion.div>
@@ -55,27 +52,12 @@ export default function Lesson() {
 
   return (
     <div className="h-full">
-      <QuestionRunner questions={qs} useHearts onQuit={() => nav('/')} onFinish={r => {
-        if (r.outOfHearts) return setResult({ ...r, xp: 0, stars: 0 });
+      <QuestionRunner questions={qs} useHearts={false} onQuit={() => nav('/')} onFinish={r => {
         const xp = 5 + r.firstTryCorrect * 2 + (r.wrongIds.length === 0 ? 5 : 0) + (lesson.checkpoint ? 10 : 0);
         const { stars } = completeLesson(lesson.id, r.firstTryCorrect, r.total, xp);
         play('win', settings.sound);
         setResult({ ...r, xp, stars });
       }} />
-    </div>
-  );
-}
-
-function OutOfHearts({ onBack }: { onBack: () => void }) {
-  const lang = useStore(s => s.settings.lang); const t = (k: string) => tr(lang, k);
-  const nav = useNavigate();
-  return (
-    <div className="mx-auto flex h-full max-w-md flex-col items-center justify-center p-6 text-center">
-      <Mascot mood="sad" size={120} />
-      <h1 className="mt-4 text-2xl font-black">{t('lesson.outofhearts')}</h1>
-      <p className="muted mt-1">{t('lesson.outofhearts.sub')}</p>
-      <button className="btn mt-6" onClick={() => nav('/practice')}>{t('tab.practice')}</button>
-      <button className="btn btn-ghost mt-3" onClick={onBack}>{t('lesson.back')}</button>
     </div>
   );
 }

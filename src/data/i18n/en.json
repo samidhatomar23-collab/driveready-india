@@ -31,8 +31,6 @@
   "lesson.correct": "Correct!",
   "lesson.incorrect": "Not quite",
   "lesson.complete": "Lesson complete!",
-  "lesson.outofhearts": "Out of hearts",
-  "lesson.outofhearts.sub": "Hearts refill over time. Try a Practice round to earn one back.",
   "lesson.back": "Back to path",
   "lesson.quit": "Quit lesson?",
   "lesson.quit.sub": "Your progress in this lesson will be lost.",
@@ -46,7 +44,6 @@
   "q.source": "Source",
   "stat.xp": "XP",
   "stat.streak": "Day streak",
-  "stat.hearts": "Hearts",
   "stat.level": "Level",
   "stat.accuracy": "Accuracy",
   "practice.title": "Practice",
@@ -120,7 +117,6 @@
   "signs.unverified": "Not yet checked against an official source",
   "loading": "Loading…",
   "test.ll": "Learner's Licence",
-  "onb.more": "More languages can be added later.",
   "about.version": "v0.1.0. Questions marked \"checked\" were compared with published rules text or the official Parivahan question bank; others say \"not yet checked\" (see SOURCES.md).",
   "lang.switch": "Change language",
   "q.signq": "What does this sign mean?",
@@ -129,5 +125,12 @@
   "profile.mascot": "Study buddy (Pup)",
   "profile.mascot.on": "Animated",
   "profile.mascot.reduced": "Fewer animations",
-  "profile.mascot.off": "Off"
+  "profile.mascot.off": "Off",
+  "badge.adfree": "AD-FREE",
+  "adfree.note": "100% ad-free. Practise without interruptions.",
+  "contact.title": "Contact us",
+  "contact.body": "Have a question, a suggestion, or found a mistake in a question? Write to us and we will reply as soon as we can.",
+  "contact.button": "Email us",
+  "contact.link": "Contact us",
+  "stat.lessons": "Lessons done"
 }

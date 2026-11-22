@@ -15,13 +15,7 @@
     "retrievedOn": "2026-10-22",
     "verified": true,
     "auditedOn": "2026-11-16",
-    "auditNote": "Audited: name, meaning, category checked. Name, meaning, category, shape and colours consistent with the clause cited",
-    "name_mr": "थांबा",
-    "meaning_mr": "STOP रेषेच्या आधी थांबा, मुख्य रस्त्यावरील वाहतुकीला मार्ग द्या आणि रस्ता मोकळा असेल तेव्हाच पुढे जा.",
-    "name_te": "ఆగండి",
-    "meaning_te": "STOP గీత ముందు ఆగండి, ప్రధాన రోడ్డులోని ట్రాఫిక్‌కు దారి ఇవ్వండి, దారి ఖాళీగా ఉన్నప్పుడే లోపలికి వెళ్లండి.",
-    "name_ta": "நிறுத்து (STOP)",
-    "meaning_ta": "STOP கோட்டுக்கு முன் வாகனத்தை நிறுத்துங்கள்; முக்கியச் சாலையில் வரும் வாகனங்களுக்கு வழிவிடுங்கள்; வழி தெளிவாக இருக்கும்போது மட்டுமே உள்ளே செல்லுங்கள்."
+    "auditNote": "Audited: name, meaning, category checked. Name, meaning, category, shape and colours consistent with the clause cited"
   },
   {
     "id": "give-way",
@@ -40,13 +34,7 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q6). Name and meaning match the bank.",
-    "image": "give-way.png",
-    "name_mr": "मार्ग द्या",
-    "meaning_mr": "वेग कमी करा, मुख्य रस्त्यावरील वाहतुकीला मार्ग द्या आणि काळजीपूर्वक पुढे जा.",
-    "name_te": "దారి ఇవ్వండి",
-    "meaning_te": "వేగం తగ్గించండి, ప్రధాన రోడ్డులోని ట్రాఫిక్‌కు దారి ఇవ్వండి, జాగ్రత్తగా ముందుకు వెళ్లండి.",
-    "name_ta": "வழி விடு",
-    "meaning_ta": "வேகத்தைக் குறையுங்கள்; முக்கியச் சாலையில் வரும் வாகனங்களுக்கு வழிவிட்டு, கவனமாகச் செல்லுங்கள்."
+    "image": "give-way.png"
   },
   {
     "id": "no-entry",
@@ -65,13 +53,7 @@
     "retrievedOn": "2026-10-22",
     "verified": true,
     "auditedOn": "2026-11-16",
-    "auditNote": "Audited: name, meaning, category checked. Name, meaning, category, shape and colours consistent with the clause cited",
-    "name_mr": "प्रवेश बंद",
-    "meaning_mr": "वाहनांनी या दिशेने आत येऊ नये.",
-    "name_te": "ప్రవేశం నిషేధం",
-    "meaning_te": "వాహనాలు ఈ వైపు నుండి లోపలికి ప్రవేశించకూడదు.",
-    "name_ta": "நுழைவு தடை",
-    "meaning_ta": "இந்தத் திசையிலிருந்து வாகனங்கள் உள்ளே நுழையக் கூடாது."
+    "auditNote": "Audited: name, meaning, category checked. Name, meaning, category, shape and colours consistent with the clause cited"
   },
   {
     "id": "no-parking",
@@ -91,13 +73,7 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q46). Name and meaning match the bank.",
-    "image": "no-parking.png",
-    "name_mr": "पार्किंग निषिद्ध",
-    "meaning_mr": "येथे पार्किंग करण्यास मनाई आहे.",
-    "name_te": "పార్కింగ్ నిషేధం",
-    "meaning_te": "ఇక్కడ పార్కింగ్ నిషేధం.",
-    "name_ta": "வாகன நிறுத்தம் தடை",
-    "meaning_ta": "இங்கே வாகனத்தை நிறுத்துவது தடை செய்யப்பட்டுள்ளது."
+    "image": "no-parking.png"
   },
   {
     "id": "no-overtaking",
@@ -117,13 +93,7 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q34). Name and meaning match the bank.",
-    "image": "no-overtaking.png",
-    "name_mr": "ओव्हरटेक निषिद्ध",
-    "meaning_mr": "इतर वाहनांना ओव्हरटेक करण्यास मनाई आहे.",
-    "name_te": "ఓవర్‌టేక్ నిషేధం",
-    "meaning_te": "ఇతర వాహనాలను ఓవర్‌టేక్ చేయడం నిషేధం.",
-    "name_ta": "முந்திச் செல்லத் தடை",
-    "meaning_ta": "மற்ற வாகனங்களை முந்திச் செல்வது தடை செய்யப்பட்டுள்ளது."
+    "image": "no-overtaking.png"
   },
   {
     "id": "speed-40",
@@ -141,13 +111,7 @@
     "retrievedOn": "2026-10-22",
     "verified": true,
     "auditedOn": "2026-11-16",
-    "auditNote": "Audited: name, meaning, category checked. Name, meaning, category, shape and colours consistent with the clause cited",
-    "name_mr": "वेग मर्यादा 40",
-    "meaning_mr": "40 किमी/तास पेक्षा जास्त वेग करू नका.",
-    "name_te": "వేగ పరిమితి 40",
-    "meaning_te": "40 కి.మీ/గంట కంటే మించకూడదు.",
-    "name_ta": "வேக வரம்பு 40",
-    "meaning_ta": "40 கி.மீ/மணிக்கு மேல் செல்லக் கூடாது."
+    "auditNote": "Audited: name, meaning, category checked. Name, meaning, category, shape and colours consistent with the clause cited"
   },
   {
     "id": "no-horn",
@@ -167,13 +131,7 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q18). Name and meaning match the bank.",
-    "image": "no-horn.png",
-    "name_mr": "हॉर्न निषिद्ध",
-    "meaning_mr": "हॉर्न वाजवण्यास मनाई आहे.",
-    "name_te": "హారన్ నిషేధం",
-    "meaning_te": "హారన్ మోగించడం నిషేధం.",
-    "name_ta": "ஹாரன் தடை",
-    "meaning_ta": "ஹாரன் ஒலிப்பது தடை செய்யப்பட்டுள்ளது."
+    "image": "no-horn.png"
   },
   {
     "id": "no-u-turn",
@@ -193,13 +151,7 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q10). Name and meaning match the bank.",
-    "image": "no-u-turn.png",
-    "name_mr": "यू-टर्न निषिद्ध",
-    "meaning_mr": "यू-टर्न घेण्यास मनाई आहे.",
-    "name_te": "యు-టర్న్ నిషేధం",
-    "meaning_te": "యు-టర్న్ తీసుకోవడం నిషేధం.",
-    "name_ta": "யு-டர்ன் தடை",
-    "meaning_ta": "யு-டர்ன் செய்வது தடை செய்யப்பட்டுள்ளது."
+    "image": "no-u-turn.png"
   },
   {
     "id": "no-right-turn",
@@ -219,13 +171,7 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q16). Name and meaning match the bank.",
-    "image": "no-right-turn.png",
-    "name_mr": "उजवे वळण निषिद्ध",
-    "meaning_mr": "उजवीकडे वळण्यास मनाई आहे.",
-    "name_te": "కుడి మలుపు నిషేధం",
-    "meaning_te": "కుడి వైపునకు తిరగడం నిషేధం.",
-    "name_ta": "வலதுபுறம் திரும்பத் தடை",
-    "meaning_ta": "வலதுபுறம் திரும்புவது தடை செய்யப்பட்டுள்ளது."
+    "image": "no-right-turn.png"
   },
   {
     "id": "no-left-turn",
@@ -245,13 +191,7 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q58). Name and meaning match the bank.",
-    "image": "no-left-turn.png",
-    "name_mr": "डावे वळण निषिद्ध",
-    "meaning_mr": "डावीकडे वळण्यास मनाई आहे.",
-    "name_te": "ఎడమ మలుపు నిషేధం",
-    "meaning_te": "ఎడమ వైపునకు తిరగడం నిషేధం.",
-    "name_ta": "இடதுபுறம் திரும்பத் தடை",
-    "meaning_ta": "இடதுபுறம் திரும்புவது தடை செய்யப்பட்டுள்ளது."
+    "image": "no-left-turn.png"
   },
   {
     "id": "ahead-only",
@@ -270,13 +210,7 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q68). Name and meaning match the bank.",
-    "image": "ahead-only.png",
-    "name_mr": "फक्त सरळ पुढे",
-    "meaning_mr": "वाहनांनी फक्त सरळ पुढे जावे.",
-    "name_te": "నేరుగా మాత్రమే",
-    "meaning_te": "వాహనాలు నేరుగా మాత్రమే వెళ్లాలి.",
-    "name_ta": "நேராக மட்டும்",
-    "meaning_ta": "வாகனங்கள் நேராக மட்டுமே செல்ல வேண்டும்."
+    "image": "ahead-only.png"
   },
   {
     "id": "turn-left",
@@ -295,13 +229,7 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q4). Name and meaning match the bank.",
-    "image": "turn-left.png",
-    "name_mr": "डावीकडे वळणे सक्तीचे",
-    "meaning_mr": "वाहनांनी डावीकडे वळावे.",
-    "name_te": "తప్పనిసరిగా ఎడమకు తిరగండి",
-    "meaning_te": "వాహనాలు తప్పనిసరిగా ఎడమకు తిరగాలి.",
-    "name_ta": "இடதுபுறம் திரும்புவது கட்டாயம்",
-    "meaning_ta": "வாகனங்கள் இடதுபுறம் திரும்ப வேண்டும்."
+    "image": "turn-left.png"
   },
   {
     "id": "hairpin-left",
@@ -320,13 +248,7 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q80). Name and meaning match the bank.",
-    "image": "hairpin-left.png",
-    "name_mr": "डावे हेअरपिन वळण",
-    "meaning_mr": "पुढे डावीकडे तीव्र वळण आहे; वेग कमी करा.",
-    "name_te": "ఎడమ హెయిర్‌పిన్ మలుపు",
-    "meaning_te": "ముందు ఎడమవైపు తీవ్రమైన మలుపు ఉంది; వేగం తగ్గించండి.",
-    "name_ta": "இடது ஹேர்பின் வளைவு",
-    "meaning_ta": "முன்னால் இடதுபுறம் கூர்மையான வளைவு; வேகத்தைக் குறையுங்கள்."
+    "image": "hairpin-left.png"
   },
   {
     "id": "narrow-bridge",
@@ -345,13 +267,7 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q20). Name and meaning match the bank.",
-    "image": "narrow-bridge.png",
-    "name_mr": "अरुंद पूल",
-    "meaning_mr": "पुढील पूल अरुंद आहे; वेग कमी करा आणि काळजी घ्या.",
-    "name_te": "ఇరుకైన వంతెన",
-    "meaning_te": "ముందున్న వంతెన ఇరుకుగా ఉంది; వేగం తగ్గించి జాగ్రత్తగా వెళ్లండి.",
-    "name_ta": "குறுகிய பாலம்",
-    "meaning_ta": "முன்னால் உள்ள பாலம் குறுகியது; வேகத்தைக் குறைத்துக் கவனமாகச் செல்லுங்கள்."
+    "image": "narrow-bridge.png"
   },
   {
     "id": "school-ahead",
@@ -370,13 +286,7 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q114). Name and meaning match the bank.",
-    "image": "school-ahead.png",
-    "name_mr": "पुढे शाळा",
-    "meaning_mr": "जवळ शाळा आहे; मुले असू शकतात, वेग कमी करा.",
-    "name_te": "ముందు పాఠశాల",
-    "meaning_te": "దగ్గరలో పాఠశాల ఉంది; పిల్లలు ఉండవచ్చు, వేగం తగ్గించండి.",
-    "name_ta": "முன்னால் பள்ளி",
-    "meaning_ta": "அருகில் பள்ளி உள்ளது; குழந்தைகள் வரக்கூடும், வேகத்தைக் குறையுங்கள்."
+    "image": "school-ahead.png"
   },
   {
     "id": "pedestrian-crossing",
@@ -395,13 +305,7 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q12). Name and meaning match the bank.",
-    "image": "pedestrian-crossing.png",
-    "name_mr": "पादचारी क्रॉसिंग",
-    "meaning_mr": "पुढे पादचारी क्रॉसिंग आहे; थांबण्यास तयार राहा.",
-    "name_te": "పాదచారుల క్రాసింగ్",
-    "meaning_te": "ముందు పాదచారుల క్రాసింగ్ ఉంది; ఆగడానికి సిద్ధంగా ఉండండి.",
-    "name_ta": "பாதசாரிகள் கடக்கும் இடம்",
-    "meaning_ta": "முன்னால் பாதசாரிகள் கடக்கும் இடம்; நிறுத்தத் தயாராக இருங்கள்."
+    "image": "pedestrian-crossing.png"
   },
   {
     "id": "men-at-work",
@@ -420,13 +324,7 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q116). Name and meaning match the bank.",
-    "image": "men-at-work.png",
-    "name_mr": "रस्त्याचे काम सुरू",
-    "meaning_mr": "पुढे रस्त्याचे काम सुरू आहे; वेग कमी करा आणि काळजी घ्या.",
-    "name_te": "పనులు జరుగుతున్నాయి",
-    "meaning_te": "ముందు రోడ్డు పనులు జరుగుతున్నాయి; వేగం తగ్గించి జాగ్రత్తగా ఉండండి.",
-    "name_ta": "சாலைப் பணி நடக்கிறது",
-    "meaning_ta": "முன்னால் சாலைப் பணி நடக்கிறது; வேகத்தைக் குறைத்துக் கவனமாக இருங்கள்."
+    "image": "men-at-work.png"
   },
   {
     "id": "cattle",
@@ -445,13 +343,7 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q112). Name and meaning match the bank.",
-    "image": "cattle.png",
-    "name_mr": "जनावरे",
-    "meaning_mr": "रस्त्यावर जनावरे असू शकतात; वेग कमी करा.",
-    "name_te": "పశువులు",
-    "meaning_te": "రోడ్డుపై పశువులు ఉండవచ్చు; వేగం తగ్గించండి.",
-    "name_ta": "கால்நடைகள்",
-    "meaning_ta": "சாலையில் விலங்குகள் இருக்கக்கூடும்; வேகத்தைக் குறையுங்கள்."
+    "image": "cattle.png"
   },
   {
     "id": "slippery-road",
@@ -470,13 +362,7 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q106). Name and meaning match the bank.",
-    "image": "slippery-road.png",
-    "name_mr": "निसरडा रस्ता",
-    "meaning_mr": "रस्ता निसरडा असू शकतो; वेग कमी करा, अचानक ब्रेक लावू नका.",
-    "name_te": "జారే రోడ్డు",
-    "meaning_te": "రోడ్డు జారేలా ఉండవచ్చు; వేగం తగ్గించండి, ఒక్కసారిగా బ్రేక్ వేయకండి.",
-    "name_ta": "வழுக்கும் சாலை",
-    "meaning_ta": "சாலை வழுக்கலாம்; வேகத்தைக் குறையுங்கள், திடீரென பிரேக் போடாதீர்கள்."
+    "image": "slippery-road.png"
   },
   {
     "id": "roundabout",
@@ -495,13 +381,7 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q92). Name and meaning match the bank.",
-    "image": "roundabout.png",
-    "name_mr": "वर्तुळाकार चौक",
-    "meaning_mr": "पुढे वर्तुळाकार चौक आहे; वेग कमी करा आणि आधीपासून चौकात असलेल्या वाहनांना मार्ग द्या.",
-    "name_te": "రౌండ్‌అబౌట్",
-    "meaning_te": "ముందు రౌండ్‌అబౌట్ ఉంది; వేగం తగ్గించి, అందులో ఇప్పటికే ఉన్న వాహనాలకు దారి ఇవ్వండి.",
-    "name_ta": "ரவுண்டானா",
-    "meaning_ta": "முன்னால் ரவுண்டானா; வேகத்தைக் குறைத்து, ஏற்கெனவே அதில் செல்லும் வாகனங்களுக்கு வழிவிடுங்கள்."
+    "image": "roundabout.png"
   },
   {
     "id": "t-junction",
@@ -520,13 +400,7 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q90). Name and meaning match the bank.",
-    "image": "t-junction.png",
-    "name_mr": "टी-जंक्शन",
-    "meaning_mr": "पुढे टी-जंक्शनवर रस्ता संपतो.",
-    "name_te": "టి-జంక్షన్",
-    "meaning_te": "ముందు రోడ్డు టి-జంక్షన్ వద్ద ముగుస్తుంది.",
-    "name_ta": "டி-சந்திப்பு",
-    "meaning_ta": "முன்னால் டி-சந்திப்பில் சாலை முடிகிறது."
+    "image": "t-junction.png"
   },
   {
     "id": "parking",
@@ -544,13 +418,7 @@
     "retrievedOn": "2026-10-22",
     "verified": true,
     "auditedOn": "2026-11-16",
-    "auditNote": "Audited: name, meaning, category checked. Name, meaning, category, shape and colours consistent with the clause cited",
-    "name_mr": "पार्किंग",
-    "meaning_mr": "ठरवून दिलेली पार्किंगची जागा.",
-    "name_te": "పార్కింగ్",
-    "meaning_te": "నిర్దేశించిన పార్కింగ్ స్థలం.",
-    "name_ta": "வாகன நிறுத்துமிடம்",
-    "meaning_ta": "குறிக்கப்பட்ட வாகன நிறுத்துமிடம்."
+    "auditNote": "Audited: name, meaning, category checked. Name, meaning, category, shape and colours consistent with the clause cited"
   },
   {
     "id": "hospital",
@@ -569,13 +437,7 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q22). Name and meaning match the bank.",
-    "image": "hospital.png",
-    "name_mr": "रुग्णालय",
-    "meaning_mr": "जवळ रुग्णालय आहे; शांतपणे चालवा, हॉर्न वाजवू नका.",
-    "name_te": "ఆసుపత్రి",
-    "meaning_te": "దగ్గరలో ఆసుపత్రి ఉంది; నెమ్మదిగా నడపండి, హారన్ వాడకండి.",
-    "name_ta": "மருத்துவமனை",
-    "meaning_ta": "அருகில் மருத்துவமனை உள்ளது; அமைதியாக ஓட்டுங்கள், ஹாரன் ஒலிக்காதீர்கள்."
+    "image": "hospital.png"
   },
   {
     "id": "petrol-pump",
@@ -593,13 +455,7 @@
     "retrievedOn": "2026-10-22",
     "verified": true,
     "auditedOn": "2026-11-16",
-    "auditNote": "Audited: name, meaning, category checked. Emoji pictogram is recognisable but not the official artwork",
-    "name_mr": "पेट्रोल पंप",
-    "meaning_mr": "पुढे इंधन केंद्र आहे.",
-    "name_te": "పెట్రోల్ బంక్",
-    "meaning_te": "ముందు ఇంధన కేంద్రం (పెట్రోల్ బంక్) ఉంది.",
-    "name_ta": "பெட்ரோல் பங்க்",
-    "meaning_ta": "முன்னால் எரிபொருள் நிலையம்."
+    "auditNote": "Audited: name, meaning, category checked. Emoji pictogram is recognisable but not the official artwork"
   },
   {
     "id": "first-aid",
@@ -618,13 +474,7 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q24). Name and meaning match the bank.",
-    "image": "first-aid.png",
-    "name_mr": "प्रथमोपचार केंद्र",
-    "meaning_mr": "येथे प्रथमोपचार उपलब्ध आहे.",
-    "name_te": "ప్రథమ చికిత్స కేంద్రం",
-    "meaning_te": "ఇక్కడ ప్రథమ చికిత్స అందుబాటులో ఉంది.",
-    "name_ta": "முதலுதவி நிலையம்",
-    "meaning_ta": "இங்கே முதலுதவி கிடைக்கும்."
+    "image": "first-aid.png"
   },
   {
     "id": "telephone",
@@ -642,13 +492,7 @@
     "retrievedOn": null,
     "verified": false,
     "auditedOn": "2026-11-16",
-    "auditNote": "Not found in IRC:67 facility-sign list checked; confirm the sign exists",
-    "name_mr": "टेलिफोन",
-    "meaning_mr": "सार्वजनिक टेलिफोन उपलब्ध आहे.",
-    "name_te": "టెలిఫోన్",
-    "meaning_te": "పబ్లిక్ టెలిఫోన్ అందుబాటులో ఉంది.",
-    "name_ta": "தொலைபேசி",
-    "meaning_ta": "பொதுத் தொலைபேசி உள்ளது."
+    "auditNote": "Not found in IRC:67 facility-sign list checked; confirm the sign exists"
   },
   {
     "id": "eating-place",
@@ -666,13 +510,7 @@
     "retrievedOn": "2026-10-22",
     "verified": true,
     "auditedOn": "2026-11-16",
-    "auditNote": "Audited: name, meaning, category checked. Emoji pictogram is recognisable but not the official artwork",
-    "name_mr": "खाण्याचे ठिकाण",
-    "meaning_mr": "जवळ खाण्याची सोय आहे.",
-    "name_te": "భోజన స్థలం",
-    "meaning_te": "దగ్గరలో భోజనం దొరుకుతుంది.",
-    "name_ta": "உணவகம்",
-    "meaning_ta": "அருகில் உணவு கிடைக்கும்."
+    "auditNote": "Audited: name, meaning, category checked. Emoji pictogram is recognisable but not the official artwork"
   },
   {
     "id": "resting-place",
@@ -691,12 +529,6 @@
     "verified": true,
     "auditedOn": "2026-11-16",
     "auditNote": "Picture replaced with the official sign picture from the Parivahan question bank (Q26). Name and meaning match the bank.",
-    "image": "resting-place.png",
-    "name_mr": "विश्रांतीचे ठिकाण",
-    "meaning_mr": "जवळ विश्रांतीची जागा आहे.",
-    "name_te": "విశ్రాంతి స్థలం",
-    "meaning_te": "దగ్గరలో విశ్రాంతి తీసుకునే చోటు ఉంది.",
-    "name_ta": "ஓய்வு இடம்",
-    "meaning_ta": "அருகில் ஓய்வெடுக்க இடம் உள்ளது."
+    "image": "resting-place.png"
   }
 ]

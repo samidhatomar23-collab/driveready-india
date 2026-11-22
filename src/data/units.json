@@ -12,45 +12,30 @@
         "title": "Mandatory signs",
         "title_hi": "अनिवार्य चिह्न",
         "checkpoint": false,
-        "perSession": 8,
-        "title_mr": "आदेशात्मक चिन्हे",
-        "title_te": "తప్పనిసరి సంకేతాలు",
-        "title_ta": "கட்டாயக் குறியீடுகள்"
+        "perSession": 8
       },
       {
         "id": "signs-2",
         "title": "Cautionary signs",
         "title_hi": "सावधानी चिह्न",
         "checkpoint": false,
-        "perSession": 8,
-        "title_mr": "सावधगिरीची चिन्हे",
-        "title_te": "హెచ్చరిక సంకేతాలు",
-        "title_ta": "எச்சரிக்கைக் குறியீடுகள்"
+        "perSession": 8
       },
       {
         "id": "signs-3",
         "title": "Informatory signs",
         "title_hi": "सूचना चिह्न",
         "checkpoint": false,
-        "perSession": 8,
-        "title_mr": "माहितीदर्शक चिन्हे",
-        "title_te": "సమాచార సంకేతాలు",
-        "title_ta": "தகவல் குறியீடுகள்"
+        "perSession": 8
       },
       {
         "id": "signs-cp",
         "title": "Unit checkpoint",
         "title_hi": "यूनिट चेकपॉइंट",
         "checkpoint": true,
-        "perSession": 10,
-        "title_mr": "विभाग चेकपॉइंट",
-        "title_te": "యూనిట్ చెక్‌పాయింట్",
-        "title_ta": "பிரிவு சோதனைப் புள்ளி"
+        "perSession": 10
       }
-    ],
-    "title_mr": "रस्त्यावरील चिन्हे",
-    "title_te": "రహదారి సంకేతాలు",
-    "title_ta": "சாலைக் குறியீடுகள்"
+    ]
   },
   {
     "id": "row",
@@ -65,45 +50,30 @@
         "title": "Junctions & roundabouts",
         "title_hi": "चौराहे और गोलचक्कर",
         "checkpoint": false,
-        "perSession": 8,
-        "title_mr": "चौक आणि वर्तुळाकार चौक",
-        "title_te": "జంక్షన్లు & రౌండ్‌అబౌట్లు",
-        "title_ta": "சந்திப்புகள் & ரவுண்டானாக்கள்"
+        "perSession": 8
       },
       {
         "id": "row-2",
         "title": "Pedestrians & crossings",
         "title_hi": "पैदल यात्री और क्रॉसिंग",
         "checkpoint": false,
-        "perSession": 8,
-        "title_mr": "पादचारी आणि क्रॉसिंग",
-        "title_te": "పాదచారులు & క్రాసింగ్‌లు",
-        "title_ta": "பாதசாரிகள் & கடக்கும் இடங்கள்"
+        "perSession": 8
       },
       {
         "id": "row-3",
         "title": "Overtaking & emergencies",
         "title_hi": "ओवरटेकिंग और आपातकाल",
         "checkpoint": false,
-        "perSession": 8,
-        "title_mr": "ओव्हरटेक आणि आणीबाणी",
-        "title_te": "ఓవర్‌టేకింగ్ & అత్యవసర పరిస్థితులు",
-        "title_ta": "முந்திச் செல்லுதல் & அவசர நிலைகள்"
+        "perSession": 8
       },
       {
         "id": "row-cp",
         "title": "Unit checkpoint",
         "title_hi": "यूनिट चेकपॉइंट",
         "checkpoint": true,
-        "perSession": 10,
-        "title_mr": "विभाग चेकपॉइंट",
-        "title_te": "యూనిట్ చెక్‌పాయింట్",
-        "title_ta": "பிரிவு சோதனைப் புள்ளி"
+        "perSession": 10
       }
-    ],
-    "title_mr": "मार्गाचा अग्रक्रम",
-    "title_te": "ముందుగా వెళ్లే హక్కు",
-    "title_ta": "முன்னுரிமை வழி"
+    ]
   },
   {
     "id": "signals",
@@ -118,45 +88,30 @@
         "title": "Hand signals & indicators",
         "title_hi": "हाथ के संकेत",
         "checkpoint": false,
-        "perSession": 8,
-        "title_mr": "हाताचे इशारे आणि इंडिकेटर",
-        "title_te": "చేతి సంజ్ఞలు & ఇండికేటర్లు",
-        "title_ta": "கை சைகைகள் & இண்டிகேட்டர்கள்"
+        "perSession": 8
       },
       {
         "id": "sig-2",
         "title": "Road markings",
         "title_hi": "सड़क की मार्किंग",
         "checkpoint": false,
-        "perSession": 8,
-        "title_mr": "रस्त्यावरील खुणा",
-        "title_te": "రోడ్డు మార్కింగ్‌లు",
-        "title_ta": "சாலைக் குறிகள்"
+        "perSession": 8
       },
       {
         "id": "sig-3",
         "title": "Traffic lights, lamps & horn",
         "title_hi": "ट्रैफिक लाइट, लाइट और हॉर्न",
         "checkpoint": false,
-        "perSession": 8,
-        "title_mr": "ट्रॅफिक लाइट, दिवे आणि हॉर्न",
-        "title_te": "ట్రాఫిక్ లైట్లు, దీపాలు & హారన్",
-        "title_ta": "போக்குவரத்து சிக்னல்கள், விளக்குகள் & ஹாரன்"
+        "perSession": 8
       },
       {
         "id": "sig-cp",
         "title": "Unit checkpoint",
         "title_hi": "यूनिट चेकपॉइंट",
         "checkpoint": true,
-        "perSession": 10,
-        "title_mr": "विभाग चेकपॉइंट",
-        "title_te": "యూనిట్ చెక్‌పాయింట్",
-        "title_ta": "பிரிவு சோதனைப் புள்ளி"
+        "perSession": 10
       }
-    ],
-    "title_mr": "सिग्नल आणि रस्त्यावरील खुणा",
-    "title_te": "సిగ్నళ్లు & రోడ్డు మార్కింగ్‌లు",
-    "title_ta": "சைகைகள் & சாலைக் குறிகள்"
+    ]
   },
   {
     "id": "speed",
@@ -185,15 +140,9 @@
         "title": "Unit checkpoint",
         "title_hi": "यूनिट चेकपॉइंट",
         "checkpoint": true,
-        "perSession": 10,
-        "title_mr": "विभाग चेकपॉइंट",
-        "title_te": "యూనిట్ చెక్‌పాయింట్",
-        "title_ta": "பிரிவு சோதனைப் புள்ளி"
+        "perSession": 10
       }
-    ],
-    "title_mr": "वेग आणि ओव्हरटेक",
-    "title_te": "వేగం & ఓవర్‌టేకింగ్",
-    "title_ta": "வேகம் & முந்திச் செல்லுதல்"
+    ]
   },
   {
     "id": "parking",
@@ -222,15 +171,9 @@
         "title": "Unit checkpoint",
         "title_hi": "यूनिट चेकपॉइंट",
         "checkpoint": true,
-        "perSession": 10,
-        "title_mr": "विभाग चेकपॉइंट",
-        "title_te": "యూనిట్ చెక్‌పాయింట్",
-        "title_ta": "பிரிவு சோதனைப் புள்ளி"
+        "perSession": 10
       }
-    ],
-    "title_mr": "पार्किंग",
-    "title_te": "పార్కింగ్",
-    "title_ta": "வாகன நிறுத்தம்"
+    ]
   },
   {
     "id": "docs",
@@ -259,15 +202,9 @@
         "title": "Unit checkpoint",
         "title_hi": "यूनिट चेकपॉइंट",
         "checkpoint": true,
-        "perSession": 10,
-        "title_mr": "विभाग चेकपॉइंट",
-        "title_te": "యూనిట్ చెక్‌పాయింట్",
-        "title_ta": "பிரிவு சோதனைப் புள்ளி"
+        "perSession": 10
       }
-    ],
-    "title_mr": "कागदपत्रे आणि विमा",
-    "title_te": "పత్రాలు & బీమా",
-    "title_ta": "ஆவணங்கள் & காப்பீடு"
+    ]
   },
   {
     "id": "fines",
@@ -296,15 +233,9 @@
         "title": "Unit checkpoint",
         "title_hi": "यूनिट चेकपॉइंट",
         "checkpoint": true,
-        "perSession": 10,
-        "title_mr": "विभाग चेकपॉइंट",
-        "title_te": "యూనిట్ చెక్‌పాయింట్",
-        "title_ta": "பிரிவு சோதனைப் புள்ளி"
+        "perSession": 10
       }
-    ],
-    "title_mr": "दंड आणि शिक्षा",
-    "title_te": "జరిమానాలు & శిక్షలు",
-    "title_ta": "அபராதங்கள் & தண்டனைகள்"
+    ]
   },
   {
     "id": "safe",
@@ -347,15 +278,9 @@
         "title": "Unit checkpoint",
         "title_hi": "यूनिट चेकपॉइंट",
         "checkpoint": true,
-        "perSession": 10,
-        "title_mr": "विभाग चेकपॉइंट",
-        "title_te": "యూనిట్ చెక్‌పాయింట్",
-        "title_ta": "பிரிவு சோதனைப் புள்ளி"
+        "perSession": 10
       }
-    ],
-    "title_mr": "सुरक्षित वाहन चालवणे",
-    "title_te": "సురక్షిత డ్రైవింగ్",
-    "title_ta": "பாதுகாப்பான வாகனம் ஓட்டுதல்"
+    ]
   },
   {
     "id": "firstaid",
@@ -377,15 +302,9 @@
         "title": "Unit checkpoint",
         "title_hi": "यूनिट चेकपॉइंट",
         "checkpoint": true,
-        "perSession": 10,
-        "title_mr": "विभाग चेकपॉइंट",
-        "title_te": "యూనిట్ చెక్‌పాయింట్",
-        "title_ta": "பிரிவு சோதனைப் புள்ளி"
+        "perSession": 10
       }
-    ],
-    "title_mr": "प्रथमोपचार आणि अपघात",
-    "title_te": "ప్రథమ చికిత్స & ప్రమాదాలు",
-    "title_ta": "முதலுதவி & விபத்துகள்"
+    ]
   },
   {
     "id": "vehicle",
@@ -421,14 +340,8 @@
         "title": "Unit checkpoint",
         "title_hi": "यूनिट चेकपॉइंट",
         "checkpoint": true,
-        "perSession": 10,
-        "title_mr": "विभाग चेकपॉइंट",
-        "title_te": "యూనిట్ చెక్‌పాయింట్",
-        "title_ta": "பிரிவு சோதனைப் புள்ளி"
+        "perSession": 10
       }
-    ],
-    "title_mr": "वाहनाची मूलभूत माहिती",
-    "title_te": "వాహన ప్రాథమికాంశాలు",
-    "title_ta": "வாகன அடிப்படைகள்"
+    ]
   }
 ]

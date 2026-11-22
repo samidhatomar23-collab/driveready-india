@@ -1,5 +1,5 @@
-export type Lang = 'en' | 'hi' | 'mr' | 'te' | 'ta';
-export const LANG_CODES: Lang[] = ['en', 'hi', 'mr', 'te', 'ta'];
+export type Lang = 'en' | 'hi';
+export const LANG_CODES: Lang[] = ['en', 'hi'];
 export type VehicleClass = 'two-wheeler' | 'motorcycle-gear' | 'car' | 'both';
 export type QuestionType = 'mcq' | 'sign-id' | 'true-false' | 'fill-in' | 'match' | 'order';
 

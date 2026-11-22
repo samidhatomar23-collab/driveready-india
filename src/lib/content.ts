@@ -5,21 +5,17 @@ import unitsData from '../data/units.json';
 import finesData from '../data/fines.json';
 import en from '../data/i18n/en.json';
 import hi from '../data/i18n/hi.json';
-import mr from '../data/i18n/mr.json';
-import te from '../data/i18n/te.json';
-import ta from '../data/i18n/ta.json';
 
 export const signs = signsData as unknown as Sign[];
 export const states = statesData as unknown as StateConfig[];
 export const units = unitsData as unknown as Unit[];
 export const fines = finesData as unknown as { lastUpdated: string | null; note: string; items: Fine[] };
 
-const dicts: Record<Lang, Record<string, string>> = { en, hi, mr, te, ta };
+const dicts: Record<Lang, Record<string, string>> = { en, hi };
 
 /** Name shown for each language in pickers, and a short label for quick toggles. */
 export const LANG_LABELS: Record<Lang, { full: string; short: string }> = {
-  en: { full: 'English', short: 'EN' }, hi: { full: 'हिन्दी', short: 'हिं' }, mr: { full: 'मराठी', short: 'मरा' },
-  te: { full: 'తెలుగు', short: 'తె' }, ta: { full: 'தமிழ்', short: 'த' }
+  en: { full: 'English', short: 'EN' }, hi: { full: 'हिन्दी', short: 'हिं' }
 };
 export const nextLang = (l: Lang): Lang => { const a = Object.keys(LANG_LABELS) as Lang[]; return a[(a.indexOf(l) + 1) % a.length]; };
 /** Reads a translated field such as name_hi / title_ta, falling back to English. */

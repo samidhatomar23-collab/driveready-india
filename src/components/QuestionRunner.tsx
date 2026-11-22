@@ -17,7 +17,7 @@ const LINK_COLORS = ['#0f9d94', '#f5a000', '#8a5cf6', '#e0566b'];
 export default function QuestionRunner({ questions, useHearts, onFinish, onQuit }: {
   questions: Question[]; useHearts: boolean; onFinish: (r: RunResult) => void; onQuit: () => void;
 }) {
-  const { settings, progress, setSettings, loseHeart, recordAnswer, reportError } = useStore();
+  const { settings, setSettings, recordAnswer, reportError } = useStore();
   const lang = settings.lang;
   const [queue, setQueue] = useState<Question[]>(questions);
   const [idx, setIdx] = useState(0);
@@ -40,7 +40,6 @@ export default function QuestionRunner({ questions, useHearts, onFinish, onQuit 
     else {
       st.wrong.add(q.id);
       if (!st.requeued.has(q.id)) { st.requeued.add(q.id); setQueue(prev => [...prev, q]); }
-      if (useHearts) loseHeart();
     }
     if (first) recordAnswer(q.id, correct);
     play(correct ? 'right' : 'wrong', settings.sound);
@@ -49,7 +48,6 @@ export default function QuestionRunner({ questions, useHearts, onFinish, onQuit 
   };
 
   const next = () => {
-    if (useHearts && checked === false && useStore.getState().progress.hearts <= 0) return finish(true);
     setChecked(null);
     if (idx + 1 >= queue.length) return finish(false);
     setIdx(idx + 1);
@@ -69,7 +67,6 @@ export default function QuestionRunner({ questions, useHearts, onFinish, onQuit 
         <button onClick={() => setSettings({ lang: nextLang(lang) })} className="rounded-lg border-2 px-2 py-1 text-xs font-extrabold" style={{ borderColor: 'var(--line)' }} aria-label={tr(lang, 'lang.switch')}>
           {LANG_LABELS[nextLang(lang)].short}
         </button>
-        {useHearts && <span className="font-extrabold text-rose-500" aria-label={`${progress.hearts} hearts`}>❤ {progress.hearts}</span>}
       </header>
 
       <AnimatePresence mode="wait">

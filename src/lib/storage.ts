@@ -17,7 +17,9 @@ export const defaultProgress = (): Progress => ({
 export async function loadAll(): Promise<{ settings: Settings; progress: Progress }> {
   try {
     const [s, p] = await Promise.all([get<Settings>(K_SETTINGS), get<Progress>(K_PROGRESS)]);
-    return { settings: { ...defaultSettings, ...(s ?? {}) }, progress: { ...defaultProgress(), ...(p ?? {}) } };
+    const merged = { ...defaultSettings, ...(s ?? {}) };
+    if (merged.lang !== 'en' && merged.lang !== 'hi') merged.lang = 'en';
+    return { settings: merged, progress: { ...defaultProgress(), ...(p ?? {}) } };
   } catch {
     return { settings: defaultSettings, progress: defaultProgress() };
   }

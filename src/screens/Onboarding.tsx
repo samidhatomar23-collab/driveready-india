@@ -22,7 +22,6 @@ export default function Onboarding() {
     { title: t('onb.language'), body: (
       <div className="flex flex-col gap-3">{LANGS.map(l => (
         <button key={l.code} className="opt" data-sel={lang === l.code} aria-pressed={lang === l.code} onClick={() => setSettings({ lang: l.code })}>{l.label}</button>))}
-        <p className="muted text-xs">{t('onb.more')}</p>
       </div>) },
     { title: t('onb.state'), body: (
       <div className="flex max-h-[48vh] flex-col gap-3 overflow-y-auto pr-1">{[...list, states.find(s => s.code === 'default')!].map(s => (
@@ -43,7 +42,7 @@ export default function Onboarding() {
     <div className="mx-auto flex min-h-full max-w-md flex-col p-5">
       <div className="flex flex-col items-center pt-4 text-center">
         <Mascot mood="cheer" size={step === 0 ? 120 : 72} />
-        {step === 0 && <><h1 className="mt-2 text-2xl font-black">{t('onb.welcome')}</h1><p className="muted">{t('onb.sub')}</p></>}
+        {step === 0 && <><h1 className="mt-2 text-2xl font-black">{t('onb.welcome')}</h1><p className="muted">{t('onb.sub')}</p><span className="mt-2 inline-flex items-center gap-1 rounded-full px-3 py-1 text-xs font-extrabold tracking-wide text-white" style={{ background: '#0f9d94' }}><span aria-hidden="true">✓</span>{t('badge.adfree')}</span></>}
       </div>
       <motion.section key={step} initial={{ opacity: 0, y: 12 }} animate={{ opacity: 1, y: 0 }} className="mt-5 flex-1">
         <h2 className="mb-3 text-xl font-black">{steps[step].title}</h2>

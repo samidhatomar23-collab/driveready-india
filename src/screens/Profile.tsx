@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import Footer from '../components/Footer';
+import { contactHref } from '../lib/contact';
 import Mascot from '../components/Mascot';
 import { dayKey, levelOf, useStore } from '../lib/store';
 import { LANG_LABELS, getStateConfig, states, tr } from '../lib/content';
@@ -26,10 +27,10 @@ export default function Profile() {
       <div className="flex items-center gap-4"><Mascot size={72} /><div><h1 className="text-2xl font-black">{t('profile.title')}</h1><p className="muted text-sm font-bold">{getStateConfig(settings.stateCode).name} · {t('veh.' + settings.vehicleClass)}</p></div></div>
 
       <div className="mt-4 grid grid-cols-2 gap-3">
-        {[['🔥', progress.streak, t('stat.streak')], ['⚡', progress.xp, t('stat.xp')], ['⭐', levelOf(progress.xp), t('stat.level')], ['❤', progress.hearts, t('stat.hearts')]].map(([ic, v, l]) => (
+        {[['🔥', progress.streak, t('stat.streak')], ['⚡', progress.xp, t('stat.xp')], ['⭐', levelOf(progress.xp), t('stat.level')], ['✔', lessonsDone, t('stat.lessons')]].map(([ic, v, l]) => (
           <div key={String(l)} className="card !p-3"><p className="text-2xl font-black">{ic} {v}</p><p className="muted text-xs font-bold">{l}</p></div>))}
       </div>
-      <p className="muted mt-2 text-xs">{t('streak.freeze')}: {progress.streakFreezes} · ✔ {lessonsDone}</p>
+      <p className="muted mt-2 text-xs">{t('streak.freeze')}: {progress.streakFreezes}</p>
 
       <section className="card mt-4" aria-label={t('profile.week')}>
         <h2 className="font-black">{t('profile.week')}</h2>
@@ -75,7 +76,8 @@ export default function Profile() {
         </div>
       </section>
 
-      <Link to="/about" className="btn btn-ghost mt-4 block text-center">{t('profile.about')}</Link>
+      <a href={contactHref()} className="btn btn-ghost mt-4 block text-center">✉ {t('contact.title')}</a>
+      <Link to="/about" className="btn btn-ghost mt-3 block text-center">{t('profile.about')}</Link>
       <button className="btn btn-red mt-3" onClick={() => { if (confirm(t('profile.reset.confirm'))) void resetAll().then(() => location.assign('/')); }}>{t('profile.reset')}</button>
       <Footer />
     </div>

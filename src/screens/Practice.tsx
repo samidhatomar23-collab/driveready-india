@@ -47,7 +47,7 @@ export default function Practice() {
 }
 
 export function PracticeSession() {
-  const { settings, progress, gainHeart, addXp } = useStore();
+  const { settings, progress, addXp } = useStore();
   const nav = useNavigate();
   const [qs, setQs] = useState<Question[] | null>(null);
   const [done, setDone] = useState(false);
@@ -65,9 +65,9 @@ export function PracticeSession() {
     <div className="mx-auto flex h-full max-w-md flex-col items-center justify-center p-6 text-center">
       <Mascot mood="cheer" size={120} />
       <h1 className="mt-4 text-2xl font-black">{t('lesson.complete')}</h1>
-      <p className="muted mt-1">+5 XP · +1 ❤</p>
+      <p className="muted mt-1">+5 XP</p>
       <button className="btn mt-6" onClick={() => nav('/practice', { replace: true })}>{t('lesson.back')}</button>
     </div>
   );
-  return <QuestionRunner questions={qs} useHearts={false} onQuit={() => nav('/practice')} onFinish={() => { gainHeart(); addXp(5); play('win', settings.sound); setDone(true); }} />;
+  return <QuestionRunner questions={qs} useHearts={false} onQuit={() => nav('/practice')} onFinish={() => { addXp(5); play('win', settings.sound); setDone(true); }} />;
 }

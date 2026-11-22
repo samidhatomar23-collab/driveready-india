@@ -31,8 +31,6 @@
   "lesson.correct": "सही!",
   "lesson.incorrect": "सही नहीं",
   "lesson.complete": "पाठ पूरा!",
-  "lesson.outofhearts": "दिल खत्म",
-  "lesson.outofhearts.sub": "दिल समय के साथ वापस आते हैं। एक अभ्यास राउंड से एक दिल कमाएँ।",
   "lesson.back": "पथ पर वापस",
   "lesson.quit": "पाठ छोड़ें?",
   "lesson.quit.sub": "इस पाठ की प्रगति खो जाएगी।",
@@ -46,7 +44,6 @@
   "q.source": "स्रोत",
   "stat.xp": "XP",
   "stat.streak": "दिन की स्ट्रीक",
-  "stat.hearts": "दिल",
   "stat.level": "स्तर",
   "stat.accuracy": "सटीकता",
   "practice.title": "अभ्यास",
@@ -120,7 +117,6 @@
   "signs.unverified": "अभी आधिकारिक स्रोत से जाँचा नहीं गया",
   "loading": "लोड हो रहा है…",
   "test.ll": "लर्नर लाइसेंस",
-  "onb.more": "और भाषाएँ बाद में जोड़ी जा सकती हैं।",
   "about.version": "v0.1.0. जिन प्रश्नों पर “जाँचा गया” लिखा है, उन्हें प्रकाशित नियमों के पाठ या आधिकारिक परिवहन (Parivahan) प्रश्न बैंक से मिलाया गया है; बाकी पर “अभी जाँचा नहीं गया” लिखा है (SOURCES.md देखें)।",
   "lang.switch": "भाषा बदलें",
   "q.signq": "इस चिह्न का क्या अर्थ है?",
@@ -129,5 +125,12 @@
   "profile.mascot": "पढ़ाई का साथी (पप)",
   "profile.mascot.on": "एनिमेटेड",
   "profile.mascot.reduced": "कम एनिमेशन",
-  "profile.mascot.off": "बंद"
+  "profile.mascot.off": "बंद",
+  "badge.adfree": "विज्ञापन-मुक्त",
+  "adfree.note": "100% विज्ञापन-मुक्त। बिना रुकावट अभ्यास करें।",
+  "contact.title": "हमसे संपर्क करें",
+  "contact.body": "कोई सवाल, सुझाव है या किसी प्रश्न में गलती मिली? हमें लिखें, हम जल्द से जल्द जवाब देंगे।",
+  "contact.button": "ईमेल भेजें",
+  "contact.link": "संपर्क करें",
+  "stat.lessons": "पूरे किए पाठ"
 }
