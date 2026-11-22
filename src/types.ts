@@ -92,6 +92,7 @@ export interface Settings {
   sound: boolean;
   largeText: boolean;
   dark: boolean;
+  mascot: 'on' | 'reduced' | 'off';
   onboarded: boolean;
 }
 
