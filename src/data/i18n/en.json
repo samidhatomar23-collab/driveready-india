@@ -125,5 +125,9 @@
   "lang.switch": "Change language",
   "q.signq": "What does this sign mean?",
   "signs.none": "No signs found.",
-  "lesson.nf": "Lesson not found."
+  "lesson.nf": "Lesson not found.",
+  "profile.mascot": "Study buddy (Pup)",
+  "profile.mascot.on": "Animated",
+  "profile.mascot.reduced": "Fewer animations",
+  "profile.mascot.off": "Off"
 }

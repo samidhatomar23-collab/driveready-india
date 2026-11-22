@@ -125,5 +125,9 @@
   "lang.switch": "భాష మార్చండి",
   "q.signq": "ఈ సంకేతం అర్థం ఏమిటి?",
   "signs.none": "సంకేతాలు ఏవీ కనిపించలేదు.",
-  "lesson.nf": "పాఠం కనిపించలేదు."
+  "lesson.nf": "పాఠం కనిపించలేదు.",
+  "profile.mascot": "చదువు తోడు (పప్)",
+  "profile.mascot.on": "యానిమేటెడ్",
+  "profile.mascot.reduced": "తక్కువ యానిమేషన్లు",
+  "profile.mascot.off": "ఆఫ్"
 }

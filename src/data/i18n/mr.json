@@ -125,5 +125,9 @@
   "lang.switch": "भाषा बदला",
   "q.signq": "या चिन्हाचा अर्थ काय?",
   "signs.none": "कोणतेही चिन्ह सापडले नाही.",
-  "lesson.nf": "धडा सापडला नाही."
+  "lesson.nf": "धडा सापडला नाही.",
+  "profile.mascot": "अभ्यासाचा साथी (पप)",
+  "profile.mascot.on": "अ‍ॅनिमेटेड",
+  "profile.mascot.reduced": "कमी अ‍ॅनिमेशन",
+  "profile.mascot.off": "बंद"
 }

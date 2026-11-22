@@ -125,5 +125,9 @@
   "lang.switch": "भाषा बदलें",
   "q.signq": "इस चिह्न का क्या अर्थ है?",
   "signs.none": "कोई चिह्न नहीं मिला।",
-  "lesson.nf": "पाठ नहीं मिला।"
+  "lesson.nf": "पाठ नहीं मिला।",
+  "profile.mascot": "पढ़ाई का साथी (पप)",
+  "profile.mascot.on": "एनिमेटेड",
+  "profile.mascot.reduced": "कम एनिमेशन",
+  "profile.mascot.off": "बंद"
 }

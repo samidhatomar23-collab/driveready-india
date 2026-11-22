@@ -125,5 +125,9 @@
   "lang.switch": "மொழியை மாற்று",
   "q.signq": "இந்தக் குறியீட்டின் பொருள் என்ன?",
   "signs.none": "குறியீடுகள் எதுவும் இல்லை.",
-  "lesson.nf": "பாடம் கிடைக்கவில்லை."
+  "lesson.nf": "பாடம் கிடைக்கவில்லை.",
+  "profile.mascot": "படிப்புத் துணை (பப்)",
+  "profile.mascot.on": "அனிமேஷனுடன்",
+  "profile.mascot.reduced": "குறைந்த அனிமேஷன்",
+  "profile.mascot.off": "நிறுத்து"
 }
